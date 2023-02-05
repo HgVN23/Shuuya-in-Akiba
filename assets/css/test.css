@@ -1,0 +1,190 @@
+@font-face {
+	font-family: scp;
+	src: url(../fonts/SourceCodePro-Regular.ttf);
+}
+:root {
+	--border: 2px solid #525252;
+	--bg: #171717;
+	--hover-color: #1d4ed8;
+	--bg-main: #262626;
+}
+* {
+	scroll-behavior: smooth;
+	user-select: none;
+	margin: 0;
+	padding: 0;
+	font-family: scp;
+	font-size: 16px;
+	color: white;
+}
+body {
+	background-color: var(--bg-main);
+}
+::-webkit-scrollbar {
+	background-color: var(--bg-main);
+	width: 10px;
+}
+::-webkit-scrollbar-thumb {
+	background-color: var(--bg);
+	border: var(--border);
+}
+::-webkit-scrollbar-thumb:hover {
+	border: 2px solid var(--hover-color);
+}
+header {
+	background-color: var(--bg);
+	border-bottom: var(--border);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	position: sticky;
+	top: 0;
+	z-index: 1;
+}
+.title {
+	margin: 10px 0;
+	font-size: 1.875rem;
+}
+.icon {
+	width: 45px;
+	height: 45px;
+	margin: 5px;
+}
+.gallery {
+	margin: 10px 0;
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: repeat(auto-fit, minmax(13rem, 13rem));
+	justify-content: center;
+}
+.min, section {
+	width: 13rem;
+	height: 18rem;
+}
+section {
+	position: relative;
+}
+section:hover {
+	outline: 2px solid yellow;
+}
+.name {
+	background-color: rgba(0, 0, 0, .8);
+	opacity: 0;
+	padding: 5px;
+	position: absolute;
+	bottom: 0;
+	transition: .3s;
+	user-select: text;
+}
+section:hover .name {
+	opacity: 1;
+}
+.container {
+
+}
+
+.moreInfo {
+	background: rgba(38, 38, 38, .80);
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1;
+}
+.split {
+	border: var(--border);
+	background-color: var(--bg-main);
+	width: fit-content;
+	height: fit-content;
+	display: flex;
+	margin: auto;
+}
+.max {
+	width: 22rem;
+	height: 30rem;
+}
+.limited {
+	width: 750px;
+	height: 30rem;
+	overflow-y: scroll;
+}
+h1, h2, p, .tagBox, .characterBox {
+	width: fit-content;
+	margin: 0 0 1rem 1rem;
+	font-size: 2.5rem;
+	word-break: break-word;
+	cursor: pointer;
+}
+h1 {
+	border-bottom: var(--border);
+}
+h2 {
+	padding-bottom: 0.1rem;
+	font-size: 1.5rem;
+}
+h2::before {
+	content: '(';
+	cursor: auto;
+}
+h2::after {
+	content: ')';
+	cursor: auto;
+}
+p {
+	margin: 0 0 1rem 1rem;
+	font-size: 1rem;
+	word-break: break-word;
+	cursor: default;
+}
+.tagBox, .characterBox {
+	display: flex;
+	flex-wrap: wrap;
+	cursor: default;
+}
+.tag {
+	width: fit-content;
+	height: fit-content;
+	border: var(--border);
+	border-radius: 1.5rem;
+	padding: 10px;
+	margin: 0 5px 5px 0;
+}
+.tagComedy::before {
+	content: 'Comedy';
+}
+.tagDrama::before {
+	content: 'Drama';
+}
+.tagHarem::before {
+	content: 'Harem';
+}
+.tagRomance::before {
+	content: 'Romance';
+}
+.tagSchool::before {
+	content: 'School';
+}
+.tagSliceOfLife::before {
+	content: 'Slice of life';
+}
+.characterContainer {
+	position: relative;
+}
+.characterContainer, .character {
+	height: 160px;
+	width: 110px;
+}
+.characterName {
+	background-color: rgba(0, 0, 0, .8);
+	opacity: 0;
+	padding: 5px;
+	position: absolute;
+	bottom: 0;
+	transition: .3s;
+}
+.characterContainer:hover .characterName {
+	opacity: 1;
+}
