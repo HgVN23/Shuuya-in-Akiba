@@ -57,6 +57,9 @@ header {
 	grid-template-columns: repeat(auto-fit, minmax(13rem, 13rem));
 	justify-content: center;
 }
+img {
+	vertical-align: bottom;
+}
 .min, section {
 	width: 13rem;
 	height: 18rem;
@@ -64,7 +67,11 @@ header {
 section {
 	position: relative;
 }
-section:hover {
+.anime {
+	cursor: pointer;
+}
+.anime:hover,
+.characterContainer:hover {
 	outline: 2px solid yellow;
 }
 .name {
@@ -74,17 +81,17 @@ section:hover {
 	position: absolute;
 	bottom: 0;
 	transition: .3s;
+	cursor: text;
 	user-select: text;
 }
-section:hover .name {
+.anime:hover .name {
 	opacity: 1;
 }
-.container {
 
-}
+
+
 
 .moreInfo {
-	background: rgba(38, 38, 38, .80);
 	height: 100%;
 	display: flex;
 	justify-content: center;
@@ -92,7 +99,20 @@ section:hover .name {
 	top: 0;
 	left: 0;
 	right: 0;
+	z-index: 2;
+}
+.hideInfo {
+	display: none;
+}
+.clickHide {
+	background: rgba(38, 38, 38, .80);
+	width: 100%;
+	height: 100%;
+	position: fixed;
 	z-index: 1;
+}
+.stopScroll {
+	overflow: hidden;
 }
 .split {
 	border: var(--border);
@@ -101,9 +121,10 @@ section:hover .name {
 	height: fit-content;
 	display: flex;
 	margin: auto;
+	z-index: 2;
 }
 .max {
-	width: 22rem;
+	width: 21rem;
 	height: 30rem;
 }
 .limited {
@@ -111,9 +132,14 @@ section:hover .name {
 	height: 30rem;
 	overflow-y: scroll;
 }
-h1, h2, p, .tagBox, .characterBox {
+h1,
+h2,
+h3,
+p,
+.tagBox,
+.characterBox {
 	width: fit-content;
-	margin: 0 0 1rem 1rem;
+	margin: 1rem 1rem 0 1rem;
 	font-size: 2.5rem;
 	word-break: break-word;
 	cursor: pointer;
@@ -121,28 +147,85 @@ h1, h2, p, .tagBox, .characterBox {
 h1 {
 	border-bottom: var(--border);
 }
-h2 {
-	padding-bottom: 0.1rem;
+h2, h3 {
 	font-size: 1.5rem;
+	font-weight: normal;
+}
+h2,
+h3,
+.type,
+.aired,
+.season,
+.studios {
+	display: inline-block;
+}
+h2::before,
+h2::after,
+h3::before,
+h3::after {
+	cursor: default;
 }
 h2::before {
 	content: '(';
-	cursor: auto;
 }
 h2::after {
 	content: ')';
-	cursor: auto;
+}
+h3::before {
+	content: '『';
+}
+h3::after {
+	content: '』';
+}
+.type::before,
+.studios::before,
+.aired::before,
+.season::before,
+.synopsis::before,
+.tagBox::before,
+.characterBox::before {
+	font-size: 1.3rem;
+	font-weight: bolder;
+	color: aqua;
+}
+.type::before {
+	content: 'Type: ';
+}
+.studios::before {
+	content: 'Studios: ';
+}
+.aired::before {
+	content: 'Aired: ';
+}
+.season::before {
+	content: 'Season: ';
 }
 p {
-	margin: 0 0 1rem 1rem;
 	font-size: 1rem;
 	word-break: break-word;
 	cursor: default;
 }
-.tagBox, .characterBox {
+.synopsis::before,
+.tagBox::before,
+.characterBox::before,
+.characterRoleM::after,
+.characterRoleS::after {
+	display: block;
+	width: 100%;
+}
+.synopsis::before {
+	content: 'Synopsis: ';
+}
+.tagBox,
+.characterBox {
 	display: flex;
 	flex-wrap: wrap;
 	cursor: default;
+	font-size: 1rem;
+	gap: .5rem;
+}
+.tagBox::before {
+	content: 'Tags: ';
 }
 .tag {
 	width: fit-content;
@@ -150,7 +233,6 @@ p {
 	border: var(--border);
 	border-radius: 1.5rem;
 	padding: 10px;
-	margin: 0 5px 5px 0;
 }
 .tagComedy::before {
 	content: 'Comedy';
@@ -167,24 +249,44 @@ p {
 .tagSchool::before {
 	content: 'School';
 }
+.tagSciFi::before {
+	content: 'Sci-Fi';
+}
 .tagSliceOfLife::before {
 	content: 'Slice of life';
+}
+.tagTimeTravel::before {
+	content: 'Time Travel';
+}
+.characterBox {
+	margin-bottom: 1rem;
+}
+.characterBox::before {
+	content: 'Characters: ';
 }
 .characterContainer {
 	position: relative;
 }
-.characterContainer, .character {
-	height: 160px;
+.characterContainer,
+.character {
 	width: 110px;
+	height: 160px;
 }
 .characterName {
 	background-color: rgba(0, 0, 0, .8);
 	opacity: 0;
 	padding: 5px;
+	font-size: .8rem;
 	position: absolute;
 	bottom: 0;
 	transition: .3s;
 }
 .characterContainer:hover .characterName {
 	opacity: 1;
+}
+.characterRoleM::after {
+	content: '(Main)';
+}
+.characterRoleS::after {
+	content: '(Support)';
 }
