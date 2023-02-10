@@ -8,7 +8,6 @@ function moreInfoCreate() {
 		anime[i].addEventListener('click', showInfo);
 		if(anime[i].parentElement.querySelector('.moreInfo'))
 			clickHide(anime[i].parentElement.querySelector('.moreInfo'));
-
 	}
 }
 function clickHide(thiss) {

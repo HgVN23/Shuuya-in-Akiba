@@ -6,6 +6,7 @@
 	--border: 2px solid #525252;
 	--bg: #171717;
 	--hover-color: #1d4ed8;
+	--bg-main: #262626;
 }
 * {
 	scroll-behavior: smooth;
@@ -15,12 +16,13 @@
 	font-family: scp;
 	font-size: 16px;
 	color: white;
+/*	outline: 1px solid red;*/
 }
 body {
-	background-color: #262626;
+	background-color: var(--bg-main);
 }
 ::-webkit-scrollbar {
-	background-color: #262626;
+	background-color: var(--bg-main);
 	width: 10px;
 }
 ::-webkit-scrollbar-thumb {
@@ -40,53 +42,144 @@ header {
 	top: 0;
 	z-index: 1;
 }
+.logo {
+	content: url(../media/icon/logo.png);
+	width: 45px;
+	height: 45px;
+	margin: 5px 5px 10px 5px;
+}
 .title {
 	margin: 10px 0;
 	font-size: 1.875rem;
 }
-.icon {
-	width: 45px;
-	height: 45px;
+
+
+
+.searchBox {
+	width: auto;
+	margin: 0 3rem;
+}
+.searchBox::before {
+	content: 'Search & Filter:';
+	display: block;
+}
+.searchBar {
+	border-bottom: var(--border);
+	display: flex;
+	align-items: center;
+}
+.searchBar:hover {
+	border-bottom-color: var(--hover-color);
+}
+.searchIcon {
+	content: url(../media/icon/search_icon.png);
+	width: 16px;
+	height: 16px;
+	filter: brightness(100);
 	margin: 5px;
 }
-.love {
-	content: url(../media/icon/love.png);
-	margin-right: 10px;
+.searchIcon:hover {
+	filter: brightness(1);
 }
-section {
-	margin: 1rem;
-	display: flex;
+.searchInput {
+	background-color: transparent;
+	border: none;
+	outline: none;
+	width: 100%;
+	font-size: 1rem;
+}
+
+
+
+.gallery {
+	margin: 10px 0;
+	display: grid;
+	grid-gap: 5px;
+	grid-template-columns: repeat(auto-fit, minmax(13rem, 13rem));
 	justify-content: center;
 }
-.split {
-	display: flex;
-}
-.status {
+section,
+.cContainer {
 	position: relative;
+	overflow: hidden;
 }
-.statusContinue::before {
-	content: '';
-	background: url(../media/icon/status_continue.png);
-	background-size: contain;
-	width: 5rem;
-	height: 5rem;
-	position: absolute;
-	top: 0;
-	right: 0;
+section,
+.min {
+	width: 13rem;
+	height: 18rem;
 }
-.statusEnd::before {
-	content: '';
-	background: url(../media/icon/status_end.png);
-	background-size: contain;
-	width: 5rem;
-	height: 5rem;
-	position: absolute;
-	top: 0;
-	right: 0;
+.anime {
+	cursor: pointer;
+}
+/*.anime:hover,
+.cContainer:hover {
+	outline: 3px solid var(--hover-color);
+}*/
+.anime:hover .min,
+.cContainer:hover .character {
+	transform: scale(1.1);
 }
 img {
-/*	background-color: green;*/
-	width: 22rem;
+	vertical-align: bottom;
+}
+.min,
+.character {
+	transition: transform .5s ease;
+}
+.name {
+	background-color: rgba(0, 0, 0, .8);
+	opacity: 0;
+	padding: 5px;
+	position: absolute;
+	bottom: 0;
+	transition: .3s;
+	cursor: text;
+	user-select: text;
+}
+.anime:hover .name {
+	opacity: 1;
+}
+
+
+
+
+
+
+
+.moreInfo {
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 2;
+}
+.hideInfo {
+	display: none;
+}
+.clickHide {
+	background: rgba(38, 38, 38, .80);
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	z-index: 1;
+}
+.stopScroll {
+	overflow: hidden;
+}
+.split {
+	border: var(--border);
+	background-color: var(--bg-main);
+	width: fit-content;
+	height: fit-content;
+	display: flex;
+	margin: auto;
+	z-index: 2;
+}
+.max {
+	width: 21rem;
 	height: 30rem;
 }
 .limited {
@@ -94,56 +187,122 @@ img {
 	height: 30rem;
 	overflow-y: scroll;
 }
-h1, h2, p, .tagBox, .characterBox {
-/*	width: 720px;*/
+h1,
+h2,
+h3,
+p,
+.tagBox,
+.characterBox,
+.relatedBox {
 	width: fit-content;
-	margin: 0 0 1rem 1rem;
-/*	overflow-x: scroll;*/
+	margin: 1rem 1rem 0 1rem;
 	font-size: 2.5rem;
 	word-break: break-word;
 	cursor: pointer;
-/*	white-space: nowrap;*/
 }
 h1 {
 	border-bottom: var(--border);
 }
-h2 {
-	padding-bottom: 0.1rem;
+h2, h3 {
 	font-size: 1.5rem;
+	font-weight: normal;
+}
+/*h2,
+h3,
+.type,
+.aired,
+.season,
+.studios {
+	display: inline-block;
+}*/
+h2,
+h3 {
+	display: inline-block;
+}
+h2::before,
+h2::after,
+h3::before,
+h3::after {
+	cursor: default;
 }
 h2::before {
 	content: '(';
-	cursor: auto;
 }
 h2::after {
 	content: ')';
-	cursor: auto;
 }
-/*h1::-webkit-scrollbar,
-h2::-webkit-scrollbar,
-.tagBox::-webkit-scrollbar {
-	height: 10px;
+h3::before {
+	content: '『';
 }
-h1::-webkit-scrollbar-thumb {
-	border-bottom: none;
-}*/
+h3::after {
+	content: '』';
+}
+.split2 {
+	display: flex;
+}
+.studios {
+	margin: 1rem 1rem 0 1rem;
+}
+.sImg {
+	width: 10rem;
+	height: 10rem;
+}
+.smallInfo {
+	margin: auto 0;
+}
+.searchBox::before,
+.type::before,
+.studios::before,
+.aired::before,
+.season::before,
+.synopsis::before,
+.tagBox::before,
+.characterBox::before,
+.relatedBox::before {
+	font-size: 1.3rem;
+	font-weight: bolder;
+	color: aqua;
+}
+.type::before {
+	content: 'Type: ';
+}
+.studios::before {
+	content: 'Studios: ';
+}
+.aired::before {
+	content: 'Aired: ';
+}
+.season::before {
+	content: 'Season: ';
+}
 p {
-/*	width: fit-content;*/
-	margin: 0 0 1rem 1rem;
 	font-size: 1rem;
 	word-break: break-word;
 	cursor: default;
 }
-.tagBox, .characterBox {
-/*	width: 750px;
-	min-height: auto;
-	max-height: 20%;
-	margin: 1rem;
-	background-color: blue;
-	overflow-y: scroll;*/
+.synopsis::before,
+.tagBox::before,
+.characterBox::before,
+.cRoleM::after,
+.cRoleS::after,
+.relatedBox::before {
+	display: block;
+	width: 100%;
+}
+.synopsis::before {
+	content: 'Synopsis:';
+}
+.tagBox,
+.characterBox,
+.relatedBox {
 	display: flex;
 	flex-wrap: wrap;
 	cursor: default;
+	font-size: 1rem;
+	gap: .5rem;
+}
+.tagBox::before {
+	content: 'Tags:';
 }
 .tag {
 	width: fit-content;
@@ -151,64 +310,92 @@ p {
 	border: var(--border);
 	border-radius: 1.5rem;
 	padding: 10px;
-	margin: 0 5px 5px 0;
 }
-.tagComedy::before {
+.tComedy::before {
 	content: 'Comedy';
 }
-.tagDrama::before {
+.tDrama::before {
 	content: 'Drama';
 }
-.tagHarem::before {
+.tHarem::before {
 	content: 'Harem';
 }
-.tagRomance::before {
+.tRomance::before {
 	content: 'Romance';
 }
-.tagSchool::before {
+.tSchool::before {
 	content: 'School';
 }
-.tagSliceOfLife::before {
+.tSciFi::before {
+	content: 'Sci-Fi';
+}
+.tSliceOfLife::before {
 	content: 'Slice of life';
 }
-.tagIntroMusic::before {
-	content: 'Nhạc Intro hay';
+.tTimeTravel::before {
+	content: 'Time Travel';
 }
-.tagIntroDesign::before {
-	content: 'Thiết kế Intro hay';
+.characterBox::before {
+	content: 'Characters:';
 }
-.tagOutroMusic::before {
-	content: 'Nhạc Outro hay';
-}
-.tagOutroDesign::before {
-	content: 'Thiết kế Outro hay';
-}
-.tagContent::before {
-	content: 'Nội dung hay';
-}
-.tagArt::before {
-	content: 'Art đậm chất riêng';
-}
-.characterContainer {
+.cContainer {
 	position: relative;
 }
-.characterContainer, .character {
-	height: 160px;
+.cContainer,
+.character {
 	width: 110px;
+	height: 160px;
 }
-.characterName {
+.cName {
 	background-color: rgba(0, 0, 0, .8);
 	opacity: 0;
 	padding: 5px;
+	font-size: .8rem;
 	position: absolute;
 	bottom: 0;
 	transition: .3s;
 }
-.characterContainer:hover .characterName {
+.cContainer:hover .cName {
 	opacity: 1;
 }
+.cRoleM::after {
+	content: '(Main)';
+}
+.cRoleS::after {
+	content: '(Support)';
+}
+.relatedBox {
+	margin-bottom: 1rem;
+}
+.relatedBox::before {
+	content: 'Related:';
+}
+.rImg {
+	width: 5rem;
+	height: 5rem;
+}
+.rAnimeVietsub {
+	content: url(../media/icon/animeVietsub.png);
+}
+.rAnimeNana {
+	content: url(../media/icon/animeNana.png);
+}
+.rMangaQQ {
+	content: url(../media/icon/mangaQQ.png);
+}
+.rMangaNetTruyen {
+	content: url(../media/icon/mangaNetTruyen.png);
+}
+.rMangaNelo {
+	content: url(../media/icon/mangaNelo.png);
+}
+.rLNHako {
+	content: url(../media/icon/lnHako.png);
+}
+.rMAL {
+	content: url(../media/icon/mal.png);
+}
 /*.textLink {
-	cursor: pointer;
 	width: fit-content;
 }
 .textLink:link,
