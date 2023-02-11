@@ -1,0 +1,45 @@
+.tAction::before {
+	content: 'Action';
+}
+.tComedy::before {
+	content: 'Comedy';
+}
+.tDrama::before {
+	content: 'Drama';
+}
+.tFantasy::before {
+	content: 'Fantasy';
+}
+.tHarem::before {
+	content: 'Harem';
+}
+.tIsekai::before {
+	content: 'Isekai';
+}
+.tMecha::before {
+	content: 'Mecha';
+}
+.tPsychological::before {
+	content: 'Psychological';
+}
+.tReincarnation::before {
+	content: 'Reincarnation';
+}
+.tRomance::before {
+	content: 'Romance';
+}
+.tSchool::before {
+	content: 'School';
+}
+.tSciFi::before {
+	content: 'Sci-Fi';
+}
+.tSliceOfLife::before {
+	content: 'Slice of life';
+}
+.tSuperPower::before {
+	content: 'Super Power';
+}
+.tTimeTravel::before {
+	content: 'Time Travel';
+}

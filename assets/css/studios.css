@@ -1,3 +1,15 @@
 .sFeelDot {
 	content: url(https://cdn.myanimelist.net/images/company/91.png);
 }
+.s8bit {
+	content: url(https://cdn.myanimelist.net/images/company/441.png);
+}
+.sPAWorks {
+	content: url(https://cdn.myanimelist.net/images/company/132.png);
+}
+.sWhiteFox {
+	content: url(https://cdn.myanimelist.net/images/company/314.png);
+}
+.s {
+	content: url();
+}
