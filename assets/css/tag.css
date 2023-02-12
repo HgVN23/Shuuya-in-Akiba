@@ -7,6 +7,15 @@
 .tDrama::before {
 	content: 'Drama';
 }
+.tEcchi::before {
+	content: 'Ecchi';
+}
+.tGenben::before {
+	content: 'Genben';
+}
+.tMythology::before {
+	content: 'Mythology';
+}
 .tFantasy::before {
 	content: 'Fantasy';
 }
@@ -34,8 +43,17 @@
 .tSciFi::before {
 	content: 'Sci-Fi';
 }
+.tSeinen::before {
+	content: 'Seinen';
+}
 .tSliceOfLife::before {
 	content: 'Slice of life';
+}
+.tShounen::before {
+	content: 'Shounen';
+}
+.tSupernatural::before {
+	content: 'Supernatural';
 }
 .tSuperPower::before {
 	content: 'Super Power';

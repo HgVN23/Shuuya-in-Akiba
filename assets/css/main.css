@@ -214,18 +214,6 @@ h2, h3 {
 	font-size: 1.5rem;
 	font-weight: normal;
 }
-/*h2,
-h3,
-.type,
-.aired,
-.season,
-.studios {
-	display: inline-block;
-}*/
-h2,
-h3 {
-	display: inline-block;
-}
 h2::before,
 h2::after,
 h3::before,
@@ -258,10 +246,11 @@ h3::after {
 	margin: auto 0;
 }
 .searchBox::before,
-.type::before,
 .studios::before,
-.aired::before,
+.type::before,
 .season::before,
+.aired::before,
+.rating::before,
 .synopsis::before,
 .tagBox::before,
 .characterBox::before,
@@ -270,17 +259,20 @@ h3::after {
 	font-weight: bolder;
 	color: aqua;
 }
+.studios::before {
+	content: 'Studios: ';
+}
 .type::before {
 	content: 'Type: ';
 }
-.studios::before {
-	content: 'Studios: ';
+.season::before {
+	content: 'Season: ';
 }
 .aired::before {
 	content: 'Aired: ';
 }
-.season::before {
-	content: 'Season: ';
+.rating::before {
+	content: 'Rating: ';
 }
 p {
 	font-size: 1rem;

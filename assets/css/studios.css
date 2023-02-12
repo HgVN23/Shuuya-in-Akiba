@@ -10,6 +10,21 @@
 .sWhiteFox {
 	content: url(https://cdn.myanimelist.net/images/company/314.png);
 }
+.sSilverLink {
+	content: url(https://cdn.myanimelist.net/images/company/300.png);
+}
+.sConnect {
+	content: url(https://cdn.myanimelist.net/images/company/957.png);
+}
+.sCoMixWaveFilms {
+	content: url(https://cdn.myanimelist.net/images/company/291.png);
+}
+.sDiomedéa {
+	content: url(https://cdn.myanimelist.net/images/company/51.png);
+}
+.sPineJam {
+	content: url(https://cdn.myanimelist.net/images/company/1295.png);
+}
 .s {
 	content: url();
 }
