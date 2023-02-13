@@ -1,6 +1,9 @@
 .tAction::before {
 	content: 'Action';
 }
+.tAdventure::before {
+	content: 'Adventure';
+}
 .tComedy::before {
 	content: 'Comedy';
 }
@@ -10,23 +13,32 @@
 .tEcchi::before {
 	content: 'Ecchi';
 }
+.tFantasy::before {
+	content: 'Fantasy';
+}
 .tGenben::before {
 	content: 'Genben';
 }
-.tMythology::before {
-	content: 'Mythology';
-}
-.tFantasy::before {
-	content: 'Fantasy';
+.tGourmet::before {
+	content: 'Gourmet';
 }
 .tHarem::before {
 	content: 'Harem';
 }
+.tHistorical::before {
+	content: 'Historical';
+}
 .tIsekai::before {
 	content: 'Isekai';
 }
+.tMartialArts::before {
+	content: 'Martial Arts';
+}
 .tMecha::before {
 	content: 'Mecha';
+}
+.tMythology::before {
+	content: 'Mythology';
 }
 .tPsychological::before {
 	content: 'Psychological';
