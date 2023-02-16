@@ -31,11 +31,20 @@
 .tIsekai::before {
 	content: 'Isekai';
 }
+.tMagic::before {
+	content: 'Magic';
+}
 .tMartialArts::before {
 	content: 'Martial Arts';
 }
 .tMecha::before {
 	content: 'Mecha';
+}
+.tMilitary::before {
+	content: 'Military';
+}
+.tMystery::before {
+	content: 'Mystery';
 }
 .tMythology::before {
 	content: 'Mythology';
