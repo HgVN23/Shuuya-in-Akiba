@@ -221,16 +221,16 @@ h3::after {
 	cursor: default;
 }
 h2::before {
-	content: '（';
-}
-h2::after {
-	content: '）';
-}
-h3::before {
 	content: '『';
 }
-h3::after {
+h2::after {
 	content: '』';
+}
+h3::before {
+	content: '（';
+}
+h3::after {
+	content: '）';
 }
 .split2 {
 	display: flex;
