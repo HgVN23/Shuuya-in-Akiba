@@ -78,8 +78,244 @@ const anime = [
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '10/238539',
+					name: 'Lubbock "Lubbo, Raba"'
+				},
+				{
+					img: '6/172001',
+					name: 'Bulat "100 Man-Slayer Bulat"'
+				},
+				{
+					img: '6/239403',
+					name: 'Sheele'
+				},
+				{
+					img: '16/238545',
+					name: 'Najenda'
+				},
+				{
+					img: '11/290434',
+					name: 'Susanoo "Suu"'
+				},
+				{
+					img: '11/260053',
+					name: 'Chelsea'
+				},
+				{
+					img: '12/283526',
+					name: 'Natala'
+				},
+				{
+					img: '8/283530',
+					name: 'Nyau'
+				},
+				{
+					img: '7/254091',
+					name: 'Ogre "Auger"'
+				},
+				{
+					img: '7/272769',
+					name: 'Palace maid'
+				},
+				{
+					img: '6/261635',
+					name: 'Prostitute "Shoufu"'
+				},
+				{
+					img: '10/272765',
+					name: 'Rokugou'
+				},
+				{
+					img: '6/251025',
+					name: 'Run'
+				},
+				{
+					img: '16/252069',
+					name: 'Sayo'
+				},
+				{
+					img: '7/255111',
+					name: 'Numa Seika'
+				},
+				{
+					img: '7/261533',
+					name: 'Shihandai'
+				},
+				{
+					img: '6/261531',
+					name: 'Shikoutei'
+				},
+				{
+					img: '15/254115',
+					name: 'Shoui'
+				},
+				{
+					img: '5/283537',
+					name: 'Shura "Son of the Prime Minister"'
+				},
+				{
+					img: '13/261527',
+					name: 'Spear'
+				},
+				{
+					img: '12/272791',
+					name: 'Sten'
+				},
+				{
+					img: '4/282688',
+					name: 'Suzuka'
+				},
+				{
+					img: '4/261523',
+					name: 'Toby'
+				},
+				{
+					img: '4/259399',
+					name: 'Trooma'
+				},
+				{
+					img: '3/255185',
+					name: 'Seryuu Ubiquitous'
+				},
+				{
+					img: '11/258023',
+					name: 'Wave'
+				},
+				{
+					img: '12/254737',
+					name: 'Zank "The Executioner"'
+				},
+				{
+					img: '13/313452',
+					name: 'Air'
+				},
+				{
+					img: '5/252021',
+					name: 'Aria'
+				},
+				{
+					img: '15/283539',
+					name: "Aria's Mother"
+				},
+				{
+					img: '5/252067',
+					name: "Aria's father"
+				},
+				{
+					img: '12/272773',
+					name: 'Bolic "Borick"'
+				},
+				{
+					img: '2/258021',
+					name: 'Bols'
+				},
+				{
+					img: '7/283536',
+					name: 'Budou "Great General Budo"'
+				},
+				{
+					img: '10/261529',
+					name: 'Chouri'
+				},
+				{
+					img: '4/256799',
+					name: 'Daidara'
+				},
+				{
+					img: '2/412192',
+					name: 'Dooya'
+				},
+				{
+					img: '10/328315',
+					name: 'Dr. Stylish "Doctor"'
+				},
+				{
+					img: '12/265641',
+					name: `Esdeath "Empire's Strongest, General Esdeath, Ice Queen"`
+				},
+				{
+					img: '6/261633',
+					name: "Esdeath's Father"
+				},
+				{
+					img: '7/313450',
+					name: 'Fal'
+				},
+				{
+					img: '13/254089',
+					name: 'Gamal'
+				},
+				{
+					img: '15/272771',
+					name: 'Gebaze'
+				},
+				{
+					img: '11/356768',
+					name: 'Gin'
+				},
+				{
+					img: '4/261683',
+					name: 'Gozuki "Father"'
+				},
+				{
+					img: '8/261517',
+					name: 'Hana'
+				},
+				{
+					img: '3/283535',
+					name: 'Honest "Prime Minister"'
+				},
+				{
+					img: '12/275338',
+					name: 'Horimaka "Holimaca"'
+				},
+				{
+					img: '6/283534',
+					name: 'Ibara'
+				},
+				{
+					img: '7/252071',
+					name: 'Ieyasu'
+				},
+				{
+					img: '9/261513',
+					name: 'Kaku'
+				},
+				{
+					img: '3/259871',
+					name: 'Koutei "Emperor"'
+				},
+				{
+					img: '7/238565',
+					name: 'Kurome'
+				},
+				{
+					img: '5/283532',
+					name: 'Liver "General Liver"'
+				},
+				{
+					img: '16/261535',
+					name: 'Logue'
+				},
+				{
+					img: '7/283528',
+					name: 'Lolak'
+				},
+				{
+					img: '4/313451',
+					name: 'Luna'
+				},
+				{
+					img: '4/261515',
+					name: 'Me'
+				},
+				{
+					img: '9/283533',
+					name: 'Mez'
+				},
+				{
+					img: '10/261519',
+					name: 'Mimi'
 				}
 			]
 		}
@@ -1778,6 +2014,46 @@ const anime = [
 			],
 			support: [
 				{
+					img: '5/499728',
+					name: 'Seigen Kazamaki'
+				},
+				{
+					img: '11/497203',
+					name: 'Souga Ninokuru'
+				},
+				{
+					img: '14/497204',
+					name: 'Ponosuke Ninokuru'
+				},
+				{
+					img: '2/501551',
+					name: "Suzu's Mother"
+				},
+				{
+					img: '2/497201',
+					name: 'Yayoi "Yayo" Toba'
+				},
+				{
+					img: '15/497202',
+					name: 'Lucy "Lu" Tsukioka'
+				},
+				{
+					img: '5/500894',
+					name: 'Masurao Sujimori'
+				},
+				{
+					img: '11/500893',
+					name: 'Genba'
+				},
+				{
+					img: '6/500895',
+					name: 'Tadare'
+				},
+				{
+					img: '6/501550',
+					name: 'Yasaka-sama'
+				},
+				{
 					img: '',
 					name: ''
 				}
@@ -1820,6 +2096,38 @@ const anime = [
 				}
 			],
 			support: [
+				{
+					img: '4/493275',
+					name: 'Akina Kubo'
+				},
+				{
+					img: '13/493276',
+					name: 'Saki Kubo'
+				},
+				{
+					img: '8/495979',
+					name: 'Yoshie Shiraishi'
+				},
+				{
+					img: '2/495980',
+					name: 'Seita Shiraishi'
+				},
+				{
+					img: '10/493277',
+					name: 'Hazuki Kudou'
+				},
+				{
+					img: '5/493278',
+					name: 'Tamao Taira'
+				},
+				{
+					img: '3/502022',
+					name: 'Mizuhara'
+				},
+				{
+					img: '5/495981',
+					name: 'Unzen-sensei'
+				},
 				{
 					img: '',
 					name: ''
@@ -1913,6 +2221,30 @@ const anime = [
 			],
 			support: [
 				{
+					img: '16/487251',
+					name: 'Haori'
+				},
+				{
+					img: '4/487881',
+					name: 'Kagami'
+				},
+				{
+					img: '12/487883',
+					name: 'Kushige'
+				},
+				{
+					img: '8/483574',
+					name: 'Nagi'
+				},
+				{
+					img: '9/487882',
+					name: 'Suzuri'
+				},
+				{
+					img: '3/487880',
+					name: 'Yuu'
+				},
+				{
 					img: '',
 					name: ''
 				}
@@ -2002,6 +2334,14 @@ const anime = [
 			],
 			support: [
 				{
+					img: '5/482848',
+					name: 'Liselotte Arcia'
+				},
+				{
+					img: '3/482847',
+					name: 'Leone Olfa'
+				},
+				{
 					img: '',
 					name: ''
 				}
@@ -2043,67 +2383,67 @@ const anime = [
 			],
 			support: [
 				{
-					img: '13/481888.',
+					img: '13/481888',
 					name: 'Headteacher'
 				},
 				{
-					img: '5/337963.',
+					img: '5/337963',
 					name: 'Keisuke Hirose'
 				},
 				{
-					img: '10/324718.',
+					img: '10/324718',
 					name: 'Maria Ishida'
 				},
 				{
-					img: '6/330353.',
+					img: '6/330353',
 					name: 'Miyako Ishida'
 				},
 				{
-					img: '9/268163.',
+					img: '9/268163',
 					name: 'Sister Ishida'
 				},
 				{
-					img: '6/324715.',
+					img: '6/324715',
 					name: 'Miki "Kawaiichi" Kawai'
 				},
 				{
-					img: '11/337967.',
+					img: '11/337967',
 					name: 'Satoshi Mashiba'
 				},
 				{
-					img: '8/385642.',
+					img: '8/385642',
 					name: 'Tomohiro Nagatsuka'
 				},
 				{
-					img: '12/337968.',
+					img: '12/337968',
 					name: 'Ito Nishimiya'
 				},
 				{
-					img: '2/337970.',
+					img: '2/337970',
 					name: 'Yaeko Nishimiya'
 				},
 				{
-					img: '10/330472.',
+					img: '10/330472',
 					name: 'Yuzuru Nishimiya'
 				},
 				{
-					img: '8/330357.',
+					img: '8/330357',
 					name: 'Pedro'
 				},
 				{
-					img: '16/330358.',
+					img: '16/330358',
 					name: 'Miyoko Sahara'
 				},
 				{
-					img: '6/229665.',
+					img: '6/229665',
 					name: 'Kazuki Shimada'
 				},
 				{
-					img: '5/330360.',
+					img: '5/330360',
 					name: 'Takeuchi'
 				},
 				{
-					img: '2/316403.',
+					img: '2/316403',
 					name: 'Naoka "Nao-chan" Ueno'
 				}
 			]
@@ -2255,7 +2595,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1146/132432l',
+		img: '1547/125900',
 		name: [
 			'Saikyou Onmyouji no Isekai Tenseiki',
 			'最強陰陽師の異世界転生記',
@@ -2295,6 +2635,18 @@ const anime = [
 				}
 			],
 			support: [
+				{
+					img: '16/489291',
+					name: 'Mabel Klein'
+				},
+				{
+					img: '11/489292',
+					name: 'Yuki'
+				},
+				{
+					img: '15/482766',
+					name: 'Haruyoshi Kuga (Seika)'
+				},
 				{
 					img: '',
 					name: ''
@@ -2464,12 +2816,20 @@ const anime = [
 			],
 			support: [
 				{
+					img: '6/504308',
+					name: 'Yuuta Kadowaki'
+				},
+				{
 					img: '3/502351',
 					name: 'Shihoko Fujimiya'
 				},
 				{
 					img: '3/501255',
 					name: 'Shuuto Fujimiya'
+				},
+				{
+					img: '',
+					name: ''
 				}
 			]
 		}
@@ -2512,6 +2872,10 @@ const anime = [
 			],
 			support: [
 				{
+					img: '15/497907',
+					name: 'Kyuutarou Kugi'
+				},
+				{
 					img: '',
 					name: ''
 				}
@@ -2524,6 +2888,20376 @@ const anime = [
 			'Ars no Kyojuu',
 			'',
 			'Giant Beasts of Ars'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1997/131327',
+		name: [
+			'Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san',
+			'',
+			'Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1884/131748l',
+		name: [
+			'Revenger',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1897/131300l',
+		name: [
+			'Sugar Apple Fairy Tale',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1983/132329',
+		name: [
+			'Isekai Nonbiri Nouka',
+			'',
+			'Farming Life in Another World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1058/131632l',
+		name: [
+			'Oniichan wa Oshimai!',
+			'',
+			"Onimai: I'm Now Your Sister!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1049/131580',
+		name: [
+			'Hyouken no Majutsushi ga Sekai wo Suberu',
+			'',
+			'The Iceblade Sorcerer Shall Rule the World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1491/132864l',
+		name: [
+			'Spy Kyoushitsu',
+			'',
+			'Spy Classroom'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1444/131828',
+		name: [
+			'Tomo-chan wa Onnanoko!',
+			'',
+			'Tomo-chan Is a Girl!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1189/111994',
+		name: [
+			'Tanaka-kun wa Itsumo Kedaruge',
+			'',
+			'Tanaka-kun is Always Listless'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1832/132333l',
+		name: [
+			'Inu ni Nattara Suki na Hito ni Hirowareta',
+			'',
+			"My Life as Inukai-san's Dog"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1927/132758l',
+		name: [
+			'Koori Zokusei Danshi to Cool na Douryou Joshi',
+			'',
+			'The Ice Guy and His Cool Female Colleague'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1053/129004',
+		name: [
+			'Tensei Oujo to Tensai Reijou no Mahou Kakumei',
+			'',
+			'The Magical Revolution of the Reincarnated Princess and the Genius Young Lady'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1446/131578',
+		name: [
+			'Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu',
+			'',
+			"Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/89671',
+		name: [
+			'Himouto! Umaru-chan R',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/76826',
+		name: [
+			'Himouto! Umaru-chan OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/75086',
+		name: [
+			'Himouto! Umaru-chan',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1854/121605',
+		name: [
+			'Isekai Quartet Movie: Another World',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1030/103383',
+		name: [
+			'Isekai Quartet 2',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1965/99667',
+		name: [
+			'Isekai Quartet',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/84858',
+		name: [
+			'Hinako Note',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/74156',
+		name: [
+			'Shigatsu wa Kimi no Uso: Moments',
+			'',
+			'Your Lie in April: Moments'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/72831l',
+		name: [
+			'Shigatsu wa Kimi no Uso',
+			'',
+			'Your Lie in April'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/89690',
+		name: [
+			'Gabriel DropOut Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/82590',
+		name: [
+			'Gabriel DropOut',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/88286',
+		name: [
+			'Blend S',
+			'',
+			'BLEND-S'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1302/94882',
+		name: [
+			'Grand Blue',
+			'',
+			'Grand Blue Dreaming'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1755/98075l',
+		name: [
+			'Kokoro Connect: Michi Random',
+			'',
+			'Kokoro Connect OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/39665',
+		name: [
+			'Kokoro Connect',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/77837',
+		name: [
+			'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/77837',
+		name: [
+			'Shoujo-tachi wa Kouya wo Mezasu',
+			'',
+			'Girls Beyond the Wasteland'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/83000',
+		name: [
+			'Koi to Senkyo to Chocolate: Koi Imouto!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/42015',
+		name: [
+			'Koi to Senkyo to Chocolate',
+			'',
+			'Love, Election and Chocolate'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/56525',
+		name: [
+			'Machine-Doll wa Kizutsukanai Specials',
+			'',
+			'Unbreakable Machine-Doll Special'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/52801',
+		name: [
+			'Machine-Doll wa Kizutsukanai',
+			'',
+			'Unbreakable Machine-Doll'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1464/112501',
+		name: [
+			'Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA',
+			'',
+			'My Mental Choices Are Completely Interfering With My School Romantic Comedy OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/55831l',
+		name: [
+			'Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru',
+			'',
+			'My Mental Choices Are Completely Interfering With My School Romantic Comedy'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/74014',
+		name: [
+			'Nogizaka Haruka no Himitsu: Finale',
+			'',
+			"Haruka Nogizaka's Secret: Finale"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/74013',
+		name: [
+			'Nogizaka Haruka no Himitsu: Purezza',
+			'',
+			"Haruka Nogizaka's Secret: Purezza"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/56965',
+		name: [
+			'Nogizaka Haruka no Himitsu',
+			'',
+			"Haruka Nogizaka's Secret"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1756/104652',
+		name: [
+			'Toradora!: Bentou no Gokui',
+			'',
+			'Toradora!: Bento Battle'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1242/123508',
+		name: [
+			'Toradora!: SOS! Kuishinbou Banbanzai',
+			'',
+			'Toradora!: SOS! Hurray for Gourmands'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/22128',
+		name: [
+			'Toradora!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/43643',
+		name: [
+			'Sakura-sou no Pet na Kanojo',
+			'',
+			'The Pet Girl of Sakurasou'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1934/128719',
+		name: [
+			'4-nin wa Sorezore Uso wo Tsuku',
+			'',
+			'The Little Lies We All Tell'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1423/122029',
+		name: [
+			'Shokei Shoujo no Virgin Road',
+			'',
+			'The Executioner and Her Way of Life'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/84603',
+		name: [
+			'Mangaka-san to Assistant-san to The Animation Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/62219',
+		name: [
+			'Mangaka-san to Assistant-san to The Animation',
+			'',
+			'The Comic Artist and His Assistants'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1256/128714',
+		name: [
+			'Mushikaburi-hime',
+			'',
+			'Bibliophile Princess'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1614/90408',
+		name: [
+			'Darling in the FranXX',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1208/120085',
+		name: [
+			'Strike the Blood Final',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1692/116875',
+		name: [
+			'Strike the Blood IV',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1918/103377',
+		name: [
+			'Strike the Blood: Kieta Seisou-hen',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1768/111676',
+		name: [
+			'Strike the Blood III',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1600/111675',
+		name: [
+			'Strike the Blood II',
+			'',
+			'Strike the Blood Second'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/77275',
+		name: [
+			'Strike the Blood: Valkyria no Oukoku-hen',
+			'',
+			'Strike the Blood: Kingdom of the Valkyria'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/56163',
+		name: [
+			'Strike the Blood',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/56413',
+		name: [
+			'Freezing Vibration Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/68195',
+		name: [
+			'Freezing Vibration',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/28086',
+		name: [
+			'Freezing Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/28535',
+		name: [
+			'Freezing',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/22525',
+		name: [
+			'Omamori Himari',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1271/90136',
+		name: [
+			'Koi wa Ameagari no You ni',
+			'',
+			'After the Rain'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/76216',
+		name: [
+			'Yosuga no Sora: In Solitude, Where We Are Least Alone.',
+			'',
+			'Yosuga no Sora'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/64911',
+		name: [
+			'Madan no Ou to Vanadis',
+			'',
+			'Lord Marksman and Vanadis'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/71769',
+		name: [
+			'Seiken Tsukai no World Break',
+			'',
+			'World Break: Aria of Curse for a Holy Swordsman'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1753/103480l',
+		name: [
+			'Taimadou Gakuen 35 Shiken Shoutai',
+			'',
+			'AntiMagic Academy 35th Test Platoon'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/76664',
+		name: [
+			'Saijaku Muhai no Bahamut',
+			'',
+			'Undefeated Bahamut Chronicle'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1718/98214',
+		name: [
+			'Midara na Ao-chan wa Benkyou ga Dekinai',
+			'',
+			"Ao-chan Can't Study!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1849/95019',
+		name: [
+			'Conception',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1465/121561',
+		name: [
+			'Seiren',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/88234',
+		name: [
+			'Just Because!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1471/93329',
+		name: [
+			'Devils Line: Anytime Anywhere',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1053/98838',
+		name: [
+			"Devil's Line",
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/21655',
+		name: [
+			'Ladies versus Butlers! Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/75252',
+		name: [
+			'Ladies versus Butlers!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/75662',
+		name: [
+			'Campione! Matsurowanu Kamigami to Kamigoroshi no Maou',
+			'',
+			'Campione!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/62209',
+		name: [
+			'Maken-Ki! Two Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/58191',
+		name: [
+			'Maken-Ki! Two',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1832/121753',
+		name: [
+			'Maken-Ki! Specials',
+			'',
+			'Maken-Ki! Secret Training'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/36929',
+		name: [
+			'Maken-Ki! OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1215/123362',
+		name: [
+			'Maken-Ki!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/43515',
+		name: [
+			'Kore wa Zombie desu ka? of the Dead: Hai, Minotake ni Attemasu',
+			'',
+			'Is This a Zombie? Of the Dead OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/37451',
+		name: [
+			'Kore wa Zombie desu ka? of the Dead',
+			'',
+			'Is this A Zombie? of the Dead'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/38589',
+		name: [
+			'Kore wa Zombie desu ka? OVA',
+			'',
+			'Is This a Zombie? OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/75521',
+		name: [
+			'Kore wa Zombie desu ka?',
+			'',
+			'Is This a Zombie?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/62845',
+		name: [
+			'Seitokai no Ichizon Lv.2: Watasu Seitokai',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/75645',
+		name: [
+			'Seitokai no Ichizon Lv.2',
+			'',
+			"Student Council's Discretion Level 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/19646',
+		name: [
+			'Seitokai no Ichizon',
+			'',
+			"Student Council's Discretion"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/62655',
+		name: [
+			'Rokujouma no Shinryakusha!?',
+			'',
+			'Invaders of the Rokujyoma!?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1660/121553',
+		name: [
+			'Kiss x Sis',
+			'',
+			'TV'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1323/108709',
+		name: [
+			'IS: Infinite Stratos 2 - Infinite Wedding',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/67545',
+		name: [
+			'IS: Infinite Stratos 2 - World Purge-hen',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/56159',
+		name: [
+			'IS: Infinite Stratos 2 - Hitonatsu no Omoide',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/54925',
+		name: [
+			'IS: Infinite Stratos 2',
+			'',
+			'Infinite Stratos 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/33627',
+		name: [
+			'IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/74045',
+		name: [
+			'IS: Infinite Stratos',
+			'',
+			'Infinite Stratos'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1311/120270',
+		name: [
+			'Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto',
+			'',
+			'Heroines Run the Show: The Unpopular Girl and the Secret Task'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1185/117548',
+		name: [
+			'Ganbare Douki-chan: Kakusa Shakai ni Nayamu Kaisha no Douki',
+			'',
+			'Ganbare Douki-chan: The Coworker is Suffering from Social Inequality'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1185/117548',
+		name: [
+			'Ganbare Douki-chan',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1485/119329',
+		name: [
+			'Koroshi Ai',
+			'',
+			'Love of Kill'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/86243',
+		name: [
+			'Konbini Kareshi',
+			'',
+			'Convenience Store Boy Friends'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1399/131410',
+		name: [
+			'Angel Beats! Another Epilogue',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/25073',
+		name: [
+			'Angel Beats! Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/22061',
+		name: [
+			'Angel Beats!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/75559',
+		name: [
+			'Zero no Tsukaima F',
+			'',
+			'The Familiar of Zero F'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/12370',
+		name: [
+			'Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama',
+			'',
+			'The Familiar of Zero: Rondo of the Princesses OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/10256',
+		name: [
+			'Zero no Tsukaima: Princesses no Rondo',
+			'',
+			'The Familiar of Zero: Rondo of Princesses'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/22740',
+		name: [
+			'Zero no Tsukaima: Futatsuki no Kishi',
+			'',
+			'The Familiar of Zero: Knight of the Twin Moons'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/20680',
+		name: [
+			'Zero no Tsukaima',
+			'',
+			'The Familiar of Zero'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/72750',
+		name: [
+			'Plastic Memories',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1730/108516',
+		name: [
+			'Grisaia: Phantom Trigger The Animation - Stargazer',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1298/106867',
+		name: [
+			'Grisaia: Phantom Trigger The Animation',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/75328',
+		name: [
+			'Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/74609',
+		name: [
+			'Grisaia no Kajitsu Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/72855',
+		name: [
+			'Grisaia no Rakuen',
+			'',
+			'The Eden of Grisaia'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1278/112633',
+		name: [
+			'Grisaia no Meikyuu: Caprice no Mayu 0',
+			'',
+			'The Labyrinth of Grisaia: The Cocoon of Caprice 0'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1645/112632',
+		name: [
+			'Grisaia no Kajitsu',
+			'',
+			'The Fruit of Grisaia'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/89979',
+		name: [
+			'Ryuuou no Oshigoto!',
+			'',
+			"The Ryuo's Work is Never Done!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/78858',
+		name: [
+			'Hundred',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/88307',
+		name: [
+			'Tsuki ga Kirei Special',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/85592',
+		name: [
+			'Tsuki ga Kirei',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1356/93469',
+		name: [
+			'Meiji Tokyo Renka',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/83735',
+		name: [
+			'Fuuka',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1424/93855',
+		name: [
+			'Irozuku Sekai no Ashita kara',
+			'',
+			'Iroduku: The World in Colors'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1566/91061',
+		name: [
+			'ReLIFE: Kanketsu-hen',
+			'',
+			'ReLIFE: Final Arc'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/82149',
+		name: [
+			'ReLIFE',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1122/96012',
+		name: [
+			'Nil Admirari no Tenbin',
+			'',
+			'Libra of Nil Admirari'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/85260',
+		name: [
+			'Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?',
+			'',
+			'WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1560/99904',
+		name: [
+			'High Score Girl II',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1057/111384',
+		name: [
+			'High Score Girl: Extra Stage',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1668/91345',
+		name: [
+			'High Score Girl',
+			'',
+			'Hi Score Girl'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1745/93307',
+		name: [
+			'Beatless Final Stage',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1986/90184',
+		name: [
+			'Beatless',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+			],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/69085',
+		name: [
+			'Juuou Mujin no Fafnir',
+			'',
+			'Unlimited Fafnir'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1815/109046',
+		name: [
+			'Shinmai Maou no Testament Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/69911',
+		name: [
+			'Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1654/112033',
+		name: [
+			'Shinmai Maou no Testament',
+			'',
+			'The Testament of Sister New Devil'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1446/91841',
+		name: [
+			'Tada-kun wa Koi wo Shinai',
+			'',
+			'Tada Never Falls in Love'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1342/122261',
+		name: [
+			'Koi to Uso: Isshou no Koi/Koi no Kimochi',
+			'',
+			'Love and Lies: Love of a Lifetime/Feelings of Love'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/86663',
+		name: [
+			'Koi to Uso',
+			'',
+			'Love and Lies'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/76493',
+		name: [
+			'Rakudai Kishi no Cavalry',
+			'',
+			'Chivalry of a Failed Knight'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1284/106945',
+		name: [
+			'Arte',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1919/107275',
+		name: [
+			'Yesterday wo Utatte: Haishin-ban Episode',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1553/107721',
+		name: [
+			'Yesterday wo Utatte',
+			'',
+			'Sing "Yesterday" for Me'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1874/111374',
+		name: [
+			'Ueno-san wa Bukiyou',
+			'',
+			'How clumsy you are, Miss Ueno'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1186/108864',
+		name: [
+			'Josee to Tora to Sakana-tachi',
+			'',
+			'Josee, the Tiger and the Fish'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1021/95670',
+		name: [
+			'Domestic na Kanojo',
+			'',
+			'Domestic Girlfriend'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1085/114792',
+		name: [
+			'Fruits Basket: The Final',
+			'',
+			'Fruits Basket: The Final Season'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1972/111635',
+		name: [
+			'Fruits Basket 2nd Season',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1447/99827',
+		name: [
+			'Fruits Basket 1st Season',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1237/113435',
+		name: [
+			'3D Kanojo: Real Girl 2nd Season',
+			'',
+			'Real Girl Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1327/93616',
+		name: [
+			'3D Kanojo: Real Girl',
+			'',
+			'Real Girl'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/67077',
+		name: [
+			'D-Frag!*',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/53407',
+		name: [
+			'D-Frag!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1892/111383',
+		name: [
+			'Wotaku ni Koi wa Muzukashii OVA',
+			'',
+			'Wotakoi: Love is Hard for Otaku OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1864/93518',
+		name: [
+			'Wotaku ni Koi wa Muzukashii',
+			'',
+			'Wotakoi: Love is Hard for Otaku'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1519/110527',
+		name: [
+			'Koi to Yobu ni wa Kimochi Warui',
+			'',
+			'Koikimo'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1001/116687',
+		name: [
+			'Tokyo Mew Mew New ♡',
+			'',
+			'Tokyo Mew Mew New'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1947/114235',
+		name: [
+			'Seijo no Maryoku wa Bannou desu',
+			'',
+			"The Saint's Magic Power is Omnipotent"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1055/118890',
+		name: [
+			'Senpai ga Uzai Kouhai no Hanashi',
+			'',
+			'My Senpai is Annoying'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1179/119897',
+		name: [
+			'Sono Bisque Doll wa Koi wo Suru',
+			'',
+			'My Dress-Up Darling'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1539/128058',
+		name: [
+			'Uzaki-chan wa Asobitai! Double',
+			'',
+			'Uzaki-chan Wants to Hang Out! Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1540/108292',
+		name: [
+			'Uzaki-chan wa Asobitai!',
+			'',
+			'Uzaki-chan Wants to Hang Out!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/68705',
+		name: [
+			'Denki-gai no Honya-san',
+			'',
+			'Denki-gai'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/86786',
+		name: [
+			'No Game No Life: Zero',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/71783',
+		name: [
+			'No Game No Life Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1074/111944',
+		name: [
+			'No Game No Life',
+			'',
+			'No Game, No Life'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/72614',
+		name: [
+			"Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
+			'',
+			"Beyond the Boundary: I'll Be Here - Future"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/73298',
+		name: [
+			"Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
+			'',
+			"Beyond the Boundary: I'll Be Here - Past"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/63205',
+		name: [
+			'Kyoukai no Kanata: Shinonome',
+			'',
+			'Beyond the Boundary: Daybreak'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/72218',
+		name: [
+			'Kyoukai no Kanata: Mini Gekijou',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/85468',
+		name: [
+			'Kyoukai no Kanata',
+			'',
+			'Beyond the Boundary'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/69517',
+		name: [
+			'Ao Haru Ride OVA',
+			'',
+			'Blue Spring Ride OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/64813',
+		name: [
+			'Ao Haru Ride',
+			'',
+			'Blue Spring Ride'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/68839',
+		name: [
+			'Absolute Duo',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1376/123398',
+		name: [
+			'Karakai Jouzu no Takagi-san Movie',
+			'',
+			'Teasing Master Takagi-san: The Movie'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1861/120361',
+		name: [
+			'Karakai Jouzu no Takagi-san 3',
+			'',
+			'Teasing Master Takagi-san 3'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1393/107033',
+		name: [
+			'Karakai Jouzu no Takagi-san 2',
+			'',
+			'Teasing Master Takagi-san 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1128/99821',
+		name: [
+			'Karakai Jouzu no Takagi-san: Water Slide',
+			'',
+			'Teasing Master Takagi-san: Water Slide'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1591/95091',
+		name: [
+			'Karakai Jouzu no Takagi-san',
+			'',
+			'Teasing Master Takagi-san'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/73475',
+		name: [
+			'Denpa Kyoushi',
+			'',
+			'Ultimate Otaku Teacher'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/73735',
+		name: [
+			'Haiyore! Nyaruko-san F',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/61789',
+		name: [
+			'Haiyore! Nyaruko-san W: W ni Sayonara/Kono Onsen ni Koi no Konton wo',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/47533',
+		name: [
+			'Haiyore! Nyaruko-san W',
+			'',
+			'Nyaruko: Crawling With Love! Second Season'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/49081',
+		name: [
+			'Haiyore! Nyaruko-san',
+			'',
+			'Nyaruko: Crawling With Love!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/85289',
+		name: [
+			'Kyoukai no Rinne 3rd Season',
+			'',
+			'RIN-NE Season 3'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/79665',
+		name: [
+			'Kyoukai no Rinne 2nd Season',
+			'',
+			'sRIN-NE Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/73436',
+		name: [
+			'Kyoukai no Rinne',
+			'',
+			'RIN-NE'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/67047',
+		name: [
+			'Inou-Battle wa Nichijou-kei no Naka de',
+			'',
+			'When Supernatural Battles Became Commonplace'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/84879',
+		name: [
+			'Hajimete no Gal: Hajimete no Bunkasai',
+			'',
+			'My First Girlfriend is a Gal: My First Cultural Festival'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/86826',
+		name: [
+			'Hajimete no Gal',
+			'',
+			'My First Girlfriend is a Gal'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1015/123541',
+		name: [
+			'Itsudatte Bokura no Koi wa 10 cm Datta.',
+			'',
+			'Our love has always been 10 centimeters apart'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/87065',
+		name: [
+			'Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai',
+			'',
+			'The Moment You Fall in Love'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/82121',
+		name: [
+			'Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai',
+			'',
+			"I've Always Liked You"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1902/129579',
+		name: [
+			'Ijiranaide, Nagatoro-san 2nd Attack',
+			'',
+			"Don't Toy with Me, Miss Nagatoro 2nd Attack"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1900/110097',
+		name: [
+			'Ijiranaide, Nagatoro-san',
+			'',
+			"Don't Toy with Me, Miss Nagatoro"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1716/104880',
+		name: [
+			'Nekopara',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1102/103268',
+		name: [
+			'Nekopara: Koneko no Hi no Yakusoku',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/89829',
+		name: [
+			'Nekopara OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/86790',
+		name: [
+			'New Game!!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/86507',
+		name: [
+			'New Game! Watashi, Shain Ryokou tte Hajimete nano de...',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/80417',
+		name: [
+			'New Game!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1301/110433',
+		name: [
+			'Munou na Nana',
+			'',
+			'Talentless Nana'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/86676',
+		name: [
+			'Tsurezure Children',
+			'',
+			'Tsuredure Children'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/79107',
+		name: [
+			'Gakusen Toshi Asterisk 2nd Season',
+			'',
+			'The Asterisk War Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/76034',
+		name: [
+			'Gakusen Toshi Asterisk',
+			'',
+			'The Asterisk War'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/90115',
+		name: [
+			'Net-juu no Susume Special',
+			'',
+			'Recovery of an MMO Junkie Special'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/87463',
+		name: [
+			'Net-juu no Susume',
+			'',
+			'Recovery of an MMO Junkie'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1642/100344',
+		name: [
+			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1359/96152',
+		name: [
+			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai',
+			'',
+			'My Sister, My Writer'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1786/118533',
+		name: [
+			'Isuca: Gokuraku',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/71767',
+		name: [
+			'Isuca',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1774/111679',
+		name: [
+			'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai',
+			'',
+			'Rascal Does Not Dream of a Dreaming Girl'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1301/93586',
+		name: [
+			'Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai',
+			'',
+			'Rascal Does Not Dream of Bunny Girl Senpai'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1713/117119',
+		name: [
+			'Kanojo mo Kanojo',
+			'',
+			'Girlfriend, Girlfriend'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1034/112435',
+		name: [
+			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA',
+			'',
+			'My Girlfriend is Shobitch OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/87623',
+		name: [
+			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken',
+			'',
+			'My Girlfriend is Shobitch'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1622/111483',
+		name: [
+			'Araburu Kisetsu no Otome-domo yo',
+			'',
+			'O Maidens in Your Savage Season'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1687/123304',
+		name: [
+			'B-gata H-kei',
+			'',
+			"Yamada's First Time: B Gata H Kei"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/79414',
+		name: [
+			'Netoge no Yome wa Onnanoko ja Nai to Omotta?',
+			'',
+			'And you thought there is never a girl online?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1024/93549',
+		name: [
+			'Akkun to Kanojo',
+			'',
+			'My Sweet Tyrant'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/89848',
+		name: [
+			'Imouto sae Ireba Ii. Special',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/88472',
+		name: [
+			'Imouto sae Ireba Ii',
+			'',
+			"A Sister's All You Need"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/23635',
+		name: [
+			'Mayoi Neko Overrun! Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/23770',
+		name: [
+			'Mayoi Neko Overrun!',
+			'',
+			'Stray Cats Overrun!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/75240',
+		name: [
+			'Ookami-san to Shichinin no Nakama-tachi',
+			'',
+			'Okami-San and Her Seven Companions'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/25892',
+		name: [
+			'Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/26876',
+		name: [
+			'Fortune Arterial: Akai Yakusoku',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/29138',
+		name: [
+			'Hidan no Aria: Butei ga Kitarite Onsen Kenshuu',
+			'',
+			'Aria the Scarlet Ammo Special'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/30095',
+		name: [
+			'Hidan no Aria',
+			'',
+			'Aria the Scarlet Ammo'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/30175',
+		name: [
+			'R-15: R15 Shounen Hyouryuuki',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/33029',
+		name: [
+			'R-15',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/29971',
+		name: [
+			'Mayo Chiki!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/63597',
+		name: [
+			'Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi',
+			'',
+			'Baka and Test - Summon the Beasts: Magical Hideyoshi Hideyoshi'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/28992',
+		name: [
+			'Baka to Test to Shoukanjuu Ni!',
+			'',
+			'Baka & Test – Summon the Beasts 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/27463',
+		name: [
+			'Baka to Test to Shoukanjuu: Matsuri',
+			'',
+			'Baka & Test - Summon the Beasts OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/67315',
+		name: [
+			'Baka to Test to Shoukanjuu Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/50389',
+		name: [
+			'Baka to Test to Shoukanjuu',
+			'',
+			'Baka & Test - Summon the Beasts'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/30853',
+		name: [
+			'Astarotte no Omocha! EX',
+			'',
+			"Astarotte's Toy EX"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/75562',
+		name: [
+			'Astarotte no Omocha!',
+			'',
+			"Astarotte's Toy"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/59825',
+		name: [
+			'Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/75197',
+		name: [
+			'Itsuka Tenma no Kuro Usagi',
+			'',
+			'A Dark Rabbit has Seven Lives'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/30839',
+		name: [
+			'Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/73521',
+		name: [
+			'Hoshizora e Kakaru Hashi',
+			'',
+			'A Bridge to the Starry Skies'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/51565',
+		name: [
+			'Dakara Boku wa, H ga Dekinai. Mie Sugi! Mizugi Contest',
+			'',
+			"So, I Can't Play H! Episode 13"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/75102',
+		name: [
+			'Dakara Boku wa, H ga Dekinai.',
+			'',
+			"So, I Can't Play H!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/47627',
+		name: [
+			'Papa no Iukoto wo Kikinasai! OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/78213',
+		name: [
+			'Papa no Iukoto wo Kikinasai!: Pokkapoka',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/35039',
+		name: [
+			'Papa no Iukoto wo Kikinasai!',
+			'',
+			'Listen to Me, Girls. I Am Your Father!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/43823',
+		name: [
+			'Acchi Kocchi: Place=Princess',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/46489',
+		name: [
+			'Acchi Kocchi',
+			'',
+			'Place to Place'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/51459',
+		name: [
+			'Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/75534',
+		name: [
+			'Kono Naka ni Hitori, Imouto ga Iru!',
+			'',
+			'NAKAIMO - My Little Sister Is Among Them!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/46981',
+		name: [
+			'Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials',
+			'',
+			'OniAi Specials'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/42111',
+		name: [
+			'Oniichan dakedo Ai sae Areba Kankeinai yo ne!',
+			'',
+			'OniAi'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/41927',
+		name: [
+			'Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto',
+			'',
+			'Inu X Boku Secret Service Episode 13'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1760/98794',
+		name: [
+			'Inu x Boku SS',
+			'',
+			'Inu X Boku Secret Service'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1318/92768',
+		name: [
+			'Tokyo Ravens',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/75235',
+		name: [
+			'Magical☆Star Kanon 100%',
+			'',
+			'Magical Star Kanon 100%!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/51949',
+		name: [
+			'Kami nomi zo Shiru Sekai: Megami-hen',
+			'',
+			'The World God Only Knows: Goddesses'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/43359',
+		name: [
+			'Kami nomi zo Shiru Sekai: Tenri-hen',
+			'',
+			'The World God Only Knows: Tenri Arc'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/32297',
+		name: [
+			'Kami nomi zo Shiru Sekai: 4-nin to Idol',
+			'',
+			'The World God Only Knows: Four Girls and an Idol'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/30030',
+		name: [
+			'Kami nomi zo Shiru Sekai II',
+			'',
+			'The World God Only Knows II'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/43361',
+		name: [
+			'Kami nomi zo Shiru Sekai',
+			'',
+			'The World God Only Knows'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/45090',
+		name: [
+			'Kotoura-san: Haruka no Heya',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/75585',
+		name: [
+			'Kotoura-san',
+			'',
+			'The Troubled Life of Miss Kotoura'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/75788',
+		name: [
+			'Hentai Ouji to Warawanai Neko',
+			'',
+			'The "Hentai" Prince and the Stony Cat'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/44187',
+		name: [
+			'Ore no Kanojo to Osananajimi ga Shuraba Sugiru',
+			'',
+			'Oreshura'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/45769',
+		name: [
+			'Ore no Imouto ga Konnani Kawaii Wake ga Nai.',
+			'',
+			'Oreimo 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/29734',
+		name: [
+			'Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials',
+			'',
+			'OreImo Specials'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/28240',
+		name: [
+			'Ore no Imouto ga Konnani Kawaii Wake ga Nai',
+			'',
+			'OreImo'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1624/112109',
+		name: [
+			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita OVA',
+			'',
+			"Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/54389',
+		name: [
+			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita',
+			'',
+			'I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/52091',
+		name: [
+			'Golden Time',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/44724',
+		name: [
+			'Boku wa Tomodachi ga Sukunai Next',
+			'',
+			"Haganai: I don't have many friends NEXT"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/39215',
+		name: [
+			'Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai',
+			'',
+			"Haganai: A Round-Robin Story's Ending Is Way Extreme"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/32873',
+		name: [
+			'Boku wa Tomodachi ga Sukunai',
+			'',
+			"Haganai: I don't have many friends"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1215/100764',
+		name: [
+			'Trinity Seven Movie 2: Heavens Library to Crimson Lord',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1031/112821',
+		name: [
+			'Trinity Seven Movie 1: Eternity Library to Alchemic Girl',
+			'',
+			'Trinity Seven: Eternity Library & Alchemic Girl'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/74066',
+		name: [
+			'Trinity Seven: Nanatsu no Taizai to Nana Madoushi',
+			'',
+			'Trinity Seven OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/67795',
+		name: [
+			'Trinity Seven',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/64061',
+		name: [
+			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/56589',
+		name: [
+			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga',
+			'',
+			'Recently, my sister is unusual'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/57563',
+		name: [
+			'Nourin',
+			'',
+			'No-Rin'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/69591',
+		name: [
+			'Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/63363',
+		name: [
+			'Kanojo ga Flag wo Oraretara',
+			'',
+			'If Her Flag Breaks'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/60095',
+		name: [
+			'Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/64481',
+		name: [
+			'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '10/75249',
+		name: [
+			'Mikakunin de Shinkoukei',
+			'',
+			'Engaged to the Unidentified'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/89974',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Movie: Take On Me',
+			'',
+			'Love, Chunibyo & Other Delusions!: Take On Me'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/60351',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Ren Specials',
+			'',
+			'Love, Chunibyo & Other Delusions: Heart Throb Specials'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/66827',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars',
+			'',
+			'Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/56643',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Ren',
+			'',
+			'Love, Chunibyo & Other Delusions!: Heart Throb'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/45512',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel',
+			'',
+			'Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/43245',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Depth of Field: Ai to Nikushimi Gekijou',
+			'',
+			'Love, Chunibyo & Other Delusions! Depth of Field: Love and Hate Theater'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/42655',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Lite',
+			'',
+			'Love, Chunibyo & Other Delusions!: Chuni-Shorts'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/46931',
+		name: [
+			'Chuunibyou demo Koi ga Shitai!',
+			'',
+			'Love, Chunibyo & Other Delusions!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/72479',
+		name: [
+			'Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/67797',
+		name: [
+			'Hitsugi no Chaika: Avenging Battle',
+			'',
+			'Chaika -The Coffin Princess- Avenging Battle'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/61781',
+		name: [
+			'Hitsugi no Chaika',
+			'',
+			'Chaika -The Coffin Princess-'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1901/131653',
+		name: [
+			'Kyokou Suiri Season 2',
+			'',
+			'In/Spectre 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1310/117188',
+		name: [
+			'Kyokou Suiri',
+			'',
+			'In/Spectre'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/72173',
+		name: [
+			'Seireitsukai no Blade Dance Specials',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/63031',
+		name: [
+			'Seireitsukai no Blade Dance',
+			'',
+			'Blade Dance of the Elementalers'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/76840',
+		name: [
+			'Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi',
+			'',
+			'The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/73527',
+		name: [
+			'Nagato Yuki-chan no Shoushitsu',
+			'',
+			'The Disappearance of Nagato Yuki-chan'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1676/128173',
+		name: [
+			'Romantic Killer',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/76542',
+		name: [
+			'Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken',
+			'',
+			'Shomin Sample'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1702/97867',
+		name: [
+			'Saenai Heroine no Sodatekata Fine',
+			'',
+			'Saekano the Movie: Finale'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/84797',
+		name: [
+			'Saenai Heroine no Sodatekata ♭',
+			'',
+			'Saekano: How to Raise a Boring Girlfriend .flat'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/86672',
+		name: [
+			'Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai',
+			'',
+			'Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/68783',
+		name: [
+			'Saenai Heroine no Sodatekata',
+			'',
+			'Saekano: How to Raise a Boring Girlfriend'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '6/70493',
+		name: [
+			'Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai',
+			'',
+			'Saekano: Fan Service of Love and Youth'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/73700',
+		name: [
+			'Yamada-kun to 7-nin no Majo',
+			'',
+			'Yamada-kun and the Seven Witches'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1079/104630',
+		name: [
+			'Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1992/112119',
+		name: [
+			'Nisekoi: OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/72626',
+		name: [
+			'Nisekoi:',
+			'',
+			'Nisekoi: False Love'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/71754',
+		name: [
+			'Nisekoi OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/75587',
+		name: [
+			'Nisekoi',
+			'',
+			'Nisekoi: False Love'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1979/106698',
+		name: [
+			'Momokuri',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/80688',
+		name: [
+			'Kono Bijutsu-bu ni wa Mondai ga Aru!',
+			'',
+			'This Art Club Has a Problem!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/83930',
+		name: [
+			'Rewrite 2nd Season',
+			'',
+			'Rewrite: Moon and Terra'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1827/92122',
+		name: [
+			'Rewrite',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/82409',
+		name: [
+			'Okusama ga Seitokaichou!+!',
+			'',
+			'My Wife is the Student Council President!+'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/78265',
+		name: [
+			'Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi',
+			'',
+			'My Wife is the Student Council President OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/76157',
+		name: [
+			'Okusama ga Seitokaichou!',
+			'',
+			'My Wife is the Student Council President!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1619/106323',
+		name: [
+			'Dokyuu Hentai HxEros OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1342/108321',
+		name: [
+			'Dokyuu Hentai HxEros',
+			'',
+			'SUPER HXEROS'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/84266',
+		name: [
+			'Renai Boukun',
+			'',
+			'Love Tyrant'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1833/95350',
+		name: [
+			'Osake wa Fuufu ni Natte kara: Yuzu Atsukan',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1554/116612',
+		name: [
+			'Osake wa Fuufu ni Natte kara',
+			'',
+			'Love is Like a Cocktail'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1582/96343',
+		name: [
+			'Eromanga-sensei OVA',
+			'',
+			'Eromanga Sensei OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/86468',
+		name: [
+			'Eromanga-sensei',
+			'',
+			'Eromanga Sensei'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/89469',
+		name: [
+			'Yuragi-sou no Yuuna-san OVA',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1462/98802',
+		name: [
+			'Yuragi-sou no Yuuna-san',
+			'',
+			'Yuuna and the Haunted Hot Springs'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1908/93416',
+		name: [
+			'Kishuku Gakkou no Juliet',
+			'',
+			'Boarding School Juliet'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1577/111404',
+		name: [
+			'Val x Love',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1448/127956',
+		name: [
+			'Bocchi the Rock!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1958/107912',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan',
+			'',
+			'My Teen Romantic Comedy SNAFU Climax!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/84052',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA',
+			'',
+			'My Teen Romantic Comedy SNAFU TOO! OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/75376',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku',
+			'',
+			'My Teen Romantic Comedy SNAFU TOO!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/54831',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA',
+			'',
+			'My Teen Romantic Comedy SNAFU OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/49459',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
+			'',
+			'My Teen Romantic Comedy SNAFU'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1448/108514',
+		name: [
+			'Maou-jou de Oyasumi',
+			'',
+			'Sleepy Princess in the Demon Castle'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1299/106117',
+		name: [
+			'Hatena☆Illusion',
+			'',
+			'Hatena Illusion'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1662/118849',
+		name: [
+			'Taishou Otome Otogibanashi',
+			'',
+			'Taisho Otome Fairy Tale'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1843/115815',
+		name: [
+			'Tantei wa Mou, Shindeiru',
+			'',
+			'The Detective Is Already Dead'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1996/118848',
+		name: [
+			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA',
+			'',
+			'My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1088/116439',
+		name: [
+			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X',
+			'',
+			'My Next Life as a Villainess: All Routes Lead to Doom! X'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1483/107061',
+		name: [
+			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...',
+			'',
+			'My Next Life as a Villainess: All Routes Lead to Doom!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1447/121183',
+		name: [
+			'RPG Fudousan',
+			'',
+			'RPG Real Estate'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1347/120593',
+		name: [
+			'Koi wa Sekai Seifuku no Ato de',
+			'',
+			'Love After World Domination'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1160/122627',
+		name: [
+			'Kaguya-sama wa Kokurasetai: Ultra Romantic',
+			'',
+			'Kaguya-sama: Love is War - Ultra Romantic'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1027/115055',
+		name: [
+			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA',
+			'',
+			'Kaguya-sama: Love is War OVA'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1764/106659',
+		name: [
+			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen',
+			'',
+			'Kaguya-sama: Love is War Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1295/106551',
+		name: [
+			'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen',
+			'',
+			'Kaguya-sama: Love is War'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1814/99677',
+		name: [
+			'Sewayaki Kitsune no Senko-san',
+			'',
+			'The Helpful Fox Senko-san'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1943/117882',
+		name: [
+			'Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu',
+			'',
+			"Miss Kobayashi's Dragon Maid S: Japanese HospitalityThe Attendant is a Dragon"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1252/115539',
+		name: [
+			'Kobayashi-san Chi no Maid Dragon S',
+			'',
+			"Miss Kobayashi's Dragon Maid S"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/88486',
+		name: [
+			'Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai',
+			'',
+			"Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs!Please Don't Get Your Hopes Up)"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/85434',
+		name: [
+			'Kobayashi-san Chi no Maid Dragon',
+			'',
+			"Miss Kobayashi's Dragon Maid"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1062/114363',
+		name: [
+			'Clockwork Planet',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/85593',
+		name: [
+			'Rokudenashi Majutsu Koushi to Akashic Records',
+			'',
+			'Akashic Records of Bastard Magic Instructor'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1956/94914',
+		name: [
+			'Shichisei no Subaru',
+			'',
+			"Seven Senses of the Re'Union"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1129/111477',
+		name: [
+			"Goblin Slayer: Goblin's Crown",
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1719/95621',
+		name: [
+			'Goblin Slayer',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1827/95738',
+		name: [
+			'Beelzebub-jou no Okinimesu mama',
+			'',
+			'As Miss Beelzebub Likes'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1189/124642',
+		name: [
+			'Tate no Yuusha no Nariagari Season 2',
+			'',
+			'The Rising of the Shield Hero Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1490/101365',
+		name: [
+			'Tate no Yuusha no Nariagari',
+			'',
+			'The Rising of the Shield Hero'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1568/101203',
+		name: [
+			'Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai',
+			'',
+			"If It's for My Daughter, I'd Even Defeat a Demon Lord"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1693/111618',
+		name: [
+			'Assassins Pride',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1169/95381',
+		name: [
+			'Toaru Kagaku no Accelerator',
+			'',
+			'A Certain Scientific Accelerator'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1024/108413',
+		name: [
+			'Assault Lily: Bouquet',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1885/109122',
+		name: [
+			"King's Raid: Ishi wo Tsugumono-tachi",
+			'',
+			"King's Raid: Successors of the Will"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1394/132755',
+		name: [
+			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II',
+			'',
+			'The Misfit of Demon King Academy Ⅱ'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1126/108573',
+		name: [
+			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou',
+			'',
+			'The Misfit of Demon King Academy'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1100/109044',
+		name: [
+			'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen',
+			'',
+			'Our Last Crusade or the Rise of a New World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1044/106309',
+		name: [
+			'Shachou, Battle no Jikan desu!',
+			'',
+			"Shachibato! President, It's Time for Battle!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1847/120234',
+		name: [
+			'Mahouka Koukou no Rettousei: Tsuioku-hen',
+			'',
+			'The Irregular at Magic High School: Reminiscence Arc'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1719/116262',
+		name: [
+			'Mahouka Koukou no Yuutousei',
+			'',
+			'The Honor Student at Magic High School'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1629/109556',
+		name: [
+			'Mahouka Koukou no Rettousei: Raihousha-hen',
+			'',
+			'The Irregular at Magic High School: Visitor Arc'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1690/114330',
+		name: [
+			'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo',
+			'',
+			'The Irregular at Magic High School The Movie - The Girl Who Summons The Stars'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/61039',
+		name: [
+			'Mahouka Koukou no Rettousei',
+			'',
+			'The Irregular at Magic High School'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1620/130589',
+		name: [
+			'Renai Flops',
+			'',
+			'Love Flops'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1013/108558',
+		name: [
+			'Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari',
+			'',
+			'Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1079/114017',
+		name: [
+			'Seven Knights Revolution: Eiyuu no Keishousha',
+			'',
+			'Seven Knights Revolution: Hero Successor'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1444/115118',
+		name: [
+			'Sentouin, Hakenshimasu!',
+			'',
+			'Combatants Will Be Dispatched!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1723/117854',
+		name: [
+			'Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita',
+			'',
+			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1093/121114',
+		name: [
+			'Mahoutsukai Reimeiki',
+			'',
+			'The Dawn of the Witch'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1263/119511',
+		name: [
+			'Tensai Ouji no Akaji Kokka Saisei Jutsu',
+			'',
+			"The Genius Prince's Guide to Raising a Nation Out of Debt"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1369/123738',
+		name: [
+			'Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na',
+			'',
+			"I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1934/122301',
+		name: [
+			'Yuusha, Yamemasu',
+			'',
+			"I'm Quitting Heroing"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1713/126442',
+		name: [
+			'Fuufu Ijou, Koibito Miman',
+			'',
+			'More than a married couple, but not lovers'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1387/127598',
+		name: [
+			'Kuro no Shoukanshi',
+			'',
+			'Black Summoner'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/87145',
+		name: [
+			'Accel World: Infinite∞Burst',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1451/127575',
+		name: [
+			'Accel World EX',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/38155',
+		name: [
+			'Accel World',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/44618',
+		name: [
+			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki',
+			'',
+			"Problem Children Are Coming from Another World, Aren't They? OVA"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/43369',
+		name: [
+			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?',
+			'',
+			"Problem Children Are Coming from Another World, Aren't They?"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/54343',
+		name: [
+			'Outbreak Company',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/78160',
+		name: [
+			'Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter',
+			'',
+			'Grimgar: Staking Our Youths on the Bath Wall - One More Centimeter'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/77976',
+		name: [
+			'Hai to Gensou no Grimgar',
+			'',
+			'Grimgar: Ashes and Illusions'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1129/117109',
+		name: [
+			'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu',
+			'',
+			"KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1115/98517',
+		name: [
+			'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!',
+			'',
+			"KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/83188',
+		name: [
+			'Kono Subarashii Sekai ni Shukufuku wo! 2',
+			'',
+			"KonoSuba: God's Blessing on This Wonderful World! 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1649/98516',
+		name: [
+			'Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!',
+			'',
+			"KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '8/77831',
+		name: [
+			'Kono Subarashii Sekai ni Shukufuku wo!',
+			'',
+			"KonoSuba: God's Blessing on This Wonderful World!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1648/126110',
+		name: [
+			'Akuyaku Reijou nano de Last Boss wo Kattemimashita',
+			'',
+			"I'm the Villainess, So I'm Taming the Final Boss"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1585/95225',
+		name: [
+			'Hyakuren no Haou to Seiyaku no Valkyria',
+			'',
+			'The Master of Ragnarok & Blesser of Einherjar'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/88911',
+		name: [
+			'Death March kara Hajimaru Isekai Kyousoukyoku',
+			'',
+			'Death March to the Parallel World Rhapsody'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1261/100452',
+		name: [
+			'Kenja no Mago',
+			'',
+			"Wise Man's Grandchild"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1325/129603',
+		name: [
+			'Akiba Meido Sensou',
+			'',
+			'Akiba Maid War'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1736/103512',
+		name: [
+			'Hataage! Kemono Michi',
+			'',
+			'Kemono Michi: Rise Up'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1651/128718',
+		name: [
+			'Futoku no Guild',
+			'',
+			'Immoral Guild'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1824/99611',
+		name: [
+			'Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1282/102248',
+		name: [
+			'Isekai Cheat Magician',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1132/111619',
+		name: [
+			'Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!',
+			'',
+			'CHOYOYU!: High School Prodigies Have It Easy Even in Another World!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1205/111403',
+		name: [
+			'Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!',
+			'',
+			"Didn't I Say to Make My Abilities Average in the Next Life?!"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1754/113897',
+		name: [
+			'Maou-sama, Retry!',
+			'',
+			'Demon Lord, Retry!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1715/103419',
+		name: [
+			'Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru',
+			'',
+			'Cautious Hero: The Hero Is Overpowered but Overly Cautious'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1091/128729',
+		name: [
+			'Kage no Jitsuryokusha ni Naritakute!',
+			'',
+			'The Eminence in Shadow'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1976/122302',
+		name: [
+			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season',
+			'',
+			'Ascendance of a Bookworm Season 3'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1464/107998',
+		name: [
+			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season',
+			'',
+			'Ascendance of a Bookworm Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1931/114311',
+		name: [
+			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA',
+			'',
+			'Ascendance of a Bookworm: Side Story'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1582/101697',
+		name: [
+			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen',
+			'',
+			'Ascendance of a Bookworm'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1476/125643',
+		name: [
+			'Shinobi no Ittoki',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1068/124244',
+		name: [
+			'Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou',
+			'',
+			'Arifureta: Phantom Adventure and Miraculous Encounter'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1780/119657',
+		name: [
+			'Arifureta Shokugyou de Sekai Saikyou 2nd Season: Arifureta Yorimichi de Sekai Saikyou',
+			'',
+			"Arifureta: From a Detour to the World's Strongest"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1877/119668',
+		name: [
+			'Arifureta Shokugyou de Sekai Saikyou 2nd Season',
+			'',
+			"Arifureta: From Commonplace to World's Strongest Season 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1634/102577',
+		name: [
+			'Arifureta Shokugyou de Sekai Saikyou Specials',
+			'',
+			"Arifureta: From Commonplace to World's Strongest Specials"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1776/97682',
+		name: [
+			'Arifureta Shokugyou de Sekai Saikyou',
+			'',
+			"Arifureta: From Commonplace to World's Strongest"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1269/110115',
+		name: [
+			'Kami no Tou',
+			'',
+			'Tower of God'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1963/128728',
+		name: [
+			'Shinmai Renkinjutsushi no Tenpo Keiei',
+			'',
+			'Management of a Novice Alchemist'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1834/110718',
+		name: [
+			'Hachi-nan tte, Sore wa Nai deshou!',
+			'',
+			'The 8th son? Are you kidding me?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1062/107803',
+		name: [
+			'Kuma Kuma Kuma Bear',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1854/114772',
+		name: [
+			'Infinite Dendrogram',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1521/131469',
+		name: [
+			'Kami-tachi ni Hirowareta Otoko 2nd Season',
+			'',
+			'By the Grace of the Gods 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1654/108801',
+		name: [
+			'Kami-tachi ni Hirowareta Otoko',
+			'',
+			'By the Grace of the Gods'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1782/128859',
+		name: [
+			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2',
+			'',
+			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1579/113812',
+		name: [
+			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu',
+			'',
+			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1084/126652',
+		name: [
+			'Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau',
+			'',
+			'Beast Tamer'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1458/117607',
+		name: [
+			'Tensura Nikki: Tensei shitara Slime Datta Ken',
+			'',
+			'The Slime Diaries'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1033/118296',
+		name: [
+			'Tensei shitara Slime Datta Ken 2nd Season Part 2',
+			'',
+			'That Time I Got Reincarnated as a Slime Season 2 Part 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1530/106442',
+		name: [
+			'Tensei shitara Slime Datta Ken 2nd Season',
+			'',
+			'That Time I Got Reincarnated as a Slime Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1116/104615',
+		name: [
+			'Tensei shitara Slime Datta Ken OVA',
+			'',
+			'That Time I Got Reincarnated as a Slime OAD'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1069/123309',
+		name: [
+			'Tensei shitara Slime Datta Ken',
+			'',
+			'That Time I Got Reincarnated as a Slime'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1384/127328',
+		name: [
+			'Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta',
+			'',
+			"I've Somehow Gotten Stronger When I Improved My Farm-Relatedd Skills"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1950/116474',
+		name: [
+			'Tsuki ga Michibiku Isekai Douchuu',
+			'',
+			'Tsukimichi -Moonlit Fantasy-'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1928/117620',
+		name: [
+			'Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru',
+			'',
+			"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1862/128297',
+		name: [
+			'Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
+			'',
+			'The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1537/117590',
+		name: [
+			'Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
+			'',
+			'The Fruit of Evolution: Before I Knew It, My Life Had It Made'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1836/116060',
+		name: [
+			'Seirei Gensouki',
+			'',
+			'Seirei Gensouki: Spirit Chronicles'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1593/113724',
+		name: [
+			'Kumo desu ga, Nani ka?',
+			'',
+			"So I'm a Spider, So What?"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1777/117885',
+		name: [
+			'Isekai Shokudou 2',
+			'',
+			'Restaurant to Another World 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/86666',
+		name: [
+			'Isekai Shokudou',
+			'',
+			'Restaurant to Another World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1498/121952',
+		name: [
+			'Tensei shitara Ken deshita',
+			'',
+			'Reincarnated as a Sword'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1094/120148',
+		name: [
+			'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu',
+			'',
+			'Mushoku Tensei: Jobless Reincarnation - Eris the Goblin Slayer'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1028/117777',
+		name: [
+			'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2',
+			'',
+			'Mushoku Tensei: Jobless Reincarnation Part 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1530/117776',
+		name: [
+			'Mushoku Tensei: Isekai Ittara Honki Dasu',
+			'',
+			'Mushoku Tensei: Jobless Reincarnation'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1510/108026',
+		name: [
+			'Log Horizon: Entaku Houkai',
+			'',
+			'Log Horizon: Destruction of the Round Table'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/68097',
+		name: [
+			'Log Horizon 2nd Season',
+			'',
+			'Log Horizon 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/84004',
+		name: [
+			'Log Horizon',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1088/120068',
+		name: [
+			'Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2',
+			'',
+			'How a Realist Hero Rebuilt the Kingdom Part 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1297/118764',
+		name: [
+			'Genjitsu Shugi Yuusha no Oukoku Saikenki',
+			'',
+			'How a Realist Hero Rebuilt the Kingdom'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1357/113277',
+		name: [
+			'Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara',
+			'',
+			'Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1787/115817',
+		name: [
+			'Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore',
+			'',
+			'Drug Store in Another World: The Slow Life of a Cheat Pharmacist'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1161/121462',
+		name: [
+			'Otome Game Sekai wa Mob ni Kibishii Sekai desu',
+			'',
+			'Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1361/120706',
+		name: [
+			'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu',
+			'',
+			'Skeleton Knight in Another World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1743/125204',
+		name: [
+			'Isekai Ojisan',
+			'',
+			'Uncle from Another World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1583/119223',
+		name: [
+			'Kenja no Deshi wo Nanoru Kenja',
+			'',
+			'She Professed Herself Pupil of the Wise Man'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1430/120065',
+		name: [
+			'Fantasy Bishoujo Juniku Ojisan to',
+			'',
+			'Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1906/117145',
+		name: [
+			'Princess Connect! Re:Dive Season 2',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1810/106070',
+		name: [
+			'Princess Connect! Re:Dive',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1904/120095',
+		name: [
+			'Shijou Saikyou no Daimaou, Murabito A ni Tensei suru',
+			'',
+			'The Greatest Demon Lord Is Reborn as a Typical Nobody'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1226/131884',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1180/120373',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1767/110800',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1523/108380',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1360/111696',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1730/101329',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1239/96949',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1181/123312',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria',
+			'',
+			'Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/81432',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/70187',
+		name: [
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
+			'',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1011/113703',
+		name: [
+			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω',
+			'',
+			'How Not to Summon a Demon Lord Ω'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1649/93412',
+		name: [
+			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu',
+			'',
+			'How Not to Summon a Demon Lord'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1436/116410',
+		name: [
+			'Megami-ryou no Ryoubo-kun',
+			'',
+			"Mother of the Goddess' Dormitory"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1424/117718',
+		name: [
+			'100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season',
+			'',
+			'I’m Standing on a Million Lives Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1506/117717',
+		name: [
+			'100-man no Inochi no Ue ni Ore wa Tatteiru',
+			'',
+			"I'm Standing on a Million Lives"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/86794',
+		name: [
+			'Isekai wa Smartphone to Tomo ni',
+			'',
+			'In Another World With My Smartphone'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1561/125302',
+		name: [
+			'Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu',
+			'',
+			'Vermeil in Gold'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1824/125048',
+		name: [
+			'Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita',
+			'',
+			'My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1354/123263',
+		name: [
+			'Engage Kiss',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1502/124354',
+		name: [
+			'Hataraku Maou-sama!!',
+			'',
+			'The Devil is a Part-Timer! Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/50177',
+		name: [
+			'Hataraku Maou-sama!',
+			'',
+			'The Devil is a Part-Timer!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1022/123845',
+		name: [
+			'Saikin Yatotta Maid ga Ayashii',
+			'',
+			'The Maid I Hired Recently Is Mysterious'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1120/124644',
+		name: [
+			'Isekai Yakkyoku',
+			'',
+			'Parallel World Pharmacy'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1392/124401',
+		name: [
+			'Lycoris Recoil',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1132/120388',
+		name: [
+			'Shikkakumon no Saikyou Kenja',
+			'',
+			'The Strongest Sage with the Weakest Crest'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1988/115708',
+		name: [
+			'Ore dake Haireru Kakushi Dungeon',
+			'',
+			'The Hidden Dungeon Only I Can Enter'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1109/118948',
+		name: [
+			'Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart',
+			'',
+			'Science Fell in Love, So I Tried to Prove It r=1-sinθ'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1432/103533',
+		name: [
+			'Rikei ga Koi ni Ochita no de Shoumei shitemita',
+			'',
+			'Science Fell in Love, So I Tried to Prove It'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1070/124592',
+		name: [
+			'Kanojo, Okarishimasu 2nd Season',
+			'',
+			'Rent-a-Girlfriend Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1902/128382',
+		name: [
+			'Kanojo, Okarishimasu',
+			'',
+			'Rent-a-Girlfriend'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1396/109465',
+		name: [
+			'Kamisama ni Natta Hi',
+			'',
+			'The Day I Became a God'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1871/118309',
+		name: [
+			'Bokutachi no Remake',
+			'',
+			'Remake Our Life!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1695/111486',
+		name: [
+			'Horimiya',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1146/113477',
+		name: [
+			'Hige wo Soru. Soshite Joshikousei wo Hirou',
+			'',
+			'Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1892/114853',
+		name: [
+			'Jaku-Chara Tomozaki-kun Specials',
+			'',
+			'Bottom-Tier Character Tomozaki Specials'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1120/109232',
+		name: [
+			'Jaku-Chara Tomozaki-kun',
+			'',
+			'Bottom-Tier Character Tomozaki'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1430/102439',
+		name: [
+			'Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?',
+			'',
+			"Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1155/106799',
+		name: [
+			'Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1348/102797',
+		name: [
+			'Ore wo Suki nano wa Omae dake ka yo',
+			'',
+			'ORESUKI Are you the only one who loves me?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/66871',
+		name: [
+			'Gekkan Shoujo Nozaki-kun Specials',
+			'',
+			"Monthly Girls' Nozaki-kun Specials"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/66083',
+		name: [
+			'Gekkan Shoujo Nozaki-kun',
+			'',
+			"Monthly Girls' Nozaki-kun"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1111/113327',
+		name: [
+			'Osananajimi ga Zettai ni Makenai Love Comedy',
+			'',
+			"Osamake: Romcom Where The Childhood Friend Won't Lose"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1995/121695',
+		name: [
+			'Kawaii dake ja Nai Shikimori-san',
+			'',
+			"Shikimori's Not Just a Cutie"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '4/86828',
+		name: [
+			'Gamers!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1285/120529',
+		name: [
+			'Kakkou no Iinazuke',
+			'',
+			'A Couple of Cuckoos'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1045/123711',
+		name: [
+			'Yofukashi no Uta',
+			'',
+			'Call of the Night'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1010/124180',
+		name: [
+			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season',
+			'',
+			'Classroom of the Elite II'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/86830',
+		name: [
+			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
+			'',
+			'Classroom of the Elite'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '2/76368',
+		name: [
+			'Danchigai: Juusan Goutou Sentou Ikitai!!',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/74879',
+		name: [
+			'Danchigai',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1348/92408',
+		name: [
+			'Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella',
+			'',
+			"Masamune-kun's Revenge OVA"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/83709',
+		name: [
+			'Masamune-kun no Revenge',
+			'',
+			"Masamune-kun's Revenge"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1085/126580',
+		name: [
+			'Tonikaku Kawaii: Seifuku',
+			'',
+			'Tonikawa: Over the Moon for You - Uniform'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1765/122768',
+		name: [
+			'Tonikaku Kawaii: SNS',
+			'',
+			'TONIKAWA: Over The Moon For You - SNS'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1613/108722',
+		name: [
+			'Tonikaku Kawaii',
+			'',
+			'TONIKAWA: Over The Moon For You'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1751/98216',
+		name: [
+			'Senryuu Shoujo',
+			'',
+			'Senryu Girl'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1506/113668',
+		name: [
+			'5-toubun no Hanayome Movie',
+			'',
+			'The Quintessential Quintuplets Movie'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1775/109514',
+		name: [
+			'5-toubun no Hanayome ∬',
+			'',
+			'The Quintessential Quintuplets 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1819/97947',
+		name: [
+			'5-toubun no Hanayome',
+			'',
+			'The Quintessential Quintuplets'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1917/108615',
+		name: [
+			'Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1530/102782',
+		name: [
+			'Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1974/102960',
+		name: [
+			'Bokutachi wa Benkyou ga Dekinai!',
+			'',
+			'We Never Learn!: BOKUBEN Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1602/100510',
+		name: [
+			'Bokutachi wa Benkyou ga Dekinai',
+			'',
+			'We Never Learn: BOKUBEN'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1108/121157',
+		name: [
+			'Komi-san wa, Comyushou desu. 2nd Season',
+			'',
+			"Komi Can't Communicate Season 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1899/117237',
+		name: [
+			'Komi-san wa, Comyushou desu',
+			'',
+			"Komi Can't Communicate"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1612/120636',
+		name: [
+			'Aharen-san wa Hakarenai',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1454/122063',
+		name: [
+			'Kumichou Musume to Sewagakari',
+			'',
+			"The Yakuza's Guide to Babysitting"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1708/123281',
+		name: [
+			'Mamahaha no Tsurego ga Motokano datta',
+			'',
+			"My Stepmom's Daughter Is My Ex"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1945/126130',
+		name: [
+			'Soredemo Ayumu wa Yosetekuru',
+			'',
+			'When Will Ayumu Make His Move?'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1530/120110',
+		name: [
+			'Overlord IV',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1511/93473',
+		name: [
+			'Overlord III',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1212/113415',
+		name: [
+			'Overlord II',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/87758',
+		name: [
+			'Overlord Movie 2: Shikkoku no Eiyuu',
+			'',
+			'Overlord: The Dark Hero'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1495/121641',
+		name: [
+			'Overlord Movie 1: Fushisha no Ou',
+			'',
+			'Overlord: The Undead King'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '7/88019',
+		name: [
+			'Overlord',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1111/127508',
+		name: [
+			'Spy x Family Part 2',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1441/122795',
+		name: [
+			'Spy x Family',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1368/121281',
+		name: [
+			'Date A Live IV',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1002/108424',
+		name: [
+			'Date A Bullet: Nightmare or Queen',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1984/108425',
+		name: [
+			'Date A Bullet: Dead or Bullet',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1055/100468',
+		name: [
+			'Date A Live III',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '9/75466',
+		name: [
+			'Date A Live Movie: Mayuri Judgment',
+			'',
+			'Date A Live Movie: Mayuri Judgement'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1759/131412',
+		name: [
+			'Date A Live II: Kurumi Star Festival',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/76003',
+		name: [
+			'Date A Live II',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1629/112503',
+		name: [
+			'Date A Live: Date to Date',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '13/44844',
+		name: [
+			'Date A Live',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1970/122297',
+		name: [
+			'Paripi Koumei',
+			'',
+			'Ya Boy Kongming!'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1321/132900',
+		name: [
+			'Aggressive Retsuko 5th Season',
+			'',
+			'Aggretsuko 5th Season'
+		],
+		studio: [
+			''
+		],
+		type: 'ONA',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1228/118066',
+		name: [
+			'Aggressive Retsuko 4th Season',
+			'',
+			'Aggretsuko 4th Season'
+		],
+		studio: [
+			''
+		],
+		type: 'ONA',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1049/108692',
+		name: [
+			'Aggressive Retsuko 3rd Season',
+			'',
+			'Aggretsuko 3rd Season'
+		],
+		studio: [
+			''
+		],
+		type: 'ONA',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1739/101117',
+		name: [
+			'Aggressive Retsuko 2nd Season',
+			'',
+			'Aggretsuko 2nd Season'
+		],
+		studio: [
+			''
+		],
+		type: 'ONA',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1435/97291',
+		name: [
+			'Aggressive Retsuko: We Wish You a Metal Christmas',
+			'',
+			'Aggretsuko: We Wish You a Metal Christmas'
+		],
+		studio: [
+			''
+		],
+		type: 'Special',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1566/129181',
+		name: [
+			'Aggressive Retsuko',
+			'',
+			'Aggretsuko'
+		],
+		studio: [
+			''
+		],
+		type: 'ONA',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1247/122044',
+		name: [
+			'One Punch Man 2nd Season',
+			'',
+			'One Punch Man Season 2'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1802/124744',
+		name: [
+			'One Punch Man: Road to Hero',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '12/76049',
+		name: [
+			'One Punch Man',
+			'',
+			''
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1233/128920',
+		name: [
+			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3',
+			'',
+			"JoJo's Bizarre Adventure: Stone Ocean Part 3"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1051/121959',
+		name: [
+			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2',
+			'',
+			"JoJo's Bizarre Adventure: Stone Ocean Part 2"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1896/119844',
+		name: [
+			'JoJo no Kimyou na Bouken Part 6: Stone Ocean',
+			'',
+			"JoJo's Bizarre Adventure: Stone Ocean"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1249/99809',
+		name: [
+			'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze',
+			'',
+			"JoJo's Bizarre Adventure: Golden Wind"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1716/103072',
+		name: [
+			'Kishibe Rohan wa Ugokanai',
+			'',
+			'Thus Spoke Kishibe Rohan'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/79156',
+		name: [
+			'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai',
+			'',
+			"JoJo's Bizarre Adventure: Diamond is Unbreakable"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/75045',
+		name: [
+			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season',
+			'',
+			"JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '11/55267',
+		name: [
+			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders',
+			'',
+			"JoJo's Bizarre Adventure: Stardust Crusaders"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '5/50055',
+		name: [
+			'JoJo no Kimyou na Bouken: Phantom Blood',
+			'',
+			"JoJo's Bizarre Adventure: Phantom Blood"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '3/40409',
+		name: [
+			'JoJo no Kimyou na Bouken',
+			'',
+			"JoJo's Bizarre Adventure"
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1471/115593',
+		name: [
+			'Shinigami Bocchan to Kuro Maid',
+			'',
+			'The Duke of Death and His Maid'
+		],
+		studio: [
+			''
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1888/133089',
+		name: [
+			'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita',
+			'',
+			"I've Been Killing Slimes for 300 Years and Maxed Out My Level"
 		],
 		studio: [
 			''

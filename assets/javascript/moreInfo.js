@@ -1,4 +1,4 @@
-window.onload = moreInfoCreate();
+moreInfoCreate();
 
 const stopScroll = document.querySelector('body').classList
 
