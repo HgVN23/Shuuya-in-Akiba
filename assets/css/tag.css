@@ -16,6 +16,9 @@
 .tFantasy::before {
 	content: 'Fantasy';
 }
+.tGame::before {
+	content: 'Game';
+}
 .tGenben::before {
 	content: 'Genben';
 }

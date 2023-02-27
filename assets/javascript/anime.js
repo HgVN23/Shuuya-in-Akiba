@@ -2886,27 +2886,47 @@ const anime = [
 		img: '1588/132161l',
 		name: [
 			'Ars no Kyojuu',
-			'',
+			'アルスの巨獣',
 			'Giant Beasts of Ars'
 		],
 		studio: [
-			''
+			'sAsahiProduction'
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '07/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Trong thế giới Ars, con người dẫn đầu một cuộc chiến kéo dài hàng thập kỷ chống lại những con thú khổng lồ tàn phá vùng đất và ăn tài nguyên của chúng. Những người được giao nhiệm vụ chiến đấu với họ là những nhà vô địch được gọi là nagimori, người sử dụng sức mạnh hủy diệt của kannagi: những sinh vật có năng khiếu với sức mạnh ma thuật không thể kiểm soát.<br>
+			- Trong khi thương tiếc cái chết của người bạn đời chiến tranh của mình, cựu nagimori Jiiro băng qua đường với Kuumi, một phụ nữ trẻ vừa đánh thức sức mạnh ma thuật của mình. Sau khi cặp đôi lập một hợp đồng để cứu thành phố khỏi một cuộc tấn công quái thú khổng lồ, Jiiro biết rằng Kuumi đã thoát khỏi phòng thí nghiệm và đang bị săn đuổi bởi thuộc hạ của Mezami, người đứng đầu cơ sở nghiên cứu.<br>
+			- Miễn cưỡng đồng ý giúp Kuumi chạy trốn khỏi những kẻ truy đuổi, Jiiro bắt đầu đi du lịch với người bạn đời mới của mình và người bạn Myaa của cô, một cô gái trẻ với chiếc mũ mèo. Khi bộ ba khó có thể đi lang thang trên vùng đất Arsian, các quan chức hàng đầu bắt đầu thực hiện kế hoạch của họ — và nhóm các nhà thám hiểm sớm phát hiện ra rằng đàn ông phải sợ hãi hơn quái vật.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '8/489286',
+					name: 'Jiiro "the Supposedly Death"'
+				},
+				{
+					img: '5/489287',
+					name: 'Kuumi "the No. 22"'
+				},
+				{
+					img: '4/489285',
+					name: `Myaa "the Cat's Head"`
+				},
+				{
+					img: '6/489283',
+					name: 'Romana "the Seven Herbs"'
+				},
+				{
+					img: '13/489284',
+					name: 'Meran'
 				}
 			],
 			support: [
@@ -2921,27 +2941,55 @@ const anime = [
 		img: '1997/131327',
 		name: [
 			'Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san',
-			'',
+			'ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん',
 			'Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte'
 		],
 		studio: [
-			''
+			'sTezukaProductions'
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '07/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Thành viên câu lạc bộ phát thanh truyền hình Shihono Kobayashi luôn nói với người bạn Aoto Endou về MagiKoi, một trò chơi otome nơi nhân vật chính Fiene theo học tại Học viện Phép thuật Hoàng gia. Nhưng bất chấp dàn diễn viên đầy màu sắc, một nhân vật mà Kobayashi bị ám ảnh nhiều nhất là biệt thự Lieselotte Riefenstahl. Trái ngược với những nhận xét khiếm nhã của cô ấy đối với Fiene, Lieselotte khao khát được làm bạn với cô ấy. Lieselotte cũng yêu sâu sắc vị hôn phu của chính mình, Hoàng tử Siegwald Fitzenhagen — tình yêu chính của trò chơi. Thật không may, ở hầu hết mọi tuyến đường, Lieselotte phải chịu một kết thúc bi thảm.<br>
+			- Kobayashi cố gắng thuyết phục Endou đóng vai MagiKoi để thực hành kỹ năng nói của mình. Những gì bắt đầu như một trò chơi bình thường trở nên phi thường khi Siegwald đột nhiên nghe thấy giọng nói của người chơi trong trò chơi! Bây giờ được coi là "các vị thần", Endou và Kobayashi sử dụng những nhận xét và phân tích của họ để cứu biệt thự tsundere yêu quý của họ khỏi cái chết mập mạp của cô ấy.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tGame',
+			'tRomance'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '15/481127',
+					name: 'Aoto Endou'
+				},
+				{
+					img: '9/481128',
+					name: 'Shihono Kobayashi'
+				},
+				{
+					img: '8/501164',
+					name: 'Lieselotte Riefenstahl'
+				},
+				{
+					img: '3/501168',
+					name: 'Siegwald Fitzenhagen'
+				},
+				{
+					img: '13/481126',
+					name: 'Fiene'
+				},
+				{
+					img: '8/493983',
+					name: 'Baldur Riefenstahl'
+				},
+				{
+					img: '9/493984',
+					name: 'Artur Richter'
 				}
 			],
 			support: [
