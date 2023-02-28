@@ -195,6 +195,11 @@ header {
 	outline: none;
 	font-size: 1rem;
 }
+
+
+
+
+
 .gallery {
 	margin: 10px 0 50px 0;
 	display: grid;
@@ -212,6 +217,8 @@ section,
 	width: 13rem;
 	height: 18rem;
 }
+section {
+}
 .anime {
 	cursor: pointer;
 }
@@ -221,6 +228,7 @@ section,
 }
 img {
 	vertical-align: bottom;
+	-webkit-user-drag: none;
 }
 .min,
 .character {
@@ -235,7 +243,6 @@ img {
 	bottom: 0;
 	transition: .3s;
 	cursor: text;
-	user-select: text;
 }
 .anime:hover .name,
 .cContainer:hover .cName {
@@ -281,6 +288,7 @@ img {
 .max {
 	width: 21rem;
 	height: 30rem;
+	border-right: var(--border);
 }
 .limited {
 	width: 750px;
@@ -334,6 +342,7 @@ h3::after {
 .sImg {
 	width: 10rem;
 	height: 10rem;
+	display: block;
 }
 .smallInfo {
 	margin: auto 0;
@@ -402,6 +411,7 @@ p {
 	border: var(--border);
 	border-radius: 1.5rem;
 	padding: 10px;
+	position: relative;
 }
 .characterBox::before {
 	content: 'Characters:';
@@ -442,14 +452,14 @@ p {
 .rMangaQQ {
 	content: url(../media/icon/mangaQQ.png);
 }
+.rMangaDex {
+	content: url(../media/icon/mangaDex.png);
+}
 .rMangaNetTruyen {
 	content: url(../media/icon/mangaNetTruyen.png);
 }
 .rMangaNelo {
 	content: url(../media/icon/mangaNelo.png);
-}
-.rLNHako {
-	content: url(../media/icon/lnHako.png);
 }
 .rMAL {
 	content: url(../media/icon/mal.png);

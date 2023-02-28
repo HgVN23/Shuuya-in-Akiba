@@ -7,7 +7,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -41,7 +41,7 @@ const anime = [
 			'アカメが斬る！'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'TV',
 		season: 'Summer 2014',
@@ -327,7 +327,7 @@ const anime = [
 			'アホガール'
 		],
 		studio: [
-			'sDiomedéa'
+			sDiomedéa
 		],
 		type: 'TV',
 		season: 'Summer 2017',
@@ -413,7 +413,7 @@ const anime = [
 			'ナイツ&マジック'
 		],
 		studio: [
-			's8bit'
+			s8bit
 		],
 		type: 'TV',
 		season: 'Summer 2017',
@@ -584,11 +584,11 @@ const anime = [
 			'Island'
 		],
 		studio: [
-			'sFeelDot'
+			sFeelDot
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		aired: '01/07/2028 - 16/09/2018',
+		aired: '01/07/2018 - 16/09/2018',
 		rating: 'PG-13',
 		synopsis: `
 			- Trên một hòn đảo xa xôi cách xa đất liền tên là Urashima, một người đàn ông dạt vào bờ, không nhớ gì về tên hay quê hương của mình. Tuy nhiên, những gì anh ta nhớ lại là anh ta là một nhà du hành thời gian với một nhiệm vụ: cứu một cô gái nào đó khỏi bị chết. Khi màn đêm buông xuống, anh gặp Rinne Ohara, một cô gái hát một giai điệu khiến anh nhớ đến một cái tên cụ thể — Setsuna — và quyết định sử dụng nó như của riêng mình.<br>
@@ -651,10 +651,10 @@ const anime = [
 			'Charlotte: The Strong Ones'
 		],
 		studio: [
-			'sPAWorks'
+			sPAWorks
 		],
 		type: 'Special',
-		season: '',
+		season: 'Winter 2016',
 		aired: '30/03/2016',
 		rating: 'PG-13',
 		synopsis: `
@@ -711,7 +711,7 @@ const anime = [
 			'Charlotte（シャーロット）'
 		],
 		studio: [
-			'sPAWorks'
+			sPAWorks
 		],
 		type: 'TV',
 		season: 'Summer 2015',
@@ -874,7 +874,7 @@ const anime = [
 			'Re:ZERO -Starting Life in Another World- Season 2 Part 2'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'TV',
 		season: 'Winter 2021',
@@ -1030,7 +1030,7 @@ const anime = [
 			'Re:ZERO -Starting Life in Another World- Season 2'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'TV',
 		season: 'Summer 2020',
@@ -1195,7 +1195,7 @@ const anime = [
 			'Re:ZERO -Starting Life in Another World- The Frozen Bond'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'Movie',
 		season: 'Fall 2019',
@@ -1261,7 +1261,7 @@ const anime = [
 			'Re:ZERO -Starting Life in Another World- Memory Snow'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'Movie',
 		season: 'Fall 2018',
@@ -1338,7 +1338,7 @@ const anime = [
 			'Re:ZERO -Starting Life in Another World'
 		],
 		studio: [
-			'sWhiteFox'
+			sWhiteFox
 		],
 		type: 'TV',
 		season: 'Spring 2016',
@@ -1649,8 +1649,8 @@ const anime = [
 			'武装少女マキャヴェリズム ドキッ！「五剣だらけ」の慰安旅行'
 		],
 		studio: [
-			'sSilverLink',
-			'sConnect'
+			sSilverLink,
+			sConnect
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
@@ -1739,8 +1739,8 @@ const anime = [
 			"Armed Girl's Machiavellism"
 		],
 		studio: [
-			'sSilverLink',
-			'sConnect'
+			sSilverLink,
+			sConnect
 		],
 		type: 'TV',
 		season: 'Spring 2017',
@@ -1870,7 +1870,7 @@ const anime = [
 			'Weathering with You'
 		],
 		studio: [
-			'sCoMixWaveFilms'
+			sCoMixWaveFilms
 		],
 		type: 'Movie',
 		season: 'Spring 2019',
@@ -1972,7 +1972,7 @@ const anime = [
 			'あやかしトライアングル'
 		],
 		studio: [
-			'sConnect'
+			sConnect
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2068,7 +2068,7 @@ const anime = [
 			"Kubo Won't Let Me Be Invisible"
 		],
 		studio: [
-			'sPineJam'
+			sPineJam
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2143,7 +2143,7 @@ const anime = [
 			'Campfire Cooking in Another World with My Absurd Skill'
 		],
 		studio: [
-			'sMappa'
+			sMappa
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2191,7 +2191,7 @@ const anime = [
 			'Malevolent Spirits: Mononogatari'
 		],
 		studio: [
-			'sBandaiNamcoPictures'
+			sBandaiNamcoPictures
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2259,7 +2259,7 @@ const anime = [
 			'The Tale of Outcasts'
 		],
 		studio: [
-			'sAshiProductions'
+			sAshiProductions
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2304,7 +2304,7 @@ const anime = [
 			'Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀'
 		],
 		studio: [
-			'sStudioComet'
+			sStudioComet
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2356,7 +2356,7 @@ const anime = [
 			'A Silent Voice',
 		],
 		studio: [
-			'sKyotoAnimation'
+			sKyotoAnimation
 		],
 		type: 'Movie',
 		season: 'Summer 2016',
@@ -2457,7 +2457,7 @@ const anime = [
 			'5 Centimeters Per Second'
 		],
 		studio: [
-			'sCoMixWaveFilms'
+			sCoMixWaveFilms
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
@@ -2514,7 +2514,7 @@ const anime = [
 			'Handyman Saitou in Another World'
 		],
 		studio: [
-			'sC2C'
+			sC2C
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2566,7 +2566,7 @@ const anime = [
 			'Saving 80,000 Gold in Another World for My Retirement'
 		],
 		studio: [
-			'sFelixFilm'
+			sFelixFilm
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2602,7 +2602,7 @@ const anime = [
 			'The Reincarnation of the Strongest Exorcist in Another World'
 		],
 		studio: [
-			'sStudioBlancDot'
+			sStudioBlancDot
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2661,7 +2661,7 @@ const anime = [
 			'ベン・トー'
 		],
 		studio: [
-			'sDavidProduction'
+			sDavidProduction
 		],
 		type: 'TV',
 		season: 'Fall 2011',
@@ -2780,7 +2780,7 @@ const anime = [
 			'The Angel Next Door Spoils Me Rotten'
 		],
 		studio: [
-			'sProjectNo9'
+			sProjectNo9
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2840,7 +2840,7 @@ const anime = [
 			'Buddy Daddies'
 		],
 		studio: [
-			'sPAWorks'
+			sPAWorks
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2890,7 +2890,7 @@ const anime = [
 			'Giant Beasts of Ars'
 		],
 		studio: [
-			'sAsahiProduction'
+			sAsahiProduction
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -2945,7 +2945,7 @@ const anime = [
 			'Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte'
 		],
 		studio: [
-			'sTezukaProductions'
+			sTezukaProductions
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -3008,7 +3008,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3043,7 +3043,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3078,7 +3078,7 @@ const anime = [
 			'Farming Life in Another World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3113,7 +3113,7 @@ const anime = [
 			"Onimai: I'm Now Your Sister!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3148,7 +3148,7 @@ const anime = [
 			'The Iceblade Sorcerer Shall Rule the World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3183,7 +3183,7 @@ const anime = [
 			'Spy Classroom'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3218,7 +3218,7 @@ const anime = [
 			'Tomo-chan Is a Girl!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3253,7 +3253,7 @@ const anime = [
 			'Tanaka-kun is Always Listless'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3288,7 +3288,7 @@ const anime = [
 			"My Life as Inukai-san's Dog"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3323,7 +3323,7 @@ const anime = [
 			'The Ice Guy and His Cool Female Colleague'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3358,7 +3358,7 @@ const anime = [
 			'The Magical Revolution of the Reincarnated Princess and the Genius Young Lady'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3393,7 +3393,7 @@ const anime = [
 			"Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3428,7 +3428,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3463,7 +3463,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3498,7 +3498,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3533,7 +3533,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3568,7 +3568,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3603,7 +3603,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3638,7 +3638,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3673,7 +3673,7 @@ const anime = [
 			'Your Lie in April: Moments'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3708,7 +3708,7 @@ const anime = [
 			'Your Lie in April'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3743,7 +3743,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3778,7 +3778,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3813,7 +3813,7 @@ const anime = [
 			'BLEND-S'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3848,7 +3848,7 @@ const anime = [
 			'Grand Blue Dreaming'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3883,7 +3883,7 @@ const anime = [
 			'Kokoro Connect OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3918,7 +3918,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3953,7 +3953,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -3988,7 +3988,7 @@ const anime = [
 			'Girls Beyond the Wasteland'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4023,7 +4023,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4058,7 +4058,7 @@ const anime = [
 			'Love, Election and Chocolate'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4093,7 +4093,7 @@ const anime = [
 			'Unbreakable Machine-Doll Special'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4128,7 +4128,7 @@ const anime = [
 			'Unbreakable Machine-Doll'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4163,7 +4163,7 @@ const anime = [
 			'My Mental Choices Are Completely Interfering With My School Romantic Comedy OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4198,7 +4198,7 @@ const anime = [
 			'My Mental Choices Are Completely Interfering With My School Romantic Comedy'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4233,7 +4233,7 @@ const anime = [
 			"Haruka Nogizaka's Secret: Finale"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4268,7 +4268,7 @@ const anime = [
 			"Haruka Nogizaka's Secret: Purezza"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4303,7 +4303,7 @@ const anime = [
 			"Haruka Nogizaka's Secret"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4338,7 +4338,7 @@ const anime = [
 			'Toradora!: Bento Battle'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4373,7 +4373,7 @@ const anime = [
 			'Toradora!: SOS! Hurray for Gourmands'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4408,7 +4408,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4443,7 +4443,7 @@ const anime = [
 			'The Pet Girl of Sakurasou'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4478,7 +4478,7 @@ const anime = [
 			'The Little Lies We All Tell'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4513,7 +4513,7 @@ const anime = [
 			'The Executioner and Her Way of Life'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4548,7 +4548,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4583,7 +4583,7 @@ const anime = [
 			'The Comic Artist and His Assistants'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4618,7 +4618,7 @@ const anime = [
 			'Bibliophile Princess'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4653,7 +4653,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4688,7 +4688,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4723,7 +4723,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4758,7 +4758,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4793,7 +4793,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4828,7 +4828,7 @@ const anime = [
 			'Strike the Blood Second'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4863,7 +4863,7 @@ const anime = [
 			'Strike the Blood: Kingdom of the Valkyria'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4898,7 +4898,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4933,7 +4933,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -4968,7 +4968,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5003,7 +5003,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5038,7 +5038,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5073,7 +5073,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5108,7 +5108,7 @@ const anime = [
 			'After the Rain'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5143,7 +5143,7 @@ const anime = [
 			'Yosuga no Sora'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5178,7 +5178,7 @@ const anime = [
 			'Lord Marksman and Vanadis'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5213,7 +5213,7 @@ const anime = [
 			'World Break: Aria of Curse for a Holy Swordsman'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5248,7 +5248,7 @@ const anime = [
 			'AntiMagic Academy 35th Test Platoon'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5283,7 +5283,7 @@ const anime = [
 			'Undefeated Bahamut Chronicle'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5318,7 +5318,7 @@ const anime = [
 			"Ao-chan Can't Study!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5353,7 +5353,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5388,7 +5388,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5423,7 +5423,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5458,7 +5458,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5493,7 +5493,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5528,7 +5528,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5563,7 +5563,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5598,7 +5598,7 @@ const anime = [
 			'Campione!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5633,7 +5633,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5668,7 +5668,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5703,7 +5703,7 @@ const anime = [
 			'Maken-Ki! Secret Training'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5738,7 +5738,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5773,7 +5773,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5808,7 +5808,7 @@ const anime = [
 			'Is This a Zombie? Of the Dead OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5843,7 +5843,7 @@ const anime = [
 			'Is this A Zombie? of the Dead'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5878,7 +5878,7 @@ const anime = [
 			'Is This a Zombie? OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5913,7 +5913,7 @@ const anime = [
 			'Is This a Zombie?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5948,7 +5948,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -5983,7 +5983,7 @@ const anime = [
 			"Student Council's Discretion Level 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6018,7 +6018,7 @@ const anime = [
 			"Student Council's Discretion"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6053,7 +6053,7 @@ const anime = [
 			'Invaders of the Rokujyoma!?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6088,7 +6088,7 @@ const anime = [
 			'TV'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6123,7 +6123,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6158,7 +6158,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6193,7 +6193,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6228,7 +6228,7 @@ const anime = [
 			'Infinite Stratos 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6263,7 +6263,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6298,7 +6298,7 @@ const anime = [
 			'Infinite Stratos'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6333,7 +6333,7 @@ const anime = [
 			'Heroines Run the Show: The Unpopular Girl and the Secret Task'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6368,7 +6368,7 @@ const anime = [
 			'Ganbare Douki-chan: The Coworker is Suffering from Social Inequality'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6403,7 +6403,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6438,7 +6438,7 @@ const anime = [
 			'Love of Kill'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6473,7 +6473,7 @@ const anime = [
 			'Convenience Store Boy Friends'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6508,7 +6508,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6543,7 +6543,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6578,7 +6578,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6613,7 +6613,7 @@ const anime = [
 			'The Familiar of Zero F'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6648,7 +6648,7 @@ const anime = [
 			'The Familiar of Zero: Rondo of the Princesses OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6683,7 +6683,7 @@ const anime = [
 			'The Familiar of Zero: Rondo of Princesses'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6718,7 +6718,7 @@ const anime = [
 			'The Familiar of Zero: Knight of the Twin Moons'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6753,7 +6753,7 @@ const anime = [
 			'The Familiar of Zero'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6788,7 +6788,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6823,7 +6823,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6858,7 +6858,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6893,7 +6893,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6928,7 +6928,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6963,7 +6963,7 @@ const anime = [
 			'The Eden of Grisaia'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -6998,7 +6998,7 @@ const anime = [
 			'The Labyrinth of Grisaia: The Cocoon of Caprice 0'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7033,7 +7033,7 @@ const anime = [
 			'The Fruit of Grisaia'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7068,7 +7068,7 @@ const anime = [
 			"The Ryuo's Work is Never Done!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7103,7 +7103,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7138,7 +7138,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7173,7 +7173,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7208,7 +7208,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7243,7 +7243,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7278,7 +7278,7 @@ const anime = [
 			'Iroduku: The World in Colors'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7313,7 +7313,7 @@ const anime = [
 			'ReLIFE: Final Arc'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7348,7 +7348,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7383,7 +7383,7 @@ const anime = [
 			'Libra of Nil Admirari'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7418,7 +7418,7 @@ const anime = [
 			'WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7453,7 +7453,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7488,7 +7488,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7523,7 +7523,7 @@ const anime = [
 			'Hi Score Girl'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7558,7 +7558,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7593,7 +7593,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7628,7 +7628,7 @@ const anime = [
 			'Unlimited Fafnir'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7663,7 +7663,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7698,7 +7698,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7733,7 +7733,7 @@ const anime = [
 			'The Testament of Sister New Devil'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7768,7 +7768,7 @@ const anime = [
 			'Tada Never Falls in Love'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7803,7 +7803,7 @@ const anime = [
 			'Love and Lies: Love of a Lifetime/Feelings of Love'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7838,7 +7838,7 @@ const anime = [
 			'Love and Lies'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7873,7 +7873,7 @@ const anime = [
 			'Chivalry of a Failed Knight'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7908,7 +7908,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7943,7 +7943,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -7978,7 +7978,7 @@ const anime = [
 			'Sing "Yesterday" for Me'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8013,7 +8013,7 @@ const anime = [
 			'How clumsy you are, Miss Ueno'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8048,7 +8048,7 @@ const anime = [
 			'Josee, the Tiger and the Fish'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8083,7 +8083,7 @@ const anime = [
 			'Domestic Girlfriend'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8118,7 +8118,7 @@ const anime = [
 			'Fruits Basket: The Final Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8153,7 +8153,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8188,7 +8188,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8223,7 +8223,7 @@ const anime = [
 			'Real Girl Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8258,7 +8258,7 @@ const anime = [
 			'Real Girl'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8293,7 +8293,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8328,7 +8328,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8363,7 +8363,7 @@ const anime = [
 			'Wotakoi: Love is Hard for Otaku OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8398,7 +8398,7 @@ const anime = [
 			'Wotakoi: Love is Hard for Otaku'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8433,7 +8433,7 @@ const anime = [
 			'Koikimo'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8468,7 +8468,7 @@ const anime = [
 			'Tokyo Mew Mew New'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8503,7 +8503,7 @@ const anime = [
 			"The Saint's Magic Power is Omnipotent"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8538,7 +8538,7 @@ const anime = [
 			'My Senpai is Annoying'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8573,7 +8573,7 @@ const anime = [
 			'My Dress-Up Darling'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8608,7 +8608,7 @@ const anime = [
 			'Uzaki-chan Wants to Hang Out! Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8643,7 +8643,7 @@ const anime = [
 			'Uzaki-chan Wants to Hang Out!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8678,7 +8678,7 @@ const anime = [
 			'Denki-gai'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8713,7 +8713,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8748,7 +8748,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8783,7 +8783,7 @@ const anime = [
 			'No Game, No Life'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8818,7 +8818,7 @@ const anime = [
 			"Beyond the Boundary: I'll Be Here - Future"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8853,7 +8853,7 @@ const anime = [
 			"Beyond the Boundary: I'll Be Here - Past"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8888,7 +8888,7 @@ const anime = [
 			'Beyond the Boundary: Daybreak'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8923,7 +8923,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8958,7 +8958,7 @@ const anime = [
 			'Beyond the Boundary'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -8993,7 +8993,7 @@ const anime = [
 			'Blue Spring Ride OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9028,7 +9028,7 @@ const anime = [
 			'Blue Spring Ride'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9063,7 +9063,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9098,7 +9098,7 @@ const anime = [
 			'Teasing Master Takagi-san: The Movie'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9133,7 +9133,7 @@ const anime = [
 			'Teasing Master Takagi-san 3'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9168,7 +9168,7 @@ const anime = [
 			'Teasing Master Takagi-san 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9203,7 +9203,7 @@ const anime = [
 			'Teasing Master Takagi-san: Water Slide'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9238,7 +9238,7 @@ const anime = [
 			'Teasing Master Takagi-san'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9273,7 +9273,7 @@ const anime = [
 			'Ultimate Otaku Teacher'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9308,7 +9308,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9343,7 +9343,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9378,7 +9378,7 @@ const anime = [
 			'Nyaruko: Crawling With Love! Second Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9413,7 +9413,7 @@ const anime = [
 			'Nyaruko: Crawling With Love!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9448,7 +9448,7 @@ const anime = [
 			'RIN-NE Season 3'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9483,7 +9483,7 @@ const anime = [
 			'sRIN-NE Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9518,7 +9518,7 @@ const anime = [
 			'RIN-NE'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9553,7 +9553,7 @@ const anime = [
 			'When Supernatural Battles Became Commonplace'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9588,7 +9588,7 @@ const anime = [
 			'My First Girlfriend is a Gal: My First Cultural Festival'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9623,7 +9623,7 @@ const anime = [
 			'My First Girlfriend is a Gal'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9658,7 +9658,7 @@ const anime = [
 			'Our love has always been 10 centimeters apart'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9693,7 +9693,7 @@ const anime = [
 			'The Moment You Fall in Love'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9728,7 +9728,7 @@ const anime = [
 			"I've Always Liked You"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9763,7 +9763,7 @@ const anime = [
 			"Don't Toy with Me, Miss Nagatoro 2nd Attack"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9798,7 +9798,7 @@ const anime = [
 			"Don't Toy with Me, Miss Nagatoro"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9833,7 +9833,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9868,7 +9868,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9903,7 +9903,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9938,7 +9938,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -9973,7 +9973,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10008,7 +10008,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10043,7 +10043,7 @@ const anime = [
 			'Talentless Nana'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10078,7 +10078,7 @@ const anime = [
 			'Tsuredure Children'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10113,7 +10113,7 @@ const anime = [
 			'The Asterisk War Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10148,7 +10148,7 @@ const anime = [
 			'The Asterisk War'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10183,7 +10183,7 @@ const anime = [
 			'Recovery of an MMO Junkie Special'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10218,7 +10218,7 @@ const anime = [
 			'Recovery of an MMO Junkie'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10253,7 +10253,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10288,7 +10288,7 @@ const anime = [
 			'My Sister, My Writer'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10323,7 +10323,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10358,7 +10358,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10393,7 +10393,7 @@ const anime = [
 			'Rascal Does Not Dream of a Dreaming Girl'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10428,7 +10428,7 @@ const anime = [
 			'Rascal Does Not Dream of Bunny Girl Senpai'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10463,7 +10463,7 @@ const anime = [
 			'Girlfriend, Girlfriend'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10498,7 +10498,7 @@ const anime = [
 			'My Girlfriend is Shobitch OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10533,7 +10533,7 @@ const anime = [
 			'My Girlfriend is Shobitch'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10568,7 +10568,7 @@ const anime = [
 			'O Maidens in Your Savage Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10603,7 +10603,7 @@ const anime = [
 			"Yamada's First Time: B Gata H Kei"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10638,7 +10638,7 @@ const anime = [
 			'And you thought there is never a girl online?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10673,7 +10673,7 @@ const anime = [
 			'My Sweet Tyrant'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10708,7 +10708,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10743,7 +10743,7 @@ const anime = [
 			"A Sister's All You Need"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10778,7 +10778,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10813,7 +10813,7 @@ const anime = [
 			'Stray Cats Overrun!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10848,7 +10848,7 @@ const anime = [
 			'Okami-San and Her Seven Companions'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10883,7 +10883,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10918,7 +10918,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10953,7 +10953,7 @@ const anime = [
 			'Aria the Scarlet Ammo Special'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -10988,7 +10988,7 @@ const anime = [
 			'Aria the Scarlet Ammo'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11023,7 +11023,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11058,7 +11058,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11093,7 +11093,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11128,7 +11128,7 @@ const anime = [
 			'Baka and Test - Summon the Beasts: Magical Hideyoshi Hideyoshi'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11163,7 +11163,7 @@ const anime = [
 			'Baka & Test – Summon the Beasts 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11198,7 +11198,7 @@ const anime = [
 			'Baka & Test - Summon the Beasts OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11233,7 +11233,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11268,7 +11268,7 @@ const anime = [
 			'Baka & Test - Summon the Beasts'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11303,7 +11303,7 @@ const anime = [
 			"Astarotte's Toy EX"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11338,7 +11338,7 @@ const anime = [
 			"Astarotte's Toy"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11373,7 +11373,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11408,7 +11408,7 @@ const anime = [
 			'A Dark Rabbit has Seven Lives'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11443,7 +11443,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11478,7 +11478,7 @@ const anime = [
 			'A Bridge to the Starry Skies'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11513,7 +11513,7 @@ const anime = [
 			"So, I Can't Play H! Episode 13"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11548,7 +11548,7 @@ const anime = [
 			"So, I Can't Play H!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11583,7 +11583,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11618,7 +11618,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11653,7 +11653,7 @@ const anime = [
 			'Listen to Me, Girls. I Am Your Father!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11688,7 +11688,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11723,7 +11723,7 @@ const anime = [
 			'Place to Place'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11758,7 +11758,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11793,7 +11793,7 @@ const anime = [
 			'NAKAIMO - My Little Sister Is Among Them!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11828,7 +11828,7 @@ const anime = [
 			'OniAi Specials'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11863,7 +11863,7 @@ const anime = [
 			'OniAi'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11898,7 +11898,7 @@ const anime = [
 			'Inu X Boku Secret Service Episode 13'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11933,7 +11933,7 @@ const anime = [
 			'Inu X Boku Secret Service'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -11968,7 +11968,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12003,7 +12003,7 @@ const anime = [
 			'Magical Star Kanon 100%!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12038,7 +12038,7 @@ const anime = [
 			'The World God Only Knows: Goddesses'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12073,7 +12073,7 @@ const anime = [
 			'The World God Only Knows: Tenri Arc'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12108,7 +12108,7 @@ const anime = [
 			'The World God Only Knows: Four Girls and an Idol'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12143,7 +12143,7 @@ const anime = [
 			'The World God Only Knows II'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12178,7 +12178,7 @@ const anime = [
 			'The World God Only Knows'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12213,7 +12213,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12248,7 +12248,7 @@ const anime = [
 			'The Troubled Life of Miss Kotoura'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12283,7 +12283,7 @@ const anime = [
 			'The "Hentai" Prince and the Stony Cat'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12318,7 +12318,7 @@ const anime = [
 			'Oreshura'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12353,7 +12353,7 @@ const anime = [
 			'Oreimo 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12388,7 +12388,7 @@ const anime = [
 			'OreImo Specials'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12423,7 +12423,7 @@ const anime = [
 			'OreImo'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12458,7 +12458,7 @@ const anime = [
 			"Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12493,7 +12493,7 @@ const anime = [
 			'I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12528,7 +12528,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12563,7 +12563,7 @@ const anime = [
 			"Haganai: I don't have many friends NEXT"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12598,7 +12598,7 @@ const anime = [
 			"Haganai: A Round-Robin Story's Ending Is Way Extreme"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12633,7 +12633,7 @@ const anime = [
 			"Haganai: I don't have many friends"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12668,7 +12668,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12703,7 +12703,7 @@ const anime = [
 			'Trinity Seven: Eternity Library & Alchemic Girl'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12738,7 +12738,7 @@ const anime = [
 			'Trinity Seven OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12773,7 +12773,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12808,7 +12808,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12843,7 +12843,7 @@ const anime = [
 			'Recently, my sister is unusual'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12878,7 +12878,7 @@ const anime = [
 			'No-Rin'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12913,7 +12913,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12948,7 +12948,7 @@ const anime = [
 			'If Her Flag Breaks'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -12983,7 +12983,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13018,7 +13018,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13053,7 +13053,7 @@ const anime = [
 			'Engaged to the Unidentified'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13088,7 +13088,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!: Take On Me'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13123,7 +13123,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions: Heart Throb Specials'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13158,7 +13158,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13193,7 +13193,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!: Heart Throb'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13228,7 +13228,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13263,7 +13263,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions! Depth of Field: Love and Hate Theater'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13298,7 +13298,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!: Chuni-Shorts'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13333,7 +13333,7 @@ const anime = [
 			'Love, Chunibyo & Other Delusions!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13368,7 +13368,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13403,7 +13403,7 @@ const anime = [
 			'Chaika -The Coffin Princess- Avenging Battle'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13438,7 +13438,7 @@ const anime = [
 			'Chaika -The Coffin Princess-'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13473,7 +13473,7 @@ const anime = [
 			'In/Spectre 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13508,7 +13508,7 @@ const anime = [
 			'In/Spectre'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13543,7 +13543,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13578,7 +13578,7 @@ const anime = [
 			'Blade Dance of the Elementalers'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13613,7 +13613,7 @@ const anime = [
 			'The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13648,7 +13648,7 @@ const anime = [
 			'The Disappearance of Nagato Yuki-chan'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13683,7 +13683,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13718,7 +13718,7 @@ const anime = [
 			'Shomin Sample'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13753,7 +13753,7 @@ const anime = [
 			'Saekano the Movie: Finale'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13788,7 +13788,7 @@ const anime = [
 			'Saekano: How to Raise a Boring Girlfriend .flat'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13823,7 +13823,7 @@ const anime = [
 			'Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13858,7 +13858,7 @@ const anime = [
 			'Saekano: How to Raise a Boring Girlfriend'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13893,7 +13893,7 @@ const anime = [
 			'Saekano: Fan Service of Love and Youth'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13928,7 +13928,7 @@ const anime = [
 			'Yamada-kun and the Seven Witches'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13963,7 +13963,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -13998,7 +13998,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14033,7 +14033,7 @@ const anime = [
 			'Nisekoi: False Love'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14068,7 +14068,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14103,7 +14103,7 @@ const anime = [
 			'Nisekoi: False Love'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14138,7 +14138,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14173,7 +14173,7 @@ const anime = [
 			'This Art Club Has a Problem!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14208,7 +14208,7 @@ const anime = [
 			'Rewrite: Moon and Terra'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14243,7 +14243,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14278,7 +14278,7 @@ const anime = [
 			'My Wife is the Student Council President!+'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14313,7 +14313,7 @@ const anime = [
 			'My Wife is the Student Council President OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14348,7 +14348,7 @@ const anime = [
 			'My Wife is the Student Council President!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14383,7 +14383,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14418,7 +14418,7 @@ const anime = [
 			'SUPER HXEROS'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14453,7 +14453,7 @@ const anime = [
 			'Love Tyrant'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14488,7 +14488,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14523,7 +14523,7 @@ const anime = [
 			'Love is Like a Cocktail'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14558,7 +14558,7 @@ const anime = [
 			'Eromanga Sensei OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14593,7 +14593,7 @@ const anime = [
 			'Eromanga Sensei'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14628,7 +14628,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14663,7 +14663,7 @@ const anime = [
 			'Yuuna and the Haunted Hot Springs'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14698,7 +14698,7 @@ const anime = [
 			'Boarding School Juliet'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14733,7 +14733,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14768,7 +14768,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14803,7 +14803,7 @@ const anime = [
 			'My Teen Romantic Comedy SNAFU Climax!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14838,7 +14838,7 @@ const anime = [
 			'My Teen Romantic Comedy SNAFU TOO! OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14873,7 +14873,7 @@ const anime = [
 			'My Teen Romantic Comedy SNAFU TOO!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14908,7 +14908,7 @@ const anime = [
 			'My Teen Romantic Comedy SNAFU OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14943,7 +14943,7 @@ const anime = [
 			'My Teen Romantic Comedy SNAFU'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -14978,7 +14978,7 @@ const anime = [
 			'Sleepy Princess in the Demon Castle'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15013,7 +15013,7 @@ const anime = [
 			'Hatena Illusion'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15048,7 +15048,7 @@ const anime = [
 			'Taisho Otome Fairy Tale'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15083,7 +15083,7 @@ const anime = [
 			'The Detective Is Already Dead'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15118,7 +15118,7 @@ const anime = [
 			'My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15153,7 +15153,7 @@ const anime = [
 			'My Next Life as a Villainess: All Routes Lead to Doom! X'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15188,7 +15188,7 @@ const anime = [
 			'My Next Life as a Villainess: All Routes Lead to Doom!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15223,7 +15223,7 @@ const anime = [
 			'RPG Real Estate'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15258,7 +15258,7 @@ const anime = [
 			'Love After World Domination'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15293,7 +15293,7 @@ const anime = [
 			'Kaguya-sama: Love is War - Ultra Romantic'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15328,7 +15328,7 @@ const anime = [
 			'Kaguya-sama: Love is War OVA'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15363,7 +15363,7 @@ const anime = [
 			'Kaguya-sama: Love is War Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15398,7 +15398,7 @@ const anime = [
 			'Kaguya-sama: Love is War'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15433,7 +15433,7 @@ const anime = [
 			'The Helpful Fox Senko-san'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15468,7 +15468,7 @@ const anime = [
 			"Miss Kobayashi's Dragon Maid S: Japanese HospitalityThe Attendant is a Dragon"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15503,7 +15503,7 @@ const anime = [
 			"Miss Kobayashi's Dragon Maid S"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15538,7 +15538,7 @@ const anime = [
 			"Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs!Please Don't Get Your Hopes Up)"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15573,7 +15573,7 @@ const anime = [
 			"Miss Kobayashi's Dragon Maid"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15608,7 +15608,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15643,7 +15643,7 @@ const anime = [
 			'Akashic Records of Bastard Magic Instructor'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15678,7 +15678,7 @@ const anime = [
 			"Seven Senses of the Re'Union"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15713,7 +15713,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15748,7 +15748,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15783,7 +15783,7 @@ const anime = [
 			'As Miss Beelzebub Likes'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15818,7 +15818,7 @@ const anime = [
 			'The Rising of the Shield Hero Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15853,7 +15853,7 @@ const anime = [
 			'The Rising of the Shield Hero'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15888,7 +15888,7 @@ const anime = [
 			"If It's for My Daughter, I'd Even Defeat a Demon Lord"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15923,7 +15923,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15958,7 +15958,7 @@ const anime = [
 			'A Certain Scientific Accelerator'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -15993,7 +15993,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16028,7 +16028,7 @@ const anime = [
 			"King's Raid: Successors of the Will"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16063,7 +16063,7 @@ const anime = [
 			'The Misfit of Demon King Academy Ⅱ'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16098,7 +16098,7 @@ const anime = [
 			'The Misfit of Demon King Academy'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16133,7 +16133,7 @@ const anime = [
 			'Our Last Crusade or the Rise of a New World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16168,7 +16168,7 @@ const anime = [
 			"Shachibato! President, It's Time for Battle!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16203,7 +16203,7 @@ const anime = [
 			'The Irregular at Magic High School: Reminiscence Arc'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16238,7 +16238,7 @@ const anime = [
 			'The Honor Student at Magic High School'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16273,7 +16273,7 @@ const anime = [
 			'The Irregular at Magic High School: Visitor Arc'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16308,7 +16308,7 @@ const anime = [
 			'The Irregular at Magic High School The Movie - The Girl Who Summons The Stars'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16343,7 +16343,7 @@ const anime = [
 			'The Irregular at Magic High School'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16378,7 +16378,7 @@ const anime = [
 			'Love Flops'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16413,7 +16413,7 @@ const anime = [
 			'Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16448,7 +16448,7 @@ const anime = [
 			'Seven Knights Revolution: Hero Successor'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16483,7 +16483,7 @@ const anime = [
 			'Combatants Will Be Dispatched!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16518,7 +16518,7 @@ const anime = [
 			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16553,7 +16553,7 @@ const anime = [
 			'The Dawn of the Witch'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16588,7 +16588,7 @@ const anime = [
 			"The Genius Prince's Guide to Raising a Nation Out of Debt"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16623,7 +16623,7 @@ const anime = [
 			"I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16658,7 +16658,7 @@ const anime = [
 			"I'm Quitting Heroing"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16693,7 +16693,7 @@ const anime = [
 			'More than a married couple, but not lovers'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16728,7 +16728,7 @@ const anime = [
 			'Black Summoner'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16763,7 +16763,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16798,7 +16798,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16833,7 +16833,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16868,7 +16868,7 @@ const anime = [
 			"Problem Children Are Coming from Another World, Aren't They? OVA"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16903,7 +16903,7 @@ const anime = [
 			"Problem Children Are Coming from Another World, Aren't They?"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16938,7 +16938,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -16973,7 +16973,7 @@ const anime = [
 			'Grimgar: Staking Our Youths on the Bath Wall - One More Centimeter'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17008,7 +17008,7 @@ const anime = [
 			'Grimgar: Ashes and Illusions'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17043,7 +17043,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17078,7 +17078,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17113,7 +17113,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World! 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17148,7 +17148,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17183,7 +17183,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17218,7 +17218,7 @@ const anime = [
 			"I'm the Villainess, So I'm Taming the Final Boss"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17253,7 +17253,7 @@ const anime = [
 			'The Master of Ragnarok & Blesser of Einherjar'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17288,7 +17288,7 @@ const anime = [
 			'Death March to the Parallel World Rhapsody'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17323,7 +17323,7 @@ const anime = [
 			"Wise Man's Grandchild"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17358,7 +17358,7 @@ const anime = [
 			'Akiba Maid War'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17393,7 +17393,7 @@ const anime = [
 			'Kemono Michi: Rise Up'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17428,7 +17428,7 @@ const anime = [
 			'Immoral Guild'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17463,7 +17463,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17498,7 +17498,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17533,7 +17533,7 @@ const anime = [
 			'CHOYOYU!: High School Prodigies Have It Easy Even in Another World!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17568,7 +17568,7 @@ const anime = [
 			"Didn't I Say to Make My Abilities Average in the Next Life?!"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17603,7 +17603,7 @@ const anime = [
 			'Demon Lord, Retry!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17638,7 +17638,7 @@ const anime = [
 			'Cautious Hero: The Hero Is Overpowered but Overly Cautious'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17673,7 +17673,7 @@ const anime = [
 			'The Eminence in Shadow'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17708,7 +17708,7 @@ const anime = [
 			'Ascendance of a Bookworm Season 3'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17743,7 +17743,7 @@ const anime = [
 			'Ascendance of a Bookworm Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17778,7 +17778,7 @@ const anime = [
 			'Ascendance of a Bookworm: Side Story'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17813,7 +17813,7 @@ const anime = [
 			'Ascendance of a Bookworm'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17848,7 +17848,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17883,7 +17883,7 @@ const anime = [
 			'Arifureta: Phantom Adventure and Miraculous Encounter'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17918,7 +17918,7 @@ const anime = [
 			"Arifureta: From a Detour to the World's Strongest"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17953,7 +17953,7 @@ const anime = [
 			"Arifureta: From Commonplace to World's Strongest Season 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -17988,7 +17988,7 @@ const anime = [
 			"Arifureta: From Commonplace to World's Strongest Specials"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18023,7 +18023,7 @@ const anime = [
 			"Arifureta: From Commonplace to World's Strongest"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18058,7 +18058,7 @@ const anime = [
 			'Tower of God'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18093,7 +18093,7 @@ const anime = [
 			'Management of a Novice Alchemist'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18128,7 +18128,7 @@ const anime = [
 			'The 8th son? Are you kidding me?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18163,7 +18163,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18198,7 +18198,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18233,7 +18233,7 @@ const anime = [
 			'By the Grace of the Gods 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18268,7 +18268,7 @@ const anime = [
 			'By the Grace of the Gods'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18303,7 +18303,7 @@ const anime = [
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18338,7 +18338,7 @@ const anime = [
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18373,7 +18373,7 @@ const anime = [
 			'Beast Tamer'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18408,7 +18408,7 @@ const anime = [
 			'The Slime Diaries'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18443,7 +18443,7 @@ const anime = [
 			'That Time I Got Reincarnated as a Slime Season 2 Part 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18478,7 +18478,7 @@ const anime = [
 			'That Time I Got Reincarnated as a Slime Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18513,7 +18513,7 @@ const anime = [
 			'That Time I Got Reincarnated as a Slime OAD'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18548,7 +18548,7 @@ const anime = [
 			'That Time I Got Reincarnated as a Slime'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18583,7 +18583,7 @@ const anime = [
 			"I've Somehow Gotten Stronger When I Improved My Farm-Relatedd Skills"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18618,7 +18618,7 @@ const anime = [
 			'Tsukimichi -Moonlit Fantasy-'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18653,7 +18653,7 @@ const anime = [
 			"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18688,7 +18688,7 @@ const anime = [
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18723,7 +18723,7 @@ const anime = [
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18758,7 +18758,7 @@ const anime = [
 			'Seirei Gensouki: Spirit Chronicles'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18793,7 +18793,7 @@ const anime = [
 			"So I'm a Spider, So What?"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18828,7 +18828,7 @@ const anime = [
 			'Restaurant to Another World 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18863,7 +18863,7 @@ const anime = [
 			'Restaurant to Another World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18898,7 +18898,7 @@ const anime = [
 			'Reincarnated as a Sword'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18933,7 +18933,7 @@ const anime = [
 			'Mushoku Tensei: Jobless Reincarnation - Eris the Goblin Slayer'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -18968,7 +18968,7 @@ const anime = [
 			'Mushoku Tensei: Jobless Reincarnation Part 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19003,7 +19003,7 @@ const anime = [
 			'Mushoku Tensei: Jobless Reincarnation'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19038,7 +19038,7 @@ const anime = [
 			'Log Horizon: Destruction of the Round Table'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19073,7 +19073,7 @@ const anime = [
 			'Log Horizon 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19108,7 +19108,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19143,7 +19143,7 @@ const anime = [
 			'How a Realist Hero Rebuilt the Kingdom Part 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19178,7 +19178,7 @@ const anime = [
 			'How a Realist Hero Rebuilt the Kingdom'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19213,7 +19213,7 @@ const anime = [
 			'Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19248,7 +19248,7 @@ const anime = [
 			'Drug Store in Another World: The Slow Life of a Cheat Pharmacist'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19283,7 +19283,7 @@ const anime = [
 			'Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19318,7 +19318,7 @@ const anime = [
 			'Skeleton Knight in Another World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19353,7 +19353,7 @@ const anime = [
 			'Uncle from Another World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19388,7 +19388,7 @@ const anime = [
 			'She Professed Herself Pupil of the Wise Man'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19423,7 +19423,7 @@ const anime = [
 			'Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19458,7 +19458,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19493,7 +19493,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19528,7 +19528,7 @@ const anime = [
 			'The Greatest Demon Lord Is Reborn as a Typical Nobody'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19563,7 +19563,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19598,7 +19598,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19633,7 +19633,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19668,7 +19668,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19703,7 +19703,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19738,7 +19738,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19773,7 +19773,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19808,7 +19808,7 @@ const anime = [
 			'Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19843,7 +19843,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19878,7 +19878,7 @@ const anime = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19913,7 +19913,7 @@ const anime = [
 			'How Not to Summon a Demon Lord Ω'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19948,7 +19948,7 @@ const anime = [
 			'How Not to Summon a Demon Lord'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -19983,7 +19983,7 @@ const anime = [
 			"Mother of the Goddess' Dormitory"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20018,7 +20018,7 @@ const anime = [
 			'I’m Standing on a Million Lives Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20053,7 +20053,7 @@ const anime = [
 			"I'm Standing on a Million Lives"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20088,7 +20088,7 @@ const anime = [
 			'In Another World With My Smartphone'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20123,7 +20123,7 @@ const anime = [
 			'Vermeil in Gold'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20158,7 +20158,7 @@ const anime = [
 			'My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20193,7 +20193,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20228,7 +20228,7 @@ const anime = [
 			'The Devil is a Part-Timer! Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20263,7 +20263,7 @@ const anime = [
 			'The Devil is a Part-Timer!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20298,7 +20298,7 @@ const anime = [
 			'The Maid I Hired Recently Is Mysterious'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20333,7 +20333,7 @@ const anime = [
 			'Parallel World Pharmacy'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20368,7 +20368,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20403,7 +20403,7 @@ const anime = [
 			'The Strongest Sage with the Weakest Crest'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20438,7 +20438,7 @@ const anime = [
 			'The Hidden Dungeon Only I Can Enter'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20473,7 +20473,7 @@ const anime = [
 			'Science Fell in Love, So I Tried to Prove It r=1-sinθ'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20508,7 +20508,7 @@ const anime = [
 			'Science Fell in Love, So I Tried to Prove It'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20543,7 +20543,7 @@ const anime = [
 			'Rent-a-Girlfriend Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20578,7 +20578,7 @@ const anime = [
 			'Rent-a-Girlfriend'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20613,7 +20613,7 @@ const anime = [
 			'The Day I Became a God'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20648,7 +20648,7 @@ const anime = [
 			'Remake Our Life!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20683,7 +20683,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20718,7 +20718,7 @@ const anime = [
 			'Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20753,7 +20753,7 @@ const anime = [
 			'Bottom-Tier Character Tomozaki Specials'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20788,7 +20788,7 @@ const anime = [
 			'Bottom-Tier Character Tomozaki'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20823,7 +20823,7 @@ const anime = [
 			"Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20858,7 +20858,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20893,7 +20893,7 @@ const anime = [
 			'ORESUKI Are you the only one who loves me?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20928,7 +20928,7 @@ const anime = [
 			"Monthly Girls' Nozaki-kun Specials"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20963,7 +20963,7 @@ const anime = [
 			"Monthly Girls' Nozaki-kun"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -20998,7 +20998,7 @@ const anime = [
 			"Osamake: Romcom Where The Childhood Friend Won't Lose"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21033,7 +21033,7 @@ const anime = [
 			"Shikimori's Not Just a Cutie"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21068,7 +21068,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21103,7 +21103,7 @@ const anime = [
 			'A Couple of Cuckoos'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21138,7 +21138,7 @@ const anime = [
 			'Call of the Night'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21173,7 +21173,7 @@ const anime = [
 			'Classroom of the Elite II'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21208,7 +21208,7 @@ const anime = [
 			'Classroom of the Elite'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21243,7 +21243,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21278,7 +21278,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21313,7 +21313,7 @@ const anime = [
 			"Masamune-kun's Revenge OVA"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21348,7 +21348,7 @@ const anime = [
 			"Masamune-kun's Revenge"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21383,7 +21383,7 @@ const anime = [
 			'Tonikawa: Over the Moon for You - Uniform'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21418,7 +21418,7 @@ const anime = [
 			'TONIKAWA: Over The Moon For You - SNS'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21453,7 +21453,7 @@ const anime = [
 			'TONIKAWA: Over The Moon For You'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21488,7 +21488,7 @@ const anime = [
 			'Senryu Girl'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21523,7 +21523,7 @@ const anime = [
 			'The Quintessential Quintuplets Movie'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21558,7 +21558,7 @@ const anime = [
 			'The Quintessential Quintuplets 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21593,7 +21593,7 @@ const anime = [
 			'The Quintessential Quintuplets'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21628,7 +21628,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21663,7 +21663,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21698,7 +21698,7 @@ const anime = [
 			'We Never Learn!: BOKUBEN Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21733,7 +21733,7 @@ const anime = [
 			'We Never Learn: BOKUBEN'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21768,7 +21768,7 @@ const anime = [
 			"Komi Can't Communicate Season 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21803,7 +21803,7 @@ const anime = [
 			"Komi Can't Communicate"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21838,7 +21838,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21873,7 +21873,7 @@ const anime = [
 			"The Yakuza's Guide to Babysitting"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21908,7 +21908,7 @@ const anime = [
 			"My Stepmom's Daughter Is My Ex"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21943,7 +21943,7 @@ const anime = [
 			'When Will Ayumu Make His Move?'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -21978,7 +21978,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22013,7 +22013,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22048,7 +22048,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22083,7 +22083,7 @@ const anime = [
 			'Overlord: The Dark Hero'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22118,7 +22118,7 @@ const anime = [
 			'Overlord: The Undead King'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22153,7 +22153,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22188,7 +22188,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22223,7 +22223,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22258,7 +22258,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22293,7 +22293,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22328,7 +22328,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22363,7 +22363,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22398,7 +22398,7 @@ const anime = [
 			'Date A Live Movie: Mayuri Judgement'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22433,7 +22433,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22468,7 +22468,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22503,7 +22503,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22538,7 +22538,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22573,7 +22573,7 @@ const anime = [
 			'Ya Boy Kongming!'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22608,7 +22608,7 @@ const anime = [
 			'Aggretsuko 5th Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'ONA',
 		season: '',
@@ -22643,7 +22643,7 @@ const anime = [
 			'Aggretsuko 4th Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'ONA',
 		season: '',
@@ -22678,7 +22678,7 @@ const anime = [
 			'Aggretsuko 3rd Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'ONA',
 		season: '',
@@ -22713,7 +22713,7 @@ const anime = [
 			'Aggretsuko 2nd Season'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'ONA',
 		season: '',
@@ -22748,7 +22748,7 @@ const anime = [
 			'Aggretsuko: We Wish You a Metal Christmas'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'Special',
 		season: '',
@@ -22783,7 +22783,7 @@ const anime = [
 			'Aggretsuko'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'ONA',
 		season: '',
@@ -22818,7 +22818,7 @@ const anime = [
 			'One Punch Man Season 2'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22853,7 +22853,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22888,7 +22888,7 @@ const anime = [
 			''
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22923,7 +22923,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Stone Ocean Part 3"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22958,7 +22958,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Stone Ocean Part 2"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -22993,7 +22993,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Stone Ocean"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23028,7 +23028,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Golden Wind"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23063,7 +23063,7 @@ const anime = [
 			'Thus Spoke Kishibe Rohan'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23098,7 +23098,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Diamond is Unbreakable"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23133,7 +23133,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23168,7 +23168,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Stardust Crusaders"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23203,7 +23203,7 @@ const anime = [
 			"JoJo's Bizarre Adventure: Phantom Blood"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23238,7 +23238,7 @@ const anime = [
 			"JoJo's Bizarre Adventure"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23273,7 +23273,7 @@ const anime = [
 			'The Duke of Death and His Maid'
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',
@@ -23308,7 +23308,7 @@ const anime = [
 			"I've Been Killing Slimes for 300 Years and Maxed Out My Level"
 		],
 		studio: [
-			''
+			sNone
 		],
 		type: 'TV',
 		season: '',

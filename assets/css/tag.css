@@ -1,87 +1,260 @@
 .tAction::before {
 	content: 'Action';
 }
+.tAction::after {
+	content: 'Hành động';
+}
 .tAdventure::before {
 	content: 'Adventure';
+}
+.tAdventure::after {
+	content: 'Phiêu lưu';
 }
 .tComedy::before {
 	content: 'Comedy';
 }
+.tComedy::after {
+	content: 'Hài hước';
+}
 .tDrama::before {
 	content: 'Drama';
+}
+.tDrama::after {
+	content: 'Thâu tóm cảm xúc';
 }
 .tEcchi::before {
 	content: 'Ecchi';
 }
+.tEcchi::after {
+	content: 'Hở hang';
+}
 .tFantasy::before {
 	content: 'Fantasy';
+}
+.tFantasy::after {
+	content: 'Giả tưởng';
 }
 .tGame::before {
 	content: 'Game';
 }
+.tGame::after {
+	content: 'Video/Board Game';
+}
 .tGenben::before {
 	content: 'Genben';
+}
+.tGenben::after {
+	content: 'Gender-Bender: Hoán đổi giới tính';
 }
 .tGourmet::before {
 	content: 'Gourmet';
 }
+.tGourmet::after {
+	content: 'Ẩm thực';
+}
 .tHarem::before {
 	content: 'Harem';
+}
+.tHarem::after {
+	content: 'Dàn gái, hậu cung';
 }
 .tHistorical::before {
 	content: 'Historical';
 }
+.tHistorical::after {
+	content: 'Lịch sử';
+}
 .tIsekai::before {
 	content: 'Isekai';
+}
+.tIsekai::after {
+	content: 'Dị giới';
+}
+.tJosei::before {
+	content: 'Josei';
+}
+.tJosei::after {
+	content: 'Cho độc giả nữ 18+';
 }
 .tMagic::before {
 	content: 'Magic';
 }
+.tMagic::after {
+	content: 'Phép thuật';
+}
 .tMartialArts::before {
 	content: 'Martial Arts';
+}
+.tMartialArts::after {
+	content: 'Võ thuật';
 }
 .tMecha::before {
 	content: 'Mecha';
 }
+.tMecha::after {
+	content: 'Máy móc';
+}
 .tMilitary::before {
 	content: 'Military';
+}
+.tMilitary::after {
+	content: 'Vũ trang';
 }
 .tMystery::before {
 	content: 'Mystery';
 }
+.tMystery::after {
+	content: 'Bí ẩn';
+}
 .tMythology::before {
 	content: 'Mythology';
+}
+.tMythology::after {
+	content: 'Thần thoại';
 }
 .tPsychological::before {
 	content: 'Psychological';
 }
+.tPsychological::after {
+	content: 'Tâm lý';
+}
 .tReincarnation::before {
 	content: 'Reincarnation';
+}
+.tReincarnation::after {
+	content: 'Đầu thai';
 }
 .tRomance::before {
 	content: 'Romance';
 }
+.tRomance::after {
+	content: 'Lãng mạn';
+}
 .tSchool::before {
 	content: 'School';
+}
+.tSchool::after {
+	content: 'Học đường';
 }
 .tSciFi::before {
 	content: 'Sci-Fi';
 }
+.tSciFi::after {
+	content: 'Science-Fiction: Khoa học viễn tưởng';
+}
 .tSeinen::before {
 	content: 'Seinen';
+}
+.tSeinen::after {
+	content: 'Cho độc giả nam 18+';
 }
 .tSliceOfLife::before {
 	content: 'Slice of life';
 }
+.tSliceOfLife::after {
+	content: 'Lát cắt cuộc sống';
+}
+.tShojo::before {
+	content: 'Shojo';
+}
+.tShojo::after {
+	content: 'Cho độc giả nữ < 18';
+}
 .tShounen::before {
 	content: 'Shounen';
+}
+.tShounen::after {
+	content: 'Cho độc giả nam < 18';
 }
 .tSupernatural::before {
 	content: 'Supernatural';
 }
+.tSupernatural::after {
+	content: 'Siêu nhiên';
+}
 .tSuperPower::before {
 	content: 'Super Power';
 }
+.tSuperPower::after {
+	content: 'Siêu sức mạnh';
+}
 .tTimeTravel::before {
 	content: 'Time Travel';
+}
+.tTimeTravel::after {
+	content: 'Xuyên thời gian';
+}
+
+.tAction::after,
+.tAdventure::after,
+.tComedy::after,
+.tDrama::after,
+.tEcchi::after,
+.tFantasy::after,
+.tGame::after,
+.tGenben::after,
+.tGourmet::after,
+.tHarem::after,
+.tHistorical::after,
+.tIsekai::after,
+.tMagic::after,
+.tMartialArts::after,
+.tMecha::after,
+.tMilitary::after,
+.tMystery::after,
+.tMythology::after,
+.tPsychological::after,
+.tReincarnation::after,
+.tRomance::after,
+.tSchool::after,
+.tSciFi::after,
+.tSeinen::after,
+.tSliceOfLife::after,
+.tShounen::after,
+.tSupernatural::after,
+.tSuperPower::after,
+.tTimeTravel::after {
+	background-color: var(--bg);
+	border-radius: 7px;
+	padding: 5px 10px;
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 50%;
+	transform: translateX(-50%);
+	text-align: center;
+	white-space: nowrap;
+}
+
+.tag:hover.tAction::after,
+.tag:hover.tAdventure::after,
+.tag:hover.tComedy::after,
+.tag:hover.tDrama::after,
+.tag:hover.tEcchi::after,
+.tag:hover.tFantasy::after,
+.tag:hover.tGame::after,
+.tag:hover.tGenben::after,
+.tag:hover.tGourmet::after,
+.tag:hover.tHarem::after,
+.tag:hover.tHistorical::after,
+.tag:hover.tIsekai::after,
+.tag:hover.tMagic::after,
+.tag:hover.tMartialArts::after,
+.tag:hover.tMecha::after,
+.tag:hover.tMilitary::after,
+.tag:hover.tMystery::after,
+.tag:hover.tMythology::after,
+.tag:hover.tPsychological::after,
+.tag:hover.tReincarnation::after,
+.tag:hover.tRomance::after,
+.tag:hover.tSchool::after,
+.tag:hover.tSciFi::after,
+.tag:hover.tSeinen::after,
+.tag:hover.tSliceOfLife::after,
+.tag:hover.tShounen::after,
+.tag:hover.tSupernatural::after,
+.tag:hover.tSuperPower::after,
+.tag:hover.tTimeTravel::after {
+	top: -100%;
+	display: block;
 }

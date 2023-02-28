@@ -83,7 +83,7 @@ function addAnime() {
 		}
 		let studio = ``;
 		for(var j = 0; j < temp.studio.length; j++) {
-			studio += `<div class="sImg ${temp.studio[j]}"></div>\n`
+			studio += `<img class="sImg" src="https://cdn.myanimelist.net/images/company/${temp.studio[j]}.png" alt="Studio">\n`
 		}
 		let type = temp.type;
 		let season = temp.season;
@@ -98,7 +98,7 @@ function addAnime() {
 		for(var j = 0; j < temp.character.main.length; j++) {
 			character += `
 				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg">
+					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
 					<div class="cName cRoleM">${temp.character.main[j].name}</div>
 				</div>\n
 			`
@@ -106,7 +106,7 @@ function addAnime() {
 		for(var j = 0; j < temp.character.support.length; j++) {
 			character += `
 				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg">
+					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
 					<div class="cName cRoleS">${temp.character.support[j].name}</div>
 				</div>\n
 			`
@@ -114,12 +114,12 @@ function addAnime() {
 
 		const format = `
 			<div class="anime">
-				<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}.jpg">
+				<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}.jpg" alt="${name}">
 				<div class="name">${name}</div>
 			</div>
 			<div class="moreInfo hideInfo">
 				<div class="split">
-					<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}.jpg">
+					<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}.jpg" alt="${name}">
 					<div class="limited">
 						<h1>${name}</h1>
 						${altName}
@@ -144,13 +144,13 @@ function addAnime() {
 							${character}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href="" target="_blank"></a>
-							<a class="rImg rAnimeNana" href="" target="_blank"></a>
-							<a class="rImg rMangaQQ" href="" target="_blank"></a>
-							<a class="rImg rMangaNetTruyen" href="" target="_blank"></a>
-							<a class="rImg rMangaNelo" href="" target="_blank"></a>
-							<a class="rImg rLNHako" href="" target="_blank"></a>
-							<a class="rImg rMAL" href="" target="_blank"></a>
+							<a class="rImg rAnimeVietsub" href="https://animevietsub.pro/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
+							<a class="rImg rMangaQQ" href="https://truyenqqhot.com/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
+							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="Manga Dex"></a>
+							<a class="rImg rMangaNetTruyen" href="https://www.nettruyenup.com/tim-truyen?keyword=${name}" target="_blank" alt="Net Truyen"></a>
+							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="Manga Nelo"></a>
+							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="My Anime List"></a>
 						</div>
 					</div>
 				</div>
