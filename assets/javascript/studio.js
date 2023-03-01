@@ -1,4 +1,4 @@
-const sNone = null;
+const sNone = 'placeholder';
 const sFeelDot = 91;
 const s8bit = 441;
 const sPAWorks = 132;
@@ -21,3 +21,11 @@ const sProjectNo9 = 439;
 const sEncourageFilms = 354;
 const sAsahiProduction = 406;
 const sTezukaProductions = 200;
+const sAjiado = 30;
+const sJCStaff = 7;
+const sZeroG = 1379;
+const sStudioBind = 1993;
+const sCloudHearts = sNone;
+const sLayduce = 1087;
+const sQuad = sNone;
+const sLiber = sNone;

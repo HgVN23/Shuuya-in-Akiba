@@ -53,6 +53,7 @@ header {
 .slime {
 	content: url(../media/icon/slime.png);
 	transform: rotateY(180deg);
+	cursor: none;
 }
 .slime:hover {
 	animation: slime 1s infinite;
@@ -242,7 +243,7 @@ img {
 	position: absolute;
 	bottom: 0;
 	transition: .3s;
-	cursor: text;
+	cursor: pointer;
 }
 .anime:hover .name,
 .cContainer:hover .cName {
@@ -428,10 +429,12 @@ p {
 	font-size: .8rem;
 }
 .cRoleM::after {
-	content: '(Main)';
+	content: '[ Main ]';
+	text-align: center;
 }
 .cRoleS::after {
-	content: '(Support)';
+	content: '[ Support ]';
+	text-align: center;
 }
 .relatedBox {
 	margin-bottom: 1rem;
@@ -480,3 +483,31 @@ p {
 	color: yellow;
 	text-decoration: underline;
 }*/
+.toast {
+	background-color: #3a3b3c;
+	border: var(--border);
+	border-radius: 10px;
+	width: 200px;
+	padding: 5px;
+	position: fixed;
+	bottom: 3%;
+	right: 1%;
+	transform: translateX(300px);
+	transition: 1s;
+	z-index: 3;
+}
+#toastCopy {
+	overflow-x: auto;
+}
+#toastClose {
+	content: url(../media/icon/icon_close.png);
+	filter: brightness(100);
+	width: 12px;
+	height: 12px;
+	position: absolute;
+	top: 6px;
+	right: 6px;
+}
+#toastClose:hover {
+	filter: brightness(1);
+}

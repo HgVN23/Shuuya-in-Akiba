@@ -49,6 +49,7 @@ function run() {
 	removeAnime();
 	addAnime();
 	moreInfoCreate();
+	copyCreate()
 	numberInput.value = i + 1;
 }
 

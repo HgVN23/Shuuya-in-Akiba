@@ -3004,27 +3004,45 @@ const anime = [
 		img: '1884/131748l',
 		name: [
 			'Revenger',
-			'',
-			''
+			'リベンジャー'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
-		rating: 'PG-13',
+		season: 'Winter 2023',
+		aired: '05/01/2023 - ??/??/2023',
+		rating: 'R-17+',
 		synopsis: `
-
+			- Bị lừa ám sát cha vợ tương lai của chính mình, samurai chính trực Raizou Kurima tràn ngập cảm giác tội lỗi. Để đòi lại danh dự của mình, Raizou thề sẽ trả thù vị lãnh chúa, người đã ra lệnh cho anh ta những mệnh lệnh gây hiểu lầm đó. Trong quá trình theo đuổi, anh ta được hỗ trợ bởi thương nhân tự xưng của tất cả các ngành nghề Yuuen Usui, người thực sự là một trong những Kẻ trả thù — những sát thủ tìm kiếm công lý cho những kẻ bị oan sai và thay mặt họ trả thù đẫm máu.<br>
+			- Bi kịch dường như được định sẵn để theo chân Raizou khi anh ta ngày càng gắn bó với các thành viên của Revengers. Khi anh ta bắt đầu làm việc như một người cảnh giác bên cạnh họ, mạng lưới phức tạp giữa giới tinh hoa chính trị Nhật Bản tham nhũng, những người châu Âu vô đạo đức và Những kẻ trả thù dần dần bộc lộ. Càng vướng vào những vấn đề này, Raizou càng nhận ra rằng công lý cũng lừa dối như danh dự mà anh ta tìm cách chuộc lại.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tHistorical',
+			'tMystery'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '6/491790',
+					name: 'Raizou Kurima'
+				},
+				{
+					img: '16/491788',
+					name: 'Teppa Murakami'
+				},
+				{
+					img: '10/491789',
+					name: 'Yuuen Usui'
+				},
+				{
+					img: '16/491787',
+					name: 'Nio'
+				},
+				{
+					img: '16/491786',
+					name: 'Souji'
 				}
 			],
 			support: [
@@ -3039,30 +3057,46 @@ const anime = [
 		img: '1897/131300l',
 		name: [
 			'Sugar Apple Fairy Tale',
-			'',
-			''
+			'シュガーアップル・フェアリーテイル'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '06/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Ở vương quốc Tây Nguyên, các nàng tiên sống tự do cho đến khi con người phản bội họ. Một khi một nàng tiên đã bị tước cánh, bất cứ ai sở hữu nó đều nắm giữ mạng sống của nàng tiên trong tay. Lợi dụng điều này, con người bắt các nàng tiên làm nô lệ, nhưng Ann Halford, 15 tuổi, khao khát được nhìn thấy ngày mà các nàng tiên và con người được đối xử bình đẳng.<br>
+			- Người làm bánh kẹo đầy tham vọng mơ ước trở thành Silver Sugar Master giống như người mẹ quá cố của cô. Để đạt được mục tiêu cao cả này, Ann lên đường đến thủ đô Lewiston, nơi tổ chức Hội chợ kẹo Hoàng gia hàng năm. Tuy nhiên, để được ban tặng danh hiệu khó nắm bắt, bánh kẹo của Ann được chế tác từ đường bạc phải được công nhận bằng huy chương hoàng gia tại sự kiện.<br>
+			- Ann thuê một nàng tiên chiến binh có lưỡi sắc bén, Shall Fen Shall, làm vệ sĩ cho cuộc hành trình nguy hiểm phía trước. Sau khi cứu anh ta khỏi người buôn bán cổ tích độc ác của mình, cô hứa sẽ trả lại đôi cánh của Sshall cho anh ta khi họ đến thủ đô, khiến anh ta bối rối. Nhưng khi cặp đôi đi xa hơn, thời gian họ dành cho nhau ngày càng tăng, và họ tìm hiểu thêm về nhau và mong muốn thực sự của họ.
 		`,
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tShoujo',
+			'tRomance'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '4/483927',
+					name: 'Shall Fen Shall'
+				},
+				{
+					img: '5/483928',
+					name: 'Ann "Scarecrow" Halford'
 				}
 			],
 			support: [
+				{
+					img: '2/483926',
+					name: 'Mythrill Rid Pod'
+				},
+				{
+					img: '12/493969',
+					name: 'Keith Powell'
+				},
 				{
 					img: '',
 					name: ''
@@ -3074,27 +3108,42 @@ const anime = [
 		img: '1983/132329',
 		name: [
 			'Isekai Nonbiri Nouka',
-			'',
+			'異世界のんびり農家',
 			'Farming Life in Another World'
 		],
 		studio: [
-			sNone
+			sZeroG
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '06/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Trong những năm cuối đời, Hiraku Machio vẫn bị giam cầm trên giường bệnh với căn bệnh nan y cho đến khi cuối cùng ông qua đời. Thương hại cho cuộc sống bất công mà anh ta đã sống, một vị thần quyết định tái sinh Hiraku ở một thế giới khác, nơi anh ta có thể sống theo ý mình. Muốn thử làm nông nghiệp trong cuộc sống mới này, anh ấy được ban tặng một "Công cụ canh tác toàn năng" tất cả trong một có thể biến thành bất kỳ triển khai hữu ích nào mà anh ấy muốn. Hiraku sau đó được đưa đến một khu rừng dường như cách xa nền văn minh. Tại đây, anh có kế hoạch xây dựng và canh tác mọi thứ từ đầu — dần dần phát triển khu vực vô hồn thành một xã hội mới thịnh vượng.
 		`,
 		tag: [
-			''
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '8/495316',
+					name: 'Hiraku Machio'
+				},
+				{
+					img: '10/495313',
+					name: 'Rurushi Ru'
+				},
+				{
+					img: '15/495315',
+					name: 'Tia'
+				},
+				{
+					img: '6/495314',
+					name: 'Ria'
 				}
 			],
 			support: [
@@ -3109,30 +3158,53 @@ const anime = [
 		img: '1058/131632l',
 		name: [
 			'Oniichan wa Oshimai!',
-			'',
+			'お兄ちゃんはおしまい！',
 			"Onimai: I'm Now Your Sister!"
 		],
 		studio: [
-			sNone
+			sStudioBind
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '05/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Tự xưng là "nhân viên bảo vệ gia đình" Mahiro Oyama đã không rời khỏi nhà trong nhiều năm, ẩn mình trong phòng chơi tiểu thuyết trực quan khiêu dâm. Lối sống đồi trụy này khiến người chị gái phi thường của anh, Mihari, lo lắng về sức khỏe của anh. Với hy vọng giải quyết vấn đề này, cô nghĩ ra một kế hoạch để phục hồi anh trở lại trạng thái bình thường.<br>
+			- Phần đầu tiên trong kế hoạch của Mihari là pha chế một loại thuốc thay đổi hiến pháp sinh học của anh trai cô thành một phụ nữ chân chính, khiến Mahiro mất tinh thần kịch liệt. Bị mắc kẹt trong tình trạng khó khăn này, Mahiro không có lựa chọn nào khác ngoài việc sống cuộc sống của mình như một cô gái dễ thương cho đến khi hiệu ứng mất đi — nếu có.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tGenben',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '15/413882',
+					name: 'Mahiro "Mahiron" Oyama'
+				},
+				{
+					img: '10/405816',
+					name: 'Mihari Oyama'
 				}
 			],
 			support: [
+				{
+					img: '11/405692',
+					name: 'Kaede Hozuki'
+				},
+				{
+					img: '3/413873',
+					name: 'Momiji Hozuki'
+				},
+				{
+					img: '5/405694',
+					name: 'Asahi Ouka'
+				},
+				{
+					img: '5/413872',
+					name: 'Miyo Murosaki'
+				},
 				{
 					img: '',
 					name: ''
@@ -3144,30 +3216,53 @@ const anime = [
 		img: '1049/131580',
 		name: [
 			'Hyouken no Majutsushi ga Sekai wo Suberu',
-			'',
+			'冰剣の魔術師が世界を統べる',
 			'The Iceblade Sorcerer Shall Rule the World'
 		],
 		studio: [
-			sNone
+			sCloudHearts
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '06/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Là thường dân đầu tiên theo học tại Học viện Phép thuật Arnold danh tiếng, Ray White ngay lập tức vấp phải sự khinh miệt từ một số sinh viên đến từ giới quý tộc. Họ không hề hay biết, danh tính thực sự của Ray là của Iceblade Sorcerer nổi tiếng — một anh hùng đã dẫn dắt đất nước đến chiến thắng trong một cuộc chiến trong quá khứ và là một trong bảy thầy phù thủy mạnh nhất còn sống. Bất chấp địa vị huyền thoại của mình, Ray không muốn gì hơn là sống cuộc sống học đường bình thường mà anh chưa từng có.<br>
+			- Ray nhanh chóng kết bạn với một số sinh viên có ảnh hưởng nhất nhờ bản tính tốt bụng và dễ mến của mình. Thật không may, khi những người có động cơ bất chính bắt đầu thực hiện động thái của họ, Ray có thể sớm không còn lựa chọn nào khác ngoài việc sử dụng sức mạnh thực sự của mình để bảo tồn những mối liên kết khiến cuộc sống mới của anh ta trở nên đáng giá.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '7/488801',
+					name: 'Ray White'
+				},
+				{
+					img: '2/488802',
+					name: 'Amelia Rose'
+				},
+				{
+					img: '10/488803',
+					name: 'Elisa Griffith'
 				}
 			],
 			support: [
+				{
+					img: '16/493841',
+					name: 'Claris Cleveland'
+				},
+				{
+					img: '10/493842',
+					name: 'Rebecca Bradley'
+				},
+				{
+					img: '14/493845',
+					name: 'Evi Armstrong'
+				},
 				{
 					img: '',
 					name: ''
@@ -3179,27 +3274,63 @@ const anime = [
 		img: '1491/132864l',
 		name: [
 			'Spy Kyoushitsu',
-			'',
+			'スパイ教室',
 			'Spy Classroom'
 		],
 		studio: [
-			sNone
+			sFeelDot
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '05/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Một thập kỷ trước, nhân loại đã chứng kiến tiềm năng chết người của vũ khí do Đại chiến gây ra. Để tránh một thảm họa khác, các chính phủ trên toàn thế giới đã dùng đến hoạt động gián điệp để thực hiện các chương trình nghị sự của họ.<br>
+			- Tại Cộng hòa Din, Lily là một cô gái trẻ nhiệt tình, khao khát trở thành một điệp viên và phục vụ quốc gia của mình. Tuy nhiên, cô bắt đầu nghi ngờ khả năng của mình, khi cô phải vật lộn để thể hiện tốt trong học tập. Niềm đam mê của Lily được khơi dậy khi cô được đề nghị tốt nghiệp tạm thời bằng cách gia nhập đội gián điệp Lamplight, đội mà cô háo hức chấp nhận bất chấp bản chất bí ẩn của cơ hội.<br>
+			- Khi đến đích, Lily ngạc nhiên khi thấy sáu cô gái khác đang đợi ở đó, tất cả đều phải đối mặt với những khó khăn trong học tập của chính họ. Một người đàn ông bí ẩn tên Klaus sớm xuất hiện và tiết lộ rằng họ phải hoàn thành một "Nhiệm vụ bất khả thi": xâm nhập vào Đế chế Galgad chỉ sau một tháng huấn luyện. Mặc dù nghi ngờ, các cô gái cuối cùng đã đồng ý làm việc cùng nhau dưới sự hướng dẫn của Klaus — vì đây có thể là cơ hội duy nhất để họ chứng minh giá trị của mình với tư cách là gián điệp.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tMystery'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '12/490766',
+					name: 'Klaus "Kagaribi, Bonfire"'
+				},
+				{
+					img: '15/498565',
+					name: 'Lily "Hanazono, Flower Garden"'
+				},
+				{
+					img: '12/498566',
+					name: 'Monika "Hyojin, Glint"'
+				},
+				{
+					img: '15/498567',
+					name: 'Thea "Yumegatari, Dreamspeaker"'
+				},
+				{
+					img: '7/450164',
+					name: 'Sibylla "Hyakki, Pandemonium"'
+				},
+				{
+					img: '4/450162',
+					name: 'Grete "Manamusume, Daughter Dearest"'
+				},
+				{
+					img: '12/498569',
+					name: 'Annett "Bouga, Forgetter"'
+				},
+				{
+					img: '8/498570',
+					name: 'Sara "Sougen, Meadow"'
+				},
+				{
+					img: '6/490734',
+					name: 'Erna "Gujin, Fool"'
 				}
 			],
 			support: [
@@ -3214,30 +3345,49 @@ const anime = [
 		img: '1444/131828',
 		name: [
 			'Tomo-chan wa Onnanoko!',
-			'',
+			'トモちゃんは女の子！',
 			'Tomo-chan Is a Girl!'
 		],
 		studio: [
-			sNone
+			sLayduce
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '05/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Những người bạn thời thơ ấu Tomo Aizawa và Junichirou "Jun" Kubota làm mọi thứ cùng nhau, cho dù đó là đào tạo hay chỉ là tận hưởng một ngày vui vẻ. Bất cứ ai cũng sẽ nghĩ rằng hai người này là bạn thân suốt đời. Vấn đề duy nhất là Tomo tomboyish đang yêu Jun, nhưng anh ấy coi cô ấy như một người anh trai.<br>
+			- Vào đầu năm đầu tiên của trường trung học, Tomo đã thổ lộ tình cảm của mình với Jun. Tuy nhiên, cách cư xử thô bạo của cô ấy và thiếu do dự khi tung ra một cú đấm không làm gì làm lung lay trái tim Jun. Nhận ra rằng anh ấy sẽ vẫn thờ ơ với tình cảm của cô ấy trừ khi cô ấy làm điều gì đó với nó, Tomo phải tìm cách đánh bật một số ý nghĩa vào Jun và mở mắt ra những gì ngay trước mặt anh ấy.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '9/502103',
+					name: 'Tomo Aizawa'
+				},
+				{
+					img: '6/502094',
+					name: 'Junichirou "Jun" Kubota'
 				}
 			],
 			support: [
+				{
+					img: '16/500028',
+					name: 'Misuzu Gundou'
+				},
+				{
+					img: '6/502097',
+					name: 'Carol "Cotton Candy" Olston'
+				},
+				{
+					img: '4/502099',
+					name: 'Kousuke Misaki'
+				},
 				{
 					img: '',
 					name: ''
@@ -3249,33 +3399,71 @@ const anime = [
 		img: '1189/111994',
 		name: [
 			'Tanaka-kun wa Itsumo Kedaruge',
-			'',
+			'田中くんはいつもけだるげ',
 			'Tanaka-kun is Always Listless'
 		],
 		studio: [
-			sNone
+			sSilverLink
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Spring 2016',
+		aired: '09/04/2016 - 25/06/2016',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Đối với học sinh trung học Tanaka, hành động bơ phờ là một cách sống. Được biết đến với sự thiếu chú ý và khả năng ngủ ở bất cứ đâu, Tanaka cầu nguyện rằng mỗi ngày sẽ không đồng đều như lần trước, tìm cách duy trì lối sống lười biếng của mình bằng cách tránh những tình huống đòi hỏi anh phải nỗ lực. Cùng với người bạn đáng tin cậy Oota, người giúp anh ta thực hiện các nhiệm vụ mà anh ta không thể hoàn thành, cậu thiếu niên thờ ơ liên tục đối phó với các sự kiện ngăn cản anh ta trải qua những ngày yên tĩnh và yên bình mà anh ta khao khát.
 		`,
 		tag: [
-			''
+			'tIyashikei',
+			'tSchool',
+			'tSliceOfLife'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '3/301027',
+					name: 'Tanaka'
+				},
+				{
+					img: '16/493997',
+					name: 'Oota'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '9/306144',
+					name: 'Echizen'
+				},
+				{
+					img: '7/303358',
+					name: '"Myaano" Miyano'
+				},
+				{
+					img: '16/315052',
+					name: '"Shi-chan" Shiraishi'
+				},
+				{
+					img: '13/303182',
+					name: 'Saya Oota'
+				},
+				{
+					img: '16/303185',
+					name: 'Rino Tanaka'
+				},
+				{
+					img: '10/303181',
+					name: 'Katou'
+				},
+				{
+					img: '2/303183',
+					name: 'Shimura'
+				},
+				{
+					img: '2/315157',
+					name: '"Micchan" Miyoshi'
+				},
+				{
+					img: '16/306708',
+					name: 'Saionji'
 				}
 			]
 		}
@@ -3284,33 +3472,47 @@ const anime = [
 		img: '1832/132333l',
 		name: [
 			'Inu ni Nattara Suki na Hito ni Hirowareta',
-			'',
+			'犬になったら好きな人に拾われた。',
 			"My Life as Inukai-san's Dog"
 		],
 		studio: [
-			sNone
+			sQuad
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
-		rating: 'PG-13',
+		season: 'Winter 2023',
+		aired: '07/01/2023 - ??/??/2023',
+		rating: 'R+',
 		synopsis: `
-
+			- Vào một buổi chiều mưa, một nam học sinh trung học thức dậy đóng băng trên đường phố mà không nhớ mình đã đến đó bằng cách nào. Bạn cùng lớp và người yêu của anh ấy, Karen Inukai, tìm thấy anh ấy và đưa anh ấy trở về nhà của cô ấy, nơi trước sự ngạc nhiên của anh ấy, cô ấy bắt đầu cởi quần áo. Cô ấy dường như có ý định tắm với anh ấy, mặc dù anh ấy không biết tại sao. Khi cô ấy ôm anh ấy một lần nữa, anh ấy nhìn thoáng qua mình trong gương — phát hiện ra rằng anh ấy đã biến thành một!<br>
+			- Inukai nhận nuôi chú chó con và đặt tên cho nó là Pochita. Bây giờ, anh ta phải thích nghi với cuộc sống như một và tìm ra cách thoát khỏi tình trạng khó khăn kỳ lạ này. Nhưng trong khi nghiền ngẫm về một kế hoạch trốn thoát, Pochita nhìn thấy một khía cạnh hoàn toàn mới đối với Inukai mà anh chưa từng thấy ở trường.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tEcchi'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '12/484217',
+					name: 'Pochita'
+				},
+				{
+					img: '13/484414',
+					name: 'Karen Inukai'
+				},
+				{
+					img: '9/484415',
+					name: 'Mike Nekotani'
+				},
+				{
+					img: '11/484417',
+					name: 'Usagi Tsukishiro'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '5/499421',
+					name: "Karen's Mother"
 				}
 			]
 		}
@@ -3319,30 +3521,71 @@ const anime = [
 		img: '1927/132758l',
 		name: [
 			'Koori Zokusei Danshi to Cool na Douryou Joshi',
-			'',
+			'氷属性男子とクールな同僚女子',
 			'The Ice Guy and His Cool Female Colleague'
 		],
 		studio: [
-			sNone
+			sZeroG,
+			sLiber
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '04/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Himuro-kun tốt bụng thật không may: khi ở trong sự tập trung sâu sắc, căng thẳng hoặc bối rối, anh ta vô tình tạo ra điều kiện bão tuyết cho bản thân và bất kỳ ai trong vùng lân cận. Trong một sự cố như vậy vào ngày đầu tiên của công việc mới, Himuro-kun gặp Fuyutsuki-san xinh đẹp, người giúp anh thoát ra khỏi lớp băng do thần kinh gây ra. Hóa ra, Fuyutsuki-san là đồng nghiệp mới của anh ấy.<br>
+			- Tại văn phòng, Fuyutsuki-san đầu lạnh đưa ra các giải pháp đơn giản và hợp lý cho những tình huống khó xử băng giá của Himuro-kun — mọi thứ từ giúp anh ta làm vườn mà không bị đóng băng cây cối đến đảm bảo anh ta không tan chảy trong thời gian nghỉ ngơi làm việc nhiệt đới của họ. Mỗi khi Fuyutsuki-san làm điều gì đó tử tế cho anh ta, cơn bão cảm xúc mà anh ta trải qua bên trong lại thể hiện một cách đáng xấu hổ ở bên ngoài.<br>
+			- Do những cơn bão tuyết thường xuyên, tình cảm của Himuro-kun dành cho Fuyutsuki-san là không thể che giấu. Mặc dù Fuyutsuki-san không quen thuộc với tình yêu, Himuro-kun vẫn quyết tâm đáp lại lòng tốt và sưởi ấm trái tim cô bằng mọi cách có thể.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '4/501127',
+					name: 'Himuro-kun'
+				},
+				{
+					img: '15/501126',
+					name: 'Fuyutsuki-san "Fuyutsuki Santa"'
 				}
 			],
 			support: [
+				{
+					img: '16/501133',
+					name: 'Yukimin'
+				},
+				{
+					img: '7/501132',
+					name: 'Saejima-kun'
+				},
+				{
+					img: '8/501130',
+					name: 'Komori-san'
+				},
+				{
+					img: '15/501129',
+					name: 'Katori-kun'
+				},
+				{
+					img: '9/501131',
+					name: 'Otonashi-san'
+				},
+				{
+					img: '3/499163',
+					name: 'Buddha Manager'
+				},
+				{
+					img: '3/503428',
+					name: 'President'
+				},
+				{
+					img: '16/499513',
+					name: 'Nyamerou'
+				},
 				{
 					img: '',
 					name: ''
