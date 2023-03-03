@@ -1,5 +1,3 @@
-copyCreate();
-
 function copyCreate()	 {
 	let copy1 = document.querySelectorAll('h1');
 	let copy2 = document.querySelectorAll('h2');

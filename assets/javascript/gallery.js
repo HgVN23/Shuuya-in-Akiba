@@ -1,12 +1,10 @@
+document.querySelector('.left').addEventListener('click', left);
+document.querySelector('.right').addEventListener('click', right);
 let page = 0;
-check();
-addAnime();
-
 let max = 0;
-do{
-	max++;
-} while(max * 25 < anime.length);
-document.querySelector('.numberMax').textContent = `/${max}`
+let listPresent = anime;
+getMax(listPresent);
+run(listPresent);
 
 const numberInput = document.querySelector('.numberInput');
 function numberOnly(e) {
@@ -25,57 +23,68 @@ numberInput.addEventListener('keydown', (e)=>{
 			page = 0;
 		else
 			page = numberInput.value - 1;
-		run();
+		run(listPresent);
+		numberInput.value = page + 1;
 	}
 });
 
-document.querySelector('.left').addEventListener('click', left);
-document.querySelector('.right').addEventListener('click', right);
+function getMax(list) {
+	max = 0;
+	do{
+		max++;
+	} while(max * 25 < list.length);
+	document.querySelector('.numberMax').textContent = `/${max}`;
+}
+
 function left() {
 	if(page > 0) {
 		page--;
-		run();
+		run(listPresent);
+		numberInput.value = page + 1;
 	}
 }
 function right() {
-	if((page + 1) * 25 < anime.length) {
+	if(page + 1 < max) {
 		page++;
-		run();
+		run(listPresent);
+		numberInput.value = page + 1;
 	}
 }
 
-function run() {
-	check();
+function run(list) {
+	listPresent = list;
+	setLimit();
 	removeAnime();
-	addAnime();
+	addAnime(list);
 	moreInfoCreate();
-	copyCreate()
-	numberInput.value = page + 1;
+	copyCreate();
 }
 
-function check() {
+function setLimit() {
 	if(page == 0)
 		document.querySelector('.left').classList.add('turnOff');
 	else
 		document.querySelector('.left').classList.remove('turnOff');
-	if((page + 1) * 25 >= anime.length)
+	if(page + 1 == max)
 		document.querySelector('.right').classList.add('turnOff');
 	else
 		document.querySelector('.right').classList.remove('turnOff');
 }
 
 function removeAnime() {
-	document.querySelector('.gallery').remove();
-	const galleryCreate = document.createElement('div');
-	galleryCreate.classList.add('gallery')
-	document.querySelector('body').appendChild(galleryCreate);
+	if(document.querySelector('.gallery').children) {
+		document.querySelector('.gallery').remove();
+		const galleryCreate = document.createElement('div');
+		galleryCreate.classList.add('gallery')
+		document.querySelector('body').appendChild(galleryCreate);
+	}
 }
 
-function addAnime() {
+function addAnime(list) {
 	for(var i = page * 25 + 1; i <= (page + 1) * 25; i++) {
-		if(i > anime.length - 1)
+		if(i > list.length - 1)
 			break;
-		var temp = anime[i];
+		var temp = list[i];
 		let img = temp.img;
 		let name = temp.name[0];
 		let altName = ``;

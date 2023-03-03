@@ -111,6 +111,7 @@ header {
 	height: 16px;
 	filter: brightness(100);
 	margin: 5px;
+	cursor: pointer;
 }
 .searchIcon:hover {
 	filter: brightness(1);
@@ -126,6 +127,24 @@ header {
 	margin: 0;
 	display: inline-block;
 }
+.button {
+	background-color: #4184ff;
+	border: var(--border);
+	border-color: transparent;
+	border-radius: 1rem;
+	width: fit-content;
+	margin: 1rem auto;
+	padding: .5rem;
+	display: block;
+	text-decoration: none;
+	transition: .3s;
+}
+.button:hover {
+	background-color: #1b69f8;
+}
+
+
+
 
 
 .slider {
