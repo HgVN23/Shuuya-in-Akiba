@@ -3597,30 +3597,67 @@ const anime = [
 		img: '1053/129004',
 		name: [
 			'Tensei Oujo to Tensai Reijou no Mahou Kakumei',
-			'',
+			'転生王女と天才令嬢の魔法革命',
 			'The Magical Revolution of the Reincarnated Princess and the Genius Young Lady'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '04/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Công chúa Anisphia "Anis" Wynn Palletia luôn mơ ước được bay trên bầu trời, mặc dù người dân trong vương quốc của cô coi đó là một tham vọng ngớ ngẩn. Cũng mâu thuẫn với mục tiêu của cô là việc Anis không có khả năng sử dụng phép thuật mặc dù địa vị cao quý của cô. Không chịu bỏ cuộc dễ dàng như vậy, cô từ bỏ quyền lên ngôi và tập trung vào việc phát triển "phép thuật học" bằng cách kết hợp nhiều nguồn lực khác nhau với kiến thức từ kiếp trước trên Trái đất.<br>
+			- Do bản chất của Anis, trách nhiệm đối với tương lai của vương quốc được chuyển cho em trai cô, Algard. Bị đẩy vào một cuộc hôn nhân chính trị với Euphyllia Magenta, một cô gái mà anh hầu như không biết, Algard nổi loạn bằng cách dành nhiều thời gian cho một cô gái bình thường hơn là vị hôn thê của mình. Sau khi Euphyllia cố gắng can thiệp, Algard đã công khai hủy bỏ cuộc hôn nhân của họ và tố cáo vị hôn thê cũ của mình là một kẻ bắt nạt.<br>
+			- Sau khi đâm vào bữa tiệc nơi Algard đưa ra thông báo, Anis giải cứu Euphyllia trên cây chổi bay mà cô đang thử nghiệm. Cô quyết định biến Euphyllia thành trợ lý của mình, điều mà cô gái kia miễn cưỡng đồng ý. Mặc dù quan hệ đối tác của họ thoạt đầu có vẻ ngẫu nhiên, Anis có một động cơ thầm kín để muốn công ty của Euphyllia.
 		`,
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tYuri'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '7/484686',
+					name: 'Anisphia "Marauder Princess" Wynn Palletia'
+				},
+				{
+					img: '14/484687',
+					name: 'Euphyllia "Euphie" Magenta'
 				}
 			],
 			support: [
+				{
+					img: '14/490187',
+					name: 'Ilia Coral'
+				},
+				{
+					img: '14/490189',
+					name: 'Lainie Cyan'
+				},
+				{
+					img: '13/490190',
+					name: 'Tilty Claret'
+				},
+				{
+					img: '3/490188',
+					name: 'Algard von Palletia'
+				},
+				{
+					img: '15/502048',
+					name: 'Orphans II Palletia'
+				},
+				{
+					img: '10/502725',
+					name: 'Sylphine Maise Palletia'
+				},
+				{
+					img: '13/499842',
+					name: 'Grantz Magenta'
+				},
 				{
 					img: '',
 					name: ''
@@ -3632,30 +3669,53 @@ const anime = [
 		img: '1446/131578',
 		name: [
 			'Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu',
-			'',
+			'人間不信の冒険者たちが世界を救うようです',
 			"Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World"
 		],
 		studio: [
-			sNone
+			sGeekToys
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '10/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Nhà thám hiểm kỳ cựu Nick, pháp sư Tiana, giáo sĩ Zem và Curran nửa rồng mỗi người xuất hiện một mình tại một quán rượu, chỉ để thấy mình ngồi cùng bàn. Khi màn đêm buông xuống, họ thay phiên nhau tiết lộ những bất bình của mình và những sở thích mà họ đã coi là một phương tiện để đối phó. Mặc dù câu chuyện của họ hoàn toàn khác nhau, nhưng có một điểm chung: sự phản bội. Mỗi người trong số bốn người, đã bị phản bội cay đắng bởi một người mà họ trân trọng, đã phát triển một sự mất lòng tin sâu sắc vào nhân loại.<br>
+			- Nhưng ngoài thế giới quan tương tự của họ, cả bốn còn có một điểm chung nữa: thiếu vốn nghiêm trọng. Nhận ra rằng mọi thứ không thể tiếp tục như hiện tại, họ quyết định thành lập một bữa tiệc, thăng hạng và kiếm càng nhiều tiền càng tốt để chi tiêu cho các sở thích tương ứng của họ. Tuy nhiên, điều mà những nhà thám hiểm vỡ mộng này không biết là một ngày nào đó họ sẽ cứu thế giới khỏi nguy hiểm khó lường.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '8/490299',
+					name: 'Nick'
+				},
+				{
+					img: '13/490298',
+					name: 'Curran'
+				},
+				{
+					img: '15/490300',
+					name: 'Tiana'
+				},
+				{
+					img: '12/490301',
+					name: 'Zem'
 				}
 			],
 			support: [
+				{
+					img: '4/490296',
+					name: 'Kizuna'
+				},
+				{
+					img: '10/490297',
+					name: 'Agate "Bell"'
+				},
 				{
 					img: '',
 					name: ''
@@ -3667,33 +3727,70 @@ const anime = [
 		img: '10/89671',
 		name: [
 			'Himouto! Umaru-chan R',
-			'',
-			''
+			'干物妹！うまるちゃんR'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Fall 2017',
+		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Umaru Doma là một học sinh kiểu mẫu có một khía cạnh ẩn giấu: khi về nhà mỗi ngày, cô mặc chiếc áo hoodie hamster của mình và biến thành một otaku chậm chạp thích đồ ăn vặt. Khi Umaru tiếp tục những trò hề hàng ngày này, tình bạn giữa cô và các bạn cùng lớp — Nana Ebina, Kirie Motoba và Sylphinford Tachibana — ngày càng sâu sắc, và ngày càng có nhiều sự kiện thú vị bắt đầu diễn ra.<br>
+			- Tất nhiên, những sự kiện này làm nảy sinh nhiều câu hỏi. Nana đã hỏi gì về Taihei, anh trai của Umaru? Cô gái bí ẩn với chiếc kẹp tóc kim cương là ai? Và quan trọng nhất của tất cả: tại sao cô gái này dường như biết Umaru? Những câu hỏi này và nhiều hơn nữa sẽ được trả lời trong Himouto! Umaru-chan R!
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '11/288277',
+					name: 'Umaru "Komaru, U.M.R., Tanukichi" Doma'
+				},
+				{
+					img: '12/292186',
+					name: 'Taihei Doma'
+				},
+				{
+					img: '16/289572',
+					name: 'Nana Ebina'
+				},
+				{
+					img: '15/306337',
+					name: 'Kirie Motoba'
+				},
+				{
+					img: '7/288275',
+					name: 'Sylphinford "Sylphin, T.S.F." Tachibana'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '14/286779',
+					name: 'Kanau Kongou'
+				},
+				{
+					img: '3/287722',
+					name: 'Hikari Kongou'
+				},
+				{
+					img: '8/343202',
+					name: 'Kouichirou Ebina'
+				},
+				{
+					img: '15/286772',
+					name: 'Takeshi "Bomber" Motoba'
+				},
+				{
+					img: '8/286771',
+					name: 'Alex Tachibana'
+				},
+				{
+					img: '4/378330',
+					name: 'Miki Tachibana'
 				}
 			]
 		}
@@ -3702,33 +3799,45 @@ const anime = [
 		img: '7/76826',
 		name: [
 			'Himouto! Umaru-chan OVA',
-			'',
-			''
+			'干物妹！うまるちゃん OVA'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'OVA',
+		season: 'Fall 2015',
+		aired: '19/10/2015 - 19/04/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Các tập phim được bao gồm trong tập thứ bảy và thứ mười của manga.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '11/288277',
+					name: 'Umaru "Komaru, U.M.R., Tanukichi" Doma'
+				},
+				{
+					img: '12/292186',
+					name: 'Taihei Doma'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/289572',
+					name: 'Nana Ebina'
+				},
+				{
+					img: '15/306337',
+					name: 'Kirie Motoba'
+				},
+				{
+					img: '7/288275',
+					name: 'Sylphinford "Sylphin, T.S.F." Tachibana'
 				}
 			]
 		}
@@ -3737,33 +3846,62 @@ const anime = [
 		img: '12/75086',
 		name: [
 			'Himouto! Umaru-chan',
-			'',
-			''
+			'干物妹！うまるちゃん'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Summer 2015',
+		aired: '09/07/2015 - 24/09/2015',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Mọi người không phải lúc nào cũng giống như họ xuất hiện, như trường hợp của Umaru Doma, nữ sinh trung học hoàn hảo — nghĩa là cho đến khi cô ấy về nhà! Khi cửa trước đóng lại, niềm vui thực sự bắt đầu. Khi mặc áo hoodie hamster của mình, cô ấy biến đổi từ một học sinh tinh tế, thành tích quá mức thành một otaku lười biếng, ăn đồ ăn vặt, để lại tất cả công việc nhà cho anh trai Taihei có trách nhiệm của cô ấy. Cho dù cô ấy đang đi chơi với bạn bè Nana Ebina và Kirie Motoba, hay cạnh tranh với "đối thủ" tự xưng là Sylphinford Tachibana, Umaru biết cách quay trở lại và vui chơi!<br>
+			- Himouto! Umaru-chan là một câu chuyện dễ thương kể về cuộc phiêu lưu hàng ngày của Umaru và Taihei, khi họ chăm sóc — và chịu đựng — lẫn nhau tốt nhất có thể, cũng như mối quan hệ không thể phá vỡ giữa bạn bè và anh chị em.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '11/288277',
+					name: 'Umaru "Komaru, U.M.R., Tanukichi" Doma'
+				},
+				{
+					img: '12/292186',
+					name: 'Taihei Doma'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/289572',
+					name: 'Nana Ebina'
+				},
+				{
+					img: '15/306337',
+					name: 'Kirie Motoba'
+				},
+				{
+					img: '7/288275',
+					name: 'Sylphinford "Sylphin, T.S.F." Tachibana'
+				},
+				{
+					img: '14/286779',
+					name: 'Kanau Kongou'
+				},
+				{
+					img: '15/286772',
+					name: 'Takeshi "Bomber" Motoba'
+				},
+				{
+					img: '8/286771',
+					name: 'Alex Tachibana'
+				},
+				{
+					img: '14/307601',
+					name: 'Nene Ebina'
 				}
 			]
 		}
@@ -3772,33 +3910,155 @@ const anime = [
 		img: '1854/121605',
 		name: [
 			'Isekai Quartet Movie: Another World',
-			'',
-			''
+			'劇場版 異世界かるてっと ～あなざーわーるど～'
 		],
 		studio: [
-			sNone
+			sStudioPuYUKAI
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'Movie',
+		season: 'Spring 2022',
+		aired: '10/06/2022',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Cả lớp đến một thế giới khác và họ gặp phải một môi trường hoang vắng bị chi phối bởi một máy tự động ma thuật hoành hành.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '5/340506',
+					name: 'Momonga "Ainz Ooal Gown, Momon"'
+				},
+				{
+					img: '9/340508',
+					name: 'Albedo'
+				},
+				{
+					img: '8/331910',
+					name: 'Kazuma Satou'
+				},
+				{
+					img: '14/282523',
+					name: 'Aqua "Goddess of Water, Damegami"'
+				},
+				{
+					img: '15/319694',
+					name: 'Tanya "Devil of the Rhine" Degurechaff'
+				},
+				{
+					img: '14/319116',
+					name: 'Viktoriya Ivanovna "Visha" Serebryakova'
+				},
+				{
+					img: '15/476652',
+					name: 'Subaru "Barusu" Natsuki'
+				},
+				{
+					img: '10/268173',
+					name: 'Emilia "Satella, Lia"'
+				},
+				{
+					img: '5/410140',
+					name: 'Naofumi "Shield Hero" Iwatani'
+				},
+				{
+					img: '9/388994',
+					name: 'Raphtalia'
+				},
+				{
+					img: '9/388995',
+					name: 'Filo "Firo"'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '13/481847',
+					name: 'Alec'
+				},
+				{
+					img: '2/481916',
+					name: 'Pantagruel'
+				},
+				{
+					img: '9/481912',
+					name: 'Vera Metrohina'
+				},
+				{
+					img: '12/340509',
+					name: 'Shalltear "Bloody Valkyrie, Honyopenyoko, Shall" Bloodfallen'
+				},
+				{
+					img: '11/340514',
+					name: 'Cocytus "Ice Ruler"'
+				},
+				{
+					img: '3/340512',
+					name: 'Demiurge "Infernal Prison Creator"'
+				},
+				{
+					img: '16/340510',
+					name: 'Aura Bella Fiora'
+				},
+				{
+					img: '12/340511',
+					name: 'Mare Bello Fiore'
+				},
+				{
+					img: '14/349249',
+					name: 'Megumin'
+				},
+				{
+					img: '14/266229',
+					name: 'Lalatina "Darkness" Dustiness Ford'
+				},
+				{
+					img: '15/315990',
+					name: 'Head Researcher'
+				},
+				{
+					img: '14/358637',
+					name: 'Warren Grantz'
+				},
+				{
+					img: '11/358638',
+					name: 'Wilibald "Wili" Koenig'
+				},
+				{
+					img: '9/358640',
+					name: 'Rhiner Neumann'
+				},
+				{
+					img: '2/326487',
+					name: 'Matheus Johann Weiss'
+				},
+				{
+					img: '11/303059',
+					name: 'Pack'
+				},
+				{
+					img: '3/325034',
+					name: 'Ram'
+				},
+				{
+					img: '3/311910',
+					name: 'Rem'
+				},
+				{
+					img: '11/315230',
+					name: 'Beatrice "Betty, Beako"'
+				},
+				{
+					img: '3/438832',
+					name: 'Otto Suwen'
+				},
+				{
+					img: '13/318349',
+					name: 'Garfiel "Garf" Tinsel'
 				}
 			]
 		}
@@ -3807,33 +4067,232 @@ const anime = [
 		img: '1030/103383',
 		name: [
 			'Isekai Quartet 2',
-			'',
-			''
+			'異世界かるてっと2'
 		],
 		studio: [
-			sNone
+			sStudioPuYUKAI
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2020',
+		aired: '15/01/2020 - 01/04/2020',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Mặc dù đã hoàn thành tất cả các nhiệm vụ được giao cho họ, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki và các thành viên khác của Lớp 2 rất ngạc nhiên khi biết rằng vai trò học sinh của họ còn lâu mới kết thúc. Không có phương tiện để trở về nhà, tầng lớp tính cách lập dị vẫn bị mắc kẹt một cách bí ẩn trong thế giới xa lạ. Mặc dù, khi họ đang trở nên khá yêu nhau, dành nhiều thời gian hơn cho nhau nghe có vẻ không tệ.<br>
+			- Với sự xuất hiện bất ngờ của các sinh viên chuyển trường mới, những trò hề hài hước của các nhân vật yêu quý của chúng ta tiếp tục phát triển. Do đó, cuộc sống học đường kỳ lạ nhưng thờ ơ của họ vẫn tiếp tục.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '5/340506',
+					name: 'Momonga "Ainz Ooal Gown, Momon"'
+				},
+				{
+					img: '9/340508',
+					name: 'Albedo'
+				},
+				{
+					img: '8/331910',
+					name: 'Kazuma Satou'
+				},
+				{
+					img: '14/282523',
+					name: 'Aqua "Goddess of Water, Damegami"'
+				},
+				{
+					img: '15/319694',
+					name: 'Tanya "Devil of the Rhine" Degurechaff'
+				},
+				{
+					img: '14/319116',
+					name: 'Viktoriya Ivanovna "Visha" Serebryakova'
+				},
+				{
+					img: '15/476652',
+					name: 'Subaru "Barusu" Natsuki'
+				},
+				{
+					img: '10/268173',
+					name: 'Emilia "Satella, Lia"'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '5/410140',
+					name: 'Naofumi "Shield Hero" Iwatani'
+				},
+				{
+					img: '9/388994',
+					name: 'Raphtalia'
+				},
+				{
+					img: '9/388995',
+					name: 'Filo "Firo"'
+				},
+				{
+					img: '2/389136',
+					name: 'Seiya Ryuuguuin'
+				},
+				{
+					img: '13/389138',
+					name: 'Ristarte'
+				},
+				{
+					img: '12/340509',
+					name: 'Shalltear "Bloody Valkyrie, Honyopenyoko, Shall" Bloodfallen'
+				},
+				{
+					img: '11/340514',
+					name: 'Cocytus "Ice Ruler"'
+				},
+				{
+					img: '3/340512',
+					name: 'Demiurge "Infernal Prison Creator"'
+				},
+				{
+					img: '16/340510',
+					name: 'Aura Bella Fiora'
+				},
+				{
+					img: '12/340511',
+					name: 'Mare Bello Fiore'
+				},
+				{
+					img: '11/340515',
+					name: 'Sebas Tian'
+				},
+				{
+					img: '15/500558',
+					name: 'Entoma Vasilissa Zeta'
+				},
+				{
+					img: '12/362244',
+					name: 'Yuri Alpha'
+				},
+				{
+					img: '5/316019',
+					name: 'Lupusregina Beta'
+				},
+				{
+					img: '13/287342',
+					name: 'CZ2128 Delta "CZ, Shizu"'
+				},
+				{
+					img: '14/362238',
+					name: 'Solution Epsilon'
+				},
+				{
+					img: '5/340516',
+					name: 'Narberal "Nabel" Gamma'
+				},
+				{
+					img: '8/340531',
+					name: 'Hamusuke "Virtuous King of the Forest"'
+				},
+				{
+					img: '7/365408',
+					name: 'Kyouhukou'
+				},
+				{
+					img: '7/482199',
+					name: "Pandora's Actor"
+				},
+				{
+					img: '14/349249',
+					name: 'Megumin'
+				},
+				{
+					img: '14/266229',
+					name: 'Lalatina "Darkness" Dustiness Ford'
+				},
+				{
+					img: '15/277949',
+					name: 'Chris'
+				},
+				{
+					img: '13/307929',
+					name: 'Vanir'
+				},
+				{
+					img: '14/339607',
+					name: 'Wiz'
+				},
+				{
+					img: '4/303811',
+					name: 'Arakuremono'
+				},
+				{
+					img: '14/358637',
+					name: 'Warren Grantz'
+				},
+				{
+					img: '11/358638',
+					name: 'Wilibald "Wili" Koenig'
+				},
+				{
+					img: '9/358640',
+					name: 'Rhiner Neumann'
+				},
+				{
+					img: '2/326487',
+					name: 'Matheus Johann Weiss'
+				},
+				{
+					img: '10/319122',
+					name: 'Erich von Lergen'
+				},
+				{
+					img: '15/319693',
+					name: 'Kurt von Rudersdorf'
+				},
+				{
+					img: '10/370124',
+					name: 'Hans von Zettour'
+				},
+				{
+					img: '11/303059',
+					name: 'Pack'
+				},
+				{
+					img: '3/325034',
+					name: 'Ram'
+				},
+				{
+					img: '3/311910',
+					name: 'Rem'
+				},
+				{
+					img: '11/315230',
+					name: 'Beatrice "Betty, Beako"'
+				},
+				{
+					img: '9/268225',
+					name: 'Roswaal L. Mathers'
+				},
+				{
+					img: '12/268235',
+					name: 'Wilhelm "Sword Demon" van Astrea'
+				},
+				{
+					img: '6/468591',
+					name: 'Reinhard van Astrea'
+				},
+				{
+					img: '5/480481',
+					name: 'Julius "Valuable Knight" Euclius'
+				},
+				{
+					img: '9/315231',
+					name: 'Felt'
+				},
+				{
+					img: '5/433803',
+					name: 'Petelgeuse Romanée-Conti'
 				}
 			]
 		}
@@ -3842,33 +4301,192 @@ const anime = [
 		img: '1965/99667',
 		name: [
 			'Isekai Quartet',
-			'',
-			''
+			'異世界かるてっと'
 		],
 		studio: [
-			sNone
+			sStudioPuYUKAI
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Spring 2019',
+		aired: '10/04/2019 - 26/06/2019',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Đó là một ngày bình thường; tất cả mọi người từ cô gái quân nhân loạn trí Tanya Degurechaff và nhân vật chính isekai 16 tuổi Satou Kazuma đến lãnh chúa bành trướng Ainz Ooal Gown và chị em quỷ Rem và Ram tiếp tục cuộc sống hàng ngày của họ. Đột nhiên, một nút màu đỏ dễ thấy cầu xin được nhấn xuất hiện trước mặt họ. Vượt qua sự tò mò, các nhân vật ở thế giới khác nhấn nút, đưa họ đến một thế giới xa lạ.<br>
+			- Không có cách nào trốn thoát, các nhân vật phải có một cuộc sống học đường bình thường và làm quen với những người khác. Có một điều chắc chắn: lớp học đầy những tính cách lập dị được người hâm mộ yêu thích không bao giờ trở nên nhàm chán!
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '5/340506',
+					name: 'Momonga "Ainz Ooal Gown, Momon"'
+				},
+				{
+					img: '9/340508',
+					name: 'Albedo'
+				},
+				{
+					img: '8/331910',
+					name: 'Kazuma Satou'
+				},
+				{
+					img: '14/282523',
+					name: 'Aqua "Goddess of Water, Damegami"'
+				},
+				{
+					img: '15/319694',
+					name: 'Tanya "Devil of the Rhine" Degurechaff'
+				},
+				{
+					img: '14/319116',
+					name: 'Viktoriya Ivanovna "Visha" Serebryakova'
+				},
+				{
+					img: '15/476652',
+					name: 'Subaru "Barusu" Natsuki'
+				},
+				{
+					img: '10/268173',
+					name: 'Emilia "Satella, Lia"'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '12/340509',
+					name: 'Shalltear "Bloody Valkyrie, Honyopenyoko, Shall" Bloodfallen'
+				},
+				{
+					img: '11/340514',
+					name: 'Cocytus "Ice Ruler"'
+				},
+				{
+					img: '3/340512',
+					name: 'Demiurge "Infernal Prison Creator"'
+				},
+				{
+					img: '16/340510',
+					name: 'Aura Bella Fiora'
+				},
+				{
+					img: '12/340511',
+					name: 'Mare Bello Fiore'
+				},
+				{
+					img: '12/362244',
+					name: 'Yuri Alpha'
+				},
+				{
+					img: '13/287342',
+					name: 'CZ2128 Delta "CZ, Shizu"'
+				},
+				{
+					img: '8/340531',
+					name: 'Hamusuke "Virtuous King of the Forest"'
+				},
+				{
+					img: '7/482199',
+					name: "Pandora's Actor"
+				},
+				{
+					img: '14/349249',
+					name: 'Megumin'
+				},
+				{
+					img: '14/266229',
+					name: 'Lalatina "Darkness" Dustiness Ford'
+				},
+				{
+					img: '9/323944',
+					name: 'Yunyun'
+				},
+				{
+					img: '3/298810',
+					name: 'Eris'
+				},
+				{
+					img: '15/277949',
+					name: 'Chris'
+				},
+				{
+					img: '13/307929',
+					name: 'Vanir'
+				},
+				{
+					img: '4/303811',
+					name: 'Arakuremono'
+				},
+				{
+					img: '14/358637',
+					name: 'Warren Grantz'
+				},
+				{
+					img: '11/358638',
+					name: 'Wilibald "Wili" Koenig'
+				},
+				{
+					img: '9/358640',
+					name: 'Rhiner Neumann'
+				},
+				{
+					img: '2/326487',
+					name: 'Matheus Johann Weiss'
+				},
+				{
+					img: '10/319122',
+					name: 'Erich von Lergen'
+				},
+				{
+					img: '15/319693',
+					name: 'Kurt von Rudersdorf'
+				},
+				{
+					img: '10/370124',
+					name: 'Hans von Zettour'
+				},
+				{
+					img: '7/326488',
+					name: 'Adelheid von Schugel'
+				},
+				{
+					img: '11/303059',
+					name: 'Pack'
+				},
+				{
+					img: '3/325034',
+					name: 'Ram'
+				},
+				{
+					img: '3/311910',
+					name: 'Rem'
+				},
+				{
+					img: '11/315230',
+					name: 'Beatrice "Betty, Beako"'
+				},
+				{
+					img: '9/268225',
+					name: 'Roswaal L. Mathers'
+				},
+				{
+					img: '6/468591',
+					name: 'Reinhard van Astrea'
+				},
+				{
+					img: '5/480481',
+					name: 'Julius "Valuable Knight" Euclius'
+				},
+				{
+					img: '9/315231',
+					name: 'Felt'
+				},
+				{
+					img: '8/339561',
+					name: 'Rom'
 				}
 			]
 		}

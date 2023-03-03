@@ -20,7 +20,7 @@
 	content: 'Drama';
 }
 .tDrama::after {
-	content: 'Thâu tóm cảm xúc';
+	content: 'Nhiều cảm xúc';
 }
 .tEcchi::before {
 	content: 'Ecchi';
@@ -44,7 +44,7 @@
 	content: 'Genben';
 }
 .tGenben::after {
-	content: 'Gender-Bender: Hoán đổi giới tính';
+	content: 'Hoán đổi giới tính';
 }
 .tGourmet::before {
 	content: 'Gourmet';
@@ -118,6 +118,12 @@
 .tMythology::after {
 	content: 'Thần thoại';
 }
+.tParody::before {
+	content: 'Parody';
+}
+.tParody::after {
+	content: 'Chi tiết từ bộ khác';
+}
 .tPsychological::before {
 	content: 'Psychological';
 }
@@ -146,7 +152,7 @@
 	content: 'Sci-Fi';
 }
 .tSciFi::after {
-	content: 'Science-Fiction: Khoa học viễn tưởng';
+	content: 'Khoa học viễn tưởng';
 }
 .tSeinen::before {
 	content: 'Seinen';
@@ -216,6 +222,7 @@
 .tMilitary::after,
 .tMystery::after,
 .tMythology::after,
+.tParody::after,
 .tPsychological::after,
 .tReincarnation::after,
 .tRomance::after,
@@ -260,6 +267,7 @@
 .tag:hover.tMilitary::after,
 .tag:hover.tMystery::after,
 .tag:hover.tMythology::after,
+.tag:hover.tParody::after,
 .tag:hover.tPsychological::after,
 .tag:hover.tReincarnation::after,
 .tag:hover.tRomance::after,

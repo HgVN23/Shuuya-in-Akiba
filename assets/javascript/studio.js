@@ -29,3 +29,6 @@ const sCloudHearts = sNone;
 const sLayduce = 1087;
 const sQuad = sNone;
 const sLiber = sNone;
+const sGeekToys = 1857;
+const sDogaKobo = 95;
+const sStudioPuYUKAI = 443;
