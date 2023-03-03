@@ -1,4 +1,4 @@
-let i = 0;
+let page = 0;
 check();
 addAnime();
 
@@ -17,14 +17,14 @@ function numberOnly(e) {
 }
 numberInput.addEventListener('keydown', (e)=>{
 	// if((e.keyCode === 8 || e.keyCode === 46) && numberInput.value === NaN)
-	// 	numberInput.value = i + 1;
+	// 	numberInput.value = page + 1;
 	if(e.keyCode === 13) {
 		if(numberInput.value >= max)
-			i = max - 1;
+			page = max - 1;
 		else if(numberInput.value == 0)
-			i = 0;
+			page = 0;
 		else
-			i = numberInput.value - 1;
+			page = numberInput.value - 1;
 		run();
 	}
 });
@@ -32,14 +32,14 @@ numberInput.addEventListener('keydown', (e)=>{
 document.querySelector('.left').addEventListener('click', left);
 document.querySelector('.right').addEventListener('click', right);
 function left() {
-	if(i > 0) {
-		i--;
+	if(page > 0) {
+		page--;
 		run();
 	}
 }
 function right() {
-	if((i + 1) * 25 < anime.length) {
-		i++;
+	if((page + 1) * 25 < anime.length) {
+		page++;
 		run();
 	}
 }
@@ -50,15 +50,15 @@ function run() {
 	addAnime();
 	moreInfoCreate();
 	copyCreate()
-	numberInput.value = i + 1;
+	numberInput.value = page + 1;
 }
 
 function check() {
-	if(i == 0)
+	if(page == 0)
 		document.querySelector('.left').classList.add('turnOff');
 	else
 		document.querySelector('.left').classList.remove('turnOff');
-	if((i + 1) * 25 >= anime.length)
+	if((page + 1) * 25 >= anime.length)
 		document.querySelector('.right').classList.add('turnOff');
 	else
 		document.querySelector('.right').classList.remove('turnOff');
@@ -72,10 +72,10 @@ function removeAnime() {
 }
 
 function addAnime() {
-	for(var page = i * 25 + 1; page <= (i + 1) * 25; page++) {
-		if(page > anime.length - 1)
+	for(var i = page * 25 + 1; i <= (page + 1) * 25; i++) {
+		if(i > anime.length - 1)
 			break;
-		var temp = anime[page];
+		var temp = anime[i];
 		let img = temp.img;
 		let name = temp.name[0];
 		let altName = ``;
