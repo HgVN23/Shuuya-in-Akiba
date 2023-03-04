@@ -2883,7 +2883,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1588/132161l',
+		img: '1866/133949',
 		name: [
 			'Ars no Kyojuu',
 			'アルスの巨獣',
@@ -3540,7 +3540,8 @@ const anime = [
 		tag: [
 			'tComedy',
 			'tFantasy',
-			'tRomance'
+			'tRomance',
+			'tWorkplace'
 		],
 		character: {
 			main: [
@@ -4757,68 +4758,143 @@ const anime = [
 		img: '8/89690',
 		name: [
 			'Gabriel DropOut Specials',
-			'',
-			''
+			'ガヴリールドロップアウトOVA'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'Special',
+		season: 'Winter 2017',
+		aired: '24/03/2017 - 24/05/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Specials included with the Blu-ray/DVD release of Gabriel DropOut.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tMythology',
+			'tSchool',
+			'tShounen',
+			'tSupernatural'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '12/332406',
+					name: 'Shoujo'
+				},
+				{
+					img: '5/310289',
+					name: 'Gabriel "Gab" Tenma White'
+				},
+				{
+					img: '7/310288',
+					name: 'Vignette "Vigne" Tsukinose April'
+				},
+				{
+					img: '12/311999',
+					name: 'Satanichia "Satania" Kurumizawa McDowell'
+				},
+				{
+					img: '5/312000',
+					name: 'Raphiel "Raphi" Shiraha Ainsworth'
 				}
 			],
-			support: [
-				{
-					img: '',
-					name: ''
-				}
-			]
+			support: []
 		}
 	},
 	{
 		img: '9/82590',
 		name: [
 			'Gabriel DropOut',
-			'',
-			''
+			'ガヴリールドロップアウト'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2017',
+		aired: '09/01/2017 - 27/03/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Trong nhiều thế kỷ, Thiên đàng đã yêu cầu các thiên thần trẻ của mình phải sống và nghiên cứu giữa con người để trở thành những thiên thần chính thức. Điều này không khác gì đối với Gabriel White Tenma, người tin rằng sứ mệnh của cô là trở thành một thiên thần vĩ đại, người sẽ mang lại hạnh phúc cho nhân loại. Tuy nhiên, Gabriel ngày càng nghiện trò chơi điện tử trên Trái đất và cuối cùng trở thành một hikikomori. Tự xưng là "Thiên thần sa ngã", cô ấy thờ ơ với mọi thứ khác — khiến Vignette April Tsukinose, một con quỷ mà Gabriel kết bạn trong những ngày đầu thiên thần của cô ấy trên Trái đất.<br>
+			- Những nỗ lực của Vignette để đưa Gabriel trở lại con người trước đây của cô ấy là vô ích, khi Gabriel bắn hạ bất kỳ nỗ lực nào để thay đổi lối sống quý giá của cô ấy. Khi dành thời gian trên Trái đất, họ gặp hai tính cách lập dị: thiên thần Raphiel Ainsworth Shiraha, bạn cùng lớp của Gabriel với thiên hướng tàn bạo, và con quỷ Satanichia McDowell Kurumizawa, một kẻ tự xưng là người cai trị tương lai vụng về của Thế giới ngầm.<br>
+			- Gabriel DropOut theo dõi cuộc sống hài hước của bốn người bạn này khi họ hoàn toàn không hiểu ý nghĩa thực sự của việc trở thành một con quỷ hay một thiên thần.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tMythology',
+			'tSchool',
+			'tShounen',
+			'tSupernatural'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '5/310289',
+					name: 'Gabriel "Gab" Tenma White'
+				},
+				{
+					img: '7/310288',
+					name: 'Vignette "Vigne" Tsukinose April'
+				},
+				{
+					img: '12/311999',
+					name: 'Satanichia "Satania" Kurumizawa McDowell'
+				},
+				{
+					img: '5/312000',
+					name: 'Raphiel "Raphi" Shiraha Ainsworth'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '2/322390',
+					name: 'Tapris "Tap" Sugarbell Chisaki'
+				},
+				{
+					img: '16/326894',
+					name: 'Haniel Tenma White'
+				},
+				{
+					img: '5/326586',
+					name: 'Zeruel Tenma White'
+				},
+				{
+					img: '13/371245',
+					name: 'Brother Kurumizawa'
+				},
+				{
+					img: '11/371243',
+					name: 'Father Kurumizawa'
+				},
+				{
+					img: '7/371244',
+					name: 'Mother Kurumizawa'
+				},
+				{
+					img: '7/322391',
+					name: 'Machiko "Iinchou"'
+				},
+				{
+					img: '16/326146',
+					name: 'Martiel'
+				},
+				{
+					img: '13/322392',
+					name: 'Master'
+				},
+				{
+					img: '5/324991',
+					name: 'Tanaka'
+				},
+				{
+					img: '2/324936',
+					name: 'Ueno'
+				},
+				{
+					img: '6/368909',
+					name: 'Teacher'
 				}
 			]
 		}
@@ -4827,33 +4903,76 @@ const anime = [
 		img: '6/88286',
 		name: [
 			'Blend S',
-			'',
+			'ブレンド・S',
 			'BLEND-S'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Fall 2017',
+		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Với mong muốn được độc lập, Maika Sakuranomiya, 16 tuổi, rất muốn hoàn thành một công việc bán thời gian để có đủ khả năng đi du học. Thật không may, đơn đăng ký của cô ấy liên tục bị từ chối do vẻ ngoài đe dọa mà cô ấy vô tình tạo ra bất cứ khi nào cô ấy cười, mặc dù tính tình vui vẻ của cô ấy.<br>
+			- Sau một cuộc phỏng vấn thất bại khác, cô tình cờ gặp Café Stile, một quán cà phê nơi các máy chủ tương tác với khách hàng trong khi nhập vai các đặc điểm khác biệt. Người quản lý cửa hàng người Ý, Dino, trở nên say mê với sự dễ thương của Maika ngay từ cái nhìn đầu tiên, và đề nghị cô làm nhân viên phục vụ với bản tính tàn bạo. Cùng với sự vụng về vốn có của mình, cô quản lý thành công để phục vụ một cặp khách hàng khổ dâm phù hợp với tính cách mới, tàn nhẫn của cô. Cùng với Kaho Hinata trong vai tsundere và Mafuyu Hoshikawa trong vai em gái, Maika quyết định tận dụng tối đa sự kỳ quặc độc đáo của mình và củng cố vị trí của mình trong quán cà phê bằng sự tàn nhẫn không thương tiếc!
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tWorkplace'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '16/333106',
+					name: 'Maika Sakuranomiya'
+				},
+				{
+					img: '4/333107',
+					name: 'Kaho Hinata'
+				},
+				{
+					img: '15/381507',
+					name: 'Mafuyu Hoshikawa'
+				},
+				{
+					img: '11/338154',
+					name: 'Dino'
+				},
+				{
+					img: '2/338155',
+					name: 'Kouyou Akizuki'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '14/338152',
+					name: 'Miu Amano'
+				},
+				{
+					img: '10/338153',
+					name: 'Hideri Kanzaki'
+				},
+				{
+					img: '6/348019',
+					name: "Maika's Father"
+				},
+				{
+					img: '11/346814',
+					name: "Maika's Mother"
+				},
+				{
+					img: '8/480390',
+					name: 'Aika Sakuranomiya'
+				},
+				{
+					img: '6/447067',
+					name: 'Kouichi Sakuranomiya'
+				},
+				{
+					img: '2/348507',
+					name: 'Mahou Shoujo Frill'
 				}
 			]
 		}
@@ -4862,33 +4981,123 @@ const anime = [
 		img: '1302/94882',
 		name: [
 			'Grand Blue',
-			'',
+			'ぐらんぶる',
 			'Grand Blue Dreaming'
 		],
 		studio: [
-			sNone
+			sZeroG
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Summer 2018',
+		aired: '14/07/2018 - 29/09/2018',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Iori Kitahara chuyển đến thị trấn ven biển Izu cho năm thứ nhất tại trường đại học của nó, cư trú phía trên Grand Blue, cửa hàng lặn biển của chú anh. Iori rất hy vọng và ước mơ về việc có được trải nghiệm đại học lý tưởng, nhưng khi bước vào cửa hàng, anh bị hút vào các hoạt động nghiện rượu của các thành viên vô tư của Câu lạc bộ Lặn, những người thường xuyên lui tới nơi này. Bị thuyết phục bởi các học sinh lớp trên Shinji Tokita và Ryuujirou Kotobuki, Iori miễn cưỡng tham gia bữa tiệc kỳ lạ của họ. Anh họ của anh ta là Chisa Kotegawa sau đó bước vào và bắt gặp anh ta trong hành động, khiến Iori hoàn toàn khinh miệt.<br>
+			- Dựa trên bộ truyện tranh hài kịch nổi tiếng của Kenji Inoue và Kimitake Yoshioka, Grand Blue theo dõi những sai lầm của Iori với những người bạn mới lập dị của mình khi anh cố gắng thực hiện ước mơ đại học lý tưởng của mình, đồng thời học cách lặn biển.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '10/365461',
+					name: 'Chisa Kotegawa'
+				},
+				{
+					img: '10/387495',
+					name: 'Iori Kitahara'
+				},
+				{
+					img: '10/387487',
+					name: 'Aina "Cakey" Yoshiwara'
+				},
+				{
+					img: '6/387496',
+					name: 'Kouhei Imamura'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '6/387478',
+					name: 'Anzai'
+				},
+				{
+					img: '3/387479',
+					name: 'Azuma'
+				},
+				{
+					img: '9/386538',
+					name: 'Bar Master'
+				},
+				{
+					img: '16/386533',
+					name: 'Kenta Fujiwara'
+				},
+				{
+					img: '2/387488',
+					name: 'German Lecturer'
+				},
+				{
+					img: '3/385552',
+					name: 'Azusa Hamaoka'
+				},
+				{
+					img: '13/387475',
+					name: 'Kanako Iida'
+				},
+				{
+					img: '5/386535',
+					name: 'Kiyoko "Kikko" Kamio'
+				},
+				{
+					img: '8/386632',
+					name: 'Nanaka Kotegawa'
+				},
+				{
+					img: '6/386536',
+					name: 'Toshio Kotegawa'
+				},
+				{
+					img: '8/387489',
+					name: 'Ryuujirou "Bukki" Kotobuki'
+				},
+				{
+					img: '5/387471',
+					name: 'Kudou'
+				},
+				{
+					img: '7/386537',
+					name: 'Yuu Mitarai'
+				},
+				{
+					img: '5/387470',
+					name: 'Kaya Mizuki'
+				},
+				{
+					img: '14/387469',
+					name: 'Hajime Nojima'
+				},
+				{
+					img: '5/363434',
+					name: 'Rie Oohashi'
+				},
+				{
+					img: '2/387468',
+					name: 'Keiko Suzuki'
+				},
+				{
+					img: '16/387476',
+					name: 'Shinji "Tokki" Tokita'
+				},
+				{
+					img: '2/387403',
+					name: 'Shinichirou Yamamoto'
+				},
+				{
+					img: '15/387480',
+					name: 'Yokote'
 				}
 			]
 		}
