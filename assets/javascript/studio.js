@@ -32,3 +32,5 @@ const sLiber = sNone;
 const sGeekToys = 1857;
 const sDogaKobo = 95;
 const sStudioPuYUKAI = 443;
+const sPassione = 911;
+const sA1Pictures = 56;

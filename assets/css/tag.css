@@ -106,6 +106,12 @@
 .tMilitary::after {
 	content: 'Vũ trang';
 }
+.tMusic::before {
+	content: 'Music';
+}
+.tMusic::after {
+	content: 'Âm nhạc';
+}
 .tMystery::before {
 	content: 'Mystery';
 }
@@ -220,6 +226,7 @@
 .tMartialArts::after,
 .tMecha::after,
 .tMilitary::after,
+.tMusic::after,
 .tMystery::after,
 .tMythology::after,
 .tParody::after,
@@ -265,6 +272,7 @@
 .tag:hover.tMartialArts::after,
 .tag:hover.tMecha::after,
 .tag:hover.tMilitary::after,
+.tag:hover.tMusic::after,
 .tag:hover.tMystery::after,
 .tag:hover.tMythology::after,
 .tag:hover.tParody::after,

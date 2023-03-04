@@ -4495,33 +4495,63 @@ const anime = [
 		img: '2/84858',
 		name: [
 			'Hinako Note',
-			'',
-			''
+			'ひなこのーと'
 		],
 		studio: [
-			sNone
+			sPassione
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Spring 2017',
+		aired: '07/04/2017 - 23/06/2017',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Sinh ra và lớn lên ở vùng nông thôn Nhật Bản, Hinako "Hina" Sakuragi dễ dàng lo lắng khi nói chuyện với những người mới — đến nỗi cô giống như một con bù nhìn cứng nhắc. Để vượt qua điều này, Hina hy vọng sẽ tham gia vào nhà hát, lấy cảm hứng từ một vở kịch mà cô đã xem trong chuyến đi thực tế của trường. Vì vậy, Hina chuyển đến Trang viên Hitotose ở thành phố Tokyo nhộn nhịp để theo học tại trường trung học Fujiyama, khao khát được tham gia câu lạc bộ sân khấu nổi tiếng của trường.<br>
+			- Nhưng trước sự thất vọng của Hina, cô biết rằng câu lạc bộ sân khấu của trường Fujiyama High đã bị gián đoạn một thời gian dài. Đã đến Tokyo và đăng ký vào trường, Hina không biết phải làm gì tiếp theo. Cảm nhận được sự thất vọng và háo hức học sân khấu của mình, Chiaki Hagino, bà chủ của Trang viên Hitoose, khuyến khích Hina thành lập một đoàn kịch với cư dân của Trang viên Hitotose là thành viên của nó.<br>
+			- Hinako Note theo chân Hina khi cô bắt đầu một cuộc sống mới ở Tokyo khi theo học trường trung học Fujiyama trong khi học các sợi dây của nhà hát với sự hỗ trợ của bạn bè trên đường đi.
 		`,
 		tag: [
-			''
+			'tComedy',
+			'tSliceOfLife'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '16/339627',
+					name: 'Hinako "Hina" Sakuragi'
+				},
+				{
+					img: '9/339628',
+					name: 'Kuina Natsukawa'
+				},
+				{
+					img: '2/341799',
+					name: 'Mayuki Hiiragi'
+				},
+				{
+					img: '6/330104',
+					name: 'Yua Nakajima'
+				},
+				{
+					img: '2/341798',
+					name: 'Chiaki Hagino'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '4/475532',
+					name: 'Ruriko Kuroyanagi'
+				},
+				{
+					img: '4/333197',
+					name: "Hinako's Mother"
+				},
+				{
+					img: '2/333198',
+					name: "Ruriko's Mother"
+				},
+				{
+					img: '13/333199',
+					name: 'Chiaki no Chichi'
 				}
 			]
 		}
@@ -4530,33 +4560,83 @@ const anime = [
 		img: '6/74156',
 		name: [
 			'Shigatsu wa Kimi no Uso: Moments',
-			'',
+			'四月は君の嘘 MOMENTS',
 			'Your Lie in April: Moments'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'OVA',
+		season: 'Spring 2015',
+		aired: '15/05/2015',
 		rating: 'PG-13',
 		synopsis: `
-
+			- OVA đi kèm với tập manga Shigatsu wa Kimi no Uso thứ 11.<br>
+			- OVA sẽ tập trung vào Kousei, Emi và Takeshi khi họ còn trẻ, cho thấy những rắc rối của họ trong các cuộc thi và bắt đầu cuộc cạnh tranh của họ.
 		`,
 		tag: [
-			''
+			'tMusic',
+			'tShounen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '4/273755',
+					name: 'Kousei "Friend A, Human Metronome" Arima'
+				},
+				{
+					img: '11/270891',
+					name: 'Emi Igawa'
+				},
+				{
+					img: '10/277321',
+					name: 'Takeshi Aiza'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '14/269375',
+					name: 'Kaori "Kao-chan" Miyazono'
+				},
+				{
+					img: '11/252841',
+					name: 'Tsubaki "Gorilla" Sawabe'
+				},
+				{
+					img: '16/252843',
+					name: 'Ryouta Watari'
+				},
+				{
+					img: '10/276132',
+					name: 'Nagi "Nagi Aizato" Aiza'
+				},
+				{
+					img: '14/275905',
+					name: 'Saki Arima'
+				},
+				{
+					img: '2/277418',
+					name: 'Ryouko Miyazono'
+				},
+				{
+					img: '3/277417',
+					name: 'Yoshiyuki Miyazono'
+				},
+				{
+					img: '4/275721',
+					name: 'Yuriko Ochiai'
+				},
+				{
+					img: '9/276135',
+					name: 'Hiroko Seto'
+				},
+				{
+					img: '10/477846',
+					name: 'Setsuko'
+				},
+				{
+					img: '6/308747',
+					name: 'Akira Takayanagi'
 				}
 			]
 		}
@@ -4565,33 +4645,110 @@ const anime = [
 		img: '3/72831l',
 		name: [
 			'Shigatsu wa Kimi no Uso',
-			'',
+			'四月は君の嘘',
 			'Your Lie in April'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Fall 2014',
+		aired: '10/10/2014 - 20/03/2015',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Kousei Arima là một thần đồng nhí được mệnh danh là "Máy đếm nhịp con người" để chơi piano với độ chính xác và hoàn hảo. Được hướng dẫn bởi một người mẹ nghiêm khắc và được đào tạo nghiêm ngặt, Kousei thống trị mọi cuộc thi mà anh tham gia, nhận được sự ngưỡng mộ của các đồng nghiệp âm nhạc và lời khen ngợi từ khán giả. Khi mẹ anh đột ngột qua đời, chấn thương sau đó khiến anh không thể nghe thấy tiếng đàn piano, và anh không bao giờ lên sân khấu sau đó.<br>
+			- Ngày nay, Kousei sống một cuộc sống yên tĩnh và khiêm tốn khi còn là một học sinh trung học cơ sở cùng với những người bạn Tsubaki Sawabe và Ryouta Watari. Trong khi vật lộn để vượt qua cái chết của mẹ mình, anh tiếp tục bám vào âm nhạc. Cuộc sống đơn sắc của anh ấy đảo lộn vào ngày anh ấy gặp nghệ sĩ violin lập dị Kaori Miyazono, người đã đưa anh ấy trở lại ánh đèn sân khấu với tư cách là người đệm đàn cho cô ấy. Thông qua một lời nói dối nhỏ, hai nhạc sĩ trẻ này ngày càng thân thiết hơn với nhau khi Kaori cố gắng lấp đầy thế giới của Kousei bằng màu sắc.
 		`,
 		tag: [
-			''
+			'tDrama',
+			'tMusic',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '4/273755',
+					name: 'Kousei "Friend A, Human Metronome" Arima'
+				},
+				{
+					img: '14/269375',
+					name: 'Kaori "Kao-chan" Miyazono'
+				},
+				{
+					img: '11/252841',
+					name: 'Tsubaki "Gorilla" Sawabe'
+				},
+				{
+					img: '16/252843',
+					name: 'Ryouta Watari'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '11/270891',
+					name: 'Emi Igawa'
+				},
+				{
+					img: '10/277321',
+					name: 'Takeshi Aiza'
+				},
+				{
+					img: '10/276132',
+					name: 'Nagi "Nagi Aizato" Aiza'
+				},
+				{
+					img: '14/275905',
+					name: 'Saki Arima'
+				},
+				{
+					img: '2/277418',
+					name: 'Ryouko Miyazono'
+				},
+				{
+					img: '3/277417',
+					name: 'Yoshiyuki Miyazono'
+				},
+				{
+					img: '4/275721',
+					name: 'Yuriko Ochiai'
+				},
+				{
+					img: '9/276135',
+					name: 'Hiroko Seto'
+				},
+				{
+					img: '6/308747',
+					name: 'Akira Takayanagi'
+				},
+				{
+					img: '2/336810',
+					name: 'Izumi'
+				},
+				{
+					img: '14/275302',
+					name: 'Nao Kashiwagi'
+				},
+				{
+					img: '13/306582',
+					name: 'Komugi'
+				},
+				{
+					img: '7/276131',
+					name: 'Toshiya Miike'
+				},
+				{
+					img: '7/200881',
+					name: 'Saitou'
+				},
+				{
+					img: '2/306583',
+					name: 'Satsuki'
+				},
+				{
+					img: '6/276134',
+					name: 'Koharu Seto'
 				}
 			]
 		}
