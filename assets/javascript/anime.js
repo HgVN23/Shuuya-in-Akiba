@@ -5106,33 +5106,112 @@ const anime = [
 		img: '1755/98075l',
 		name: [
 			'Kokoro Connect: Michi Random',
-			'',
+			'ココロコネクト ミチランダム',
 			'Kokoro Connect OVA'
 		],
 		studio: [
-			sNone
+			sSilverLink
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'Special',
+		season: 'Fall 2012',
+		aired: '19/11/2012 - 10/12/2012',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Không lâu sau khi đặt sự kiện siêu nhiên trước đó đằng sau họ, các thành viên của Hiệp hội Văn hóa Sinh viên (StuCS) của Học viện Yamaboshi phải đối phó với thử nghiệm mới nhất của Fuusenkazura — truyền cảm xúc. Hiện tượng này cho phép các thành viên câu lạc bộ nghe thấy suy nghĩ thực sự của nhau, nhưng với một lần bắt: thời gian, người gửi và người nhận đều hoàn toàn ngẫu nhiên. Để làm cho vấn đề tồi tệ hơn, người giám sát của câu lạc bộ, Ryuuzen Gotou, có thể phải từ chức do trách nhiệm của anh ấy trong năm học sắp tới. Với cảm xúc dâng trào và ngày lễ tình nhân đang đến gần, mối quan hệ dường như thân thiết của StuCS sẽ được thử thách khi tình cảm thực sự của họ dành cho nhau được phơi bày.
 		`,
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSupernatural'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '12/172239',
+					name: 'Himeko "Inaban, Dereban" Inaba'
+				},
+				{
+					img: '15/178433',
+					name: 'Taichi Yaegashi'
+				},
+				{
+					img: '10/178453',
+					name: 'Iori Nagase'
+				},
+				{
+					img: '7/178441',
+					name: 'Yui Kiriyama'
+				},
+				{
+					img: '5/173397',
+					name: 'Yoshifumi Aoki'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '8/142793',
+					name: 'Shino Enjouji'
+				},
+				{
+					img: '16/173403',
+					name: 'Maiko Fujishima'
+				},
+				{
+					img: '4/184075',
+					name: 'Fuusenkazura "Heartseed"'
+				},
+				{
+					img: '11/173401',
+					name: 'Ryuuzen "Go-san" Gotou'
+				},
+				{
+					img: '11/194345',
+					name: 'Itou'
+				},
+				{
+					img: '2/194173',
+					name: 'Kaidou'
+				},
+				{
+					img: '4/183639',
+					name: 'Yukina Kurihara'
+				},
+				{
+					img: '7/194343',
+					name: 'Mihara'
+				},
+				{
+					img: '11/180395',
+					name: 'Chinatsu Mihashi'
+				},
+				{
+					img: '11/194341',
+					name: 'Mikitani'
+				},
+				{
+					img: '6/193901',
+					name: 'Mariko Nakayama'
+				},
+				{
+					img: '14/191106',
+					name: 'Kaoru Setouchi'
+				},
+				{
+					img: '15/191108',
+					name: 'Shouto "Prince" Shiroyama'
+				},
+				{
+					img: '15/142795',
+					name: 'Chihiro Uwa'
+				},
+				{
+					img: '7/176479',
+					name: 'Shingo Watase'
+				},
+				{
+					img: '14/176483',
+					name: 'Rina Yaegashi'
 				}
 			]
 		}
@@ -5141,33 +5220,112 @@ const anime = [
 		img: '2/39665',
 		name: [
 			'Kokoro Connect',
-			'',
-			''
+			'ココロコネクト'
 		],
 		studio: [
-			sNone
+			sSilverLink
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Summer 2012',
+		aired: '08/07/2012 - 30/09/2012',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Khi năm sinh viên tại Học viện Yamaboshi nhận ra rằng không có câu lạc bộ nào phù hợp với họ, họ liên kết với nhau để thành lập Hiệp hội Văn hóa Sinh viên, hay gọi tắt là "StuCS". Câu lạc bộ bao gồm: Taichi Yaegashi, một người hâm mộ đấu vật khó tính; Iori Nagase , một người lạc quan thiếu quyết đoán; Himeko Inaba, một thiên tài máy tính điềm tĩnh; Yui Kiriyama , một học viên karate nhỏ nhắn; và Yoshifumi Aoki, chú hề của lớp.<br>
+			- Một ngày nọ, Aoki và Yui trải qua một sự cố kỳ lạ khi, không báo trước, họ chuyển đổi cơ thể trong một khoảng thời gian ngắn. Khi hiện tượng siêu nhiên này tiếp tục xảy ra ngẫu nhiên giữa năm người bạn, họ bắt đầu nhận ra rằng đó không chỉ là niềm vui và trò chơi. Bây giờ buộc phải trở nên thân thiết hơn bao giờ hết, họ sớm phát hiện ra những bí mật ẩn giấu và những vết sẹo tình cảm của nhau, điều này có thể khiến StuCS và tình bạn của họ tan vỡ.
 		`,
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSupernatural'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '12/172239',
+					name: 'Himeko "Inaban, Dereban" Inaba'
+				},
+				{
+					img: '15/178433',
+					name: 'Taichi Yaegashi'
+				},
+				{
+					img: '10/178453',
+					name: 'Iori Nagase'
+				},
+				{
+					img: '7/178441',
+					name: 'Yui Kiriyama'
+				},
+				{
+					img: '5/173397',
+					name: 'Yoshifumi Aoki'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/173403',
+					name: 'Maiko Fujishima'
+				},
+				{
+					img: '4/184075',
+					name: 'Fuusenkazura "Heartseed"'
+				},
+				{
+					img: '11/173401',
+					name: 'Ryuuzen "Go-san" Gotou'
+				},
+				{
+					img: '2/194173',
+					name: 'Kaidou'
+				},
+				{
+					img: '4/183639',
+					name: 'Yukina Kurihara'
+				},
+				{
+					img: '11/180395',
+					name: 'Chinatsu Mihashi'
+				},
+				{
+					img: '14/191106',
+					name: 'Kaoru Setouchi'
+				},
+				{
+					img: '7/176479',
+					name: 'Shingo Watase'
+				},
+				{
+					img: '14/176483',
+					name: 'Rina Yaegashi'
+				},
+				{
+					img: '2/178447',
+					name: 'Father Aoki'
+				},
+				{
+					img: '10/178405',
+					name: 'Brother Inaba'
+				},
+				{
+					img: '9/193899',
+					name: 'Mother Inaba'
+				},
+				{
+					img: '16/180397',
+					name: 'Anzu Kiriyama'
+				},
+				{
+					img: '13/176481',
+					name: 'Mother Kiriyama'
+				},
+				{
+					img: '6/181837',
+					name: 'Reika Nagase'
+				},
+				{
+					img: '11/181835',
+					name: 'Nana Nishino'
 				}
 			]
 		}
