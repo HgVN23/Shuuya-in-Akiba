@@ -184,6 +184,12 @@
 .tShounen::after {
 	content: 'Cho độc giả nam < 18';
 }
+.tStrategy::before {
+	content: 'Strategy';
+}
+.tStrategy::after {
+	content: 'Chiến lược';
+}
 .tSupernatural::before {
 	content: 'Supernatural';
 }
@@ -245,6 +251,7 @@
 .tSliceOfLife::after,
 .tShoujo::after,
 .tShounen::after,
+.tStrategy::after,
 .tSupernatural::after,
 .tSuperPower::after,
 .tTimeTravel::after,
@@ -292,6 +299,7 @@
 .tag:hover.tSliceOfLife::after,
 .tag:hover.tShoujo::after,
 .tag:hover.tShounen::after,
+.tag:hover.tStrategy::after,
 .tag:hover.tSupernatural::after,
 .tag:hover.tSuperPower::after,
 .tag:hover.tTimeTravel::after,

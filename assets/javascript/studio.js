@@ -34,3 +34,7 @@ const sDogaKobo = 95;
 const sStudioPuYUKAI = 443;
 const sPassione = 911;
 const sA1Pictures = 56;
+const sSynergySP = 118;
+const sVegaEntertainment = 136;
+const sBarnumStudio = 271;
+const sAICBuild = sNone;

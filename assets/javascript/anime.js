@@ -35,6 +35,103 @@ const anime = [
 		}
 	},
 	{
+		img: '1673/117409l',
+		name: [
+			'Deatte 5-byou de Battle',
+			'出会って5秒でバトル',
+			'Battle Game in 5 Seconds'
+		],
+		studio: [
+			sSynergySP,
+			sVegaEntertainment
+		],
+		type: 'TV',
+		season: 'Summer 2021',
+		aired: '13/07/2021 - 28/09/2021',
+		rating: 'R-17+',
+		synopsis: `
+			- Đó chỉ là một buổi sáng bình thường.<br>
+			- Akira Shiroyanagi, một học sinh trung học yêu thích trò chơi và Konpeito (đồ ngọt Nhật Bản), đã bất ngờ bị kéo vào chiến trường bởi một cô gái bí ẩn tự xưng là Mion. Những người tham gia được thông báo rằng họ bị "xóa khỏi sổ đăng ký gia đình, tham gia vào một thí nghiệm và đạt được một số quyền hạn nhất định."<br>
+			- Akira quyết tâm giành chiến thắng trong trò chơi với sức mạnh mới tìm thấy của mình và tiêu diệt tổ chức. Được trang bị một sức mạnh không ai mong đợi và kỹ năng "bộ não" của anh ta, thời kỳ mới của trận chiến tình báo bắt đầu!
+		`,
+		tag: [
+			'tGame',
+			'tStrategy',
+			'tSupernatural',
+			'tSuperPower'
+		],
+		character: {
+			main: [
+				{
+					img: '6/502473',
+					name: 'Akira Shiroyanagi'
+				},
+				{
+					img: '14/502472',
+					name: 'Yuuri Amagake'
+				}
+			],
+			support: [
+				{
+					img: '9/502478',
+					name: 'Mion'
+				},
+				{
+					img: '3/479226',
+					name: 'Oji Hoshino'
+				},
+				{
+					img: '11/502474',
+					name: 'Rin Kashii'
+				},
+				{
+					img: '10/479227',
+					name: 'Madoka Kirisaki'
+				},
+				{
+					img: '16/502471',
+					name: 'Asuka Kiryuu'
+				},
+				{
+					img: '3/479231',
+					name: 'Shin Kumagiri'
+				},
+				{
+					img: '15/502477',
+					name: 'Masaya Kuroiwa'
+				},
+				{
+					img: '13/502479',
+					name: 'Iori Omoto'
+				},
+				{
+					img: '10/502467',
+					name: 'Hajime Oogami'
+				},
+				{
+					img: '7/470341',
+					name: 'Katsuya Saitou'
+				},
+				{
+					img: '2/502469',
+					name: 'Yuuki Setoguchi'
+				},
+				{
+					img: '15/502470',
+					name: 'Yuuto Shirasagi'
+				},
+				{
+					img: '13/502480',
+					name: 'Ringo Tatara'
+				},
+				{
+					img: '2/502481',
+					name: 'Yang'
+				}
+			]
+		}
+	},
+	{
 		img: '1429/95946',
 		name: [
 			'Akame ga Kill!',
@@ -5334,33 +5431,54 @@ const anime = [
 		img: '4/77837',
 		name: [
 			'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira',
-			'',
-			''
+			'少女たちは荒野を目指す 言うべきものかしら'
 		],
 		studio: [
-			sNone
+			sBarnumStudio,
+			sProjectNo9
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'OVA',
+		season: 'Winter 2016',
+		aired: '25/03/2016',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Buntarou không biết mình muốn làm gì trong tương lai. Anh ấy không có bất kỳ loại ước mơ nào mà anh ấy muốn theo đuổi, vì vậy hiện tại anh ấy chỉ dành cả ngày để quây quần bên bạn bè. Một ngày nọ, bạn cùng lớp Sayuki hỏi anh ta có muốn giúp phát triển một trò chơi gal không. Cô ấy nói rằng cô ấy đã trở nên quan tâm đến sự giúp đỡ của anh ấy sau khi cô ấy đọc một tác phẩm của anh ấy dành cho câu lạc bộ kịch.<br>
+			- Buntarou không biết gì về trò chơi gal, nhưng Sayuki tuyên bố rằng cô ấy có khả năng làm cho nó thành công. Liệu họ có thể tạo ra trò chơi và liệu nó có thành công như cô ấy tuyên bố không? Đây là câu chuyện về những người trẻ tuổi bước một bước táo bạo vào những điều chưa biết...
 		`,
 		tag: [
-			''
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '7/295320',
+					name: 'Sayuki Kuroda'
+				},
+				{
+					img: '6/295307',
+					name: 'Buntarou "Bunta" Houjou'
+				},
+				{
+					img: '4/299195',
+					name: 'Yuuka Kobayakawa'
+				},
+				{
+					img: '11/299193',
+					name: 'Uguisu "Tori" Yuuki'
+				},
+				{
+					img: '14/299192',
+					name: 'Teruha Andou'
+				},
+				{
+					img: '4/293843',
+					name: 'Atomu Kai'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '13/310522',
+					name: 'Kikuchi-sensei'
 				}
 			]
 		}
@@ -5369,33 +5487,67 @@ const anime = [
 		img: '4/77837',
 		name: [
 			'Shoujo-tachi wa Kouya wo Mezasu',
-			'',
+			'少女たちは荒野を目指す',
 			'Girls Beyond the Wasteland'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2016',
+		aired: '07/01/2016 - 24/03/2016',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Shoujo-tachi wa Kouya wo Mezasu là một loạt phim về việc tìm kiếm chính mình và một hướng đi trong cuộc sống... bất kể nó có thể cách xa con đường bị đánh đập đến mức nào.<br>
+			- Buntarou Hojo là một học sinh trung học có tài năng viết lách, nhưng không có định hướng thực sự trong cuộc sống hoặc bất kỳ kế hoạch nào cho tương lai. Bạn cùng lớp của cậu, Sayuki Kuroda nhận thấy tài năng của cậu, quyết định giúp cậu tìm cách sử dụng nó đúng cách bằng cách lôi kéo cậu vào nhóm phát triển trò chơi bishoujo của cô.<br>
+			- Khi Buntarou bị Sayuki dồn vào phòng tắm nam ở trường, cậu rất ngạc nhiên khi được hỏi về những gì cậu nghĩ là một cuộc hẹn hò, và thậm chí còn ngạc nhiên hơn nữa khi cậu phát hiện ra rằng đó không phải là một cuộc hẹn hò, mà là một cuộc phỏng vấn xin việc. Miễn cưỡng đồng ý, cả hai bắt đầu tuyển dụng các thành viên khác cho đội của họ nhưng họ sẽ tìm hiểu thêm về cách tạo trò chơi, hay bản thân cuộc sống trên đường đi?
 		`,
 		tag: [
-			''
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '7/295320',
+					name: 'Sayuki Kuroda'
+				},
+				{
+					img: '6/295307',
+					name: 'Buntarou "Bunta" Houjou'
+				},
+				{
+					img: '4/299195',
+					name: 'Yuuka Kobayakawa'
+				},
+				{
+					img: '11/299193',
+					name: 'Uguisu "Tori" Yuuki'
+				},
+				{
+					img: '14/299192',
+					name: 'Teruha Andou'
+				},
+				{
+					img: '4/293843',
+					name: 'Atomu Kai'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '13/310522',
+					name: 'Kikuchi-sensei'
+				},
+				{
+					img: '8/491612',
+					name: 'Hosokawa "Brutus"'
+				},
+				{
+					img: '9/301841',
+					name: 'Iwao Kuroda'
+				},
+				{
+					img: '16/300596',
+					name: 'Sayaka Tabe'
 				}
 			]
 		}
@@ -5404,33 +5556,55 @@ const anime = [
 		img: '3/83000',
 		name: [
 			'Koi to Senkyo to Chocolate: Koi Imouto!',
-			'',
-			''
+			'恋と選挙とチョコレート 第13話「恋妹！」'
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		type: 'Special',
+		season: 'Winter 2013',
+		aired: '27/03/2013',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Tập thứ 13 chưa được phát sóng được phát hành trên DVD / BD thứ 7.
 		`,
 		tag: [
-			''
+			'tDrama',
+			'tHarem',
+			'tRomance',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '11/385655',
+					name: 'Chisato Sumiyoshi'
+				},
+				{
+					img: '9/173167',
+					name: 'Yuuki "Ooshima, Pekojima" Oojima'
+				},
+				{
+					img: '3/173233',
+					name: 'Satsuki Shinonome'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/188007',
+					name: 'Matsuri Nanase'
+				},
+				{
+					img: '10/200901',
+					name: 'Kimika Haida'
+				},
+				{
+					img: '2/188009',
+					name: 'Mao Shigemori'
+				},
+				{
+					img: '11/174015',
+					name: 'Ayumu Mitani'
 				}
 			]
 		}
@@ -5439,33 +5613,129 @@ const anime = [
 		img: '4/42015',
 		name: [
 			'Koi to Senkyo to Chocolate',
-			'',
+			'恋と選挙とチョコレート',
 			'Love, Election and Chocolate'
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Summer 2012',
+		aired: '06/07/2012 - 28/09/2012',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Yuuki Oojima là thành viên của Câu lạc bộ Nghiên cứu Thực phẩm ở trường trung học của mình, hoạt động chính là ăn đồ ăn nhẹ được mua bằng tiền do nhà trường phân bổ cho họ. Tuy nhiên, lối sống yên bình và lãng phí này đang bị đe dọa khi cuộc bầu cử sinh viên sắp tới đang đến gần. Satsuki Shinonome, một ứng cử viên lớn và là người đứng đầu bộ phận tài chính, vận động trên một nền tảng bao gồm giải tán các câu lạc bộ vô dụng như Câu lạc bộ Nghiên cứu Thực phẩm và chuyển hướng ngân sách của họ sang các câu lạc bộ thích hợp.<br>
+			- Có thể hiểu, Câu lạc bộ Nghiên cứu Thực phẩm đang xôn xao về sự phát triển này, với chủ tịch Chisato Sumiyoshi thề sẽ bảo tồn nó. Nhưng họ thậm chí có thể làm gì để ngăn chặn Satsuki có năng lực cao và nổi tiếng được bầu?
 		`,
 		tag: [
-			''
+			'tDrama',
+			'tHarem',
+			'tRomance',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '11/385655',
+					name: 'Chisato Sumiyoshi'
+				},
+				{
+					img: '9/173167',
+					name: 'Yuuki "Ooshima, Pekojima" Oojima'
+				},
+				{
+					img: '3/173233',
+					name: 'Satsuki Shinonome'
+				},
+				{
+					img: '7/176541',
+					name: 'Isara Aomi'
+				},
+				{
+					img: '12/144127',
+					name: 'Mifuyu Kiba'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/188007',
+					name: 'Matsuri Nanase'
+				},
+				{
+					img: '10/200901',
+					name: 'Kimika Haida'
+				},
+				{
+					img: '2/188009',
+					name: 'Mao Shigemori'
+				},
+				{
+					img: '11/174015',
+					name: 'Ayumu Mitani'
+				},
+				{
+					img: '5/188005',
+					name: 'Mieru Ariake'
+				},
+				{
+					img: '14/188001',
+					name: 'Nozomi "Non-chan" Edagawa'
+				},
+				{
+					img: '4/204603',
+					name: 'Haratachi'
+				},
+				{
+					img: '16/173663',
+					name: 'Kii Monzennaka'
+				},
+				{
+					img: '15/144123',
+					name: 'Michiru Morishita'
+				},
+				{
+					img: '3/200899',
+					name: 'Yakumo Mouri'
+				},
+				{
+					img: '15/200415',
+					name: 'Yuina Oosawa'
+				},
+				{
+					img: '10/187997',
+					name: 'Kana Ougibashi'
+				},
+				{
+					img: '6/187999',
+					name: 'Reiji "Garage" Saga'
+				},
+				{
+					img: '9/173665',
+					name: 'Ai Sarue'
+				},
+				{
+					img: '4/200139',
+					name: 'Hazuki Shinonome'
+				},
+				{
+					img: '7/200131',
+					name: 'Hidaka Shiohama'
+				},
+				{
+					img: '7/188003',
+					name: 'Moheiji Tatsumi'
+				},
+				{
+					img: '8/350376',
+					name: "Yakumo's SP1"
+				},
+				{
+					img: '5/350377',
+					name: "Yakumo's SP2"
+				},
+				{
+					img: '10/188011',
+					name: 'Oboro "Yume" Yumeshima'
 				}
 			]
 		}
