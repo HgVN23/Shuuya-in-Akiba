@@ -93,7 +93,7 @@ function addAnime(list) {
 		}
 		let studio = ``;
 		for(var j = 0; j < temp.studio.length; j++) {
-			studio += `<img class="sImg" src="https://cdn.myanimelist.net/images/company/${temp.studio[j]}.png" alt="Studio">\n`
+			studio += `<img class="sImg" src="https://cdn.myanimelist.net/images/company/${temp.studio[j].id}.png" alt="${temp.studio[j].name}">\n`
 		}
 		let type = temp.type;
 		let season = temp.season;

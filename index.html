@@ -2,32 +2,14 @@
 <html lang="vi">
 <head>
 	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="icon" href="assets/media/icon/logo.png">
 
 	<!-- Primary Meta Tags -->
 	<title>Hg in Akiba</title>
-	<meta name="title" content="Hg in Akiba">
 	<meta name="description" content="Bộ sưu tầm Anime/Manga mà Hg đã xem/đọc">
-
-	<!-- Open Graph / Facebook -->
-	<meta property="og:type" content="website">
-	<meta property="og:site_name" content="Hg in Akiba">
-	<!-- <meta property="og:url" content="https://hgvn23.github.io/..."> -->
-	<meta property="og:title" content="Hg in Akiba">
-	<meta property="og:description" content="Bộ sưu tầm Anime/Manga mà Hg đã xem/đọc">
-	<!-- <meta property="og:image" content="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/..."> -->
-
-	<!-- Twitter -->
-	<!-- <meta property="twitter:card" content="summary_large_image"> -->
-	<!-- <meta property="twitter:url" content="https://hgvn23.github.io/..."> -->
-	<meta property="twitter:title" content="Hg in Akiba">
-	<meta property="twitter:description" content="Bộ sưu tầm Anime/Manga mà Hg đã xem/đọc">
-	<!-- <meta property="twitter:image" content="https://raw.githubusercontent.com/HgVN23/HgVN23.github.io/..."> -->
 
 	<!-- CSS/Script -->
 	<link rel="stylesheet" href="assets/css/main.css">
-	<!-- <link rel="stylesheet" href="assets/css/studios.css"> -->
 	<link rel="stylesheet" href="assets/css/tag.css">
 	<script async src="assets/javascript/studio.js"></script>
 	<script async src="assets/javascript/anime.js"></script>
@@ -35,6 +17,8 @@
 	<script async src="assets/javascript/copy.js"></script>
 	<script async src="assets/javascript/search.js"></script>
 	<script async src="assets/javascript/gallery.js"></script>
+	<script async src="assets/javascript/filter.js"></script>
+	<script async src="assets/javascript/dropdown.js"></script>
 </head>
 <body>
 	<header>
@@ -42,33 +26,39 @@
 		<div class="title">Hg in Akiba</div>
 		<div class="icon slime"></div>
 	</header>
-	<div class="searchBox">
-		<div class="searchSplit">
-			<div class="searchBar">
-				<div class="searchIcon"></div>
-				<input class="searchInput" placeholder="Lọc theo..." type="text">
+	<div class="toolBox">
+		<div class="search">
+			<div class="searchIcon"></div>
+			<input class="searchInput" placeholder="Lọc theo..." type="text">
+		</div>
+		<div class="filter">
+			<div>
+				<div class="dropdown">Studios</div>
+				<div class="fStudios dropdownThis dropdownHide"></div>
 			</div>
-			<!-- <div>
-				<input class="searchRadio" type="radio" name="name" value="text" checked>
-				<p class="searchText">Tên</p>
+			<div class="flexSpace">
+				<div>
+					<div class="dropdown dropdownActive">Type</div>
+					<div class="fType dropdownThis"></div>
+				</div>
+				<div>
+					<div class="dropdown dropdownActive">Season</div>
+					<div class="fSeason dropdownThis"></div>
+				</div>
+				<div>
+					<div class="dropdown dropdownActive">Rating</div>
+					<div class="fRating dropdownThis"></div>
+				</div>
 			</div>
 			<div>
-				<input class="searchRadio" type="radio" name="nameJp" value="text">
-				<p class="searchText">Tên</p>
-			</div> -->
+				<div class="dropdown">Year</div>
+				<div class="fYear dropdownThis dropdownHide"></div>
+			</div>
+		</div>
+		<div class="flexSpace">
+			<div class="button" onclick="filter()">Reset Filter</div>
 			<a class="button" href="">Reset Page</a>
 		</div>
-		<!-- <div class="filter">
-			<div class="contentText">Search theo...</div>
-			<select class="cSelect" size="3">
-				<option value="name" selected>Tên</option>
-				<option value="name">Tên</option>
-				<option value="name">Tên</option>
-			</select>
-			<input type="checkbox" id="test" name="test" value=""><label for="test"> Test</label>
-			<input type="checkbox" id="test" name="test" value=""><label for="test"> Test</label>
-			<input type="checkbox" id="test" name="test" value=""><label for="test"> Test</label>
-		</div> -->
 	</div>
 	<div class="slider">
 		<div class="left"></div>
@@ -84,3 +74,13 @@
 	<div class="gallery"></div>
 </body>
 </html>
+			<!-- <div>
+				<input class="searchRadio" type="radio" name="name" value="text" checked>
+				<p class="searchText">Tên</p>
+			</div> -->
+			<!-- <div class="contentText">Search theo...</div>
+			<select class="cSelect" size="3">
+				<option value="name" selected>Tên</option>
+				<option value="name">Tên</option>
+				<option value="name">Tên</option>
+			</select> -->

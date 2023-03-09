@@ -5779,33 +5779,110 @@ const anime = [
 		img: '7/52801',
 		name: [
 			'Machine-Doll wa Kizutsukanai',
-			'',
+			'機巧少女〈マシンドール〉は傷つかない',
 			'Unbreakable Machine-Doll'
 		],
 		studio: [
-			sNone
+			sLerche
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Fall 2013',
+		aired: '07/10/2013 - 23/12/2013',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Học viện Hoàng gia Walpurgis của Machinart được thành lập cùng với sự phát triển của "Machinart", phép thuật máy móc có khả năng mang lại sự sống và trí thông minh cho những con búp bê cơ khí sau đó được gọi là "máy tự động". Mục đích của nó: đào tạo những nghệ sĩ múa rối lành nghề để điều khiển máy tự động, khi quân đội trên toàn cầu đã bắt đầu kết hợp Machinart vào quân đội của họ.<br>
+			- Sau khi thất bại thảm hại trong kỳ thi tuyển sinh của học viện, Raishin Akabane và máy tự động hình người Yaya của anh ta phải đánh bại một trong một trăm học sinh hàng đầu để giành quyền tham gia Bữa tiệc buổi tối, một cuộc chiến giành quyền tối cao giữa những người múa rối bằng cách sử dụng máy tự động của họ. Người đứng cuối cùng được ban tặng danh hiệu "Người khôn ngoan" và được cấp quyền truy cập vào các nghệ thuật bị cấm mạnh mẽ. Do đó, Raishin thách thức Charlotte Belew và máy tự động Sigmund của cô ấy trong một cuộc đấu tay đôi, nhưng trước khi họ bắt đầu, Sigmund bị tấn công bởi các sinh viên khác.<br>
+			- Sau khi cứu đối thủ của mình khỏi những kẻ tấn công họ, Raishin hủy bỏ cuộc đấu tay đôi nhưng buộc phải tìm kiếm một cách mới để có quyền truy cập vào Đảng. Được thúc đẩy bởi những bi kịch trong quá khứ của mình, Raishin chiến đấu cùng với Yaya để vươn lên dẫn đầu và giành danh hiệu Wiseman.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tEcchi',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '13/383424',
+					name: 'Raishin "Second Last" Akabane'
+				},
+				{
+					img: '16/223365',
+					name: 'Yaya "The Moon"'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '6/383429',
+					name: 'Charlotte "Charl, Tyrant Rex, T-Rex" Belew'
+				},
+				{
+					img: '15/223359',
+					name: 'Sigmund'
+				},
+				{
+					img: '10/228941',
+					name: 'Henriette Belew'
+				},
+				{
+					img: '11/383423',
+					name: 'Frey "Silent Roar"'
+				},
+				{
+					img: '7/224985',
+					name: 'Nadeshiko Akabane'
+				},
+				{
+					img: '10/226311',
+					name: 'Bronson "Sword Angel"'
+				},
+				{
+					img: '7/225111',
+					name: 'Cruel'
+				},
+				{
+					img: '9/228951',
+					name: 'Cedric "Elf Speeder, Alice Bernstein " Granville'
+				},
+				{
+					img: '14/228955',
+					name: 'Hotaru "Firefly"'
+				},
+				{
+					img: '5/228939',
+					name: 'Kimberly'
+				},
+				{
+					img: '7/224757',
+					name: 'Felix Kingsfort'
+				},
+				{
+					img: '7/226669',
+					name: 'Komurasaki'
+				},
+				{
+					img: '6/288076',
+					name: 'Loki "Sacred Blaze, Emperor Sword"'
+				},
+				{
+					img: '5/222777',
+					name: 'Magnus'
+				},
+				{
+					img: '2/222755',
+					name: 'Lisette Norden'
+				},
+				{
+					img: '14/229239',
+					name: 'Edward Rutherford'
+				},
+				{
+					img: '15/228945',
+					name: 'Shin'
+				},
+				{
+					img: '7/225031',
+					name: 'Yomi'
 				}
 			]
 		}

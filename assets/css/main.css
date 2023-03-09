@@ -84,26 +84,21 @@ header {
 
 
 
-.searchBox {
-	width: auto;
-	margin: 0 3rem;
+.toolBox {
+	border-left: .5rem solid aqua;
+	margin: 1rem 3rem 0;
 }
-.searchBox::before {
-	content: 'Search & Filter:';
-	display: block;
-}
-.searchSplit {
-	border-left: 10px solid aqua;
-	padding-left: 10px;
-/*	gap: .5rem;*/
-}
-.searchBar {
+.search {
 	border-bottom: var(--border);
+	margin-left: .5rem;
 	display: flex;
 	align-items: center;
 }
-.searchBar:hover {
+.search:hover {
 	border-bottom-color: var(--hover-color);
+}
+.search::before {
+	content: 'Search:';
 }
 .searchIcon {
 	content: url(../media/icon/search_icon.png);
@@ -123,9 +118,40 @@ header {
 	width: 100%;
 	font-size: 1rem;
 }
-.searchRadio ~ .searchText {
-	margin: 0;
-	display: inline-block;
+.filter {
+	margin: 1rem 0 0;
+}
+.filter::before {
+	content: 'Filter:';
+	margin-left: .5rem;
+}
+.fStudios,
+.fType,
+.fSeason,
+.fRating,
+.fYear {
+	margin: 0 0 0 1rem !important;
+}
+.flexSpace {
+	display: flex;
+	justify-content: space-around;
+}
+.dropdown {
+	width: fit-content;
+	margin-left: 1rem;
+	color: white!important;
+	cursor: pointer;
+}
+.dropdown::before {
+	content: '+ ';
+	color: lime;
+}
+.dropdownActive::before {
+	content: '- ';
+	color: red;
+}
+.dropdownHide {
+	display: none!important;
 }
 .button {
 	background-color: #4184ff;
@@ -138,6 +164,7 @@ header {
 	display: block;
 	text-decoration: none;
 	transition: .3s;
+	cursor: pointer;
 }
 .button:hover {
 	background-color: #1b69f8;
@@ -220,6 +247,8 @@ header {
 
 
 
+.fStudios,
+.fYear,
 .gallery {
 	margin: 10px 0 50px 0;
 	display: grid;
@@ -367,7 +396,10 @@ h3::after {
 .smallInfo {
 	margin: auto 0;
 }
-.searchBox::before,
+.toolBox::before,
+.search::before,
+.filter::before,
+.dropdown,
 .studios::before,
 .type::before,
 .season::before,
