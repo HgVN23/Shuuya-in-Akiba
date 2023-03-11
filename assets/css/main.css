@@ -118,11 +118,26 @@ header {
 	width: 100%;
 	font-size: 1rem;
 }
-.filter {
-	margin: 1rem 0 0;
+.dropdown {
+	width: fit-content;
+	margin-left: 1rem;
+	color: white!important;
+	cursor: pointer;
 }
-.filter::before {
-	content: 'Filter:';
+.dropdown::before {
+	content: '+';
+	margin-right: .3rem;
+	color: lime;
+}
+.dropdownActive::before {
+	content: '-';
+	margin-right: .3rem;
+	color: red;
+}
+.dropdownHide {
+	display: none!important;
+}
+.filter {
 	margin-left: .5rem;
 }
 .fStudios,
@@ -135,23 +150,6 @@ header {
 .flexSpace {
 	display: flex;
 	justify-content: space-around;
-}
-.dropdown {
-	width: fit-content;
-	margin-left: 1rem;
-	color: white!important;
-	cursor: pointer;
-}
-.dropdown::before {
-	content: '+ ';
-	color: lime;
-}
-.dropdownActive::before {
-	content: '- ';
-	color: red;
-}
-.dropdownHide {
-	display: none!important;
 }
 .button {
 	background-color: #4184ff;
@@ -398,7 +396,6 @@ h3::after {
 }
 .toolBox::before,
 .search::before,
-.filter::before,
 .dropdown,
 .studios::before,
 .type::before,
