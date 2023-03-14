@@ -154,9 +154,9 @@ function addAnime(list) {
 							${character}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href="https://animevietsub.pro/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rAnimeVietsub" href="https://animevietsub.in/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
-							<a class="rImg rMangaQQ" href="https://truyenqqhot.com/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
+							<a class="rImg rMangaQQ" href="https://truyenqqmoi.com/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
 							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="Manga Dex"></a>
 							<a class="rImg rMangaNetTruyen" href="https://www.nettruyenup.com/tim-truyen?keyword=${name}" target="_blank" alt="Net Truyen"></a>
 							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="Manga Nelo"></a>

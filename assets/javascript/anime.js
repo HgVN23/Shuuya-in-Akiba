@@ -5744,33 +5744,78 @@ const anime = [
 		img: '5/56525',
 		name: [
 			'Machine-Doll wa Kizutsukanai Specials',
-			'',
+			'機巧少女は傷つかない',
 			'Unbreakable Machine-Doll Special'
 		],
 		studio: [
-			sNone
+			sLerche
 		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Winter 2013',
+		aired: '25/12/2013 - 28/05/2014',
+		rating: 'R+',
 		synopsis: `
-
+			- Hoạt hình gốc sẽ được đưa vào các bản phát hành tập BD và DVD của Machine-Doll wa Kizutsukanai.<br>
+			- Tập 1: "Soshite Futari wa Manabisha e (Và vì vậy họ đến trường)"<br>
+			- Tập 2: "Irori, Rotenburo de Sosou suru (Irori gặp tai nạn tại phòng tắm ngoài trời)"<br>
+			- Tập 3: "Char và Frey, Senritsu no Bathroom (Charl, Frey và Phòng tắm khủng bố)"<br>
+			- Tập 4: "Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Giấc mơ đêm hè)"<br>
+			- Tập 5: "Kojin Jugyou: Imishitsu de Bijo Futari to ~ (Bài học riêng - Hai người đẹp trong bệnh xá)"<br>
+			- Tập 6: "Bishoujo Shuugou! Mizugi Darake no Daisoudou (Những cô gái xinh đẹp tụ tập! Pandemonium râu áo tắm)
 		`,
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tEcchi',
+			'tSchool'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '13/383424',
+					name: 'Raishin "Second Last" Akabane'
+				},
+				{
+					img: '16/223365',
+					name: 'Yaya "The Moon"'
 				}
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '7/224985',
+					name: 'Nadeshiko Akabane'
+				},
+				{
+					img: '6/383429',
+					name: 'Charlotte "Charl, Tyrant Rex, T-Rex" Belew'
+				},
+				{
+					img: '15/223359',
+					name: 'Sigmund'
+				},
+				{
+					img: '7/225111',
+					name: 'Cruel'
+				},
+				{
+					img: '11/383423',
+					name: 'Frey "Silent Roar"'
+				},
+				{
+					img: '4/251885',
+					name: 'Irori'
+				},
+				{
+					img: '5/228939',
+					name: 'Kimberly'
+				},
+				{
+					img: '7/226669',
+					name: 'Komurasaki'
+				},
+				{
+					img: '13/228943',
+					name: 'Shouko Karyuusai'
 				}
 			]
 		}
@@ -5883,6 +5928,14 @@ const anime = [
 				{
 					img: '7/225031',
 					name: 'Yomi'
+				},
+				{
+					img: '4/251885',
+					name: 'Irori'
+				},
+				{
+					img: '13/228943',
+					name: 'Shouko Karyuusai'
 				}
 			]
 		}
