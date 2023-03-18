@@ -41,6 +41,11 @@ for(var i = 2007; i <= yearNow; i++){
 	yearTemp += `<div><input type="checkbox" id="year${i}" value="${i}"><label for="year${i}">${i}</label></div>`
 }
 
+let tagTemp = ``;
+for(var i = 0; i < tagList.length; i++){
+	tagTemp += `<div><input type="checkbox" id="tag${i}" value="${tagList[i].id}"><label for="tag${i}">${tagList[i].name}</label></div>`
+}
+
 filter();
 
 function filter() {
@@ -49,4 +54,54 @@ function filter() {
 	document.querySelector('.fSeason').innerHTML = seasonTemp;
 	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
+	document.querySelector('.fTag').innerHTML = tagTemp;
+	page = 0;
+	getMax(anime);
+	run(anime);
 }
+
+function apply() {
+	let studiosGet = document.querySelector('.fStudios').querySelectorAll('input');
+	let filterByStudios = [];
+	let fBS = 1;
+	let checkBreak = false;
+	for(var j = 1; j < anime.length; j++)
+		for(var k = 0; k < anime[j].studio.length; k++) {
+			for(var i = 0; i < studiosGet.length; i++)
+				if(studiosGet[i].checked)
+					if(anime[j].studio[k].id == studiosGet[i].value) {
+						filterByStudios[fBS] = anime[j];
+						fBS++;
+						checkBreak = true;
+						break;
+					}
+			if(checkBreak) {
+				checkBreak = false
+				break;
+			}
+		}
+	// for(var i = 0; i < studiosGet.length; i++)
+	// 	if(studiosGet[i].checked) {
+	// 		for(var j = 1; j < anime.length; j++)
+	// 			for(var k = 0; k < anime[j].studio.length; k++)
+	// 				if(anime[j].studio[k].id == studiosGet[i].value) {
+	// 					filterByStudios[fBS] = anime[j];
+	// 					fBS++;
+	// 					break;
+	// 				}
+	// 	}
+	page = 0;
+	getMax(filterByStudios);
+	run(filterByStudios);
+}
+
+// function checked(get) {
+// 	let n = get.length;
+// 	for(var i = 0; i < n; i++)
+// 		while(!get[i].checked && n != 0) {
+// 			for(var j = i; j < n; j++)
+// 				get[j] = get[j+1];
+// 			n--;
+// 		}
+// 	return get;
+// }

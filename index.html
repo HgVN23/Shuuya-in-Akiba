@@ -12,6 +12,7 @@
 	<link rel="stylesheet" href="assets/css/main.css">
 	<link rel="stylesheet" href="assets/css/tag.css">
 	<script async src="assets/javascript/studio.js"></script>
+	<script async src="assets/javascript/tag.js"></script>
 	<script async src="assets/javascript/anime.js"></script>
 	<script async src="assets/javascript/moreInfo.js"></script>
 	<script async src="assets/javascript/copy.js"></script>
@@ -31,7 +32,7 @@
 			<div class="searchIcon"></div>
 			<input class="searchInput" placeholder="Lọc theo..." type="text">
 		</div>
-		<div class="filter dropdown">Filter:</div>
+		<div class="dropdown filter">Filter:</div>
 		<div class="dropdownThis dropdownHide">
 			<div>
 				<div class="dropdown">Studios</div>
@@ -55,10 +56,15 @@
 				<div class="dropdown">Year</div>
 				<div class="fYear dropdownThis dropdownHide"></div>
 			</div>
-		</div>
-		<div class="flexSpace">
-			<div class="button" onclick="filter()">Reset Filter</div>
-			<a class="button" href="">Reset Page</a>
+			<div>
+				<div class="dropdown">Tag</div>
+				<div class="fTag dropdownThis dropdownHide"></div>
+			</div>
+			<div class="flexSpace">
+				<div class="button buttonGreen" onclick="apply()">Apply</div>
+				<div class="button buttonRed" onclick="filter()">Reset Filter</div>
+				<a class="button buttonRed" href="">Reset Page</a>
+			</div>
 		</div>
 	</div>
 	<div class="slider">

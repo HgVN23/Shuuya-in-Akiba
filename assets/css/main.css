@@ -121,7 +121,8 @@ header {
 .dropdown {
 	width: fit-content;
 	margin-left: 1rem;
-	color: white!important;
+	font-size: 1.3rem;
+	font-weight: bolder;
 	cursor: pointer;
 }
 .dropdown::before {
@@ -144,7 +145,8 @@ header {
 .fType,
 .fSeason,
 .fRating,
-.fYear {
+.fYear,
+.fTag {
 	margin: 0 0 0 1rem !important;
 }
 .flexSpace {
@@ -152,7 +154,7 @@ header {
 	justify-content: space-around;
 }
 .button {
-	background-color: #4184ff;
+/*	background-color: #4184ff;*/
 	border: var(--border);
 	border-color: transparent;
 	border-radius: 1rem;
@@ -165,7 +167,19 @@ header {
 	cursor: pointer;
 }
 .button:hover {
-	background-color: #1b69f8;
+/*	background-color: #1b69f8;*/
+}
+.buttonGreen {
+	background-color: lime;
+}
+.buttonGreen:hover {
+	background-color: green;
+}
+.buttonRed {
+	background-color: red;
+}
+.buttonRed:hover {
+	background-color: darkred;
 }
 
 
@@ -247,6 +261,7 @@ header {
 
 .fStudios,
 .fYear,
+.fTag,
 .gallery {
 	margin: 10px 0 50px 0;
 	display: grid;
@@ -396,7 +411,7 @@ h3::after {
 }
 .toolBox::before,
 .search::before,
-.dropdown,
+.filter,
 .studios::before,
 .type::before,
 .season::before,
