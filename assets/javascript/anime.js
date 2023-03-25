@@ -2991,7 +2991,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong thế giới Ars, con người dẫn đầu một cuộc chiến kéo dài hàng thập kỷ chống lại những con thú khổng lồ tàn phá vùng đất và ăn tài nguyên của chúng. Những người được giao nhiệm vụ chiến đấu với họ là những nhà vô địch được gọi là nagimori, người sử dụng sức mạnh hủy diệt của kannagi: những sinh vật có năng khiếu với sức mạnh ma thuật không thể kiểm soát.<br>
@@ -3028,8 +3028,68 @@ const anime = [
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '14/498124',
+					name: 'Baban'
+				},
+				{
+					img: '3/498125',
+					name: "Baban's Wife"
+				},
+				{
+					img: '9/496706',
+					name: 'Bakura'
+				},
+				{
+					img: '11/496701',
+					name: 'Chart'
+				},
+				{
+					img: '11/501464',
+					name: 'Deagle'
+				},
+				{
+					img: '8/496702',
+					name: 'Facade'
+				},
+				{
+					img: '7/498127',
+					name: 'Gouza'
+				},
+				{
+					img: '16/498128',
+					name: 'Guun'
+				},
+				{
+					img: '2/498123',
+					name: 'Kuumi Katsu'
+				},
+				{
+					img: '2/498129',
+					name: 'Kiris'
+				},
+				{
+					img: '14/498126',
+					name: 'Klunes'
+				},
+				{
+					img: '9/496705',
+					name: 'Mezami'
+				},
+				{
+					img: '16/501465',
+					name: 'Tillie'
+				},
+				{
+					img: '11/496703',
+					name: 'Tooka'
+				},
+				{
+					img: '7/496700',
+					name: 'Tsurugi'
+				},
+				{
+					img: '14/496704',
+					name: 'Zen'
 				}
 			]
 		}
@@ -3046,7 +3106,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Thành viên câu lạc bộ phát thanh truyền hình Shihono Kobayashi luôn nói với người bạn Aoto Endou về MagiKoi, một trò chơi otome nơi nhân vật chính Fiene theo học tại Học viện Phép thuật Hoàng gia. Nhưng bất chấp dàn diễn viên đầy màu sắc, một nhân vật mà Kobayashi bị ám ảnh nhiều nhất là biệt thự Lieselotte Riefenstahl. Trái ngược với những nhận xét khiếm nhã của cô ấy đối với Fiene, Lieselotte khao khát được làm bạn với cô ấy. Lieselotte cũng yêu sâu sắc vị hôn phu của chính mình, Hoàng tử Siegwald Fitzenhagen — tình yêu chính của trò chơi. Thật không may, ở hầu hết mọi tuyến đường, Lieselotte phải chịu một kết thúc bi thảm.<br>
@@ -3091,8 +3151,48 @@ const anime = [
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '16/502233',
+					name: 'Elizabeth'
+				},
+				{
+					img: '12/500117',
+					name: 'Chiyono Kobayashi'
+				},
+				{
+					img: '9/500966',
+					name: 'Kirise Kuon'
+				},
+				{
+					img: '4/496106',
+					name: 'Fabian Ortenburg'
+				},
+				{
+					img: '14/501527',
+					name: 'Adelina Riefenstahl'
+				},
+				{
+					img: '9/502232',
+					name: 'Bruno "Marquis Riefenstahl" Riefenstahl'
+				},
+				{
+					img: '3/501530',
+					name: 'Cecilie Riefenstahl'
+				},
+				{
+					img: '16/501528',
+					name: 'Katrina Riefenstahl'
+				},
+				{
+					img: '12/496107',
+					name: 'Leon Schache'
+				},
+				{
+					img: '6/504791',
+					name: 'Tiana'
+				},
+				{
+					img: '15/506172',
+					name: 'Witch of Yore'
 				}
 			]
 		}
@@ -3108,7 +3208,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - ??/??/2023',
+		aired: '05/01/2023 - 23/03/2023',
 		rating: 'R-17+',
 		synopsis: `
 			- Bị lừa ám sát cha vợ tương lai của chính mình, samurai chính trực Raizou Kurima tràn ngập cảm giác tội lỗi. Để đòi lại danh dự của mình, Raizou thề sẽ trả thù vị lãnh chúa, người đã ra lệnh cho anh ta những mệnh lệnh gây hiểu lầm đó. Trong quá trình theo đuổi, anh ta được hỗ trợ bởi thương nhân tự xưng của tất cả các ngành nghề Yuuen Usui, người thực sự là một trong những Kẻ trả thù — những sát thủ tìm kiếm công lý cho những kẻ bị oan sai và thay mặt họ trả thù đẫm máu.<br>
@@ -3144,8 +3244,40 @@ const anime = [
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '9/504499',
+					name: 'Hana'
+				},
+				{
+					img: '2/504064',
+					name: 'Sada Henro no'
+				},
+				{
+					img: '2/504061',
+					name: 'Ichinojou'
+				},
+				{
+					img: '13/506191',
+					name: 'Inohachi'
+				},
+				{
+					img: '15/498562',
+					name: 'Jinkurou Isarizawa'
+				},
+				{
+					img: '5/498561',
+					name: 'Gerald Kanou'
+				},
+				{
+					img: '6/504063',
+					name: 'Liu'
+				},
+				{
+					img: '2/504060',
+					name: 'Seikuu'
+				},
+				{
+					img: '5/504062',
+					name: 'Saimon Shishido'
 				}
 			]
 		}
@@ -3161,7 +3293,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - ??/??/2023',
+		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Ở vương quốc Tây Nguyên, các nàng tiên sống tự do cho đến khi con người phản bội họ. Một khi một nàng tiên đã bị tước cánh, bất cứ ai sở hữu nó đều nắm giữ mạng sống của nàng tiên trong tay. Lợi dụng điều này, con người bắt các nàng tiên làm nô lệ, nhưng Ann Halford, 15 tuổi, khao khát được nhìn thấy ngày mà các nàng tiên và con người được đối xử bình đẳng.<br>
@@ -3195,8 +3327,80 @@ const anime = [
 					name: 'Keith Powell'
 				},
 				{
-					img: '',
-					name: ''
+					img: '15/502923',
+					name: 'William Alburn'
+				},
+				{
+					img: '8/493973',
+					name: 'Jonas Anders'
+				},
+				{
+					img: '5/496087',
+					name: 'Benjamin'
+				},
+				{
+					img: '3/493968',
+					name: 'Cat'
+				},
+				{
+					img: '15/496086',
+					name: 'Cathy'
+				},
+				{
+					img: '10/506932',
+					name: 'Clifford'
+				},
+				{
+					img: '8/496084',
+					name: 'Elliot Collins'
+				},
+				{
+					img: '7/502924',
+					name: 'Dale'
+				},
+				{
+					img: '6/500135',
+					name: 'Doctor'
+				},
+				{
+					img: '4/501518',
+					name: 'Downing'
+				},
+				{
+					img: '9/501516',
+					name: 'Edmund II'
+				},
+				{
+					img: '13/499598',
+					name: 'Emma Halford'
+				},
+				{
+					img: '8/504792',
+					name: 'Sammy Jones'
+				},
+				{
+					img: '3/501515',
+					name: 'Lusel El Min'
+				},
+				{
+					img: '5/501517',
+					name: 'Margaret'
+				},
+				{
+					img: '4/483925',
+					name: 'Hugh Mercury'
+				},
+				{
+					img: '3/496085',
+					name: 'Bridget Page'
+				},
+				{
+					img: '16/505373',
+					name: 'Marcus Radcliffe'
+				},
+				{
+					img: '10/504565',
+					name: 'Salim'
 				}
 			]
 		}
@@ -3213,7 +3417,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - ??/??/2023',
+		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong những năm cuối đời, Hiraku Machio vẫn bị giam cầm trên giường bệnh với căn bệnh nan y cho đến khi cuối cùng ông qua đời. Thương hại cho cuộc sống bất công mà anh ta đã sống, một vị thần quyết định tái sinh Hiraku ở một thế giới khác, nơi anh ta có thể sống theo ý mình. Muốn thử làm nông nghiệp trong cuộc sống mới này, anh ấy được ban tặng một "Công cụ canh tác toàn năng" tất cả trong một có thể biến thành bất kỳ triển khai hữu ích nào mà anh ấy muốn. Hiraku sau đó được đưa đến một khu rừng dường như cách xa nền văn minh. Tại đây, anh có kế hoạch xây dựng và canh tác mọi thứ từ đầu — dần dần phát triển khu vực vô hồn thành một xã hội mới thịnh vượng.
@@ -3245,8 +3449,172 @@ const anime = [
 			],
 			support: [
 				{
-					img: '',
-					name: ''
+					img: '13/497669',
+					name: 'Ann'
+				},
+				{
+					img: '15/502942',
+					name: 'Glatts Britoa'
+				},
+				{
+					img: '14/504207',
+					name: 'Clacasse'
+				},
+				{
+					img: '9/502934',
+					name: 'Corone'
+				},
+				{
+					img: '10/499330',
+					name: 'Creator God'
+				},
+				{
+					img: '11/502936',
+					name: 'Daga'
+				},
+				{
+					img: '10/503596',
+					name: 'Donoban'
+				},
+				{
+					img: '5/502937',
+					name: 'Doraimu'
+				},
+				{
+					img: '15/497668',
+					name: 'Flora'
+				},
+				{
+					img: '15/504202',
+					name: 'Fraurem'
+				},
+				{
+					img: '11/502929',
+					name: 'Goddess of Agriculture'
+				},
+				{
+					img: '16/504766',
+					name: 'Michael Goroun'
+				},
+				{
+					img: '14/502933',
+					name: 'Granmaria'
+				},
+				{
+					img: '3/503595',
+					name: 'Grattaloon'
+				},
+				{
+					img: '10/502938',
+					name: 'Gucci'
+				},
+				{
+					img: '2/502932',
+					name: 'Gulf'
+				},
+				{
+					img: '4/504201',
+					name: 'Gullguld'
+				},
+				{
+					img: '12/504203',
+					name: 'Hakuren'
+				},
+				{
+					img: '10/504767',
+					name: 'Junea'
+				},
+				{
+					img: '14/502941',
+					name: 'Besel Kreim Chrome'
+				},
+				{
+					img: '9/502935',
+					name: 'Kudel'
+				},
+				{
+					img: '13/501554',
+					name: 'Kuro'
+				},
+				{
+					img: '9/501555',
+					name: 'Lafa'
+				},
+				{
+					img: '16/501514',
+					name: 'Lalasha'
+				},
+				{
+					img: '16/501556',
+					name: 'Lalu'
+				},
+				{
+					img: '16/501557',
+					name: 'Lami'
+				},
+				{
+					img: '16/502945',
+					name: 'Landan'
+				},
+				{
+					img: '9/501558',
+					name: 'Lasa'
+				},
+				{
+					img: '16/500958',
+					name: 'Leaf'
+				},
+				{
+					img: '5/500984',
+					name: 'Licott'
+				},
+				{
+					img: '14/500985',
+					name: 'Liese'
+				},
+				{
+					img: '6/500960',
+					name: 'Lily'
+				},
+				{
+					img: '7/500962',
+					name: 'Lita'
+				},
+				{
+					img: '4/500964',
+					name: 'Lize'
+				},
+				{
+					img: '15/504206',
+					name: 'Loage'
+				},
+				{
+					img: '6/500968',
+					name: 'Ramurias'
+				},
+				{
+					img: '9/497664',
+					name: 'Rasutisumoon'
+				},
+				{
+					img: '16/504205',
+					name: 'Rosalind'
+				},
+				{
+					img: '7/497666',
+					name: 'Senna'
+				},
+				{
+					img: '15/505473',
+					name: 'Valgreif'
+				},
+				{
+					img: '8/504734',
+					name: 'Ya'
+				},
+				{
+					img: '9/504204',
+					name: 'Yuuri'
 				}
 			]
 		}
@@ -3263,7 +3631,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - ??/??/2023',
+		aired: '05/01/2023 - 23/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Tự xưng là "nhân viên bảo vệ gia đình" Mahiro Oyama đã không rời khỏi nhà trong nhiều năm, ẩn mình trong phòng chơi tiểu thuyết trực quan khiêu dâm. Lối sống đồi trụy này khiến người chị gái phi thường của anh, Mihari, lo lắng về sức khỏe của anh. Với hy vọng giải quyết vấn đề này, cô nghĩ ra một kế hoạch để phục hồi anh trở lại trạng thái bình thường.<br>
@@ -3303,8 +3671,64 @@ const anime = [
 					name: 'Miyo Murosaki'
 				},
 				{
-					img: '',
-					name: ''
+					img: '16/506026',
+					name: 'Nemu Fujimi'
+				},
+				{
+					img: '10/506025',
+					name: 'Nodoka Fushimi'
+				},
+				{
+					img: '10/506122',
+					name: 'Takeshi Haijima'
+				},
+				{
+					img: '14/506121',
+					name: 'Tomoya Kiba'
+				},
+				{
+					img: '12/503559',
+					name: 'Yuriko Kitahara'
+				},
+				{
+					img: '4/506120',
+					name: 'Makoto Kodaira'
+				},
+				{
+					img: '6/501552',
+					name: 'Leonardo'
+				},
+				{
+					img: '11/503560',
+					name: 'Rin Minakata'
+				},
+				{
+					img: '5/506031',
+					name: 'Miyako Nagase'
+				},
+				{
+					img: '15/503561',
+					name: 'Mari Nishinomiya'
+				},
+				{
+					img: '14/503562',
+					name: 'Yuuta Sakurada'
+				},
+				{
+					img: '11/503563',
+					name: 'Minato Senkawa'
+				},
+				{
+					img: '4/506028',
+					name: 'Minori Shiina'
+				},
+				{
+					img: '8/506029',
+					name: 'Satsuki Takada'
+				},
+				{
+					img: '10/506030',
+					name: 'Mai Yasaka'
 				}
 			]
 		}
@@ -3321,7 +3745,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - ??/??/2023',
+		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Là thường dân đầu tiên theo học tại Học viện Phép thuật Arnold danh tiếng, Ray White ngay lập tức vấp phải sự khinh miệt từ một số sinh viên đến từ giới quý tộc. Họ không hề hay biết, danh tính thực sự của Ray là của Iceblade Sorcerer nổi tiếng — một anh hùng đã dẫn dắt đất nước đến chiến thắng trong một cuộc chiến trong quá khứ và là một trong bảy thầy phù thủy mạnh nhất còn sống. Bất chấp địa vị huyền thoại của mình, Ray không muốn gì hơn là sống cuộc sống học đường bình thường mà anh chưa từng có.<br>
@@ -3361,8 +3785,120 @@ const anime = [
 					name: 'Evi Armstrong'
 				},
 				{
-					img: '',
-					name: ''
+					img: '12/499298',
+					name: 'Albert Allium'
+				},
+				{
+					img: '5/503522',
+					name: 'Maria Bradley'
+				},
+				{
+					img: '11/493839',
+					name: 'Lydia Ainsworth'
+				},
+				{
+					img: '2/493844',
+					name: 'Carol Caroline'
+				},
+				{
+					img: '15/493843',
+					name: 'Ariane Algren'
+				},
+				{
+					img: '13/503504',
+					name: 'Tiana Algren'
+				},
+				{
+					img: '5/504789',
+					name: 'Volkhard Algren'
+				},
+				{
+					img: '7/499299',
+					name: 'Elliot Arkwright'
+				},
+				{
+					img: '14/502161',
+					name: 'Delk Armstrong'
+				},
+				{
+					img: '9/506842',
+					name: 'Evan Bernstein'
+				},
+				{
+					img: '11/505374',
+					name: 'Bruno Bradley'
+				},
+				{
+					img: '12/502160',
+					name: 'Flor Corraine'
+				},
+				{
+					img: '15/506843',
+					name: 'Lieselotte Eden'
+				},
+				{
+					img: '11/499300',
+					name: 'Wanda Erika'
+				},
+				{
+					img: '15/502159',
+					name: 'Henrick Fahrenheit'
+				},
+				{
+					img: '9/504707',
+					name: 'Lucas Forst'
+				},
+				{
+					img: '14/493840',
+					name: 'Abbie Garnet'
+				},
+				{
+					img: '3/503523',
+					name: 'Shine Girard'
+				},
+				{
+					img: '10/499306',
+					name: 'Helena "Gray" Grady'
+				},
+				{
+					img: '15/502162',
+					name: 'Carla Hale'
+				},
+				{
+					img: '8/504148',
+					name: 'Rex Hale'
+				},
+				{
+					img: '2/499305',
+					name: 'Cusex Igle'
+				},
+				{
+					img: '4/502163',
+					name: 'Howard Kennet'
+				},
+				{
+					img: '10/506844',
+					name: 'Paratorogo'
+				},
+				{
+					img: '10/502791',
+					name: 'Claude Rose'
+				},
+				{
+					img: '3/499988',
+					name: 'Dina Sera'
+				},
+				{
+					img: '14/499302',
+					name: 'Zina Shack'
+				},
+				{
+					img: '15/499303',
+					name: 'Lakis Simerde'
+				},
+				{
+					img: '14/499304',
+					name: 'Jeryll Yumimaru'
 				}
 			]
 		}
@@ -3577,7 +4113,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 25/03/2023',
 		rating: 'R+',
 		synopsis: `
 			- Vào một buổi chiều mưa, một nam học sinh trung học thức dậy đóng băng trên đường phố mà không nhớ mình đã đến đó bằng cách nào. Bạn cùng lớp và người yêu của anh ấy, Karen Inukai, tìm thấy anh ấy và đưa anh ấy trở về nhà của cô ấy, nơi trước sự ngạc nhiên của anh ấy, cô ấy bắt đầu cởi quần áo. Cô ấy dường như có ý định tắm với anh ấy, mặc dù anh ấy không biết tại sao. Khi cô ấy ôm anh ấy một lần nữa, anh ấy nhìn thoáng qua mình trong gương — phát hiện ra rằng anh ấy đã biến thành một!<br>
@@ -3610,6 +4146,10 @@ const anime = [
 				{
 					img: '5/499421',
 					name: "Karen's Mother"
+				},
+				{
+					img: '9/506014',
+					name: 'Inari "Girl in Lab Coat" Sakihira'
 				}
 			]
 		}
@@ -3627,7 +4167,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '04/01/2023 - ??/??/2023',
+		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Himuro-kun tốt bụng thật không may: khi ở trong sự tập trung sâu sắc, căng thẳng hoặc bối rối, anh ta vô tình tạo ra điều kiện bão tuyết cho bản thân và bất kỳ ai trong vùng lân cận. Trong một sự cố như vậy vào ngày đầu tiên của công việc mới, Himuro-kun gặp Fuyutsuki-san xinh đẹp, người giúp anh thoát ra khỏi lớp băng do thần kinh gây ra. Hóa ra, Fuyutsuki-san là đồng nghiệp mới của anh ấy.<br>
@@ -3685,8 +4225,8 @@ const anime = [
 					name: 'Nyamerou'
 				},
 				{
-					img: '',
-					name: ''
+					img: '12/504262',
+					name: 'Kankodori'
 				}
 			]
 		}
@@ -3703,7 +4243,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '04/01/2023 - ??/??/2023',
+		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Công chúa Anisphia "Anis" Wynn Palletia luôn mơ ước được bay trên bầu trời, mặc dù người dân trong vương quốc của cô coi đó là một tham vọng ngớ ngẩn. Cũng mâu thuẫn với mục tiêu của cô là việc Anis không có khả năng sử dụng phép thuật mặc dù địa vị cao quý của cô. Không chịu bỏ cuộc dễ dàng như vậy, cô từ bỏ quyền lên ngôi và tập trung vào việc phát triển "phép thuật học" bằng cách kết hợp nhiều nguồn lực khác nhau với kiến thức từ kiếp trước trên Trái đất.<br>
@@ -3757,8 +4297,32 @@ const anime = [
 					name: 'Grantz Magenta'
 				},
 				{
-					img: '',
-					name: ''
+					img: '9/505940',
+					name: 'Lumielle Rene Palletia'
+				},
+				{
+					img: '10/500900',
+					name: 'Moritz Chartreuse'
+				},
+				{
+					img: '3/500708',
+					name: 'Count Chartreuse'
+				},
+				{
+					img: '8/502726',
+					name: 'Dragus Cyan'
+				},
+				{
+					img: '10/500902',
+					name: 'Saran Meckie'
+				},
+				{
+					img: '15/500901',
+					name: 'Navre Sprout'
+				},
+				{
+					img: '3/505113',
+					name: 'Thomas'
 				}
 			]
 		}
@@ -3775,7 +4339,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - ??/??/2023',
+		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Nhà thám hiểm kỳ cựu Nick, pháp sư Tiana, giáo sĩ Zem và Curran nửa rồng mỗi người xuất hiện một mình tại một quán rượu, chỉ để thấy mình ngồi cùng bàn. Khi màn đêm buông xuống, họ thay phiên nhau tiết lộ những bất bình của mình và những sở thích mà họ đã coi là một phương tiện để đối phó. Mặc dù câu chuyện của họ hoàn toàn khác nhau, nhưng có một điểm chung: sự phản bội. Mỗi người trong số bốn người, đã bị phản bội cay đắng bởi một người mà họ trân trọng, đã phát triển một sự mất lòng tin sâu sắc vào nhân loại.<br>
@@ -3815,8 +4379,116 @@ const anime = [
 					name: 'Agate "Bell"'
 				},
 				{
-					img: '',
-					name: ''
+					img: '8/505855',
+					name: 'Olivia'
+				},
+				{
+					img: '15/505040',
+					name: 'Ada'
+				},
+				{
+					img: '12/499025',
+					name: 'Alex'
+				},
+				{
+					img: '15/504021',
+					name: 'Amber'
+				},
+				{
+					img: '16/505854',
+					name: 'Argas'
+				},
+				{
+					img: '2/504557',
+					name: 'Ash'
+				},
+				{
+					img: '7/502021',
+					name: 'Beck'
+				},
+				{
+					img: '8/499031',
+					name: 'Bellocchio'
+				},
+				{
+					img: '13/500631',
+					name: 'Belm'
+				},
+				{
+					img: '7/503429',
+					name: 'Bishot'
+				},
+				{
+					img: '2/500633',
+					name: 'Carios'
+				},
+				{
+					img: '4/502019',
+					name: 'Claudine'
+				},
+				{
+					img: '16/504023',
+					name: 'Joseph Coleman'
+				},
+				{
+					img: '2/504020',
+					name: 'Donny'
+				},
+				{
+					img: '6/500630',
+					name: 'Fifs'
+				},
+				{
+					img: '3/500632',
+					name: 'George'
+				},
+				{
+					img: '13/504556',
+					name: 'Hale'
+				},
+				{
+					img: '15/502020',
+					name: 'Jonathan'
+				},
+				{
+					img: '14/504554',
+					name: 'Jun'
+				},
+				{
+					img: '13/502018',
+					name: 'Leon'
+				},
+				{
+					img: '6/499027',
+					name: 'Lynn'
+				},
+				{
+					img: '6/499030',
+					name: 'Miril'
+				},
+				{
+					img: '15/504555',
+					name: 'Nalgarva'
+				},
+				{
+					img: '5/504553',
+					name: 'Red'
+				},
+				{
+					img: '3/504552',
+					name: 'Reina'
+				},
+				{
+					img: '15/504022',
+					name: 'Topaz'
+				},
+				{
+					img: '9/499029',
+					name: 'Velkia'
+				},
+				{
+					img: '7/499807',
+					name: 'Vilma'
 				}
 			]
 		}

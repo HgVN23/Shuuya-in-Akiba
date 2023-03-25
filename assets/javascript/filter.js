@@ -63,36 +63,132 @@ function filter() {
 function apply() {
 	let studiosGet = document.querySelector('.fStudios').querySelectorAll('input');
 	let filterByStudios = [];
-	let fBS = 1;
+	let fN = 1;
 	let checkBreak = false;
-	for(var j = 1; j < anime.length; j++)
-		for(var k = 0; k < anime[j].studio.length; k++) {
-			for(var i = 0; i < studiosGet.length; i++)
-				if(studiosGet[i].checked)
-					if(anime[j].studio[k].id == studiosGet[i].value) {
-						filterByStudios[fBS] = anime[j];
-						fBS++;
+	let check = false;
+	for(var i = 1; i < anime.length; i++)
+		for(var j = 0; j < anime[i].studio.length; j++) {
+			for(var k = 0; k < studiosGet.length; k++)
+				if(studiosGet[k].checked) {
+					if(anime[i].studio[j].id == studiosGet[k].value) {
+						filterByStudios[fN] = anime[i];
+						fN++;
 						checkBreak = true;
 						break;
 					}
+					check = true;
+				}
 			if(checkBreak) {
 				checkBreak = false
 				break;
 			}
 		}
-	// for(var i = 0; i < studiosGet.length; i++)
-	// 	if(studiosGet[i].checked) {
-	// 		for(var j = 1; j < anime.length; j++)
-	// 			for(var k = 0; k < anime[j].studio.length; k++)
-	// 				if(anime[j].studio[k].id == studiosGet[i].value) {
-	// 					filterByStudios[fBS] = anime[j];
-	// 					fBS++;
-	// 					break;
-	// 				}
-	// 	}
+	if(!check)
+		for(var i = 1; i < anime.length; i++)
+			filterByStudios[i] = anime[i];
+
+	let typeGet = document.querySelector('.fType').querySelectorAll('input');
+	let filterByType = [];
+	fN = 1;
+	check = false;
+	for(var i = 1; i < filterByStudios.length; i++)
+		for(var j = 0; j < typeGet.length; j++)
+			if(typeGet[j].checked) {
+				if(filterByStudios[i].type.includes(typeGet[j].value)) {
+					filterByType[fN] = filterByStudios[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 1; i < filterByStudios.length; i++)
+			filterByType[i] = filterByStudios[i];
+
+	let seasonGet = document.querySelector('.fSeason').querySelectorAll('input');
+	let filterBySeason = [];
+	fN = 1;
+	check = false;
+	for(var i = 1; i < filterByType.length; i++)
+		for(var j = 0; j < seasonGet.length; j++)
+			if(seasonGet[j].checked) {
+				if(filterByType[i].season.includes(seasonGet[j].value)) {
+					filterBySeason[fN] = filterByType[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 1; i < filterByType.length; i++)
+			filterBySeason[i] = filterByType[i];
+
+	let ratingGet = document.querySelector('.fRating').querySelectorAll('input');
+	let filterByRating = [];
+	fN = 1;
+	check = false;
+	for(var i = 1; i < filterBySeason.length; i++)
+		for(var j = 0; j < ratingGet.length; j++)
+			if(ratingGet[j].checked) {
+				if(filterBySeason[i].rating.includes(ratingGet[j].value)) {
+					filterByRating[fN] = filterBySeason[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 1; i < filterBySeason.length; i++)
+			filterByRating[i] = filterBySeason[i];
+
+	let yearGet = document.querySelector('.fYear').querySelectorAll('input');
+	let filterByYear = [];
+	fN = 1;
+	check = false;
+	for(var i = 1; i < filterByRating.length; i++)
+		for(var j = 0; j < yearGet.length; j++)
+			if(yearGet[j].checked) {
+				if(filterByRating[i].season.includes(yearGet[j].value)) {
+					filterByYear[fN] = filterByRating[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 1; i < filterByRating.length; i++)
+			filterByYear[i] = filterByRating[i];
+
+	let tagGet = document.querySelector('.fTag').querySelectorAll('input');
+	let filterByTag = [];
+	fN = 1;
+	checkBreak = false;
+	check = false;
+	for(var i = 1; i < filterByYear.length; i++)
+		for(var j = 0; j < filterByYear[i].tag.length; j++) {
+			for(var k = 0; k < tagGet.length; k++)
+				if(tagGet[k].checked) {
+					if(filterByYear[i].tag[j].includes(tagGet[k].value)) {
+						filterByTag[fN] = filterByYear[i];
+						fN++;
+						checkBreak = true;
+						break;
+					}
+					check = true;
+				}
+			if(checkBreak) {
+				checkBreak = false
+				break;
+			}
+		}
+	if(!check)
+		for(var i = 1; i < filterByYear.length; i++)
+			filterByTag[i] = filterByYear[i];
+
+
 	page = 0;
-	getMax(filterByStudios);
-	run(filterByStudios);
+	getMax(filterByTag);
+	run(filterByTag);
 }
 
 // function checked(get) {
