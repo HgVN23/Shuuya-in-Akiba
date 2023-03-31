@@ -4102,6 +4102,49 @@ const anime = [
 		}
 	},
 	{
+		img: '1453/132695',
+		name: [
+			'Inu ni Nattara Suki na Hito ni Hirowareta. Specials',
+			'犬になったら好きな人に拾われた。OVA'
+		],
+		studio: [
+			sQuad
+		],
+		type: 'Special',
+		season: 'Winter 2023',
+		aired: '29/03/2023 - 26/04/2023',
+		rating: 'R+',
+		synopsis: `
+			Unaired episodes included in the Blu-ray box volumes.
+		`,
+		tag: [
+			'tComedy',
+			'tEcchi'
+		],
+		character: {
+			main: [
+				{
+					img: '12/484217',
+					name: 'Pochita'
+				},
+				{
+					img: '13/484414',
+					name: 'Karen Inukai'
+				},
+				{
+					img: '9/484415',
+					name: 'Mike Nekotani'
+				},
+				{
+					img: '11/484417',
+					name: 'Usagi Tsukishiro'
+				}
+			],
+			support: [
+			]
+		}
+	},
+	{
 		img: '1832/132333l',
 		name: [
 			'Inu ni Nattara Suki na Hito ni Hirowareta',
@@ -20841,6 +20884,47 @@ const anime = [
 		`,
 		tag: [
 			''
+		],
+		character: {
+			main: [
+				{
+					img: '',
+					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1745/128238',
+		name: [
+			'Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen',
+			'劇場版 転生したらスライムだった件 紅蓮の絆編',
+			'That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond'
+		],
+		studio: [
+			s8bit
+		],
+		type: 'Movie',
+		season: 'Fall 2022',
+		aired: '25/12/2022',
+		rating: 'PG-13',
+		synopsis: `
+			- Ở Raja, một quốc gia nhỏ nằm ở phía tây của Tempest. Rimuru và những người bạn đồng hành của mình tham gia vào một âm mưu kéo dài xoay quanh sức mạnh bí ẩn của nữ hoàng. Rimuru và chỉ huy Benimaru cũng gặp phải một người sống sót yêu tinh khác tên là Hiiro, một người đàn ông từng là anh trai của Benimaru.
+		`,
+		tag: [
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tMythology',
+			'tReincarnation'
 		],
 		character: {
 			main: [
