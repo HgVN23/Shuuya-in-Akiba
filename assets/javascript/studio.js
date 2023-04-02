@@ -166,6 +166,10 @@ const sMadhouse = {
 	name: 'Madhouse',
 	id: 11
 };
+const sShinEiAnimation = {
+	name: 'Shin-Ei Animation',
+	id: 247
+};
 
 const studioList = [
 	sNone,

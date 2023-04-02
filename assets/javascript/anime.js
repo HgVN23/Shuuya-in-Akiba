@@ -35,6 +35,81 @@ const anime = [
 		}
 	},
 	{
+		img: '1545/133887',
+		name: [
+			'Boku no Kokoro no Yabai Yatsu',
+			'僕の心のヤバイやつ',
+			'The Dangers in My Heart'
+		],
+		studio: [
+			sShinEiAnimation
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '02/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Kyoutaro Ichikawa có thể trông giống như học sinh trung học bình thường của bạn, nhưng trong trái tim anh ta, anh ta mơ ước giết người. Do đó, không có gì ngạc nhiên khi người mà anh ta muốn giết nhất không bao giờ xa rời tâm trí anh ta: thần tượng của lớp, Anna Yamada.<br>
+			- Đọc sách một mình trong thư viện trường yêu quý của mình, anh vô tình bắt đầu gặp gỡ Yamada, người đến để bí mật hẻm núi trên kẹo và kẹo yêu quý của cô. Thông qua sự tương tác của họ, Ichikawa phát hiện ra Yamada là một người ditz như thế nào, và không thể không hỗ trợ cô ấy từ bên lề. Trong khi đó, bản thân Yamada không thể không trêu chọc Ichikawa không ngừng vì phản ứng bối rối của cậu.<br>
+			- Với một loạt các tương tác hàng ngày ấm áp, mối quan hệ xa cách giữa hai người phát triển thành một thứ gì đó không chỉ là người quen trong thư viện. Có lẽ, theo thời gian, Ichikawa sẽ nhận ra rằng những ham muốn giết người của mình đã biến thành một thứ hoàn toàn khác.
+		`,
+		tag: [
+			'tComedy',
+			'tSchool',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '6/486855',
+					name: 'Kyoutarou Ichikawa'
+				},
+				{
+					img: '12/409376',
+					name: 'Anna Yamada'
+				}
+			],
+			support: [
+				{
+					img: '2/502681',
+					name: 'Shou Adachi'
+				},
+				{
+					img: '15/503556',
+					name: 'Honoka Hara'
+				},
+				{
+					img: '15/440240',
+					name: 'Kana Ichikawa'
+				},
+				{
+					img: '14/502753',
+					name: 'Kenta Kanzaki'
+				},
+				{
+					img: '5/449837',
+					name: 'Chihiro Kobayashi'
+				},
+				{
+					img: '15/502752',
+					name: 'Haruya Nanjou'
+				},
+				{
+					img: '10/502751',
+					name: 'Chikara Oota'
+				},
+				{
+					img: '3/502750',
+					name: 'Moeko "Moe" Sekine'
+				},
+				{
+					img: '13/503557',
+					name: 'Serina Yoshida'
+				}
+			]
+		}
+	},
+	{
 		img: '1298/134178l',
 		name: [
 			'Yamada-kun to Lv999 no Koi wo Suru',
