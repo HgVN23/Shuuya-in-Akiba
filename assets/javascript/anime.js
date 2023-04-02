@@ -35,6 +35,63 @@ const anime = [
 		}
 	},
 	{
+		img: '1298/134178l',
+		name: [
+			'Yamada-kun to Lv999 no Koi wo Suru',
+			'山田くんとLv999の恋をする',
+			'My Love Story with Yamada-kun at Lv999'
+		],
+		studio: [
+			sMadhouse
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '02/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Sau khi bạn trai lừa dối cô với một cô gái khác mà anh gặp trong trò chơi, Akane Kinoshita học được một cách khó khăn rằng bạn trai game thủ có thể tệ như loại ngoại tuyến. Khi cô trút giận bằng cách đánh quái vật đám đông đến tủy, cô có cơ hội gặp Akito Yamada, một người bạn cùng bang hội với mặt nạ afro và Noh.<br>
+			- Yamada không hòa đồng và cộc lốc, hầu như không phải là kiểu người khiến Akane ngất ngây. Tuy nhiên, trong khi chỉ số chơi game của anh ấy có thể được tối đa, Yamada thiếu kinh nghiệm trong các vấn đề của trái tim, và chống lại tất cả các tỷ lệ cược, cô ấy thấy mình bị anh ấy cảm động. Kết bạn mới trên đường đi, liệu Akane có thể lay động trái tim của Yamada, một nam sinh trung học cấp trùm cuối cùng?
+		`,
+		tag: [
+			'tGame',
+			'tRomance'
+		],
+		character: {
+			main: [
+				{
+					img: '6/489090',
+					name: 'Akane Kinoshita'
+				},
+				{
+					img: '6/489089',
+					name: 'Akito Yamada'
+				}
+			],
+			support: [
+				{
+					img: '8/505810',
+					name: 'Takezou Kamota'
+				},
+				{
+					img: '9/505809',
+					name: 'Momoko Maeda'
+				},
+				{
+					img: '3/503265',
+					name: 'Eita Sasaki'
+				},
+				{
+					img: '5/503266',
+					name: 'Runa Sasaki'
+				},
+				{
+					img: '9/505808',
+					name: 'Yukari Tsubaki'
+				}
+			]
+		}
+	},
+	{
 		img: '1673/117409l',
 		name: [
 			'Deatte 5-byou de Battle',

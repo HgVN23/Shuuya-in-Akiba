@@ -162,6 +162,10 @@ const sLerche = {
 	name: 'Lerche',
 	id: 456
 };
+const sMadhouse = {
+	name: 'Madhouse',
+	id: 11
+};
 
 const studioList = [
 	sNone,
@@ -204,5 +208,6 @@ const studioList = [
 	sVegaEntertainment,
 	sBarnumStudio,
 	sAICBuild,
-	sLerche
+	sLerche,
+	sMadhouse
 ]
