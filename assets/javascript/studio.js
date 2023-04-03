@@ -170,6 +170,22 @@ const sShinEiAnimation = {
 	name: 'Shin-Ei Animation',
 	id: 247
 };
+const sProductionIG = {
+	name: 'Production I.G',
+	id: 10
+};
+const sMagicBus = {
+	name: 'Magic Bus',
+	id: 207
+};
+const sEMTSquared = {
+	name: 'EMT Squared',
+	id: 1264
+};
+const sStudioSignpost = {
+	name: 'Studio Signpost',
+	id: 1998
+};
 
 const studioList = [
 	sNone,
@@ -213,5 +229,10 @@ const studioList = [
 	sBarnumStudio,
 	sAICBuild,
 	sLerche,
-	sMadhouse
+	sMadhouse,
+	sShinEiAnimation,
+	sProductionIG,
+	sMagicBus,
+	sEMTSquared,
+	sStudioSignpost
 ]

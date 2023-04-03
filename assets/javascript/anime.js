@@ -35,6 +35,143 @@ const anime = [
 		}
 	},
 	{
+		img: '1350/133642',
+		name: [
+			'Jijou wo Shiranai Tenkousei ga Guigui Kuru.',
+			'事情を知らない転校生がグイグイくる。',
+			'My Clueless First Friend'
+		],
+		studio: [
+			sStudioSignpost
+		],
+		type: 'TV',
+		season: '',
+		aired: '//202 - //202',
+		rating: 'PG-13',
+		synopsis: `
+			- Đối lập thu hút khi một airhead vui vẻ gặp hoa tường vi cư trú của lớp học mới của mình trong loạt phim hài học đường ấm áp, lát cắt cuộc sống này!<br>
+			- Một cô gái lớp năm cô đơn, ảm đạm là mục tiêu của sự bắt nạt và trêu chọc không ngừng của các bạn cùng lớp — nghĩa là, cho đến khi một đứa trẻ mới đến hiện trường. Takada thân thiện không biết gì về ý nghĩa của anh ta, nhưng bằng cách nào đó anh ta sở hữu khả năng ma thuật để bắt đầu kéo "Thần chết" Nishimura ra khỏi vỏ bọc của cô ấy. Khi các học sinh tiểu học cùng nhau trải nghiệm tất cả niềm vui của một mùa hè thời thơ ấu - từ đi đến hồ bơi, hái hoa hướng dương đến xem pháo hoa - một tình bạn khác thường nở rộ!
+		`,
+		tag: [
+			'tComedy',
+			'tSchool',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '13/503966',
+					name: 'Akane "The Grim Reaper" Nishimura'
+				},
+				{
+					img: '14/503963',
+					name: 'Taiyou Takada'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1402/134000',
+		name: [
+			'Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito',
+			'転生貴族の異世界冒険録～自重を知らない神々の使徒～',
+			"The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far"
+		],
+		studio: [
+			sMagicBus,
+			sEMTSquared
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '03/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Thiếu niên Shiinya Kazuya đã chết trong khi cứu các cô gái trẻ khỏi một kẻ tấn công, chỉ để thấy mình tái sinh vào một thế giới của kiếm và ma thuật. Đó là một giấc mơ trở thành sự thật! Mặc dù anh ta nhớ cuộc đời và kiến thức của mình về Trái đất, anh ta bây giờ là Cain von Silford, con trai thứ ba của một quý tộc. Được ban cho sự bảo vệ của các vị thần vào ngày sinh nhật thứ năm của mình hóa ra là một điều quá tốt cho Cain. Chỉ số và tăng cường của anh ta rất mạnh mẽ, anh ta phải che giấu khả năng thực sự của mình để leo lên hàng ngũ xã hội khi anh ta rơi vào ngục tối nhất. Cuộc phiêu lưu isekai cuối cùng bắt đầu khi một đứa trẻ tuổi teen bị mắc kẹt trong một vương quốc xinh đẹp mà anh ta không tạo ra, nhưng một ngày nào đó có thể cai trị!
+		`,
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation',
+			'tRomance'
+		],
+		character: {
+			main: [
+				{
+					img: '8/495691',
+					name: 'Telestia Terra Esfort'
+				},
+				{
+					img: '16/495689',
+					name: 'Cain von Silford'
+				},
+				{
+					img: '14/495690',
+					name: 'Silk von Santana'
+				}
+			],
+			support: [
+				{
+					img: '11/495688',
+					name: 'Reine von Silford'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1121/133132',
+		name: [
+			'Tengoku Daimakyou',
+			'天国大魔境',
+			'Heavenly Delusion'
+		],
+		studio: [
+			sProductionIG
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '01/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Trong sự an toàn của các bức tường, thanh thiếu niên được nuôi dưỡng trong một khung cảnh kiểu nhà trẻ bởi robot. Trong khi cuộc sống ở đó có thể xuất hiện cũ trên bề mặt, những đứa trẻ đầy tiềm năng và tò mò. Theo nhiều cách, nó giống như một lát cắt của thiên đường. Thế giới bên ngoài là một cảnh địa ngục. Nó gần như hoàn toàn không có bất cứ thứ gì máy móc và hiện là nơi sinh sống của những sinh vật siêu nhiên kỳ lạ nhưng mạnh mẽ.<br>
+			- Maru, với sự trợ giúp của Kiruko, đang ở ngoài kia băng qua những gì đã từng là Tokyo cho thiên đường. Nhưng sau khi tìm kiếm quá lâu, có lẽ thiên đường là một giấc mơ không thể thực hiện được hơn là một thực tế tiềm năng.
+		`,
+		tag: [
+			'tAdventure',
+			'tSciFi',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '13/502335',
+					name: 'Kiruko'
+				},
+				{
+					img: '4/502336',
+					name: 'Maru'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1545/133887',
 		name: [
 			'Boku no Kokoro no Yabai Yatsu',
@@ -17918,6 +18055,106 @@ const anime = [
 		}
 	},
 	{
+		img: '1670/130060',
+		name: [
+			'Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai',
+			'かぐや様は告らせたい -ファーストキッスは終わらない-',
+			'Kaguya-sama: Love is War - The First Kiss That Never Ends'
+		],
+		studio: [
+			sA1Pictures
+		],
+		type: 'Moive',
+		season: 'Fall 2022',
+		aired: '17/12/2022',
+		rating: 'PG-13',
+		synopsis: `
+			- Sau nụ hôn đầu tiên, Kaguya Shinomiya và Miyuki Shirogane không chắc mối quan hệ của họ đang đứng ở đâu. Sự không chắc chắn đáng lo ngại về việc liệu họ có thể được coi là một cặp đôi chính thức hay không đã giải phóng những vấn đề mới khi cả Kaguya và Shirogane đấu tranh để sắp xếp tình cảm của họ.<br>
+			- Trong khi các nhân viên hội học sinh đáng yêu băn khoăn, mùa Giáng sinh trôi qua, và sự lãng mạn đang ở trong không khí. Đối mặt với sự dịu dàng lan rộng, Kaguya và Shirogane phải chịu đựng trận chiến trí tuệ trìu mến của họ một lần nữa. Nếu họ dung hòa tình cảm của họ dành cho nhau, họ có thể thấy mình trong tầm tay của điều mà cả hai đã khao khát bấy lâu: tình yêu đích thực.
+		`,
+		tag: [
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '16/371541',
+					name: 'Miyuki Shirogane'
+				},
+				{
+					img: '2/504723',
+					name: 'Kaguya Shinomiya'
+				}
+			],
+			support: [
+				{
+					img: '2/371542',
+					name: 'Chika Fujiwara'
+				},
+				{
+					img: '7/372840',
+					name: 'Yuu Ishigami'
+				},
+				{
+					img: '16/376603',
+					name: 'Miko Iino'
+				},
+				{
+					img: '8/504012',
+					name: 'Ai Hayasaka'
+				},
+				{
+					img: '12/395332',
+					name: 'Moeha Fujiwara'
+				},
+				{
+					img: '8/384774',
+					name: 'Nagisa Kashiwagi'
+				},
+				{
+					img: '5/414938',
+					name: 'Tsubame Koyasu'
+				},
+				{
+					img: '15/457000',
+					name: 'Rei Onodera'
+				},
+				{
+					img: '14/476349',
+					name: 'Previous Student Council President'
+				},
+				{
+					img: '16/473408',
+					name: 'Momo Ryuuju'
+				},
+				{
+					img: '16/409888',
+					name: 'Maki "Tsundere-senpai" Shijou'
+				},
+				{
+					img: '16/408120',
+					name: 'Father Shirogane'
+				},
+				{
+					img: '4/395331',
+					name: 'Kei Shirogane'
+				},
+				{
+					img: '8/411278',
+					name: 'Shouzou Tanuma'
+				},
+				{
+					img: '5/373433',
+					name: `Tsubasa "Kashiwagi's Boyfriend" Tanuma`
+				}
+			]
+		}
+	},
+	{
 		img: '1160/122627',
 		name: [
 			'Kaguya-sama wa Kokurasetai: Ultra Romantic',
@@ -20777,6 +21014,47 @@ const anime = [
 				{
 					img: '',
 					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1132/134608',
+		name: [
+			'Kuma Kuma Kuma Bear Punch!',
+			'くまクマ熊ベアーぱーんち！'
+		],
+		studio: [
+			sEMTSquared
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '03/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Mùa thứ hai của Kuma Kuma Kuma Bear.
+		`,
+		tag: [
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai'
+		],
+		character: {
+			main: [
+				{
+					img: '9/412631',
+					name: 'Yuna "Kuma-san, Bloody Bear"'
+				},
+				{
+					img: '3/412621',
+					name: 'Fina'
 				}
 			],
 			support: [
