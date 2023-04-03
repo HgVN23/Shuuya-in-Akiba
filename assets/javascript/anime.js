@@ -35,6 +35,54 @@ const anime = [
 		}
 	},
 	{
+		img: '1316/134327',
+		name: [
+			'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta',
+			'異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～',
+			'I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too'
+		],
+		studio: [
+			sMillepensee
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '03/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Một cơ hội để trở lại!<br>
+			- Một cánh cửa bí ẩn mở ra, mời một cậu bé bị bắt nạt dã man cả đời bước một bước can đảm vào điều chưa biết. Ở phía bên kia, anh ta tìm thấy một kho cổ vật vô giá và một thế giới chứa đầy ma thuật như quái vật. Tuy nhiên, tiết lộ gây sốc nhất là anh ta có thể mang theo bất cứ thứ gì anh ta muốn trở lại khi trở về Trái đất. Sẽ không lâu nữa cuộc sống hai mặt này sẽ thay đổi anh mãi mãi...
+		`,
+		tag: [
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tSchool'
+		],
+		character: {
+			main: [
+				{
+					img: '7/497042',
+					name: 'Kaori Houjou'
+				},
+				{
+					img: '11/497205',
+					name: 'Yuuya Tenjou'
+				},
+				{
+					img: '6/497044',
+					name: 'Lexia Von Alceria'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1350/133642',
 		name: [
 			'Jijou wo Shiranai Tenkousei ga Guigui Kuru.',
@@ -23024,6 +23072,83 @@ const anime = [
 				}
 			],
 			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1932/131464',
+		name: [
+			'Isekai wa Smartphone to Tomo ni. 2',
+			'異世界はスマートフォンとともに。',
+			'In Another World With My Smartphone 2'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '03/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Mùa thứ hai của Isekai wa Smartphone to Tomo ni.
+		`,
+		tag: [
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation',
+			'tRomance'
+		],
+		character: {
+			main: [
+				{
+					img: '11/333325',
+					name: 'Touya Mochizuki'
+				},
+				{
+					img: '15/330375',
+					name: 'Linse Shileska'
+				},
+				{
+					img: '9/333326',
+					name: 'Elze Shileska'
+				},
+				{
+					img: '14/330377',
+					name: 'Yae Kokonoe'
+				},
+				{
+					img: '16/333329',
+					name: 'Yumina Urnea Belfast'
+				},
+				{
+					img: '13/330380',
+					name: 'Lean'
+				},
+				{
+					img: '12/489780',
+					name: 'Lucia "Lu" Rea Regulus'
+				},
+				{
+					img: '4/482248',
+					name: 'Sakura'
+				},
+				{
+					img: '9/482247',
+					name: 'Hildegard Minas "Hilde" Lestia'
+				}
+			],
+			support: [
+				{
+					img: '14/334109',
+					name: 'Sushie "Sue" Elnea Ortlinde'
+				},
 				{
 					img: '',
 					name: ''

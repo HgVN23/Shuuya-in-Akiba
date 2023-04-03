@@ -186,6 +186,10 @@ const sStudioSignpost = {
 	name: 'Studio Signpost',
 	id: 1998
 };
+const sMillepensee = {
+	name: 'Millepensee',
+	id: 1237
+};
 
 const studioList = [
 	sNone,
@@ -234,5 +238,6 @@ const studioList = [
 	sProductionIG,
 	sMagicBus,
 	sEMTSquared,
-	sStudioSignpost
+	sStudioSignpost,
+	sMillepensee
 ]
