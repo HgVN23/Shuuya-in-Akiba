@@ -198,6 +198,10 @@ const sGraphinica = {
 	name: 'Graphinica',
 	id: 894
 };
+const sDrive = {
+	name: 'Drive',
+	id: 1967
+};
 
 const studioList = [
 	sNone,
@@ -249,5 +253,6 @@ const studioList = [
 	sStudioSignpost,
 	sMillepensee,
 	sYumetaCompany,
-	sGraphinica
+	sGraphinica,
+	sDrive
 ]

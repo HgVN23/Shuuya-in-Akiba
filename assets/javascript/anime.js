@@ -35,6 +35,49 @@ const anime = [
 		}
 	},
 	{
+		img: '1355/133785',
+		name: [
+			'Skip to Loafer',
+			'スキップとローファー',
+			'Skip and Loafer'
+		],
+		studio: [
+			sPAWorks
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '04/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Sinh viên xuất sắc Iwakura Mitsumi luôn mơ ước rời khỏi thị trấn nhỏ của mình, đến một trường đại học danh tiếng và tạo ra sự thay đổi tích cực trên thế giới. Nhưng cô ấy quá tập trung vào việc đạt được mục tiêu của mình đến nỗi cô ấy không chuẩn bị cho cuộc sống thành phố rất khác biệt (và áp đảo) đang chờ đợi cô ấy ở một trường trung học ở Tokyo. May mắn thay, cô kết bạn nhanh chóng với Shima Sousuke, một người bạn cùng lớp đẹp trai, người thoải mái như cô đã chuẩn bị quá mức. Liệu cô gái nhà quê ngây thơ này có thể làm nên chuyện ở Tokyo với Sousuke bên cạnh?
+		`,
+		tag: [
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '5/477848',
+					name: 'Mitsumi Iwakura'
+				},
+				{
+					img: '3/477849',
+					name: 'Sousuke Shima'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1316/134327',
 		name: [
 			'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta',
@@ -20000,6 +20043,46 @@ const anime = [
 				{
 					img: '',
 					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1439/135042',
+		name: [
+			'Kono Subarashii Sekai ni Bakuen wo!',
+			'この素晴らしい世界に爆焔を！',
+			'KonoSuba: An Explosion on This Wonderful World!'
+		],
+		studio: [
+			sDrive
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '06/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			'tComedy',
+			'tFantasy'
+		],
+		character: {
+			main: [
+				{
+					img: '14/349249',
+					name: 'Megumin'
+				},
+				{
+					img: '9/323944',
+					name: 'Yunyun'
 				}
 			],
 			support: [
