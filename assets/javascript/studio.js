@@ -190,6 +190,14 @@ const sMillepensee = {
 	name: 'Millepensee',
 	id: 1237
 };
+const sYumetaCompany = {
+	name: 'Yumeta Company',
+	id: 96
+};
+const sGraphinica = {
+	name: 'Graphinica',
+	id: 894
+};
 
 const studioList = [
 	sNone,
@@ -239,5 +247,7 @@ const studioList = [
 	sMagicBus,
 	sEMTSquared,
 	sStudioSignpost,
-	sMillepensee
+	sMillepensee,
+	sYumetaCompany,
+	sGraphinica
 ]

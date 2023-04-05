@@ -11278,6 +11278,64 @@ const anime = [
 		}
 	},
 	{
+		img: '1274/133807',
+		name: [
+			'Tokyo Mew Mew New ♡ 2nd Season',
+			'東京ミュウミュウ にゅ～♡'
+		],
+		studio: [
+			sYumetaCompany,
+			sGraphinica
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '05/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Mùa thứ hai của Tokyo Mew Mew New ♡ .
+		`,
+		tag: [
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tShoujo'
+		],
+		character: {
+			main: [
+				{
+					img: '11/464727',
+					name: 'Ichigo "Mew Ichigo, Zoey Hanson" Momomiya'
+				},
+				{
+					img: '12/464728',
+					name: 'Zakuro "Renée Roberts, Mew Zakuro, Zacro Fujiwara" Fujiwara'
+				},
+				{
+					img: '9/464730',
+					name: 'Mint "Corina Bucksworth, Mew Mint" Aizawa'
+				},
+				{
+					img: '4/464729',
+					name: 'Bu-Ling "Kikki Benjamin, Pudding Fong, Mew Pudding" Huang'
+				},
+				{
+					img: '13/464726',
+					name: 'Lettuce "Bridget Verdant, Mew Lettuce" Midorikawa'
+				}
+			],
+			support: [
+				{
+					img: '13/487951',
+					name: 'Masaya "Mark" Aoyama'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1001/116687',
 		name: [
 			'Tokyo Mew Mew New ♡',
