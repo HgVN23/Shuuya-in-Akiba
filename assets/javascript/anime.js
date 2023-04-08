@@ -35,6 +35,63 @@ const anime = [
 		}
 	},
 	{
+		img: '1332/134658',
+		name: [
+			'Kawaisugi Crisis',
+			'カワイスギクライシス',
+			'Too Cute Crisis'
+		],
+		studio: [
+			sSynergySP
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '07/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Liza Luna là một người ngoài hành tinh muốn hủy diệt Trái đất ngay từ cái nhìn đầu tiên. Nhưng hành tinh này có rất nhiều điều tốt đẹp, và sẽ thật đáng tiếc nếu cô ấy không kiểm tra nó. Do đó, Trái đất không bị hủy diệt, và người ngoài hành tinh bắt đầu lang thang khắp các nơi. Chẳng mấy chốc, Liza kết thúc ở một quán cà phê mèo, nơi cô sẽ gặp những sinh vật nằm ngoài tầm hiểu biết của cô.				
+		`,
+		tag: [
+			'tComedy',
+			'tSciFi',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '5/492320',
+					name: 'Liza Luna'
+				},
+				{
+					img: '5/492319',
+					name: 'Yozora'
+				},
+				{
+					img: '13/492318',
+					name: 'Seiji Mukai'
+				},
+				{
+					img: '12/492317',
+					name: 'Kasumi Yanagi'
+				}
+			],
+			support: [
+				{
+					img: '4/497175',
+					name: 'Amato Roy'
+				},
+				{
+					img: '16/497176',
+					name: 'Fiana Tiary'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1766/130919',
 		name: [
 			'Megami no Café Terrace',
