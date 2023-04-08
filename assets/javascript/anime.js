@@ -35,6 +35,398 @@ const anime = [
 		}
 	},
 	{
+		img: '1766/130919',
+		name: [
+			'Megami no Café Terrace',
+			'女神のカフェテラス',
+			'The Café Terrace and Its Goddesses'
+		],
+		studio: [
+			sTezukaProductions
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '08/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			'tComedy',
+			'tEcchi',
+			'tHarem',
+			'tRomance',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '12/493011',
+					name: 'Hayato Kasukabe'
+				},
+				{
+					img: '4/493016',
+					name: 'Ouka Makuzawa'
+				},
+				{
+					img: '3/493013',
+					name: 'Akane Hououji'
+				},
+				{
+					img: '9/493012',
+					name: 'Riho Tsukishima'
+				},
+				{
+					img: '5/493014',
+					name: 'Ami Tsuruga'
+				},
+				{
+					img: '10/493015',
+					name: 'Shiragiku Ono'
+				}
+			],
+			support: [
+				{
+					img: '13/504754',
+					name: 'Sachiko Kasukabe'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1171/133777',
+		name: [
+			'Edomae Elf',
+			'江戸前エルフ',
+			'Otaku Elf'
+		],
+		studio: [
+			sC2C
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '08/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Koito Koganei làm việc như một thiếu nữ trong đền thờ tại đền Takamimi, phục vụ cho ý thích bất chợt của cư dân nơi đây: một yêu tinh hàng thế kỷ yêu thích trò chơi điện tử cũng như ghét ra ngoài! Sắp xếp các dịch vụ của bạn cho yêu tinh otaku — một số nước tăng lực, khoai tây chiên và trò chơi điện tử sẽ hoạt động tốt — và xem những người bạn mới của cô ấy tranh giành để theo kịp!
+		`,
+		tag: [
+			'tComedy',
+			'tShounen',
+			'tSupernatural'
+		],
+		character: {
+			main: [
+				{
+					img: '4/477219',
+					name: 'Elda "Eldarie Irma Fanomenel, Takamimi Himenomikoto"'
+				},
+				{
+					img: '13/477221',
+					name: 'Koito Koganei'
+				}
+			],
+			support: [
+				{
+					img: '7/504209',
+					name: 'Koyuzu Koganei'
+				},
+				{
+					img: '16/504208',
+					name: 'Koma Sakuraba'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1708/133360',
+		name: [
+			'Watashi no Yuri wa Oshigoto desu!',
+			'私の百合はお仕事です！',
+			'Yuri is My Job!'
+		],
+		studio: [
+			sPassione,
+			sStudioLings
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '06/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Cuộc sống có vẻ đầy hứa hẹn đối với Hime Shiraki, một cô gái có điểm số tốt, danh tiếng hoàn hảo và khuôn mặt dễ thương để vượt qua tất cả. Chỉ cần cô có thể giữ được vẻ ngoài hoàn hảo của mình, cô sẽ có thể thực hiện ước mơ của mình: được mọi người yêu mến và trở thành người vợ danh hiệu của một tỷ phú.<br>
+			- Vào một ngày như bao ngày khác, Hime trượt xuống cầu thang và đáp xuống đỉnh Mai Mikoshiba, làm bị thương cánh tay của Mikoshiba. Hóa ra Mai là quản lý của một quán cà phê, và chấn thương sẽ khiến công việc của cô không thể thực hiện được. Người ta quyết định rằng trong khi Mai hồi phục, Hime sẽ phải thay thế Mai tại Café Liebe, nơi tự hào có chủ đề học viện toàn nữ.<br>
+			- Mặc dù gây thương tích cho Mai, Hime vẫn được các nhân viên khác chấp nhận, ngoại trừ một cô gái có vẻ ghét cô ấy vì những lý do không rõ. Hime trở nên sợ hãi khi cô gái này đã nhìn thấy vẻ ngoài của mình, điều này khiến cô nhớ đến một sự kiện rắc rối trong quá khứ.
+		`,
+		tag: [
+			'tComedy',
+			'tWorkplace',
+			'tYuri'
+		],
+		character: {
+			main: [
+				{
+					img: '3/506692',
+					name: 'Hime "Hime Shirasagi" Shiraki'
+				},
+				{
+					img: '7/506693',
+					name: 'Mitsuki "Mitsuki Ayanokouji" Yano'
+				}
+			],
+			support: [
+				{
+					img: '13/506695',
+					name: 'Sumika "Sumika Tachibana" Chibana'
+				},
+				{
+					img: '6/506694',
+					name: 'Kanoko "Kanoko Amamiya" Mamiya'
+				},
+				{
+					img: '16/506696',
+					name: 'Mai "Mai Mikoshiba" Koshiba'
+				},
+				{
+					img: '4/506697',
+					name: 'Nene "Nene Saionji" Nishidera'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1967/129736',
+		name: [
+			'Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita',
+			'異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～',
+			'My One-Hit Kill Sister'
+		],
+		studio: [
+			sGekkou
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '07/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- "Không phải tôi là người mạnh nhất ở thế giới khác, mà là em gái tôi?!"<br>
+			- Do một tai nạn trong thế giới thực, Asahi Ikusaba được chuyển đến một thế giới khác. Anh ta cố gắng tận hưởng thế giới khác mà anh ta tưởng tượng, nhưng khả năng của anh ta tỏ ra yếu nhất. Ngay khi anh ta sắp bị tấn công bởi một con quái vật hung ác, chị gái lấm lem của Asahi là Mayu đã đến giải cứu anh ta và cứu anh ta.<br>
+			- Theo đuổi tình yêu của Asahi, Mayu cũng kết thúc ở cùng một thế giới với anh ta, với khả năng mạnh nhất và kỹ năng gian lận. Câu chuyện giả tưởng về người chị gái mạnh nhất với phức hợp anh trai và em trai có kỹ năng yếu nhất bắt đầu.
+		`,
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '5/484194',
+					name: 'Asahi Ikusaba'
+				},
+				{
+					img: '12/484193',
+					name: 'Maya Ikusaba'
+				},
+				{
+					img: '11/484289',
+					name: 'Kilmaria'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1218/135107',
+		name: [
+			'Mashle',
+			'マッシュル-MASHLE-',
+			'Mashle: Magic and Muscles'
+		],
+		studio: [
+			sA1Pictures
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '08/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Đối với những người khác trong thế giới thống trị ma thuật của mình, Mash Burnedead trẻ tuổi và bất lực là mối đe dọa đối với nguồn gen và phải bị thanh trừng. Sống bí mật trong rừng, anh dành mỗi ngày để rèn luyện cơ thể, xây dựng cơ bắp đủ mạnh để cạnh tranh với chính ma thuật! Tuy nhiên, khi danh tính của mình bị phơi bày và cuộc sống yên bình của anh ta bị đe dọa, Mash bắt đầu hành trình trở thành một "Người nhìn xa trông rộng thần thánh", một vai trò mạnh mẽ đến mức xã hội sẽ không có lựa chọn nào khác ngoài việc chấp nhận sự tồn tại của anh ta.<br>
+			- Và vì vậy, để duy trì cuộc sống yên bình của mình, Mash không phép thuật đăng ký vào Học viện Phép thuật Easton danh tiếng, cạnh tranh với con cái của một số người mạnh nhất và ưu tú nhất trong vương quốc. Thiếu kỹ năng cần thiết để tồn tại ở Easton, phép thuật, Mash dường như đã gặp bất lợi so với các bạn cùng lớp. Để đạt được mục tiêu của mình, Mash sẽ phải chiến đấu theo cách của mình thông qua mọi thử thách bằng cách sử dụng nắm đấm của mình một mình, vượt qua phép thuật bằng cơ bắp, tất cả vì danh hiệu lừng lẫy của Divine Visionary!
+		`,
+		tag: [
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tParody',
+			'tSchool',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '3/506219',
+					name: 'Mash "Mushroom Head" Burnedead'
+				},
+				{
+					img: '4/506222',
+					name: 'Lemon Irvine'
+				},
+				{
+					img: '10/506220',
+					name: 'Lance Crown'
+				},
+				{
+					img: '15/506221',
+					name: 'Dot Barrett'
+				},
+				{
+					img: '16/506223',
+					name: 'Finn Ames'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1868/133866',
+		name: [
+			'Yuusha ga Shinda!',
+			'勇者が死んだ！',
+			'The Legendary Hero Is Dead!'
+		],
+		studio: [
+			sLIDENFILMS
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '07/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Xa về phía bắc của thế giới là Cổng Địa ngục, một cánh cổng trước đây được Chúa quỷ sử dụng để xâm chiếm vương quốc loài người. Nhờ anh hùng huyền thoại Shion Bladearts, người sử dụng Excalibur, và nhóm bạn đồng hành trung thành của mình, Cánh cổng đã bị phong tỏa và mối đe dọa ma quỷ đã bị đánh bại.<br>
+			- Thật không may, phong ấn không đầy đủ và đã bắt đầu suy yếu, cho phép những con quỷ một lần nữa bắt đầu cuộc tấn công của chúng. Lo lắng về sự an toàn của ngôi làng của mình, người nông dân ích kỷ và Touka Scott đào hố để bảo vệ chống lại ma quỷ. Nhưng đừng sợ, vì Shion đang trên đường phong ấn lại Cổng Địa ngục và cứu nhân loại!<br>
+			- Hoặc ít nhất là anh ta, bởi vì người anh hùng huyền thoại đã chết, đã rơi vào một trong những cạm bẫy mà Touka đào. May mắn thay, đối phó với người chết là đặc sản của necromancer Anri Haynesworth. Trong khi cô không thể hồi sinh cậu, Anri ít nhất có thể cứu vãn nhiệm vụ của họ bằng cách buộc linh hồn của Touka vào cơ thể thối rữa của Shion và kéo cậu đến Cổng Địa ngục ở vị trí của Shion. Không muốn bị bỏ lại phía sau, người bạn thời thơ ấu của Touka, Yuna Yunis cũng đi theo. Cùng nhau, ba người họ bắt đầu như một bên có thể là không phù hợp nhất để cố gắng cứu thế giới!
+		`,
+		tag: [
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tParody'
+		],
+		character: {
+			main: [
+				{
+					img: '14/496888',
+					name: 'Touka Scott'
+				},
+				{
+					img: '5/496889',
+					name: 'Anri Haysworth'
+				},
+				{
+					img: '9/496890',
+					name: 'Yuna Eunice'
+				},
+				{
+					img: '16/496893',
+					name: 'Marguerit Farom'
+				}
+			],
+			support: [
+				{
+					img: '3/496897',
+					name: 'Kyle Osment'
+				},
+				{
+					img: '9/496891',
+					name: 'Sion Blandan'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1794/135148',
+		name: [
+			'Kaminaki Sekai no Kamisama Katsudou',
+			'神無き世界のカミサマ活動',
+			'KamiKatsu: Working for God in a Godless World'
+		],
+		studio: [
+			sStudioPalette
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '06/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Cha mẹ của Yukito là thủ lĩnh của một giáo phái. Sau khi anh ta bị hy sinh, anh ta được đầu thai vào một thế giới khác, nơi tôn giáo không tồn tại và sách khiêu dâm giống như hình vẽ nguệch ngoạc của một đứa trẻ. Anh ta thấy rằng đó cũng là một thế giới nơi sự sống và cái chết của bạn được quyết định bởi đất nước. Trong khi cản trở việc hành quyết bạn mình, cả hai đều mất mạng. Ngay lúc đó, vị thần của tôn giáo của mình đến thế giới của họ và hồi sinh họ.
+		`,
+		tag: [
+			'tAction',
+			'tComedy',
+			'tEcchi',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '13/502045',
+					name: 'Mitama'
+				},
+				{
+					img: '6/502046',
+					name: 'Yukito Urabe'
+				}
+			],
+			support: [
+				{
+					img: '2/502037',
+					name: 'Aruraru'
+				},
+				{
+					img: '9/502036',
+					name: 'Shiruriru'
+				},
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1355/133785',
 		name: [
 			'Skip to Loafer',
@@ -24582,6 +24974,47 @@ const anime = [
 				{
 					img: '',
 					name: ''
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1996/133361',
+		name: [
+			'Tonikaku Kawaii 2nd Season',
+			'トニカクカワイイ',
+			'TONIKAWA: Over The Moon For You Season 2'
+		],
+		studio: [
+			sSevenArcs
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '08/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Mùa thứ hai của Tonikaku Kawaii.
+		`,
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tShounen'
+		],
+		character: {
+			main: [
+				{
+					img: '7/395696',
+					name: 'Nasa Yuzaki'
+				},
+				{
+					img: '6/422518',
+					name: 'Tsukasa "Tsukuyomi Tsukasa" Yuzaki'
 				}
 			],
 			support: [

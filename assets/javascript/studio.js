@@ -202,6 +202,26 @@ const sDrive = {
 	name: 'Drive',
 	id: 1967
 };
+const sStudioPalette = {
+	name: 'Studio Palette',
+	id: 2201
+};
+const sLIDENFILMS = {
+	name: 'LIDENFILMS',
+	id: 839
+};
+const sSevenArcs = {
+	name: 'Seven Arcs',
+	id: 35
+};
+const sGekkou = {
+	name: 'Gekkou',
+	id: sNone.id
+};
+const sStudioLings = {
+	name: 'Studio Lings',
+	id: 1813
+};
 
 const studioList = [
 	sNone,
@@ -254,5 +274,10 @@ const studioList = [
 	sMillepensee,
 	sYumetaCompany,
 	sGraphinica,
-	sDrive
+	sDrive,
+	sStudioPalette,
+	sLIDENFILMS,
+	sSevenArcs,
+	sGekkou,
+	sStudioLings
 ]
