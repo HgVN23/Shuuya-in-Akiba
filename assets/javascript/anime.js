@@ -35,6 +35,105 @@ const anime = [
 		}
 	},
 	{
+		img: '1387/134151',
+		name: [
+			'Isekai Shoukan wa Nidome desu',
+			'異世界召喚は二度目です',
+			'Summoned to Another World for a Second Time'
+		],
+		studio: [
+			sStudioElle
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '09/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Đã từng có một người đàn ông được triệu hồi đến một thế giới khác, và đã cứu nó. Tất nhiên, anh ta trở nên quá nổi tiếng ở đó, và biến thành một isekai-normie. Tuy nhiên, người đàn ông đó đã rơi vào một "cái bẫy" và buộc phải trở về thế giới ban đầu của mình. Hơn nữa, anh phải bắt đầu lại từ khi còn nhỏ!<br>
+			- Đây là câu chuyện về cựu anh hùng quá tuyệt vời, người đã sống như một học sinh trung học ảm đạm, khi anh ta được triệu hồi một lần nữa đến cùng một thế giới khác trong một diễn biến rất bất ngờ!
+		`,
+		tag: [
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tRomance'
+		],
+		character: {
+			main: [
+				{
+					img: '3/497639',
+					name: 'Setsu Suzaki'
+				},
+				{
+					img: '6/497641',
+					name: 'Yuuhi Hanabashira'
+				},
+				{
+					img: '13/497640',
+					name: 'Eruka Verso'
+				},
+				{
+					img: '2/497642',
+					name: 'Leviathan'
+				},
+				{
+					img: '2/497643',
+					name: 'Desastre Sereno'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1091/135041',
+		name: [
+			'Otonari ni Ginga',
+			'おとなりに銀河',
+			'A Galaxy Next Door'
+		],
+		studio: [
+			sAsahiProduction
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '09/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Ever since their father died, Ichirou Kuga has struggled to support his two younger siblings on nothing but a small inheritance and his passion for drawing manga. But it's becoming harder to keep up with his growing responsibilities and deadlines, especially after his last two assistants quit to follow their dreams. Just as he's nearing his breaking point, the beautiful and scarily competent Shiori Goshiki applies to become his new assistant. But there's something almost otherworldly about Goshiki, and soon Kuga finds his reality turned upside down when she suddenly declares them engaged to marry!
+		`,
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tSeinen',
+			'tSupernatural'
+		],
+		character: {
+			main: [
+				{
+					img: '12/492272',
+					name: 'Ichirou Kuga'
+				},
+				{
+					img: '8/492271',
+					name: 'Shiori Goshiki'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1332/134658',
 		name: [
 			'Kawaisugi Crisis',
