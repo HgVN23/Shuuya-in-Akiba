@@ -684,8 +684,8 @@ const anime = [
 			sStudioSignpost
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Spring 2023',
+		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Đối lập thu hút khi một airhead vui vẻ gặp hoa tường vi cư trú của lớp học mới của mình trong loạt phim hài học đường ấm áp, lát cắt cuộc sống này!<br>

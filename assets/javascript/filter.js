@@ -37,7 +37,7 @@ for(var i = 0; i < ratingList.length; i++){
 
 const yearNow = new Date().getFullYear()
 let yearTemp = ``;
-for(var i = 2007; i <= yearNow; i++){
+for(var i = yearNow; i >= 2007; i--){
 	yearTemp += `<div><input type="checkbox" id="year${i}" value="${i}"><label for="year${i}">${i}</label></div>`
 }
 
