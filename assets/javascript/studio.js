@@ -226,6 +226,10 @@ const sStudioElle = {
 	name: 'Studio Elle',
 	id: 1521
 };
+const sTyphoonGraphics = {
+	name: 'Typhoon Graphics',
+	id: 1340
+};
 
 const studioList = [
 	sNone,
@@ -284,5 +288,6 @@ const studioList = [
 	sSevenArcs,
 	sGekkou,
 	sStudioLings,
-	sStudioElle
+	sStudioElle,
+	sTyphoonGraphics
 ]

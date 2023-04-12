@@ -35,6 +35,138 @@ const anime = [
 		}
 	},
 	{
+		img: '1930/133758',
+		name: [
+			'Dead Mount Death Play',
+			'デッドマウント・デスプレイ'
+		],
+		studio: [
+			sGeekToys
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '11/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Đó là một cuộc đối đầu cho các lứa tuổi khi người anh hùng huyền thoại đối đầu với thần xác chết necromancer, nhưng khi bụi lắng xuống, có điều gì đó không hoàn toàn đúng ... Trong những giây phút cuối cùng của cuộc đối đầu hoành tráng của họ, phát súng canh bạc cuối cùng của vị thần xác chết hoàn toàn bất ngờ—ma thuật luân hồi! Xuyên không gian và thời gian, một cậu bé tên Polka Shinoyama đánh thức cảm xúc... không hoàn toàn là chính mình... Ai có thể ngờ rằng trận chiến đỉnh cao giữa thiện và ác lại diễn ra như thế này?
+		`,
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tReincarnation',
+			'tSeinen',
+			'tSupernatural'
+		],
+		character: {
+			main: [
+				{
+					img: '15/507642',
+					name: 'Corpse God'
+				},
+				{
+					img: '3/493506',
+					name: 'Misaki Sakimiya'
+				},
+				{
+					img: '16/493507',
+					name: 'Takumi Kuruya'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1109/130452',
+		name: [
+			'Kanojo ga Koushaku-tei ni Itta Riyuu',
+			'彼女が公爵邸に行った理由',
+			"The Reason Why Raeliana Ended up at the Duke's Mansion"
+		],
+		studio: [
+			sTyphoonGraphics
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '10/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Khi Park Eunha chết ở Hàn Quốc ngày nay, cô tỉnh dậy trong cơ thể của Raeliana McMillan, con gái lớn của một nam tước giàu có. Tuy nhiên, đây không phải là thế giới bình thường; Nó giống hệt như một cuốn tiểu thuyết mà cô đã từng đọc. Được gia đình yêu quý, dường như cô đang ở trong một câu chuyện cổ tích. Nhưng Raeliana khác xa với nhân vật chính — cô ấy chỉ là một thiết bị âm mưu, vụ giết người dưới tay vị hôn phu của cô ấy đã xúi giục toàn bộ câu chuyện.<br>
+			- Raeliana không có ý định lặng lẽ chấp nhận số phận của mình. Cô để mắt đến một người ở vị trí quyền lực lớn - nam chính giàu có vieux Công tước Noah Volstaire Wynknight - nhằm thay đổi hoàn toàn câu chuyện gốc. Sử dụng kiến thức của mình về các sự kiện trong tương lai, Raeliana cung cấp thông tin cho Noah với điều kiện anh ta đóng vai trò là vị hôn phu giả của cô, nhưng bản chất hai mặt của Công tước đã cản trở kế hoạch của cô!
+		`,
+		tag: [
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tRomance'
+		],
+		character: {
+			main: [
+				{
+					img: '3/503421',
+					name: 'Raeliana "Park Eunha, Rinko Hanasaki" McMillan'
+				},
+				{
+					img: '11/503422',
+					name: 'Noah Wynknight'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
+		img: '1402/134007',
+		name: [
+			'Kimi wa Houkago Insomnia',
+			'君は放課後インソムニア',
+			'Insomniacs After School'
+		],
+		studio: [
+			sLIDENFILMS
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '11/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Tất cả bắt đầu với cái chết của một trong những thành viên của Câu lạc bộ Thiên văn học. Từ đó, bóng ma tin đồn của câu lạc bộ trở nên sống động.<br>
+			- Ganta Nakami bị mất ngủ gắt gỏng tình cờ gặp Isaki Magari nổi loạn vừa phải nhưng dễ tính trong đài quan sát bị bỏ hoang của Câu lạc bộ Thiên văn học. Magari bị giật mình tỉnh dậy và cố gắng trốn thoát khỏi hiện trường, chỉ để có một cánh cửa bị phá ngăn cản điều đó, buộc hai người vào trong. Cả hai tạo nên một tình bạn khó có thể xảy ra, khiến họ sử dụng đài quan sát như một không gian an toàn để họ tương tác.<br>
+			- Kimi wa Houkago Insomnia kể về thời gian mất ngủ của Nakami và Magari trong đài quan sát đầy sao khi họ giúp nhau đối phó với chứng mất ngủ và những ảnh hưởng lâu dài của nó đối với cuộc sống sinh viên.
+		`,
+		tag: [
+			'tRomance',
+			'tSchool',
+			'tSeinen'
+		],
+		character: {
+			main: [
+				{
+					img: '9/499097',
+					name: 'Isaki Magari'
+				},
+				{
+					img: '2/476476',
+					name: 'Ganta Nakami'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1387/134151',
 		name: [
 			'Isekai Shoukan wa Nidome desu',
