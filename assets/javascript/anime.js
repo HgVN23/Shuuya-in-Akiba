@@ -35,6 +35,55 @@ const anime = [
 		}
 	},
 	{
+		img: '1812/134736',
+		name: [
+			'"Oshi no Ko"',
+			'【推しの子】',
+			'[Oshi No Ko]'
+		],
+		studio: [
+			sDogaKobo
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '12/04/2023 - ??/06/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Ai Hoshino mười sáu tuổi là một thần tượng tài năng và xinh đẹp, được người hâm mộ yêu mến. Cô ấy là hiện thân của một thiếu nữ trẻ trung, thuần khiết. Nhưng tất cả những gì lấp lánh không phải là vàng.<br>
+			- Gorou Amemiya là một bác sĩ phụ khoa nông thôn và là một fan hâm mộ lớn của Ai. Vì vậy, khi thần tượng mang thai xuất hiện tại bệnh viện của mình, anh ấy đã vô cùng hoang mang. Gorou hứa với cô ấy một cuộc sinh nở an toàn. Anh ta không biết, một cuộc chạm trán với một nhân vật bí ẩn sẽ dẫn đến cái chết không đúng lúc của anh ta - hoặc anh ta nghĩ vậy.<br>
+			- Mở mắt trong lòng thần tượng yêu dấu của mình, Gorou thấy rằng mình đã được tái sinh thành Aquamarine Hoshino — con trai mới sinh của Ai! Với thế giới của mình bị đảo lộn, Gorou sớm biết rằng thế giới showbiz được lát bằng gai, nơi tài năng không phải lúc nào cũng sinh ra thành công. Liệu anh ta có thể bảo vệ nụ cười của Ai mà anh ta rất yêu thích với sự giúp đỡ của một đồng minh lập dị và bất ngờ?
+		`,
+		tag: [
+			'tDrama',
+			'tMusic',
+			'tReincarnation',
+			'tSeinen',
+			'tSupernatural'
+		],
+		character: {
+			main: [
+				{
+					img: '6/496453',
+					name: 'Ai Hoshino'
+				},
+				{
+					img: '9/496455',
+					name: 'Aquamarine "Aqua" Hoshino'
+				},
+				{
+					img: '5/496454',
+					name: 'Ruby Hoshino'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1930/133758',
 		name: [
 			'Dead Mount Death Play',
