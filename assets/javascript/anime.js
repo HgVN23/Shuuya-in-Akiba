@@ -35,6 +35,61 @@ const anime = [
 		}
 	},
 	{
+		img: '1832/133754',
+		name: [
+			'Ao no Orchestra',
+			'青のオーケストラ',
+			'The Blue Orchestra'
+		],
+		studio: [
+			sNipponAnimation
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '09/04/2023 - ??/09/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Hajime Aono từng sống vì tiếng đàn violin của mình. Ngay từ khi còn nhỏ, anh đã ngưỡng mộ người cha nghệ sĩ violin nổi tiếng thế giới của mình, người đã truyền cảm hứng cho anh tự mình chọn nhạc cụ. Nhưng sau cuộc ly hôn cay đắng của cha mẹ, Aono thề sẽ không bao giờ chơi nữa và đi học trung học mà không có định hướng hay triển vọng.<br>
+			- Trong một lớp giáo dục thể chất, Aono không thể thao bị đánh vào mặt bằng một quả bóng và kết thúc trong bệnh xá. Ở đó, anh gặp Ritsuko Akine trơ trẽn, người bắt đầu chơi violin trong phòng, tin rằng cô chỉ có một mình. Tuy nhiên, sau một sự cố trong quá khứ, đã có tin đồn cho rằng Akine là một kẻ bắt nạt, điều này đã cô lập cô ấy khỏi các đồng nghiệp của mình — một sự thật mà Aono không biết.<br>
+			- Akine mơ ước được ghi danh vào một ngôi trường có dàn nhạc, nhưng khả năng chơi nghiệp dư và thiếu kiến thức âm nhạc của cô đã khiến Aono vô cùng thích thú. Coi đây là một cơ hội hoàn hảo để hai người trở thành bạn bè, giáo viên của họ đề nghị Aono dạy Akine cách chơi violin, điều mà Aono kịch liệt phản đối. Tuy nhiên, khi cặp đôi dành nhiều thời gian hơn cho nhau, họ sớm học cách hiểu và giúp đỡ lẫn nhau và Aono cuối cùng có thể khám phá ra niềm đam mê và giai điệu đã mất trong cuộc sống của mình.
+		`,
+		tag: [
+			'tDrama',
+			'tMusic',
+			'tSchool'
+		],
+		character: {
+			main: [
+				{
+					img: '16/504220',
+					name: 'Hajime Aono'
+				},
+				{
+					img: '15/504218',
+					name: 'Ritsuko Akine'
+				},
+				{
+					img: '13/504217',
+					name: 'Haru Kozakura'
+				},
+				{
+					img: '3/504219',
+					name: 'Nao Saeki'
+				},
+				{
+					img: '8/504215',
+					name: 'Ichiro Yamada'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1812/134736',
 		name: [
 			'"Oshi no Ko"',
