@@ -952,7 +952,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1402/134000',
+		img: '1071/135255l',
 		name: [
 			'Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito',
 			'転生貴族の異世界冒険録～自重を知らない神々の使徒～',
