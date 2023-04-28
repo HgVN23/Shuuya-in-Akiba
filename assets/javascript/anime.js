@@ -3388,7 +3388,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '11/01/2023 - ??/??/2023',
+		aired: '11/01/2023 - 29/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Cùng với ba anh hùng khác, Mukouda Tsuyoshi, 27 tuổi, được đưa vào một thế giới giả tưởng để giải cứu một vương quốc khỏi mối đe dọa bí ẩn. Tuy nhiên, ngay sau đó rõ ràng rằng Tsuyoshi đã bị kéo vào nghi thức triệu hồi một cách tình cờ. Kỹ năng duy nhất của anh ấy hóa ra là "Thực đơn thực phẩm", cho phép anh ấy mở một giao diện nơi anh ấy có thể mua và lấy các mặt hàng siêu thị liên quan đến thực phẩm từ Nhật Bản hiện đại.<br>
@@ -3436,7 +3436,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - ??/??/2023',
+		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Saenome được giao nhiệm vụ phong ấn các linh hồn sở hữu đồ vật và gây ra mối đe dọa cho xã hội. Được gọi là tsukumogami, những linh hồn này thường không bạo lực và saenome thường phong ấn chúng sau một cuộc trao đổi bằng lời nói đơn giản.<br>
@@ -3504,7 +3504,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - ??/??/2023',
+		aired: '08/01/2023 - 02/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Wisteria là một cô gái mồ côi sống ở một góc của Đế quốc Anh vào cuối thế kỷ 19. Cuộc sống của cô thật hoang vắng và ảm đạm - cho đến khi cô gặp Marbas, một sinh vật bất tử mạnh mẽ nhưng không kém phần cô đơn với vẻ ngoài có lông, bị săn đuổi bởi những người thợ săn. Cùng nhau, Wisteria và Marbas đi lang thang trong Đế chế - nơi sinh sống của con người và những con thú giống người - để tìm kiếm một nơi mà họ có thể sống cùng nhau trong hòa bình.
@@ -3549,7 +3549,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - ??/??/2023',
+		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Vị vua anh hùng Inglis - người đã cống hiến cả cuộc đời mình để xây dựng đất nước của mình - hiện đang tiến gần đến cái chết. Để trao cho anh ta những thành tích danh dự của mình, nữ thần Alistia xuất hiện và ban cho anh ta một điều ước. Chưa bao giờ có thể làm chủ lưỡi kiếm, Inglis yêu cầu được tái sinh để làm như vậy.<br>
@@ -3759,7 +3759,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - ??/??/2023',
+		aired: '08/01/2023 - 26/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mặc dù là một người siêng năng với nhiều kỹ năng, Saitou bị đánh giá thấp và trả lương thấp nghiêm trọng. Khi anh ta phàn nàn, ông chủ của anh ta sa thải anh ta, tuyên bố rằng anh ta có thể dễ dàng thay thế. Như thể vận may của anh ta không đủ tệ, một chiếc xe tải bất ngờ đâm và giết chết Saitou trên đường về nhà.<br>
@@ -3811,7 +3811,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - ??/??/2023',
+		aired: '08/01/2023 - 26/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một ngày nọ, Mitsuha rơi xuống một vách đá và được đưa đến một thế giới kiểu châu Âu thời trung cổ! Sau một cuộc chạm trán cận kề cái chết với một bầy sói, sau đó cô ấy nhận ra rằng cô ấy có thể vận chuyển giữa hai thế giới — thế giới này và của chính cô ấy. Tận dụng khả năng này, Mitsuha quyết định sống ở cả hai thế giới và tính toán rằng cô ấy sẽ cần 80.000 đồng tiền vàng để có thể nghỉ hưu! Mitsuha bây giờ phải nghĩ ra nhiều cách khác nhau để thu thập tiền vàng của mình!
@@ -3847,7 +3847,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mặc dù đứng ở đỉnh cao với tư cách là thầy trừ tà mạnh nhất, Haruyoshi Kuga thậm chí còn tìm kiếm sức mạnh lớn hơn, dẫn đến cái chết của anh ta dưới bàn tay của những người ghen tị với sức mạnh của anh ta. Khi anh ta trút hơi thở cuối cùng, anh ta sử dụng một câu thần chú cho phép anh ta tái sinh và thề sẽ trở nên xảo quyệt hơn, hy vọng rằng mọi nỗ lực của anh ta sẽ trở nên hữu ích trong cuộc sống tiếp theo của anh ta.<br>
@@ -4025,7 +4025,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mahiru Shiina xứng đáng với biệt danh "Thiên thần": cô ấy là một vẻ đẹp thần thánh được mọi người yêu mến, và cô ấy xuất sắc trong cả học tập và điền kinh. Shiina sống trong một thế giới hoàn toàn khác với Amane Fujimiya, người hàng xóm bên cạnh cô. Mặc dù sống rất gần nhau, họ chưa bao giờ nói chuyện một lần. Nhưng sự im lặng của họ bị phá vỡ khi Fujimiya phát hiện ra Shiina đang hả hê ngồi trên xích đu giữa cơn mưa lớn và cho cô mượn chiếc ô của mình.<br>
@@ -4085,7 +4085,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - ??/??/2023',
+		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Vào đêm Giáng sinh, Miri Unasaka, bốn tuổi, đến Tokyo hoàn toàn một mình, để tìm kiếm cha mình. Ánh đèn rực rỡ và bầu không khí vui vẻ dẫn Miri đến một khách sạn lớn và một người đàn ông với một chiếc bánh trông rất ngon. Tuy nhiên, đứa trẻ vừa vô tình bước vào trung tâm của một kế hoạch phức tạp, hoàn hảo để ám sát một ông trùm mafia nguy hiểm.<br>
@@ -5059,7 +5059,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - ??/??/2023',
+		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một thập kỷ trước, nhân loại đã chứng kiến tiềm năng chết người của vũ khí do Đại chiến gây ra. Để tránh một thảm họa khác, các chính phủ trên toàn thế giới đã dùng đến hoạt động gián điệp để thực hiện các chương trình nghị sự của họ.<br>
@@ -5130,7 +5130,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - ??/??/2023',
+		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Những người bạn thời thơ ấu Tomo Aizawa và Junichirou "Jun" Kubota làm mọi thứ cùng nhau, cho dù đó là đào tạo hay chỉ là tận hưởng một ngày vui vẻ. Bất cứ ai cũng sẽ nghĩ rằng hai người này là bạn thân suốt đời. Vấn đề duy nhất là Tomo tomboyish đang yêu Jun, nhưng anh ấy coi cô ấy như một người anh trai.<br>
@@ -22182,27 +22182,36 @@ const anime = [
 		img: '1782/128859',
 		name: [
 			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2',
-			'',
+			'痛いのは嫌なので防御力に極振りしたいと思います。2',
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2"
 		],
 		studio: [
-			sNone
+			sSilverLink
 		],
 		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
+		season: 'Winter 2023',
+		aired: '11/01/2023 - 20/04/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Sau khi đạt được kết quả tốt trong các sự kiện trước đây của New World Online, guild Maple Tree nổi tiếng hiện nay rất hào hứng khám phá các tầng mới được giới thiệu trong trò chơi. Như thể bang hội của họ chưa đủ sợ hãi, mỗi thành viên có động lực để tìm ra các kỹ năng mạnh hơn cho bản thân để mở rộng đáng kể các lựa chọn của họ trong các trận chiến trong tương lai. Không quên tầm quan trọng của việc kết nối, guild cũng tạo ra mối quan hệ thân thiện với các guild đáng chú ý khác, chẳng hạn như Vương quốc Flame Emperor và Congregation of the Holy Swords.<br>
+			- Với bậc thầy bang hội lập dị Maple của họ đi đầu, các thành viên của Maple Tree tiếp tục vấp phải những cách sáng tạo để thực hiện các kỹ năng của họ, khiến các nhà phát triển trò chơi phát điên trên đường đi.
 		`,
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tGame'
 		],
 		character: {
 			main: [
 				{
-					img: '',
-					name: ''
+					img: '10/396709',
+					name: 'Maple'
+				},
+				{
+					img: '12/396710',
+					name: 'Sally'
 				}
 			],
 			support: [
