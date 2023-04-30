@@ -35,6 +35,48 @@ const anime = [
 		}
 	},
 	{
+		img: '1997/127227',
+		name: [
+			'Niehime to Kemono no Ou',
+			'贄姫と獣の王',
+			'Sacrificial Princess and the King of Beasts'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 'Spring 2023',
+		aired: '20/04/2023 - ??/09/2023',
+		rating: 'PG-13',
+		synopsis: `
+			- Một trăm năm trước, đã có một cuộc đại chiến giữa loài người và loài thú. Khi chiến tranh kết thúc, một truyền thống hàng năm đã được đề xuất, nơi một vật hiến tế nữ sẽ được lấy từ con người để Vua Thú ăn. Truyền thống này tiếp tục khi lễ hiến tế thứ 99, Sariphi, 15 tuổi, được đưa từ làng của cô đến vương quốc Ozmargo, một vương quốc đầy khí độc, nơi thú dữ sống và con người bị cấm.<br>
+			- Nhưng Sa-ri-phi không giống như những hy sinh trước đó. Sự lạc quan và không sợ hãi của cô đối với những con thú và số phận của cô khiến vị vua đáng sợ khác ngạc nhiên. Bị hấp dẫn bởi công chúa hiến tế và lịch sử của cô, anh cho phép cô tự do đi lang thang quanh vương quốc cho đến đêm khải huyền bất chấp sự phẫn nộ tiềm tàng. Sariphi và nhà vua ít biết, thời gian ngắn ngủi của họ ở bên nhau đã dần dần tạo tiền đề cho một điều gì đó khác biệt không thể tưởng tượng được cho tương lai của Ozmargo.
+		`,
+		tag: [
+			'tFantasy',
+			'tRomance',
+			'tShoujo'
+		],
+		character: {
+			main: [
+				{
+					img: '4/485396',
+					name: 'Sariphi "Sari"'
+				},
+				{
+					img: '13/485397',
+					name: 'Leonhart "King of Beasts"'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1832/133754',
 		name: [
 			'Ao no Orchestra',
@@ -92,9 +134,8 @@ const anime = [
 	{
 		img: '1812/134736',
 		name: [
-			'"Oshi no Ko"',
-			'【推しの子】',
-			'[Oshi No Ko]'
+			'Oshi no Ko',
+			'【推しの子】'
 		],
 		studio: [
 			sDogaKobo
