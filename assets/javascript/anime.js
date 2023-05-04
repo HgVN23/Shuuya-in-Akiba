@@ -18539,6 +18539,51 @@ const anime = [
 		}
 	},
 	{
+		img: '1334/132921',
+		name: [
+			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA',
+			'やはり俺の青春ラブコメはまちがっている。結',
+			'My Teen Romantic Comedy SNAFU Climax! OVA'
+		],
+		studio: [
+			sFeelDot
+		],
+		type: 'OVA',
+		season: 'Spring 2023',
+		aired: '27/04/2023',
+		rating: 'PG-13',
+		synopsis: `
+
+		`,
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tSchool'
+		],
+		character: {
+			main: [
+				{
+					img: '4/203555',
+					name: 'Hachiman "Hikki, Hikitani, Hikio, Hikigaeru, Hikigerma, Fishigaya" Hikigaya'
+				},
+				{
+					img: '4/202721',
+					name: 'Yukino "Yukinon" Yukinoshita'
+				},
+				{
+					img: '2/332632',
+					name: 'Yui Yuigahama'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1958/107912',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan',
