@@ -35,6 +35,65 @@ const anime = [
 		}
 	},
 	{
+		img: '9/39303',
+		name: [
+			'Mashiro-iro Symphony: The Color of Lovers',
+			'ましろ色シンフォニー -The color of lovers-',
+			'Mashiroiro Symphony: The Color of Lovers'
+		],
+		studio: [
+			sManglobe
+		],
+		type: 'TV',
+		season: 'Fall 2011',
+		aired: '05/10/2011 - 21/12/2011',
+		rating: 'R+',
+		synopsis: `
+			- Khi các chàng trai đột nhiên đến những nơi mà họ chưa bao giờ được phép trước đây, một số cô gái có xu hướng khó chịu. Vì vậy, khi quyết định hợp nhất Học viện tư nhân nữ Yuihime ưu tú và Học viện tư nhân Kagamidai đồng giáo dục, mọi người đều muốn cẩn thận hơn trong việc tránh rắc rối trong khi đưa hai Tư nhân lại với nhau. Do đó, thay vì chỉ đưa các chàng trai Kagamidai vào trường nữ sinh Yuihime cùng một lúc, một kế hoạch được lập ra, trong đó một nhóm nam sinh thử nghiệm sẽ được đưa vào Học viện tư nhân nữ trước.<br>
+			- Do đó, Shingo trẻ tuổi tội nghiệp thấy mình bị ném như một con cừu hiến tế cho những con sư tử cái của Yuihime, những người không chính xác chờ đợi anh ta với vòng tay rộng mở. Liệu Shingo có thể sống sót sau hố tử thần ngâm estrogen đó là Yuihime? Các cô gái có thể học cách dễ tiếp thu hơn với các chàng trai không? Và bao lâu nữa cho đến khi một thứ gì đó liên quan đến quần lót sẽ khiến cảm xúc bùng phát, tia lửa bay và cuộc chiến của hai giới bùng nổ?
+		`,
+		tag: [
+			'tDrama',
+			'tHarem',
+			'tRomance',
+			'tSchool'
+		],
+		character: {
+			main: [
+				{
+					img: '7/136393',
+					name: 'Shingo Uryuu'
+				},
+				{
+					img: '16/137253',
+					name: 'Miu Amaha'
+				},
+				{
+					img: '4/136403',
+					name: 'Airi Sena'
+				},
+				{
+					img: '14/136727',
+					name: 'Sana Inui'
+				},
+				{
+					img: '11/136389',
+					name: 'Sakuno Uryuu'
+				},
+				{
+					img: '8/139939',
+					name: 'Angelina Nanatsu "Ange" Sewell'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '1997/127227',
 		name: [
 			'Niehime to Kemono no Ou',
