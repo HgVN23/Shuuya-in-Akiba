@@ -105,22 +105,22 @@ function addAnime(list) {
 			tag += `<div class="tag ${temp.tag[j]}"></div>\n`
 		}
 		let character = ``;
-		for(var j = 0; j < temp.character.main.length; j++) {
-			character += `
-				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
-					<div class="cName cRoleM">${temp.character.main[j].name}</div>
-				</div>\n
-			`
-		}
-		for(var j = 0; j < temp.character.support.length; j++) {
-			character += `
-				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
-					<div class="cName cRoleS">${temp.character.support[j].name}</div>
-				</div>\n
-			`
-		}
+		// for(var j = 0; j < temp.character.main.length; j++) {
+		// 	character += `
+		// 		<div class="cContainer">
+		// 			<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
+		// 			<div class="cName cRoleM">${temp.character.main[j].name}</div>
+		// 		</div>\n
+		// 	`
+		// }
+		// for(var j = 0; j < temp.character.support.length; j++) {
+		// 	character += `
+		// 		<div class="cContainer">
+		// 			<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
+		// 			<div class="cName cRoleS">${temp.character.support[j].name}</div>
+		// 		</div>\n
+		// 	`
+		// }
 
 		const format = `
 			<div class="anime">
@@ -157,9 +157,8 @@ function addAnime(list) {
 							<a class="rImg rAnimeVietsub" href="https://animevietsub.im/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
 							<a class="rImg rMangaQQ" href="https://truyenqqq.vn/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
-							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="Manga Dex"></a>
-							<a class="rImg rMangaNetTruyen" href="https://www.nettruyenup.com/tim-truyen?keyword=${name}" target="_blank" alt="Net Truyen"></a>
 							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="Manga Nelo"></a>
+							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="Manga Dex"></a>
 							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="My Anime List"></a>
 						</div>
 					</div>
