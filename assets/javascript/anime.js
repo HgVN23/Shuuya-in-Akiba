@@ -35,6 +35,51 @@ const anime = [
 		}
 	},
 	{
+		img: '5/85435',
+		name: [
+			'Amagi Brilliant Park',
+			'甘城ブリリアントパーク'
+		],
+		studio: [
+			sKyotoAnimation
+		],
+		type: 'TV',
+		season: 'Fall 2014',
+		aired: '07/10/2014 - 26/12/2014',
+		rating: 'PG-13',
+		synopsis: `
+			- Seiya Kanie, một học sinh trung học thông minh và cực kỳ tự ái, tin rằng Isuzu Sento xinh đẹp nhưng dè dặt đã mời anh hẹn hò tại một công viên giải trí có tên Amagi Brilliant Park. Trước sự thất vọng của anh, không chỉ là một cơ sở xuống cấp, ngày được cho là chỉ đơn thuần là một chuyến tham quan tuyển dụng, nơi Sento và Công chúa Latifa Fleuranza, chủ sở hữu của công viên giải trí, yêu cầu anh trở thành người quản lý mới của công viên. Nguyên nhân tuyệt vọng của họ? Theo quy định trong hợp đồng sử dụng đất, Amagi có ít hơn ba tháng để đáp ứng hạn ngạch 500.000 khách, hoặc công viên sẽ bị đóng cửa vĩnh viễn và đất được tái phát triển bởi một công ty bất động sản tham lam.
+			<br>- Seiya bị chinh phục bởi sự tiết lộ rằng Amagi không phải là công viên giải trí bình thường; nhiều nhân viên của nó là Maple Landers — những sinh vật huyền bí bí ẩn sống ở thế giới loài người và được nuôi dưỡng bởi năng lượng được tạo ra bởi những người vui chơi. Được giao phó với những hy vọng và ước mơ về vùng đất mê hoặc xa xôi này, Seiya bây giờ phải sử dụng nhiều kỹ năng của mình để đưa Amagi trở lại trên đôi chân của nó, hoặc nhìn nó sụp đổ trước mắt mình.
+		`,
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tWorkplace',
+		],
+		character: {
+			main: [
+				{
+					img: '7/265243',
+					name: 'Isuzu Sento'
+				},
+				{
+					img: '5/264117',
+					name: 'Seiya "Seiya Kodama" Kanie'
+				},
+				{
+					img: '13/246869',
+					name: 'Latifa Fleuranza'
+				}
+			],
+			support: [
+				{
+					img: '',
+					name: ''
+				}
+			]
+		}
+	},
+	{
 		img: '9/39303',
 		name: [
 			'Mashiro-iro Symphony: The Color of Lovers',
@@ -49,8 +94,8 @@ const anime = [
 		aired: '05/10/2011 - 21/12/2011',
 		rating: 'R+',
 		synopsis: `
-			- Khi các chàng trai đột nhiên đến những nơi mà họ chưa bao giờ được phép trước đây, một số cô gái có xu hướng khó chịu. Vì vậy, khi quyết định hợp nhất Học viện tư nhân nữ Yuihime ưu tú và Học viện tư nhân Kagamidai đồng giáo dục, mọi người đều muốn cẩn thận hơn trong việc tránh rắc rối trong khi đưa hai Tư nhân lại với nhau. Do đó, thay vì chỉ đưa các chàng trai Kagamidai vào trường nữ sinh Yuihime cùng một lúc, một kế hoạch được lập ra, trong đó một nhóm nam sinh thử nghiệm sẽ được đưa vào Học viện tư nhân nữ trước.<br>
-			- Do đó, Shingo trẻ tuổi tội nghiệp thấy mình bị ném như một con cừu hiến tế cho những con sư tử cái của Yuihime, những người không chính xác chờ đợi anh ta với vòng tay rộng mở. Liệu Shingo có thể sống sót sau hố tử thần ngâm estrogen đó là Yuihime? Các cô gái có thể học cách dễ tiếp thu hơn với các chàng trai không? Và bao lâu nữa cho đến khi một thứ gì đó liên quan đến quần lót sẽ khiến cảm xúc bùng phát, tia lửa bay và cuộc chiến của hai giới bùng nổ?
+			- Khi các chàng trai đột nhiên đến những nơi mà họ chưa bao giờ được phép trước đây, một số cô gái có xu hướng khó chịu. Vì vậy, khi quyết định hợp nhất Học viện tư nhân nữ Yuihime ưu tú và Học viện tư nhân Kagamidai đồng giáo dục, mọi người đều muốn cẩn thận hơn trong việc tránh rắc rối trong khi đưa hai Tư nhân lại với nhau. Do đó, thay vì chỉ đưa các chàng trai Kagamidai vào trường nữ sinh Yuihime cùng một lúc, một kế hoạch được lập ra, trong đó một nhóm nam sinh thử nghiệm sẽ được đưa vào Học viện tư nhân nữ trước.
+			<br>- Do đó, Shingo trẻ tuổi tội nghiệp thấy mình bị ném như một con cừu hiến tế cho những con sư tử cái của Yuihime, những người không chính xác chờ đợi anh ta với vòng tay rộng mở. Liệu Shingo có thể sống sót sau hố tử thần ngâm estrogen đó là Yuihime? Các cô gái có thể học cách dễ tiếp thu hơn với các chàng trai không? Và bao lâu nữa cho đến khi một thứ gì đó liên quan đến quần lót sẽ khiến cảm xúc bùng phát, tia lửa bay và cuộc chiến của hai giới bùng nổ?
 		`,
 		tag: [
 			'tDrama',
@@ -108,8 +153,8 @@ const anime = [
 		aired: '20/04/2023 - ??/09/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Một trăm năm trước, đã có một cuộc đại chiến giữa loài người và loài thú. Khi chiến tranh kết thúc, một truyền thống hàng năm đã được đề xuất, nơi một vật hiến tế nữ sẽ được lấy từ con người để Vua Thú ăn. Truyền thống này tiếp tục khi lễ hiến tế thứ 99, Sariphi, 15 tuổi, được đưa từ làng của cô đến vương quốc Ozmargo, một vương quốc đầy khí độc, nơi thú dữ sống và con người bị cấm.<br>
-			- Nhưng Sa-ri-phi không giống như những hy sinh trước đó. Sự lạc quan và không sợ hãi của cô đối với những con thú và số phận của cô khiến vị vua đáng sợ khác ngạc nhiên. Bị hấp dẫn bởi công chúa hiến tế và lịch sử của cô, anh cho phép cô tự do đi lang thang quanh vương quốc cho đến đêm khải huyền bất chấp sự phẫn nộ tiềm tàng. Sariphi và nhà vua ít biết, thời gian ngắn ngủi của họ ở bên nhau đã dần dần tạo tiền đề cho một điều gì đó khác biệt không thể tưởng tượng được cho tương lai của Ozmargo.
+			- Một trăm năm trước, đã có một cuộc đại chiến giữa loài người và loài thú. Khi chiến tranh kết thúc, một truyền thống hàng năm đã được đề xuất, nơi một vật hiến tế nữ sẽ được lấy từ con người để Vua Thú ăn. Truyền thống này tiếp tục khi lễ hiến tế thứ 99, Sariphi, 15 tuổi, được đưa từ làng của cô đến vương quốc Ozmargo, một vương quốc đầy khí độc, nơi thú dữ sống và con người bị cấm.
+			<br>- Nhưng Sa-ri-phi không giống như những hy sinh trước đó. Sự lạc quan và không sợ hãi của cô đối với những con thú và số phận của cô khiến vị vua đáng sợ khác ngạc nhiên. Bị hấp dẫn bởi công chúa hiến tế và lịch sử của cô, anh cho phép cô tự do đi lang thang quanh vương quốc cho đến đêm khải huyền bất chấp sự phẫn nộ tiềm tàng. Sariphi và nhà vua ít biết, thời gian ngắn ngủi của họ ở bên nhau đã dần dần tạo tiền đề cho một điều gì đó khác biệt không thể tưởng tượng được cho tương lai của Ozmargo.
 		`,
 		tag: [
 			'tFantasy',
@@ -150,9 +195,9 @@ const anime = [
 		aired: '09/04/2023 - ??/09/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Hajime Aono từng sống vì tiếng đàn violin của mình. Ngay từ khi còn nhỏ, anh đã ngưỡng mộ người cha nghệ sĩ violin nổi tiếng thế giới của mình, người đã truyền cảm hứng cho anh tự mình chọn nhạc cụ. Nhưng sau cuộc ly hôn cay đắng của cha mẹ, Aono thề sẽ không bao giờ chơi nữa và đi học trung học mà không có định hướng hay triển vọng.<br>
-			- Trong một lớp giáo dục thể chất, Aono không thể thao bị đánh vào mặt bằng một quả bóng và kết thúc trong bệnh xá. Ở đó, anh gặp Ritsuko Akine trơ trẽn, người bắt đầu chơi violin trong phòng, tin rằng cô chỉ có một mình. Tuy nhiên, sau một sự cố trong quá khứ, đã có tin đồn cho rằng Akine là một kẻ bắt nạt, điều này đã cô lập cô ấy khỏi các đồng nghiệp của mình — một sự thật mà Aono không biết.<br>
-			- Akine mơ ước được ghi danh vào một ngôi trường có dàn nhạc, nhưng khả năng chơi nghiệp dư và thiếu kiến thức âm nhạc của cô đã khiến Aono vô cùng thích thú. Coi đây là một cơ hội hoàn hảo để hai người trở thành bạn bè, giáo viên của họ đề nghị Aono dạy Akine cách chơi violin, điều mà Aono kịch liệt phản đối. Tuy nhiên, khi cặp đôi dành nhiều thời gian hơn cho nhau, họ sớm học cách hiểu và giúp đỡ lẫn nhau và Aono cuối cùng có thể khám phá ra niềm đam mê và giai điệu đã mất trong cuộc sống của mình.
+			- Hajime Aono từng sống vì tiếng đàn violin của mình. Ngay từ khi còn nhỏ, anh đã ngưỡng mộ người cha nghệ sĩ violin nổi tiếng thế giới của mình, người đã truyền cảm hứng cho anh tự mình chọn nhạc cụ. Nhưng sau cuộc ly hôn cay đắng của cha mẹ, Aono thề sẽ không bao giờ chơi nữa và đi học trung học mà không có định hướng hay triển vọng.
+			<br>- Trong một lớp giáo dục thể chất, Aono không thể thao bị đánh vào mặt bằng một quả bóng và kết thúc trong bệnh xá. Ở đó, anh gặp Ritsuko Akine trơ trẽn, người bắt đầu chơi violin trong phòng, tin rằng cô chỉ có một mình. Tuy nhiên, sau một sự cố trong quá khứ, đã có tin đồn cho rằng Akine là một kẻ bắt nạt, điều này đã cô lập cô ấy khỏi các đồng nghiệp của mình — một sự thật mà Aono không biết.
+			<br>- Akine mơ ước được ghi danh vào một ngôi trường có dàn nhạc, nhưng khả năng chơi nghiệp dư và thiếu kiến thức âm nhạc của cô đã khiến Aono vô cùng thích thú. Coi đây là một cơ hội hoàn hảo để hai người trở thành bạn bè, giáo viên của họ đề nghị Aono dạy Akine cách chơi violin, điều mà Aono kịch liệt phản đối. Tuy nhiên, khi cặp đôi dành nhiều thời gian hơn cho nhau, họ sớm học cách hiểu và giúp đỡ lẫn nhau và Aono cuối cùng có thể khám phá ra niềm đam mê và giai điệu đã mất trong cuộc sống của mình.
 		`,
 		tag: [
 			'tDrama',
@@ -204,9 +249,9 @@ const anime = [
 		aired: '12/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Ai Hoshino mười sáu tuổi là một thần tượng tài năng và xinh đẹp, được người hâm mộ yêu mến. Cô ấy là hiện thân của một thiếu nữ trẻ trung, thuần khiết. Nhưng tất cả những gì lấp lánh không phải là vàng.<br>
-			- Gorou Amemiya là một bác sĩ phụ khoa nông thôn và là một fan hâm mộ lớn của Ai. Vì vậy, khi thần tượng mang thai xuất hiện tại bệnh viện của mình, anh ấy đã vô cùng hoang mang. Gorou hứa với cô ấy một cuộc sinh nở an toàn. Anh ta không biết, một cuộc chạm trán với một nhân vật bí ẩn sẽ dẫn đến cái chết không đúng lúc của anh ta - hoặc anh ta nghĩ vậy.<br>
-			- Mở mắt trong lòng thần tượng yêu dấu của mình, Gorou thấy rằng mình đã được tái sinh thành Aquamarine Hoshino — con trai mới sinh của Ai! Với thế giới của mình bị đảo lộn, Gorou sớm biết rằng thế giới showbiz được lát bằng gai, nơi tài năng không phải lúc nào cũng sinh ra thành công. Liệu anh ta có thể bảo vệ nụ cười của Ai mà anh ta rất yêu thích với sự giúp đỡ của một đồng minh lập dị và bất ngờ?
+			- Ai Hoshino mười sáu tuổi là một thần tượng tài năng và xinh đẹp, được người hâm mộ yêu mến. Cô ấy là hiện thân của một thiếu nữ trẻ trung, thuần khiết. Nhưng tất cả những gì lấp lánh không phải là vàng.
+			<br>- Gorou Amemiya là một bác sĩ phụ khoa nông thôn và là một fan hâm mộ lớn của Ai. Vì vậy, khi thần tượng mang thai xuất hiện tại bệnh viện của mình, anh ấy đã vô cùng hoang mang. Gorou hứa với cô ấy một cuộc sinh nở an toàn. Anh ta không biết, một cuộc chạm trán với một nhân vật bí ẩn sẽ dẫn đến cái chết không đúng lúc của anh ta - hoặc anh ta nghĩ vậy.
+			<br>- Mở mắt trong lòng thần tượng yêu dấu của mình, Gorou thấy rằng mình đã được tái sinh thành Aquamarine Hoshino — con trai mới sinh của Ai! Với thế giới của mình bị đảo lộn, Gorou sớm biết rằng thế giới showbiz được lát bằng gai, nơi tài năng không phải lúc nào cũng sinh ra thành công. Liệu anh ta có thể bảo vệ nụ cười của Ai mà anh ta rất yêu thích với sự giúp đỡ của một đồng minh lập dị và bất ngờ?
 		`,
 		tag: [
 			'tDrama',
@@ -299,8 +344,8 @@ const anime = [
 		aired: '10/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Khi Park Eunha chết ở Hàn Quốc ngày nay, cô tỉnh dậy trong cơ thể của Raeliana McMillan, con gái lớn của một nam tước giàu có. Tuy nhiên, đây không phải là thế giới bình thường; Nó giống hệt như một cuốn tiểu thuyết mà cô đã từng đọc. Được gia đình yêu quý, dường như cô đang ở trong một câu chuyện cổ tích. Nhưng Raeliana khác xa với nhân vật chính — cô ấy chỉ là một thiết bị âm mưu, vụ giết người dưới tay vị hôn phu của cô ấy đã xúi giục toàn bộ câu chuyện.<br>
-			- Raeliana không có ý định lặng lẽ chấp nhận số phận của mình. Cô để mắt đến một người ở vị trí quyền lực lớn - nam chính giàu có vieux Công tước Noah Volstaire Wynknight - nhằm thay đổi hoàn toàn câu chuyện gốc. Sử dụng kiến thức của mình về các sự kiện trong tương lai, Raeliana cung cấp thông tin cho Noah với điều kiện anh ta đóng vai trò là vị hôn phu giả của cô, nhưng bản chất hai mặt của Công tước đã cản trở kế hoạch của cô!
+			- Khi Park Eunha chết ở Hàn Quốc ngày nay, cô tỉnh dậy trong cơ thể của Raeliana McMillan, con gái lớn của một nam tước giàu có. Tuy nhiên, đây không phải là thế giới bình thường; Nó giống hệt như một cuốn tiểu thuyết mà cô đã từng đọc. Được gia đình yêu quý, dường như cô đang ở trong một câu chuyện cổ tích. Nhưng Raeliana khác xa với nhân vật chính — cô ấy chỉ là một thiết bị âm mưu, vụ giết người dưới tay vị hôn phu của cô ấy đã xúi giục toàn bộ câu chuyện.
+			<br>- Raeliana không có ý định lặng lẽ chấp nhận số phận của mình. Cô để mắt đến một người ở vị trí quyền lực lớn - nam chính giàu có vieux Công tước Noah Volstaire Wynknight - nhằm thay đổi hoàn toàn câu chuyện gốc. Sử dụng kiến thức của mình về các sự kiện trong tương lai, Raeliana cung cấp thông tin cho Noah với điều kiện anh ta đóng vai trò là vị hôn phu giả của cô, nhưng bản chất hai mặt của Công tước đã cản trở kế hoạch của cô!
 		`,
 		tag: [
 			'tFantasy',
@@ -342,9 +387,9 @@ const anime = [
 		aired: '11/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Tất cả bắt đầu với cái chết của một trong những thành viên của Câu lạc bộ Thiên văn học. Từ đó, bóng ma tin đồn của câu lạc bộ trở nên sống động.<br>
-			- Ganta Nakami bị mất ngủ gắt gỏng tình cờ gặp Isaki Magari nổi loạn vừa phải nhưng dễ tính trong đài quan sát bị bỏ hoang của Câu lạc bộ Thiên văn học. Magari bị giật mình tỉnh dậy và cố gắng trốn thoát khỏi hiện trường, chỉ để có một cánh cửa bị phá ngăn cản điều đó, buộc hai người vào trong. Cả hai tạo nên một tình bạn khó có thể xảy ra, khiến họ sử dụng đài quan sát như một không gian an toàn để họ tương tác.<br>
-			- Kimi wa Houkago Insomnia kể về thời gian mất ngủ của Nakami và Magari trong đài quan sát đầy sao khi họ giúp nhau đối phó với chứng mất ngủ và những ảnh hưởng lâu dài của nó đối với cuộc sống sinh viên.
+			- Tất cả bắt đầu với cái chết của một trong những thành viên của Câu lạc bộ Thiên văn học. Từ đó, bóng ma tin đồn của câu lạc bộ trở nên sống động.
+			<br>- Ganta Nakami bị mất ngủ gắt gỏng tình cờ gặp Isaki Magari nổi loạn vừa phải nhưng dễ tính trong đài quan sát bị bỏ hoang của Câu lạc bộ Thiên văn học. Magari bị giật mình tỉnh dậy và cố gắng trốn thoát khỏi hiện trường, chỉ để có một cánh cửa bị phá ngăn cản điều đó, buộc hai người vào trong. Cả hai tạo nên một tình bạn khó có thể xảy ra, khiến họ sử dụng đài quan sát như một không gian an toàn để họ tương tác.
+			<br>- Kimi wa Houkago Insomnia kể về thời gian mất ngủ của Nakami và Magari trong đài quan sát đầy sao khi họ giúp nhau đối phó với chứng mất ngủ và những ảnh hưởng lâu dài của nó đối với cuộc sống sinh viên.
 		`,
 		tag: [
 			'tRomance',
@@ -385,8 +430,8 @@ const anime = [
 		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Đã từng có một người đàn ông được triệu hồi đến một thế giới khác, và đã cứu nó. Tất nhiên, anh ta trở nên quá nổi tiếng ở đó, và biến thành một isekai-normie. Tuy nhiên, người đàn ông đó đã rơi vào một "cái bẫy" và buộc phải trở về thế giới ban đầu của mình. Hơn nữa, anh phải bắt đầu lại từ khi còn nhỏ!<br>
-			- Đây là câu chuyện về cựu anh hùng quá tuyệt vời, người đã sống như một học sinh trung học ảm đạm, khi anh ta được triệu hồi một lần nữa đến cùng một thế giới khác trong một diễn biến rất bất ngờ!
+			- Đã từng có một người đàn ông được triệu hồi đến một thế giới khác, và đã cứu nó. Tất nhiên, anh ta trở nên quá nổi tiếng ở đó, và biến thành một isekai-normie. Tuy nhiên, người đàn ông đó đã rơi vào một "cái bẫy" và buộc phải trở về thế giới ban đầu của mình. Hơn nữa, anh phải bắt đầu lại từ khi còn nhỏ!
+			<br>- Đây là câu chuyện về cựu anh hùng quá tuyệt vời, người đã sống như một học sinh trung học ảm đạm, khi anh ta được triệu hồi một lần nữa đến cùng một thế giới khác trong một diễn biến rất bất ngờ!
 		`,
 		tag: [
 			'tAdventure',
@@ -654,9 +699,9 @@ const anime = [
 		aired: '06/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Cuộc sống có vẻ đầy hứa hẹn đối với Hime Shiraki, một cô gái có điểm số tốt, danh tiếng hoàn hảo và khuôn mặt dễ thương để vượt qua tất cả. Chỉ cần cô có thể giữ được vẻ ngoài hoàn hảo của mình, cô sẽ có thể thực hiện ước mơ của mình: được mọi người yêu mến và trở thành người vợ danh hiệu của một tỷ phú.<br>
-			- Vào một ngày như bao ngày khác, Hime trượt xuống cầu thang và đáp xuống đỉnh Mai Mikoshiba, làm bị thương cánh tay của Mikoshiba. Hóa ra Mai là quản lý của một quán cà phê, và chấn thương sẽ khiến công việc của cô không thể thực hiện được. Người ta quyết định rằng trong khi Mai hồi phục, Hime sẽ phải thay thế Mai tại Café Liebe, nơi tự hào có chủ đề học viện toàn nữ.<br>
-			- Mặc dù gây thương tích cho Mai, Hime vẫn được các nhân viên khác chấp nhận, ngoại trừ một cô gái có vẻ ghét cô ấy vì những lý do không rõ. Hime trở nên sợ hãi khi cô gái này đã nhìn thấy vẻ ngoài của mình, điều này khiến cô nhớ đến một sự kiện rắc rối trong quá khứ.
+			- Cuộc sống có vẻ đầy hứa hẹn đối với Hime Shiraki, một cô gái có điểm số tốt, danh tiếng hoàn hảo và khuôn mặt dễ thương để vượt qua tất cả. Chỉ cần cô có thể giữ được vẻ ngoài hoàn hảo của mình, cô sẽ có thể thực hiện ước mơ của mình: được mọi người yêu mến và trở thành người vợ danh hiệu của một tỷ phú.
+			<br>- Vào một ngày như bao ngày khác, Hime trượt xuống cầu thang và đáp xuống đỉnh Mai Mikoshiba, làm bị thương cánh tay của Mikoshiba. Hóa ra Mai là quản lý của một quán cà phê, và chấn thương sẽ khiến công việc của cô không thể thực hiện được. Người ta quyết định rằng trong khi Mai hồi phục, Hime sẽ phải thay thế Mai tại Café Liebe, nơi tự hào có chủ đề học viện toàn nữ.
+			<br>- Mặc dù gây thương tích cho Mai, Hime vẫn được các nhân viên khác chấp nhận, ngoại trừ một cô gái có vẻ ghét cô ấy vì những lý do không rõ. Hime trở nên sợ hãi khi cô gái này đã nhìn thấy vẻ ngoài của mình, điều này khiến cô nhớ đến một sự kiện rắc rối trong quá khứ.
 		`,
 		tag: [
 			'tComedy',
@@ -713,9 +758,9 @@ const anime = [
 		aired: '07/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- "Không phải tôi là người mạnh nhất ở thế giới khác, mà là em gái tôi?!"<br>
-			- Do một tai nạn trong thế giới thực, Asahi Ikusaba được chuyển đến một thế giới khác. Anh ta cố gắng tận hưởng thế giới khác mà anh ta tưởng tượng, nhưng khả năng của anh ta tỏ ra yếu nhất. Ngay khi anh ta sắp bị tấn công bởi một con quái vật hung ác, chị gái lấm lem của Asahi là Mayu đã đến giải cứu anh ta và cứu anh ta.<br>
-			- Theo đuổi tình yêu của Asahi, Mayu cũng kết thúc ở cùng một thế giới với anh ta, với khả năng mạnh nhất và kỹ năng gian lận. Câu chuyện giả tưởng về người chị gái mạnh nhất với phức hợp anh trai và em trai có kỹ năng yếu nhất bắt đầu.
+			- "Không phải tôi là người mạnh nhất ở thế giới khác, mà là em gái tôi?!"
+			<br>- Do một tai nạn trong thế giới thực, Asahi Ikusaba được chuyển đến một thế giới khác. Anh ta cố gắng tận hưởng thế giới khác mà anh ta tưởng tượng, nhưng khả năng của anh ta tỏ ra yếu nhất. Ngay khi anh ta sắp bị tấn công bởi một con quái vật hung ác, chị gái lấm lem của Asahi là Mayu đã đến giải cứu anh ta và cứu anh ta.
+			<br>- Theo đuổi tình yêu của Asahi, Mayu cũng kết thúc ở cùng một thế giới với anh ta, với khả năng mạnh nhất và kỹ năng gian lận. Câu chuyện giả tưởng về người chị gái mạnh nhất với phức hợp anh trai và em trai có kỹ năng yếu nhất bắt đầu.
 		`,
 		tag: [
 			'tComedy',
@@ -761,8 +806,8 @@ const anime = [
 		aired: '08/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Đối với những người khác trong thế giới thống trị ma thuật của mình, Mash Burnedead trẻ tuổi và bất lực là mối đe dọa đối với nguồn gen và phải bị thanh trừng. Sống bí mật trong rừng, anh dành mỗi ngày để rèn luyện cơ thể, xây dựng cơ bắp đủ mạnh để cạnh tranh với chính ma thuật! Tuy nhiên, khi danh tính của mình bị phơi bày và cuộc sống yên bình của anh ta bị đe dọa, Mash bắt đầu hành trình trở thành một "Người nhìn xa trông rộng thần thánh", một vai trò mạnh mẽ đến mức xã hội sẽ không có lựa chọn nào khác ngoài việc chấp nhận sự tồn tại của anh ta.<br>
-			- Và vì vậy, để duy trì cuộc sống yên bình của mình, Mash không phép thuật đăng ký vào Học viện Phép thuật Easton danh tiếng, cạnh tranh với con cái của một số người mạnh nhất và ưu tú nhất trong vương quốc. Thiếu kỹ năng cần thiết để tồn tại ở Easton, phép thuật, Mash dường như đã gặp bất lợi so với các bạn cùng lớp. Để đạt được mục tiêu của mình, Mash sẽ phải chiến đấu theo cách của mình thông qua mọi thử thách bằng cách sử dụng nắm đấm của mình một mình, vượt qua phép thuật bằng cơ bắp, tất cả vì danh hiệu lừng lẫy của Divine Visionary!
+			- Đối với những người khác trong thế giới thống trị ma thuật của mình, Mash Burnedead trẻ tuổi và bất lực là mối đe dọa đối với nguồn gen và phải bị thanh trừng. Sống bí mật trong rừng, anh dành mỗi ngày để rèn luyện cơ thể, xây dựng cơ bắp đủ mạnh để cạnh tranh với chính ma thuật! Tuy nhiên, khi danh tính của mình bị phơi bày và cuộc sống yên bình của anh ta bị đe dọa, Mash bắt đầu hành trình trở thành một "Người nhìn xa trông rộng thần thánh", một vai trò mạnh mẽ đến mức xã hội sẽ không có lựa chọn nào khác ngoài việc chấp nhận sự tồn tại của anh ta.
+			<br>- Và vì vậy, để duy trì cuộc sống yên bình của mình, Mash không phép thuật đăng ký vào Học viện Phép thuật Easton danh tiếng, cạnh tranh với con cái của một số người mạnh nhất và ưu tú nhất trong vương quốc. Thiếu kỹ năng cần thiết để tồn tại ở Easton, phép thuật, Mash dường như đã gặp bất lợi so với các bạn cùng lớp. Để đạt được mục tiêu của mình, Mash sẽ phải chiến đấu theo cách của mình thông qua mọi thử thách bằng cách sử dụng nắm đấm của mình một mình, vượt qua phép thuật bằng cơ bắp, tất cả vì danh hiệu lừng lẫy của Divine Visionary!
 		`,
 		tag: [
 			'tAction',
@@ -818,9 +863,9 @@ const anime = [
 		aired: '07/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Xa về phía bắc của thế giới là Cổng Địa ngục, một cánh cổng trước đây được Chúa quỷ sử dụng để xâm chiếm vương quốc loài người. Nhờ anh hùng huyền thoại Shion Bladearts, người sử dụng Excalibur, và nhóm bạn đồng hành trung thành của mình, Cánh cổng đã bị phong tỏa và mối đe dọa ma quỷ đã bị đánh bại.<br>
-			- Thật không may, phong ấn không đầy đủ và đã bắt đầu suy yếu, cho phép những con quỷ một lần nữa bắt đầu cuộc tấn công của chúng. Lo lắng về sự an toàn của ngôi làng của mình, người nông dân ích kỷ và Touka Scott đào hố để bảo vệ chống lại ma quỷ. Nhưng đừng sợ, vì Shion đang trên đường phong ấn lại Cổng Địa ngục và cứu nhân loại!<br>
-			- Hoặc ít nhất là anh ta, bởi vì người anh hùng huyền thoại đã chết, đã rơi vào một trong những cạm bẫy mà Touka đào. May mắn thay, đối phó với người chết là đặc sản của necromancer Anri Haynesworth. Trong khi cô không thể hồi sinh cậu, Anri ít nhất có thể cứu vãn nhiệm vụ của họ bằng cách buộc linh hồn của Touka vào cơ thể thối rữa của Shion và kéo cậu đến Cổng Địa ngục ở vị trí của Shion. Không muốn bị bỏ lại phía sau, người bạn thời thơ ấu của Touka, Yuna Yunis cũng đi theo. Cùng nhau, ba người họ bắt đầu như một bên có thể là không phù hợp nhất để cố gắng cứu thế giới!
+			- Xa về phía bắc của thế giới là Cổng Địa ngục, một cánh cổng trước đây được Chúa quỷ sử dụng để xâm chiếm vương quốc loài người. Nhờ anh hùng huyền thoại Shion Bladearts, người sử dụng Excalibur, và nhóm bạn đồng hành trung thành của mình, Cánh cổng đã bị phong tỏa và mối đe dọa ma quỷ đã bị đánh bại.
+			<br>- Thật không may, phong ấn không đầy đủ và đã bắt đầu suy yếu, cho phép những con quỷ một lần nữa bắt đầu cuộc tấn công của chúng. Lo lắng về sự an toàn của ngôi làng của mình, người nông dân ích kỷ và Touka Scott đào hố để bảo vệ chống lại ma quỷ. Nhưng đừng sợ, vì Shion đang trên đường phong ấn lại Cổng Địa ngục và cứu nhân loại!
+			<br>- Hoặc ít nhất là anh ta, bởi vì người anh hùng huyền thoại đã chết, đã rơi vào một trong những cạm bẫy mà Touka đào. May mắn thay, đối phó với người chết là đặc sản của necromancer Anri Haynesworth. Trong khi cô không thể hồi sinh cậu, Anri ít nhất có thể cứu vãn nhiệm vụ của họ bằng cách buộc linh hồn của Touka vào cơ thể thối rữa của Shion và kéo cậu đến Cổng Địa ngục ở vị trí của Shion. Không muốn bị bỏ lại phía sau, người bạn thời thơ ấu của Touka, Yuna Yunis cũng đi theo. Cùng nhau, ba người họ bắt đầu như một bên có thể là không phù hợp nhất để cố gắng cứu thế giới!
 		`,
 		tag: [
 			'tAction',
@@ -976,8 +1021,8 @@ const anime = [
 		aired: '03/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Một cơ hội để trở lại!<br>
-			- Một cánh cửa bí ẩn mở ra, mời một cậu bé bị bắt nạt dã man cả đời bước một bước can đảm vào điều chưa biết. Ở phía bên kia, anh ta tìm thấy một kho cổ vật vô giá và một thế giới chứa đầy ma thuật như quái vật. Tuy nhiên, tiết lộ gây sốc nhất là anh ta có thể mang theo bất cứ thứ gì anh ta muốn trở lại khi trở về Trái đất. Sẽ không lâu nữa cuộc sống hai mặt này sẽ thay đổi anh mãi mãi...
+			- Một cơ hội để trở lại!
+			<br>- Một cánh cửa bí ẩn mở ra, mời một cậu bé bị bắt nạt dã man cả đời bước một bước can đảm vào điều chưa biết. Ở phía bên kia, anh ta tìm thấy một kho cổ vật vô giá và một thế giới chứa đầy ma thuật như quái vật. Tuy nhiên, tiết lộ gây sốc nhất là anh ta có thể mang theo bất cứ thứ gì anh ta muốn trở lại khi trở về Trái đất. Sẽ không lâu nữa cuộc sống hai mặt này sẽ thay đổi anh mãi mãi...
 		`,
 		tag: [
 			'tAction',
@@ -1024,8 +1069,8 @@ const anime = [
 		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Đối lập thu hút khi một airhead vui vẻ gặp hoa tường vi cư trú của lớp học mới của mình trong loạt phim hài học đường ấm áp, lát cắt cuộc sống này!<br>
-			- Một cô gái lớp năm cô đơn, ảm đạm là mục tiêu của sự bắt nạt và trêu chọc không ngừng của các bạn cùng lớp — nghĩa là, cho đến khi một đứa trẻ mới đến hiện trường. Takada thân thiện không biết gì về ý nghĩa của anh ta, nhưng bằng cách nào đó anh ta sở hữu khả năng ma thuật để bắt đầu kéo "Thần chết" Nishimura ra khỏi vỏ bọc của cô ấy. Khi các học sinh tiểu học cùng nhau trải nghiệm tất cả niềm vui của một mùa hè thời thơ ấu - từ đi đến hồ bơi, hái hoa hướng dương đến xem pháo hoa - một tình bạn khác thường nở rộ!
+			- Đối lập thu hút khi một airhead vui vẻ gặp hoa tường vi cư trú của lớp học mới của mình trong loạt phim hài học đường ấm áp, lát cắt cuộc sống này!
+			<br>- Một cô gái lớp năm cô đơn, ảm đạm là mục tiêu của sự bắt nạt và trêu chọc không ngừng của các bạn cùng lớp — nghĩa là, cho đến khi một đứa trẻ mới đến hiện trường. Takada thân thiện không biết gì về ý nghĩa của anh ta, nhưng bằng cách nào đó anh ta sở hữu khả năng ma thuật để bắt đầu kéo "Thần chết" Nishimura ra khỏi vỏ bọc của cô ấy. Khi các học sinh tiểu học cùng nhau trải nghiệm tất cả niềm vui của một mùa hè thời thơ ấu - từ đi đến hồ bơi, hái hoa hướng dương đến xem pháo hoa - một tình bạn khác thường nở rộ!
 		`,
 		tag: [
 			'tComedy',
@@ -1119,8 +1164,8 @@ const anime = [
 		aired: '01/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Trong sự an toàn của các bức tường, thanh thiếu niên được nuôi dưỡng trong một khung cảnh kiểu nhà trẻ bởi robot. Trong khi cuộc sống ở đó có thể xuất hiện cũ trên bề mặt, những đứa trẻ đầy tiềm năng và tò mò. Theo nhiều cách, nó giống như một lát cắt của thiên đường. Thế giới bên ngoài là một cảnh địa ngục. Nó gần như hoàn toàn không có bất cứ thứ gì máy móc và hiện là nơi sinh sống của những sinh vật siêu nhiên kỳ lạ nhưng mạnh mẽ.<br>
-			- Maru, với sự trợ giúp của Kiruko, đang ở ngoài kia băng qua những gì đã từng là Tokyo cho thiên đường. Nhưng sau khi tìm kiếm quá lâu, có lẽ thiên đường là một giấc mơ không thể thực hiện được hơn là một thực tế tiềm năng.
+			- Trong sự an toàn của các bức tường, thanh thiếu niên được nuôi dưỡng trong một khung cảnh kiểu nhà trẻ bởi robot. Trong khi cuộc sống ở đó có thể xuất hiện cũ trên bề mặt, những đứa trẻ đầy tiềm năng và tò mò. Theo nhiều cách, nó giống như một lát cắt của thiên đường. Thế giới bên ngoài là một cảnh địa ngục. Nó gần như hoàn toàn không có bất cứ thứ gì máy móc và hiện là nơi sinh sống của những sinh vật siêu nhiên kỳ lạ nhưng mạnh mẽ.
+			<br>- Maru, với sự trợ giúp của Kiruko, đang ở ngoài kia băng qua những gì đã từng là Tokyo cho thiên đường. Nhưng sau khi tìm kiếm quá lâu, có lẽ thiên đường là một giấc mơ không thể thực hiện được hơn là một thực tế tiềm năng.
 		`,
 		tag: [
 			'tAdventure',
@@ -1161,9 +1206,9 @@ const anime = [
 		aired: '02/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Kyoutaro Ichikawa có thể trông giống như học sinh trung học bình thường của bạn, nhưng trong trái tim anh ta, anh ta mơ ước giết người. Do đó, không có gì ngạc nhiên khi người mà anh ta muốn giết nhất không bao giờ xa rời tâm trí anh ta: thần tượng của lớp, Anna Yamada.<br>
-			- Đọc sách một mình trong thư viện trường yêu quý của mình, anh vô tình bắt đầu gặp gỡ Yamada, người đến để bí mật hẻm núi trên kẹo và kẹo yêu quý của cô. Thông qua sự tương tác của họ, Ichikawa phát hiện ra Yamada là một người ditz như thế nào, và không thể không hỗ trợ cô ấy từ bên lề. Trong khi đó, bản thân Yamada không thể không trêu chọc Ichikawa không ngừng vì phản ứng bối rối của cậu.<br>
-			- Với một loạt các tương tác hàng ngày ấm áp, mối quan hệ xa cách giữa hai người phát triển thành một thứ gì đó không chỉ là người quen trong thư viện. Có lẽ, theo thời gian, Ichikawa sẽ nhận ra rằng những ham muốn giết người của mình đã biến thành một thứ hoàn toàn khác.
+			- Kyoutaro Ichikawa có thể trông giống như học sinh trung học bình thường của bạn, nhưng trong trái tim anh ta, anh ta mơ ước giết người. Do đó, không có gì ngạc nhiên khi người mà anh ta muốn giết nhất không bao giờ xa rời tâm trí anh ta: thần tượng của lớp, Anna Yamada.
+			<br>- Đọc sách một mình trong thư viện trường yêu quý của mình, anh vô tình bắt đầu gặp gỡ Yamada, người đến để bí mật hẻm núi trên kẹo và kẹo yêu quý của cô. Thông qua sự tương tác của họ, Ichikawa phát hiện ra Yamada là một người ditz như thế nào, và không thể không hỗ trợ cô ấy từ bên lề. Trong khi đó, bản thân Yamada không thể không trêu chọc Ichikawa không ngừng vì phản ứng bối rối của cậu.
+			<br>- Với một loạt các tương tác hàng ngày ấm áp, mối quan hệ xa cách giữa hai người phát triển thành một thứ gì đó không chỉ là người quen trong thư viện. Có lẽ, theo thời gian, Ichikawa sẽ nhận ra rằng những ham muốn giết người của mình đã biến thành một thứ hoàn toàn khác.
 		`,
 		tag: [
 			'tComedy',
@@ -1236,8 +1281,8 @@ const anime = [
 		aired: '02/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Sau khi bạn trai lừa dối cô với một cô gái khác mà anh gặp trong trò chơi, Akane Kinoshita học được một cách khó khăn rằng bạn trai game thủ có thể tệ như loại ngoại tuyến. Khi cô trút giận bằng cách đánh quái vật đám đông đến tủy, cô có cơ hội gặp Akito Yamada, một người bạn cùng bang hội với mặt nạ afro và Noh.<br>
-			- Yamada không hòa đồng và cộc lốc, hầu như không phải là kiểu người khiến Akane ngất ngây. Tuy nhiên, trong khi chỉ số chơi game của anh ấy có thể được tối đa, Yamada thiếu kinh nghiệm trong các vấn đề của trái tim, và chống lại tất cả các tỷ lệ cược, cô ấy thấy mình bị anh ấy cảm động. Kết bạn mới trên đường đi, liệu Akane có thể lay động trái tim của Yamada, một nam sinh trung học cấp trùm cuối cùng?
+			- Sau khi bạn trai lừa dối cô với một cô gái khác mà anh gặp trong trò chơi, Akane Kinoshita học được một cách khó khăn rằng bạn trai game thủ có thể tệ như loại ngoại tuyến. Khi cô trút giận bằng cách đánh quái vật đám đông đến tủy, cô có cơ hội gặp Akito Yamada, một người bạn cùng bang hội với mặt nạ afro và Noh.
+			<br>- Yamada không hòa đồng và cộc lốc, hầu như không phải là kiểu người khiến Akane ngất ngây. Tuy nhiên, trong khi chỉ số chơi game của anh ấy có thể được tối đa, Yamada thiếu kinh nghiệm trong các vấn đề của trái tim, và chống lại tất cả các tỷ lệ cược, cô ấy thấy mình bị anh ấy cảm động. Kết bạn mới trên đường đi, liệu Akane có thể lay động trái tim của Yamada, một nam sinh trung học cấp trùm cuối cùng?
 		`,
 		tag: [
 			'tGame',
@@ -1294,9 +1339,9 @@ const anime = [
 		aired: '13/07/2021 - 28/09/2021',
 		rating: 'R-17+',
 		synopsis: `
-			- Đó chỉ là một buổi sáng bình thường.<br>
-			- Akira Shiroyanagi, một học sinh trung học yêu thích trò chơi và Konpeito (đồ ngọt Nhật Bản), đã bất ngờ bị kéo vào chiến trường bởi một cô gái bí ẩn tự xưng là Mion. Những người tham gia được thông báo rằng họ bị "xóa khỏi sổ đăng ký gia đình, tham gia vào một thí nghiệm và đạt được một số quyền hạn nhất định."<br>
-			- Akira quyết tâm giành chiến thắng trong trò chơi với sức mạnh mới tìm thấy của mình và tiêu diệt tổ chức. Được trang bị một sức mạnh không ai mong đợi và kỹ năng "bộ não" của anh ta, thời kỳ mới của trận chiến tình báo bắt đầu!
+			- Đó chỉ là một buổi sáng bình thường.
+			<br>- Akira Shiroyanagi, một học sinh trung học yêu thích trò chơi và Konpeito (đồ ngọt Nhật Bản), đã bất ngờ bị kéo vào chiến trường bởi một cô gái bí ẩn tự xưng là Mion. Những người tham gia được thông báo rằng họ bị "xóa khỏi sổ đăng ký gia đình, tham gia vào một thí nghiệm và đạt được một số quyền hạn nhất định."
+			<br>- Akira quyết tâm giành chiến thắng trong trò chơi với sức mạnh mới tìm thấy của mình và tiêu diệt tổ chức. Được trang bị một sức mạnh không ai mong đợi và kỹ năng "bộ não" của anh ta, thời kỳ mới của trận chiến tình báo bắt đầu!
 		`,
 		tag: [
 			'tGame',
@@ -1389,8 +1434,8 @@ const anime = [
 		aired: '07/07/2014 - 15/12/2014',
 		rating: 'R-17+',
 		synopsis: `
-			- Night Raid là nhánh ám sát bí mật của Quân đội Cách mạng, một cuộc nổi dậy được tập hợp để lật đổ Thủ tướng Trung thực, người có sự hám lợi và tham lam quyền lực đã khiến ông lợi dụng sự thiếu kinh nghiệm của hoàng đế nhí. Nếu không có một nhà lãnh đạo mạnh mẽ và nhân từ, phần còn lại của đất nước bị bỏ lại trong nghèo đói, xung đột và đổ nát. Mặc dù các thành viên Night Raid đều là những kẻ giết người giàu kinh nghiệm, nhưng họ hiểu rằng việc cướp đi mạng sống là điều không đáng khen ngợi và họ có thể sẽ phải đối mặt với sự trả thù khi họ loại bỏ không thương tiếc bất kỳ ai cản đường cuộc cách mạng.<br>
-			- Thành viên mới nhất của nhóm sát thủ vui vẻ này là Tatsumi, một cậu bé ngây thơ đến từ một ngôi làng hẻo lánh, người đã bắt đầu cuộc hành trình giúp đỡ quê hương nghèo khó của mình và bị chinh phục bởi không chỉ lý tưởng của Night Raid, mà cả quyết tâm của họ. Akame ga Giết! theo chân Tatsumi khi anh chiến đấu với Đế chế và đối mặt với vũ khí mạnh mẽ, sát thủ kẻ thù, thách thức đạo đức và giá trị của chính mình, và cuối cùng, ý nghĩa thực sự của việc trở thành một sát thủ có lý do.
+			- Night Raid là nhánh ám sát bí mật của Quân đội Cách mạng, một cuộc nổi dậy được tập hợp để lật đổ Thủ tướng Trung thực, người có sự hám lợi và tham lam quyền lực đã khiến ông lợi dụng sự thiếu kinh nghiệm của hoàng đế nhí. Nếu không có một nhà lãnh đạo mạnh mẽ và nhân từ, phần còn lại của đất nước bị bỏ lại trong nghèo đói, xung đột và đổ nát. Mặc dù các thành viên Night Raid đều là những kẻ giết người giàu kinh nghiệm, nhưng họ hiểu rằng việc cướp đi mạng sống là điều không đáng khen ngợi và họ có thể sẽ phải đối mặt với sự trả thù khi họ loại bỏ không thương tiếc bất kỳ ai cản đường cuộc cách mạng.
+			<br>- Thành viên mới nhất của nhóm sát thủ vui vẻ này là Tatsumi, một cậu bé ngây thơ đến từ một ngôi làng hẻo lánh, người đã bắt đầu cuộc hành trình giúp đỡ quê hương nghèo khó của mình và bị chinh phục bởi không chỉ lý tưởng của Night Raid, mà cả quyết tâm của họ. Akame ga Giết! theo chân Tatsumi khi anh chiến đấu với Đế chế và đối mặt với vũ khí mạnh mẽ, sát thủ kẻ thù, thách thức đạo đức và giá trị của chính mình, và cuối cùng, ý nghĩa thực sự của việc trở thành một sát thủ có lý do.
 		`,
 		tag: [
 			'tAction',
@@ -1675,8 +1720,8 @@ const anime = [
 		aired: '04/07/2017 - 19/09/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Yoshiko Hanabatake là một kẻ ngốc ngoài mọi niềm tin. Bằng cách nào đó, xoay sở để liên tục đạt điểm XNUMX trong tất cả các bài kiểm tra của mình và bị cuốn hút bởi nỗi ám ảnh vô lý về chuối, những hành động vô nghĩa của cô ấy đã khiến ngay cả mẹ ruột của cô ấy cũng mất hết hy vọng. Chỉ có một người hoàn thành nhiệm vụ kiểm soát sự điên rồ của mình: người bạn thời thơ ấu Akuru "A-kun" Akutsu.<br>
-			- Mặc dù anh ta than vãn về hành vi lố bịch mà anh ta phải chịu đựng, A-kun hiếu học nhưng đáng sợ luôn sẵn sàng chấm dứt bất kỳ sự ngu ngốc nào mà Yoshiko mắc phải, không ngần ngại sử dụng vũ lực. Thật không may, cho dù anh ta cố gắng gõ một số ý nghĩa vào cô ấy bao nhiêu lần, cô gái vẫn quay trở lại ngay với những trò tai quái thông thường của mình, thậm chí kéo theo một số người lập dị khác để đi xe. Hãy cố gắng hết sức để kiềm chế những điều vô nghĩa của cô ấy, mọi khoảnh khắc đều không thể đoán trước được với Yoshiko và sự ngu ngốc sâu sắc của cô ấy đang lỏng lẻo.
+			- Yoshiko Hanabatake là một kẻ ngốc ngoài mọi niềm tin. Bằng cách nào đó, xoay sở để liên tục đạt điểm XNUMX trong tất cả các bài kiểm tra của mình và bị cuốn hút bởi nỗi ám ảnh vô lý về chuối, những hành động vô nghĩa của cô ấy đã khiến ngay cả mẹ ruột của cô ấy cũng mất hết hy vọng. Chỉ có một người hoàn thành nhiệm vụ kiểm soát sự điên rồ của mình: người bạn thời thơ ấu Akuru "A-kun" Akutsu.
+			<br>- Mặc dù anh ta than vãn về hành vi lố bịch mà anh ta phải chịu đựng, A-kun hiếu học nhưng đáng sợ luôn sẵn sàng chấm dứt bất kỳ sự ngu ngốc nào mà Yoshiko mắc phải, không ngần ngại sử dụng vũ lực. Thật không may, cho dù anh ta cố gắng gõ một số ý nghĩa vào cô ấy bao nhiêu lần, cô gái vẫn quay trở lại ngay với những trò tai quái thông thường của mình, thậm chí kéo theo một số người lập dị khác để đi xe. Hãy cố gắng hết sức để kiềm chế những điều vô nghĩa của cô ấy, mọi khoảnh khắc đều không thể đoán trước được với Yoshiko và sự ngu ngốc sâu sắc của cô ấy đang lỏng lẻo.
 		`,
 		tag: [
 			'tComedy',
@@ -1761,8 +1806,8 @@ const anime = [
 		aired: '02/07/2017 - 24/09/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Chết trong một vụ tai nạn xe hơi, Tsubasa Kurata - một otaku đến từ Nhật Bản hiện đại - được tái sinh ở Vương quốc Fremmevilla, một thế giới thời trung cổ, nơi những người máy mạnh mẽ được gọi là Silhouette Knights được sử dụng để chiến đấu với những con ma thú khủng khiếp.<br>
-			- Sinh ra trong một gia đình quý tộc dưới cái tên Ernesti Echevarria và được ban tặng những khả năng phép thuật phi thường, anh đăng ký vào Học viện Hoàng gia Laialia. Trường học phép thuật này đào tạo những người đàn ông và phụ nữ trẻ về cách điều khiển các Silhouette Knights, chuẩn bị cho họ để bảo vệ vương quốc khỏi các mối đe dọa, cả ma quỷ và con người. Ernesti hợp tác với cặp song sinh tên là Adeltrud và Archid Olter với mục tiêu tạo ra Silhouette Knights theo thiết kế của riêng mình một ngày nào đó, một kỳ tích chưa từng có trong nhiều thế kỷ.
+			- Chết trong một vụ tai nạn xe hơi, Tsubasa Kurata - một otaku đến từ Nhật Bản hiện đại - được tái sinh ở Vương quốc Fremmevilla, một thế giới thời trung cổ, nơi những người máy mạnh mẽ được gọi là Silhouette Knights được sử dụng để chiến đấu với những con ma thú khủng khiếp.
+			<br>- Sinh ra trong một gia đình quý tộc dưới cái tên Ernesti Echevarria và được ban tặng những khả năng phép thuật phi thường, anh đăng ký vào Học viện Hoàng gia Laialia. Trường học phép thuật này đào tạo những người đàn ông và phụ nữ trẻ về cách điều khiển các Silhouette Knights, chuẩn bị cho họ để bảo vệ vương quốc khỏi các mối đe dọa, cả ma quỷ và con người. Ernesti hợp tác với cặp song sinh tên là Adeltrud và Archid Olter với mục tiêu tạo ra Silhouette Knights theo thiết kế của riêng mình một ngày nào đó, một kỳ tích chưa từng có trong nhiều thế kỷ.
 		`,
 		tag: [
 			'tAction',
@@ -1932,9 +1977,9 @@ const anime = [
 		aired: '01/07/2018 - 16/09/2018',
 		rating: 'PG-13',
 		synopsis: `
-			- Trên một hòn đảo xa xôi cách xa đất liền tên là Urashima, một người đàn ông dạt vào bờ, không nhớ gì về tên hay quê hương của mình. Tuy nhiên, những gì anh ta nhớ lại là anh ta là một nhà du hành thời gian với một nhiệm vụ: cứu một cô gái nào đó khỏi bị chết. Khi màn đêm buông xuống, anh gặp Rinne Ohara, một cô gái hát một giai điệu khiến anh nhớ đến một cái tên cụ thể — Setsuna — và quyết định sử dụng nó như của riêng mình.<br>
-			- Biết một "Setsuna" khác, Rinne đưa anh ta đến nhà cô với tư cách là một người hầu, hy vọng rằng anh ta chính là người mà cô nhớ. Mặt khác, Setsuna tiếp tục tìm hiểu thêm về Urashima, mong muốn xác định quá khứ đã mất của mình. Anh ấy biết về văn hóa dân gian của hòn đảo, ba gia đình lớn của nó và căn bệnh đặc hữu ngăn cản bất kỳ ai bị ảnh hưởng bước ra ánh sáng ban ngày.<br>
-			- Khi những bí ẩn về những ký ức còn thiếu của mình và chính Urashima mở ra, Setsuna phải nhớ mục đích của mình và hoàn thành nhiệm vụ của mình càng sớm càng tốt. Nhưng, khi chứng kiến vô số rắc rối đang gây khó khăn cho hòn đảo, Setsuna bắt đầu đặt câu hỏi - liệu sự dịch chuyển tạm thời của anh ta chỉ đơn thuần là một nỗ lực để thay đổi số phận của một cô gái duy nhất?
+			- Trên một hòn đảo xa xôi cách xa đất liền tên là Urashima, một người đàn ông dạt vào bờ, không nhớ gì về tên hay quê hương của mình. Tuy nhiên, những gì anh ta nhớ lại là anh ta là một nhà du hành thời gian với một nhiệm vụ: cứu một cô gái nào đó khỏi bị chết. Khi màn đêm buông xuống, anh gặp Rinne Ohara, một cô gái hát một giai điệu khiến anh nhớ đến một cái tên cụ thể — Setsuna — và quyết định sử dụng nó như của riêng mình.
+			<br>- Biết một "Setsuna" khác, Rinne đưa anh ta đến nhà cô với tư cách là một người hầu, hy vọng rằng anh ta chính là người mà cô nhớ. Mặt khác, Setsuna tiếp tục tìm hiểu thêm về Urashima, mong muốn xác định quá khứ đã mất của mình. Anh ấy biết về văn hóa dân gian của hòn đảo, ba gia đình lớn của nó và căn bệnh đặc hữu ngăn cản bất kỳ ai bị ảnh hưởng bước ra ánh sáng ban ngày.
+			<br>- Khi những bí ẩn về những ký ức còn thiếu của mình và chính Urashima mở ra, Setsuna phải nhớ mục đích của mình và hoàn thành nhiệm vụ của mình càng sớm càng tốt. Nhưng, khi chứng kiến vô số rắc rối đang gây khó khăn cho hòn đảo, Setsuna bắt đầu đặt câu hỏi - liệu sự dịch chuyển tạm thời của anh ta chỉ đơn thuần là một nỗ lực để thay đổi số phận của một cô gái duy nhất?
 		`,
 		tag: [
 			'tDrama',
@@ -2059,9 +2104,9 @@ const anime = [
 		aired: '05/07/2015 - 27/09/2015',
 		rating: 'PG-13',
 		synopsis: `
-			- Nếu không phải vì khả năng chiếm lĩnh tâm trí và thể xác của mọi người, Yuu Otosaka sẽ là một học sinh trung học bình thường. Mặc dù nó chỉ kéo dài trong năm giây mỗi lần, nhưng sức mạnh bí ẩn của Yuu đã cho phép anh ta gian lận theo cách của mình để lên đầu lớp và vào một trường trung học danh tiếng, nơi anh ta tiếp tục những hành động không trung thực của mình.<br>
-			- Những trò tai quái của anh ta cuối cùng đã bị chặn lại bởi Nao Tomori - chủ tịch hội học sinh cứng đầu từ Học viện Hoshinoumi - người đã nhìn thấu sự lừa dối của anh ta. Thông qua sự ép buộc, Nao thuyết phục Yuu chuyển đến Hoshinoumi và tham gia hội học sinh. Học viện Hoshinoumi bí mật là một tổ chức được tạo ra cho thanh thiếu niên sở hữu khả năng siêu nhiên — với hội học sinh đóng vai trò như một phương tiện để xác định vị trí của những người lạm dụng quyền lực của họ.<br>
-			- Với việc Yuu miễn cưỡng hỗ trợ các vấn đề của hội đồng, nhóm bắt đầu tìm kiếm và bảo vệ những người sử dụng khả năng mới khỏi bị tổn hại. Tuy nhiên, khi họ điều tra sâu hơn về các khả năng, những phát hiện của họ vướng vào những vấn đề phức tạp hơn nhiều so với những gì họ có thể tưởng tượng.
+			- Nếu không phải vì khả năng chiếm lĩnh tâm trí và thể xác của mọi người, Yuu Otosaka sẽ là một học sinh trung học bình thường. Mặc dù nó chỉ kéo dài trong năm giây mỗi lần, nhưng sức mạnh bí ẩn của Yuu đã cho phép anh ta gian lận theo cách của mình để lên đầu lớp và vào một trường trung học danh tiếng, nơi anh ta tiếp tục những hành động không trung thực của mình.
+			<br>- Những trò tai quái của anh ta cuối cùng đã bị chặn lại bởi Nao Tomori - chủ tịch hội học sinh cứng đầu từ Học viện Hoshinoumi - người đã nhìn thấu sự lừa dối của anh ta. Thông qua sự ép buộc, Nao thuyết phục Yuu chuyển đến Hoshinoumi và tham gia hội học sinh. Học viện Hoshinoumi bí mật là một tổ chức được tạo ra cho thanh thiếu niên sở hữu khả năng siêu nhiên — với hội học sinh đóng vai trò như một phương tiện để xác định vị trí của những người lạm dụng quyền lực của họ.
+			<br>- Với việc Yuu miễn cưỡng hỗ trợ các vấn đề của hội đồng, nhóm bắt đầu tìm kiếm và bảo vệ những người sử dụng khả năng mới khỏi bị tổn hại. Tuy nhiên, khi họ điều tra sâu hơn về các khả năng, những phát hiện của họ vướng vào những vấn đề phức tạp hơn nhiều so với những gì họ có thể tưởng tượng.
 		`,
 		tag: [
 			'tDrama',
@@ -2222,8 +2267,8 @@ const anime = [
 		aired: '06/01/2021 - 24/03/2021',
 		rating: 'R-17+',
 		synopsis: `
-			- Sau bài phát biểu nghiêm khắc nhưng hấp dẫn của Otto Suwen, Subaru Natsuki trịnh trọng thề rằng anh ấy sẽ vượt qua thành công dòng thời gian này và cứu tất cả những người anh ấy có thể trên đường đi. Bước đầu tiên để đạt được mục tiêu này là giúp Emilia vượt qua quá khứ của mình; tuy nhiên, điều đó nói dễ hơn làm. Cảm giác như thể mình đã bị mọi người xung quanh nói dối, sẽ rất khó để Emilia tin tưởng bất cứ ai, kể cả Subaru, người tự xưng là hiệp sĩ của cô.<br>
-			- Re: Zero kara Hajimeru Isekai Seikatsu Phần 2 Phần 2 trình bày đỉnh cao của những trải nghiệm của Subaru với Thánh địa và con người của nó, cùng với việc anh ấy không sẵn sàng từ bỏ hy vọng cứu họ.
+			- Sau bài phát biểu nghiêm khắc nhưng hấp dẫn của Otto Suwen, Subaru Natsuki trịnh trọng thề rằng anh ấy sẽ vượt qua thành công dòng thời gian này và cứu tất cả những người anh ấy có thể trên đường đi. Bước đầu tiên để đạt được mục tiêu này là giúp Emilia vượt qua quá khứ của mình; tuy nhiên, điều đó nói dễ hơn làm. Cảm giác như thể mình đã bị mọi người xung quanh nói dối, sẽ rất khó để Emilia tin tưởng bất cứ ai, kể cả Subaru, người tự xưng là hiệp sĩ của cô.
+			<br>- Re: Zero kara Hajimeru Isekai Seikatsu Phần 2 Phần 2 trình bày đỉnh cao của những trải nghiệm của Subaru với Thánh địa và con người của nó, cùng với việc anh ấy không sẵn sàng từ bỏ hy vọng cứu họ.
 		`,
 		tag: [
 			'tDrama',
@@ -2378,9 +2423,9 @@ const anime = [
 		aired: '08/07/2020 - 30/09/2020',
 		rating: 'R-17+',
 		synopsis: `
-			- Một cuộc hội ngộ được cho là đánh dấu sự xuất hiện của thời kỳ yên bình nhanh chóng bị phá vỡ khi Subaru Natsuki và Emilia trở về làng Irlam. Chứng kiến sự tàn phá do những tai họa được gọi là Tổng giám mục Sin để lại, Subaru chìm vào vực sâu của sự tuyệt vọng khi khả năng làm lại của anh ta tỏ ra vô ích.<br>
-			- Khi cả nhóm tìm đường đến Thánh địa để tìm kiếm câu trả lời, Subaru có một cuộc chạm trán bất ngờ với Phù thủy tham lam — Echidna. Theo nhịp điệu chưa được thuần hóa của cô, anh buộc phải lao vào vòng xoáy của quá khứ và tương lai. Đồng thời, một số mối đe dọa bí ẩn đã đặt mục tiêu của họ vào Thánh địa, báo trước một số phận khủng khiếp cho những người bất hạnh bị mắc kẹt bên trong.<br>
-			- Những hợp đồng vĩnh cửu, những tội lỗi trong quá khứ và tình yêu không được đáp lại sẽ đụng độ và nhấn chìm thành một dòng sông máu trong mùa thứ hai của Re: Zero kara Hajimeru Isekai Seikatsu. Bị đẩy đến bờ vực vô vọng, quyết tâm cứu người thân của Subaru sẽ kéo dài bao lâu?
+			- Một cuộc hội ngộ được cho là đánh dấu sự xuất hiện của thời kỳ yên bình nhanh chóng bị phá vỡ khi Subaru Natsuki và Emilia trở về làng Irlam. Chứng kiến sự tàn phá do những tai họa được gọi là Tổng giám mục Sin để lại, Subaru chìm vào vực sâu của sự tuyệt vọng khi khả năng làm lại của anh ta tỏ ra vô ích.
+			<br>- Khi cả nhóm tìm đường đến Thánh địa để tìm kiếm câu trả lời, Subaru có một cuộc chạm trán bất ngờ với Phù thủy tham lam — Echidna. Theo nhịp điệu chưa được thuần hóa của cô, anh buộc phải lao vào vòng xoáy của quá khứ và tương lai. Đồng thời, một số mối đe dọa bí ẩn đã đặt mục tiêu của họ vào Thánh địa, báo trước một số phận khủng khiếp cho những người bất hạnh bị mắc kẹt bên trong.
+			<br>- Những hợp đồng vĩnh cửu, những tội lỗi trong quá khứ và tình yêu không được đáp lại sẽ đụng độ và nhấn chìm thành một dòng sông máu trong mùa thứ hai của Re: Zero kara Hajimeru Isekai Seikatsu. Bị đẩy đến bờ vực vô vọng, quyết tâm cứu người thân của Subaru sẽ kéo dài bao lâu?
 		`,
 		tag: [
 			'tDrama',
@@ -2543,8 +2588,8 @@ const anime = [
 		aired: '08/11/2019',
 		rating: 'PG-13',
 		synopsis: `
-			- Được bao phủ bởi băng tuyết, Rừng Elior là nơi sinh sống của những con thú ma thuật nguy hiểm và 50 yêu tinh bị đóng băng trong băng. Một ngày nọ, tinh thần tuyệt vời Puck giúp một cô gái trẻ thoát ra khỏi nhà tù băng của mình. Tên cô ấy là Emilia, một nửa yêu tinh được sinh ra với mái tóc bạc, đôi tai dài và đôi mắt thạch anh tím — những đặc điểm giống với Phù thủy độc ác đã phá hủy một nửa thế giới từ lâu.<br>
-			- Bị xã hội xa lánh vì ngoại hình, Emilia sống trong rừng với Puck là người bạn đồng hành và gia đình duy nhất của cô. Gánh nặng với một tội lỗi hủy diệt mà cô không nhớ đã phạm phải, cô dành cả ngày để cố gắng tìm cách giúp đỡ những người thân bị đóng băng của mình. Nhưng khi tinh thần vĩ đại Melakuera, Trọng tài của thế giới, tìm thấy Emilia, quyền sống sót của cô bị nghi ngờ. Liệu mối liên kết của băng mà cô ấy hình thành với Puck có chứng tỏ là sợi chỉ ấm áp bất chấp số phận?
+			- Được bao phủ bởi băng tuyết, Rừng Elior là nơi sinh sống của những con thú ma thuật nguy hiểm và 50 yêu tinh bị đóng băng trong băng. Một ngày nọ, tinh thần tuyệt vời Puck giúp một cô gái trẻ thoát ra khỏi nhà tù băng của mình. Tên cô ấy là Emilia, một nửa yêu tinh được sinh ra với mái tóc bạc, đôi tai dài và đôi mắt thạch anh tím — những đặc điểm giống với Phù thủy độc ác đã phá hủy một nửa thế giới từ lâu.
+			<br>- Bị xã hội xa lánh vì ngoại hình, Emilia sống trong rừng với Puck là người bạn đồng hành và gia đình duy nhất của cô. Gánh nặng với một tội lỗi hủy diệt mà cô không nhớ đã phạm phải, cô dành cả ngày để cố gắng tìm cách giúp đỡ những người thân bị đóng băng của mình. Nhưng khi tinh thần vĩ đại Melakuera, Trọng tài của thế giới, tìm thấy Emilia, quyền sống sót của cô bị nghi ngờ. Liệu mối liên kết của băng mà cô ấy hình thành với Puck có chứng tỏ là sợi chỉ ấm áp bất chấp số phận?
 		`,
 		tag: [
 			'tDrama',
@@ -2609,8 +2654,8 @@ const anime = [
 		aired: '06/10/2018',
 		rating: 'PG-13',
 		synopsis: `
-			- Subaru Natsuki cuối cùng cũng được thở phào, nhưng anh ấy không lãng phí thời gian khi chuẩn bị cho một cuộc hẹn hò với Emilia yêu dấu của mình. Anh ta trinh sát ngôi làng gần đó để tìm đúng địa điểm hẹn hò, và với sự giúp đỡ của những đứa trẻ trong làng, anh ta tìm thấy một địa điểm tuyệt vời. Cùng với đó, anh ấy đã chuẩn bị tốt cho buổi hẹn hò của mình!<br>
-			- Thật không may cho Subaru, thời tiết lạnh giá đột ngột quét qua biệt thự của Roswaal vào ngày quan trọng của anh ấy, khiến anh ấy không còn lựa chọn nào khác ngoài việc hoãn cuộc hẹn hò. Qua đêm, nó càng trở nên lạnh hơn và không thể chịu đựng được. Subaru phải đi đến tận cùng của điều này bởi vì, với tốc độ này, cuộc hẹn hò của anh ấy sẽ là điều anh ấy ít lo lắng nhất.
+			- Subaru Natsuki cuối cùng cũng được thở phào, nhưng anh ấy không lãng phí thời gian khi chuẩn bị cho một cuộc hẹn hò với Emilia yêu dấu của mình. Anh ta trinh sát ngôi làng gần đó để tìm đúng địa điểm hẹn hò, và với sự giúp đỡ của những đứa trẻ trong làng, anh ta tìm thấy một địa điểm tuyệt vời. Cùng với đó, anh ấy đã chuẩn bị tốt cho buổi hẹn hò của mình!
+			<br>- Thật không may cho Subaru, thời tiết lạnh giá đột ngột quét qua biệt thự của Roswaal vào ngày quan trọng của anh ấy, khiến anh ấy không còn lựa chọn nào khác ngoài việc hoãn cuộc hẹn hò. Qua đêm, nó càng trở nên lạnh hơn và không thể chịu đựng được. Subaru phải đi đến tận cùng của điều này bởi vì, với tốc độ này, cuộc hẹn hò của anh ấy sẽ là điều anh ấy ít lo lắng nhất.
 		`,
 		tag: [
 			'tFantasy',
@@ -2686,8 +2731,8 @@ const anime = [
 		aired: '04/04/2016 - 19/09/2016',
 		rating: 'R-17+',
 		synopsis: `
-			- Khi Subaru Natsuki rời khỏi cửa hàng tiện lợi, điều cuối cùng anh mong đợi là bị cuốn vào cuộc sống hàng ngày và rơi vào một thế giới giả tưởng. Mọi thứ có vẻ không tốt cho thiếu niên hoang mang; Tuy nhiên, không lâu sau khi đến, anh ta bị một số tên côn đồ tấn công. Chỉ được trang bị một túi hàng tạp hóa và một chiếc điện thoại di động vô dụng, anh ta nhanh chóng bị đánh đến tủy. May mắn thay, một người đẹp bí ẩn tên là Satella, trong cuộc truy đuổi nóng bỏng sau khi kẻ đã đánh cắp phù hiệu của cô, tình cờ gặp Subaru và cứu anh ta. Để cảm ơn cô gái trung thực và tốt bụng, Subaru đề nghị giúp đỡ trong cuộc tìm kiếm của cô, và sau đêm đó, anh thậm chí còn tìm thấy nơi ở của thứ mà cô tìm kiếm. Nhưng họ không hề hay biết, một thế lực đen tối hơn nhiều rình rập cặp đôi từ trong bóng tối, và chỉ vài phút sau khi xác định được phù hiệu, Subaru và Satella đã bị sát hại dã man.<br>
-			- Tuy nhiên, Subaru ngay lập tức thức tỉnh lại với một cảnh tượng quen thuộc - đối mặt với cùng một nhóm côn đồ, gặp lại Satella - bí ẩn ngày càng sâu sắc khi lịch sử lặp lại một cách khó hiểu.
+			- Khi Subaru Natsuki rời khỏi cửa hàng tiện lợi, điều cuối cùng anh mong đợi là bị cuốn vào cuộc sống hàng ngày và rơi vào một thế giới giả tưởng. Mọi thứ có vẻ không tốt cho thiếu niên hoang mang; Tuy nhiên, không lâu sau khi đến, anh ta bị một số tên côn đồ tấn công. Chỉ được trang bị một túi hàng tạp hóa và một chiếc điện thoại di động vô dụng, anh ta nhanh chóng bị đánh đến tủy. May mắn thay, một người đẹp bí ẩn tên là Satella, trong cuộc truy đuổi nóng bỏng sau khi kẻ đã đánh cắp phù hiệu của cô, tình cờ gặp Subaru và cứu anh ta. Để cảm ơn cô gái trung thực và tốt bụng, Subaru đề nghị giúp đỡ trong cuộc tìm kiếm của cô, và sau đêm đó, anh thậm chí còn tìm thấy nơi ở của thứ mà cô tìm kiếm. Nhưng họ không hề hay biết, một thế lực đen tối hơn nhiều rình rập cặp đôi từ trong bóng tối, và chỉ vài phút sau khi xác định được phù hiệu, Subaru và Satella đã bị sát hại dã man.
+			<br>- Tuy nhiên, Subaru ngay lập tức thức tỉnh lại với một cảnh tượng quen thuộc - đối mặt với cùng một nhóm côn đồ, gặp lại Satella - bí ẩn ngày càng sâu sắc khi lịch sử lặp lại một cách khó hiểu.
 		`,
 		tag: [
 			'tDrama',
@@ -3088,9 +3133,9 @@ const anime = [
 		aired: '05/04/2017 - 21/06/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Học viện cộng sinh tư nhân Aichi ban đầu là một trường trung học dành cho các nữ sinh cao cấp. Khi nó trở thành đồng sáng tác, các cô gái, vì sợ hãi, đã yêu cầu được phép mang vũ khí đến trường. Khi điều đó được thực thi, một tổ chức giống như quân đoàn cảnh giác gồm năm thành viên được gọi là "Năm thanh kiếm tối cao" cũng được thành lập.<br>
-			- Sau nhiều thế hệ, năm thanh kiếm cuối cùng đã trở thành một nhóm sửa chữa những học sinh có vấn đề, và học viện bắt đầu chủ động chấp nhận những học sinh như vậy để sửa chúng.<br>
-			- Nomura Fudou đã được gửi đến trường này sau khi là một phần của một cuộc ẩu đả lớn. Anh ấy sẽ làm gì khi những lựa chọn duy nhất mà anh ấy có sau khi đăng ký là bị đuổi khỏi trường đó hoặc bị sửa chữa theo cách của những học sinh nam còn lại ở đó... bằng cách bị buộc phải ăn mặc và hành động như một cô gái!
+			- Học viện cộng sinh tư nhân Aichi ban đầu là một trường trung học dành cho các nữ sinh cao cấp. Khi nó trở thành đồng sáng tác, các cô gái, vì sợ hãi, đã yêu cầu được phép mang vũ khí đến trường. Khi điều đó được thực thi, một tổ chức giống như quân đoàn cảnh giác gồm năm thành viên được gọi là "Năm thanh kiếm tối cao" cũng được thành lập.
+			<br>- Sau nhiều thế hệ, năm thanh kiếm cuối cùng đã trở thành một nhóm sửa chữa những học sinh có vấn đề, và học viện bắt đầu chủ động chấp nhận những học sinh như vậy để sửa chúng.
+			<br>- Nomura Fudou đã được gửi đến trường này sau khi là một phần của một cuộc ẩu đả lớn. Anh ấy sẽ làm gì khi những lựa chọn duy nhất mà anh ấy có sau khi đăng ký là bị đuổi khỏi trường đó hoặc bị sửa chữa theo cách của những học sinh nam còn lại ở đó... bằng cách bị buộc phải ăn mặc và hành động như một cô gái!
 		`,
 		tag: [
 			'tAction',
@@ -3218,9 +3263,9 @@ const anime = [
 		aired: '19/07/2019',
 		rating: 'PG-13',
 		synopsis: `
-			- Tokyo hiện đang trải qua những cơn mưa rào dường như phá vỡ nhịp sống thông thường của tất cả mọi người sống ở đó đến không có hồi kết. Giữa trận mưa như vĩnh cửu này, học sinh trung học bỏ trốn Hodaka Morishima, người đang phải vật lộn để tự hỗ trợ tài chính — kết thúc với một công việc tại một nhà xuất bản thời gian nhỏ. Đồng thời, Hina Amano mồ côi cũng cố gắng tìm việc làm để duy trì bản thân và em trai.<br>
-			- Cả hai số phận đan xen vào nhau khi Hodaka cố gắng giải cứu Hina khỏi những người đàn ông mờ ám, quyết định cùng nhau chạy trốn. Sau đó, Hodaka phát hiện ra rằng Hina có một sức mạnh kỳ lạ nhưng đáng kinh ngạc: khả năng gọi mặt trời bất cứ khi nào cô cầu nguyện cho nó. Với thời tiết bất thường của Tokyo, Hodaka nhận thấy tiềm năng của khả năng này. Anh ấy gợi ý rằng Hina nên trở thành một "cô gái ánh nắng mặt trời" - một người sẽ dọn sạch bầu trời cho mọi người khi họ cần nhất.<br>
-			- Mọi thứ bắt đầu tìm kiếm chúng lúc đầu. Tuy nhiên, người ta thường biết rằng quyền lực luôn đi kèm với một cái giá quá đắt...
+			- Tokyo hiện đang trải qua những cơn mưa rào dường như phá vỡ nhịp sống thông thường của tất cả mọi người sống ở đó đến không có hồi kết. Giữa trận mưa như vĩnh cửu này, học sinh trung học bỏ trốn Hodaka Morishima, người đang phải vật lộn để tự hỗ trợ tài chính — kết thúc với một công việc tại một nhà xuất bản thời gian nhỏ. Đồng thời, Hina Amano mồ côi cũng cố gắng tìm việc làm để duy trì bản thân và em trai.
+			<br>- Cả hai số phận đan xen vào nhau khi Hodaka cố gắng giải cứu Hina khỏi những người đàn ông mờ ám, quyết định cùng nhau chạy trốn. Sau đó, Hodaka phát hiện ra rằng Hina có một sức mạnh kỳ lạ nhưng đáng kinh ngạc: khả năng gọi mặt trời bất cứ khi nào cô cầu nguyện cho nó. Với thời tiết bất thường của Tokyo, Hodaka nhận thấy tiềm năng của khả năng này. Anh ấy gợi ý rằng Hina nên trở thành một "cô gái ánh nắng mặt trời" - một người sẽ dọn sạch bầu trời cho mọi người khi họ cần nhất.
+			<br>- Mọi thứ bắt đầu tìm kiếm chúng lúc đầu. Tuy nhiên, người ta thường biết rằng quyền lực luôn đi kèm với một cái giá quá đắt...
 		`,
 		tag: [
 			'tDrama',
@@ -3320,9 +3365,9 @@ const anime = [
 		aired: '10/01/2023 - ??/??/2023',
 		rating: 'R+',
 		synopsis: `
-			- Matsuri Kazamaki và Suzu Kanade là những người bạn thời thơ ấu, gắn bó với nhau bởi khả năng chung của họ để nhìn thấy ayakashi - yêu quái để tìm kiếm một sinh lực để nuốt chửng. Tuy nhiên, ở trường trung học, mối quan hệ của họ xấu đi. Khi tình cảm một chiều của Suzu ngày càng tăng, sự khác biệt trong quan điểm ayakashi của họ cũng vậy: Matsuri coi tất cả ayakashi là mối đe dọa đối với bạn mình, trong khi Suzu là một phương tiện ayakashi - một người toát ra một lượng sinh lực đáng kể so với con người bình thường - và yêu tất cả họ bất chấp rủi ro.<br>
-			- Khi cả hai tình cờ gặp một con mèo trắng biết nói tên là Shirogane, họ không biết rằng đó là một ayakashi bốn trăm tuổi được gọi là "Vua của Ayakashi". Anh ta muốn đạt được nhiều sức mạnh hơn nữa bằng cách nuốt chửng Suzu, nhưng khi Matsuri lao vào để cố gắng cứu cô ấy bằng cách phong ấn sức mạnh của Shirogane, ayakashi sử dụng jutsu để biến anh ta thành một cô gái!<br>
-			- Matsuri thề sẽ bảo vệ Suzu khỏi bị tổn hại thêm với tư cách là bạn thân nhất của cô, nhưng cậu phải học cách hành động như một cô gái cho đến khi ông của cậu - một ninja trừ tà thuật gió nổi tiếng - có thể hoàn tác jutsu. Trong khi đó, Suzu phải giải quyết tình cảm lãng mạn của mình dành cho Matsuri khi anh không còn là con trai nữa. Nhưng khi Matsuri lấy nhà vua làm thú cưng của mình, tương lai của hai người bạn dường như không chắc chắn.
+			- Matsuri Kazamaki và Suzu Kanade là những người bạn thời thơ ấu, gắn bó với nhau bởi khả năng chung của họ để nhìn thấy ayakashi - yêu quái để tìm kiếm một sinh lực để nuốt chửng. Tuy nhiên, ở trường trung học, mối quan hệ của họ xấu đi. Khi tình cảm một chiều của Suzu ngày càng tăng, sự khác biệt trong quan điểm ayakashi của họ cũng vậy: Matsuri coi tất cả ayakashi là mối đe dọa đối với bạn mình, trong khi Suzu là một phương tiện ayakashi - một người toát ra một lượng sinh lực đáng kể so với con người bình thường - và yêu tất cả họ bất chấp rủi ro.
+			<br>- Khi cả hai tình cờ gặp một con mèo trắng biết nói tên là Shirogane, họ không biết rằng đó là một ayakashi bốn trăm tuổi được gọi là "Vua của Ayakashi". Anh ta muốn đạt được nhiều sức mạnh hơn nữa bằng cách nuốt chửng Suzu, nhưng khi Matsuri lao vào để cố gắng cứu cô ấy bằng cách phong ấn sức mạnh của Shirogane, ayakashi sử dụng jutsu để biến anh ta thành một cô gái!
+			<br>- Matsuri thề sẽ bảo vệ Suzu khỏi bị tổn hại thêm với tư cách là bạn thân nhất của cô, nhưng cậu phải học cách hành động như một cô gái cho đến khi ông của cậu - một ninja trừ tà thuật gió nổi tiếng - có thể hoàn tác jutsu. Trong khi đó, Suzu phải giải quyết tình cảm lãng mạn của mình dành cho Matsuri khi anh không còn là con trai nữa. Nhưng khi Matsuri lấy nhà vua làm thú cưng của mình, tương lai của hai người bạn dường như không chắc chắn.
 		`,
 		tag: [
 			'tAction',
@@ -3416,8 +3461,8 @@ const anime = [
 		aired: '10/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Junta Shiraishi là một học sinh trung học với một mục tiêu đơn giản - đó là tận hưởng tuổi trẻ của mình. Tuy nhiên, việc đạt được mục tiêu này không đơn giản như vậy vì Shiraishi thực sự vô hình đối với các đồng nghiệp của mình; ngay cả giáo viên của anh ấy thường xuyên không nhận thấy sự hiện diện của anh ấy. Trên thực tế, có một tin đồn lan truyền rằng bất cứ ai quản lý để phát hiện ra anh ta sẽ nhận được may mắn.<br>
-			- Nhưng có một người nhận thấy sự hiện diện của Shiraishi mà không thất bại. Ngồi ngay bên cạnh, Nagisa Kubo quyết tâm không để anh lặng lẽ mờ dần vào nền. Thật không may cho anh ta, điều này có nghĩa là Shiraishi thấy mình trong một số tình huống đặc biệt, tất cả đều do Kubo dàn dựng. Mặc dù vậy, những trò hề vui tươi của Kubo có thể chỉ là chất xúc tác cần thiết để khơi dậy tuổi trẻ ly kỳ mà Shiraishi khao khát.
+			- Junta Shiraishi là một học sinh trung học với một mục tiêu đơn giản - đó là tận hưởng tuổi trẻ của mình. Tuy nhiên, việc đạt được mục tiêu này không đơn giản như vậy vì Shiraishi thực sự vô hình đối với các đồng nghiệp của mình; ngay cả giáo viên của anh ấy thường xuyên không nhận thấy sự hiện diện của anh ấy. Trên thực tế, có một tin đồn lan truyền rằng bất cứ ai quản lý để phát hiện ra anh ta sẽ nhận được may mắn.
+			<br>- Nhưng có một người nhận thấy sự hiện diện của Shiraishi mà không thất bại. Ngồi ngay bên cạnh, Nagisa Kubo quyết tâm không để anh lặng lẽ mờ dần vào nền. Thật không may cho anh ta, điều này có nghĩa là Shiraishi thấy mình trong một số tình huống đặc biệt, tất cả đều do Kubo dàn dựng. Mặc dù vậy, những trò hề vui tươi của Kubo có thể chỉ là chất xúc tác cần thiết để khơi dậy tuổi trẻ ly kỳ mà Shiraishi khao khát.
 		`,
 		tag: [
 			'tComedy',
@@ -3491,8 +3536,8 @@ const anime = [
 		aired: '11/01/2023 - 29/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Cùng với ba anh hùng khác, Mukouda Tsuyoshi, 27 tuổi, được đưa vào một thế giới giả tưởng để giải cứu một vương quốc khỏi mối đe dọa bí ẩn. Tuy nhiên, ngay sau đó rõ ràng rằng Tsuyoshi đã bị kéo vào nghi thức triệu hồi một cách tình cờ. Kỹ năng duy nhất của anh ấy hóa ra là "Thực đơn thực phẩm", cho phép anh ấy mở một giao diện nơi anh ấy có thể mua và lấy các mặt hàng siêu thị liên quan đến thực phẩm từ Nhật Bản hiện đại.<br>
-			- Bị đuổi ra khỏi cung điện một cách bất thường, Tsuyoshi tự mình lên đường vào thế giới mới của mình. Tuy nhiên, khả năng tạo ra những món ăn ngon mà thế giới này chưa biết đã sớm mang lại cổ tức, thậm chí còn thu hút được con sói huyền thoại Fenrir. Fenrir bị thức ăn thu hút đến nỗi sinh vật này ngay lập tức lập hợp đồng với Tsuyoshi, trở nên quen thuộc với cậu. Tiếp theo là sinh vật thần thoại kỳ lạ này, Tsuyoshi đảm nhận công việc là một thương gia và nhà thám hiểm, đi du lịch và nấu những bữa ăn hấp dẫn mà không bao giờ làm kinh ngạc cư dân trên thế giới này.
+			- Cùng với ba anh hùng khác, Mukouda Tsuyoshi, 27 tuổi, được đưa vào một thế giới giả tưởng để giải cứu một vương quốc khỏi mối đe dọa bí ẩn. Tuy nhiên, ngay sau đó rõ ràng rằng Tsuyoshi đã bị kéo vào nghi thức triệu hồi một cách tình cờ. Kỹ năng duy nhất của anh ấy hóa ra là "Thực đơn thực phẩm", cho phép anh ấy mở một giao diện nơi anh ấy có thể mua và lấy các mặt hàng siêu thị liên quan đến thực phẩm từ Nhật Bản hiện đại.
+			<br>- Bị đuổi ra khỏi cung điện một cách bất thường, Tsuyoshi tự mình lên đường vào thế giới mới của mình. Tuy nhiên, khả năng tạo ra những món ăn ngon mà thế giới này chưa biết đã sớm mang lại cổ tức, thậm chí còn thu hút được con sói huyền thoại Fenrir. Fenrir bị thức ăn thu hút đến nỗi sinh vật này ngay lập tức lập hợp đồng với Tsuyoshi, trở nên quen thuộc với cậu. Tiếp theo là sinh vật thần thoại kỳ lạ này, Tsuyoshi đảm nhận công việc là một thương gia và nhà thám hiểm, đi du lịch và nấu những bữa ăn hấp dẫn mà không bao giờ làm kinh ngạc cư dân trên thế giới này.
 		`,
 		tag: [
 			'tAdventure',
@@ -3539,9 +3584,9 @@ const anime = [
 		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Saenome được giao nhiệm vụ phong ấn các linh hồn sở hữu đồ vật và gây ra mối đe dọa cho xã hội. Được gọi là tsukumogami, những linh hồn này thường không bạo lực và saenome thường phong ấn chúng sau một cuộc trao đổi bằng lời nói đơn giản.<br>
-			- Bị tổn thương bởi một cuộc chạm trán chết người trước đó với một linh hồn độc ác, Hyouma Kunato từ chối sử dụng các phương pháp hòa bình và tham gia vào các cuộc đối đầu vật lý với tất cả tsukumogami băng qua đường với anh ta. Cho rằng hành vi này là không thể chấp nhận được đối với một thủ lĩnh gia tộc tương lai, ông nội của Hyouma, Zouhei, đề xuất rằng anh ta bắt đầu sống với Botan Nagatsuki, một phụ nữ trẻ có gia đình bao gồm sáu tsukumogami - kẻo anh ta bị trục xuất.<br>
-			- Quyết tâm truy tìm tinh thần đã lấy đi mọi thứ từ anh ta, Hyouma miễn cưỡng chấp nhận lời cầu hôn của Zouhei. Khi các nhóm linh hồn ma quỷ vô danh bắt đầu gây nguy hiểm cho sự cân bằng giữa các thế giới, chàng trai trẻ phải có được sự tin tưởng của Botan và vượt qua sự căm ghét của mình đối với gia đình bí ẩn của cô.
+			- Saenome được giao nhiệm vụ phong ấn các linh hồn sở hữu đồ vật và gây ra mối đe dọa cho xã hội. Được gọi là tsukumogami, những linh hồn này thường không bạo lực và saenome thường phong ấn chúng sau một cuộc trao đổi bằng lời nói đơn giản.
+			<br>- Bị tổn thương bởi một cuộc chạm trán chết người trước đó với một linh hồn độc ác, Hyouma Kunato từ chối sử dụng các phương pháp hòa bình và tham gia vào các cuộc đối đầu vật lý với tất cả tsukumogami băng qua đường với anh ta. Cho rằng hành vi này là không thể chấp nhận được đối với một thủ lĩnh gia tộc tương lai, ông nội của Hyouma, Zouhei, đề xuất rằng anh ta bắt đầu sống với Botan Nagatsuki, một phụ nữ trẻ có gia đình bao gồm sáu tsukumogami - kẻo anh ta bị trục xuất.
+			<br>- Quyết tâm truy tìm tinh thần đã lấy đi mọi thứ từ anh ta, Hyouma miễn cưỡng chấp nhận lời cầu hôn của Zouhei. Khi các nhóm linh hồn ma quỷ vô danh bắt đầu gây nguy hiểm cho sự cân bằng giữa các thế giới, chàng trai trẻ phải có được sự tin tưởng của Botan và vượt qua sự căm ghét của mình đối với gia đình bí ẩn của cô.
 		`,
 		tag: [
 			'tAction',
@@ -3652,9 +3697,9 @@ const anime = [
 		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Vị vua anh hùng Inglis - người đã cống hiến cả cuộc đời mình để xây dựng đất nước của mình - hiện đang tiến gần đến cái chết. Để trao cho anh ta những thành tích danh dự của mình, nữ thần Alistia xuất hiện và ban cho anh ta một điều ước. Chưa bao giờ có thể làm chủ lưỡi kiếm, Inglis yêu cầu được tái sinh để làm như vậy.<br>
-			- Trong nháy mắt, Inglis thấy mình được sinh ra trong tương lai xa là con gái của gia đình quý tộc Eucus. Sáu năm sau, Inglis được phát hiện là Runeless — không có khả năng sử dụng các rune cho phép sử dụng phép thuật trong thời đại này. Do đó, cô không đủ điều kiện để trở thành một hiệp sĩ. Tuy nhiên, điều này rất phù hợp với kế hoạch của Inglis: thay vào đó, cô quyết định trở thành người hầu cận cho anh họ của mình, Rafinha Bilford, cho phép Inglis tập trung vào việc vượt qua giới hạn của mình.<br>
-			- Đối với Inglis, những thách thức mà thế giới quen thuộc nhưng khác biệt này mang lại thay vào đó là cơ hội để cô ấy trau dồi kỹ năng của mình — và có thể trở thành một người hầu phi thường trong quá trình này.
+			- Vị vua anh hùng Inglis - người đã cống hiến cả cuộc đời mình để xây dựng đất nước của mình - hiện đang tiến gần đến cái chết. Để trao cho anh ta những thành tích danh dự của mình, nữ thần Alistia xuất hiện và ban cho anh ta một điều ước. Chưa bao giờ có thể làm chủ lưỡi kiếm, Inglis yêu cầu được tái sinh để làm như vậy.
+			<br>- Trong nháy mắt, Inglis thấy mình được sinh ra trong tương lai xa là con gái của gia đình quý tộc Eucus. Sáu năm sau, Inglis được phát hiện là Runeless — không có khả năng sử dụng các rune cho phép sử dụng phép thuật trong thời đại này. Do đó, cô không đủ điều kiện để trở thành một hiệp sĩ. Tuy nhiên, điều này rất phù hợp với kế hoạch của Inglis: thay vào đó, cô quyết định trở thành người hầu cận cho anh họ của mình, Rafinha Bilford, cho phép Inglis tập trung vào việc vượt qua giới hạn của mình.
+			<br>- Đối với Inglis, những thách thức mà thế giới quen thuộc nhưng khác biệt này mang lại thay vào đó là cơ hội để cô ấy trau dồi kỹ năng của mình — và có thể trở thành một người hầu phi thường trong quá trình này.
 		`,
 		tag: [
 			'tAction',
@@ -3704,8 +3749,8 @@ const anime = [
 		aired: '17/09/2016',
 		rating: 'PG-13',
 		synopsis: `
-			- Là một thanh niên hoang dã, học sinh tiểu học Shouya Ishida đã tìm cách đánh bại sự nhàm chán theo những cách tàn nhẫn nhất. Khi Shouko Nishimiya khiếm thính chuyển vào lớp học của mình, Shouya và những người còn lại trong lớp đã bắt nạt cô một cách thiếu suy nghĩ để giải trí. Tuy nhiên, khi mẹ cô thông báo cho nhà trường, anh ta bị chỉ ra và đổ lỗi cho tất cả những gì đã làm với cô. Với việc Shouko chuyển ra khỏi trường, Shouya bị bỏ lại dưới sự thương xót của các bạn cùng lớp. Anh ta bị tẩy chay một cách vô tâm trong suốt trường tiểu học và trung học cơ sở, trong khi các giáo viên nhắm mắt làm ngơ.<br>
-			- Bây giờ là năm thứ ba trung học, Shouya vẫn bị cản trở bởi những hành vi sai trái của mình khi còn là một cậu bé. Chân thành hối hận về những hành động trong quá khứ của mình, anh bắt đầu một cuộc hành trình cứu chuộc: gặp Shouko một lần nữa và sửa đổi. Koe no Katachi kể câu chuyện cảm động về cuộc hội ngộ của Shooya với Shouko và những nỗ lực trung thực của anh ấy để chuộc lỗi, tất cả trong khi liên tục bị ám ảnh bởi những cái bóng trong quá khứ của anh ấy.
+			- Là một thanh niên hoang dã, học sinh tiểu học Shouya Ishida đã tìm cách đánh bại sự nhàm chán theo những cách tàn nhẫn nhất. Khi Shouko Nishimiya khiếm thính chuyển vào lớp học của mình, Shouya và những người còn lại trong lớp đã bắt nạt cô một cách thiếu suy nghĩ để giải trí. Tuy nhiên, khi mẹ cô thông báo cho nhà trường, anh ta bị chỉ ra và đổ lỗi cho tất cả những gì đã làm với cô. Với việc Shouko chuyển ra khỏi trường, Shouya bị bỏ lại dưới sự thương xót của các bạn cùng lớp. Anh ta bị tẩy chay một cách vô tâm trong suốt trường tiểu học và trung học cơ sở, trong khi các giáo viên nhắm mắt làm ngơ.
+			<br>- Bây giờ là năm thứ ba trung học, Shouya vẫn bị cản trở bởi những hành vi sai trái của mình khi còn là một cậu bé. Chân thành hối hận về những hành động trong quá khứ của mình, anh bắt đầu một cuộc hành trình cứu chuộc: gặp Shouko một lần nữa và sửa đổi. Koe no Katachi kể câu chuyện cảm động về cuộc hội ngộ của Shooya với Shouko và những nỗ lực trung thực của anh ấy để chuộc lỗi, tất cả trong khi liên tục bị ám ảnh bởi những cái bóng trong quá khứ của anh ấy.
 		`,
 		tag: [
 			'tRomance',
@@ -3805,8 +3850,8 @@ const anime = [
 		aired: '03/03/2007',
 		rating: 'PG-13',
 		synopsis: `
-			- Điều gì xảy ra khi hai người yêu nhau nhưng không có ý định ở bên nhau? Takaki Toono và Akari Shinohara là bạn thời thơ ấu, nhưng hoàn cảnh ngoài tầm kiểm soát của họ đã xé nát họ. Họ hứa sẽ giữ liên lạc, và mặc dù sự tiến triển của thời gian mở rộng khoảng cách giữa họ, chuỗi ký ức vẫn luôn hiện hữu.<br>
-			- Byousoku 5 Centimeter là một bộ phim tình cảm lãng mạn tập trung vào thực tế trần tục và khắc nghiệt của các mối quan hệ đường dài. Bị mắc kẹt trong quá khứ và không thể tạo ra bất kỳ ký ức mới nào, Takaki và Akari bám lấy hy vọng được gặp lại nhau. Họ sống cuộc sống hàng ngày của mình một cách nửa vời, cả hai đều làm tổn thương bản thân và những người xung quanh.
+			- Điều gì xảy ra khi hai người yêu nhau nhưng không có ý định ở bên nhau? Takaki Toono và Akari Shinohara là bạn thời thơ ấu, nhưng hoàn cảnh ngoài tầm kiểm soát của họ đã xé nát họ. Họ hứa sẽ giữ liên lạc, và mặc dù sự tiến triển của thời gian mở rộng khoảng cách giữa họ, chuỗi ký ức vẫn luôn hiện hữu.
+			<br>- Byousoku 5 Centimeter là một bộ phim tình cảm lãng mạn tập trung vào thực tế trần tục và khắc nghiệt của các mối quan hệ đường dài. Bị mắc kẹt trong quá khứ và không thể tạo ra bất kỳ ký ức mới nào, Takaki và Akari bám lấy hy vọng được gặp lại nhau. Họ sống cuộc sống hàng ngày của mình một cách nửa vời, cả hai đều làm tổn thương bản thân và những người xung quanh.
 		`,
 		tag: [
 			'tDrama',
@@ -3862,9 +3907,9 @@ const anime = [
 		aired: '08/01/2023 - 26/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Mặc dù là một người siêng năng với nhiều kỹ năng, Saitou bị đánh giá thấp và trả lương thấp nghiêm trọng. Khi anh ta phàn nàn, ông chủ của anh ta sa thải anh ta, tuyên bố rằng anh ta có thể dễ dàng thay thế. Như thể vận may của anh ta không đủ tệ, một chiếc xe tải bất ngờ đâm và giết chết Saitou trên đường về nhà.<br>
-			- Thật đáng ngạc nhiên, Saitou không chết; thay vào đó, anh ta được đưa đến một thế giới khác. Ở đó, anh gặp một nhóm bao gồm nữ hiệp sĩ Raelza, nàng tiên ánh trăng Lafanpan và pháp sư Morlock, tất cả đều tình cờ tìm cách chiêu mộ một thành viên mới với bộ kỹ năng như của Saitou.<br>
-			- Trong suốt thời gian ở bên nhau, Saitou sử dụng kiến thức chuyên môn của mình để hỗ trợ các thành viên trong đảng của mình và sớm nhận được sự công nhận mà anh chưa bao giờ nghĩ là có thể. Tuy nhiên, sự hiện diện của Saitou có thể chỉ là chất xúc tác sẽ kết nối một dàn người đa dạng từ những nơi khác nhau, từ từ khám phá số phận có thể mang lại sự thay đổi lớn cho thế giới này.
+			- Mặc dù là một người siêng năng với nhiều kỹ năng, Saitou bị đánh giá thấp và trả lương thấp nghiêm trọng. Khi anh ta phàn nàn, ông chủ của anh ta sa thải anh ta, tuyên bố rằng anh ta có thể dễ dàng thay thế. Như thể vận may của anh ta không đủ tệ, một chiếc xe tải bất ngờ đâm và giết chết Saitou trên đường về nhà.
+			<br>- Thật đáng ngạc nhiên, Saitou không chết; thay vào đó, anh ta được đưa đến một thế giới khác. Ở đó, anh gặp một nhóm bao gồm nữ hiệp sĩ Raelza, nàng tiên ánh trăng Lafanpan và pháp sư Morlock, tất cả đều tình cờ tìm cách chiêu mộ một thành viên mới với bộ kỹ năng như của Saitou.
+			<br>- Trong suốt thời gian ở bên nhau, Saitou sử dụng kiến thức chuyên môn của mình để hỗ trợ các thành viên trong đảng của mình và sớm nhận được sự công nhận mà anh chưa bao giờ nghĩ là có thể. Tuy nhiên, sự hiện diện của Saitou có thể chỉ là chất xúc tác sẽ kết nối một dàn người đa dạng từ những nơi khác nhau, từ từ khám phá số phận có thể mang lại sự thay đổi lớn cho thế giới này.
 		`,
 		tag: [
 			'tAdventure',
@@ -3950,8 +3995,8 @@ const anime = [
 		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Mặc dù đứng ở đỉnh cao với tư cách là thầy trừ tà mạnh nhất, Haruyoshi Kuga thậm chí còn tìm kiếm sức mạnh lớn hơn, dẫn đến cái chết của anh ta dưới bàn tay của những người ghen tị với sức mạnh của anh ta. Khi anh ta trút hơi thở cuối cùng, anh ta sử dụng một câu thần chú cho phép anh ta tái sinh và thề sẽ trở nên xảo quyệt hơn, hy vọng rằng mọi nỗ lực của anh ta sẽ trở nên hữu ích trong cuộc sống tiếp theo của anh ta.<br>
-			- Haruyoshi sớm được tái sinh ở một thế giới khác với vai Seika Lamprogue, một đứa con ngoài giá thú của một gia đình quý tộc tự hào về phép thuật. Tuy nhiên, gia đình mới của anh ấy phần lớn phớt lờ anh ấy do dòng dõi và sự thiếu hụt ma thuật của anh ấy. Tuy nhiên, Seika không bị trói buộc tận dụng kiến thức từ kiếp trước để tạo ra nhiều đồng minh có giá trị. Khi bắt đầu khám phá giới hạn thực sự của khả năng của mình, Seika cũng phải cảnh giác với những hậu quả đã làm hoen ố quá khứ của mình và tránh lặp lại những sai lầm tương tự.
+			- Mặc dù đứng ở đỉnh cao với tư cách là thầy trừ tà mạnh nhất, Haruyoshi Kuga thậm chí còn tìm kiếm sức mạnh lớn hơn, dẫn đến cái chết của anh ta dưới bàn tay của những người ghen tị với sức mạnh của anh ta. Khi anh ta trút hơi thở cuối cùng, anh ta sử dụng một câu thần chú cho phép anh ta tái sinh và thề sẽ trở nên xảo quyệt hơn, hy vọng rằng mọi nỗ lực của anh ta sẽ trở nên hữu ích trong cuộc sống tiếp theo của anh ta.
+			<br>- Haruyoshi sớm được tái sinh ở một thế giới khác với vai Seika Lamprogue, một đứa con ngoài giá thú của một gia đình quý tộc tự hào về phép thuật. Tuy nhiên, gia đình mới của anh ấy phần lớn phớt lờ anh ấy do dòng dõi và sự thiếu hụt ma thuật của anh ấy. Tuy nhiên, Seika không bị trói buộc tận dụng kiến thức từ kiếp trước để tạo ra nhiều đồng minh có giá trị. Khi bắt đầu khám phá giới hạn thực sự của khả năng của mình, Seika cũng phải cảnh giác với những hậu quả đã làm hoen ố quá khứ của mình và tránh lặp lại những sai lầm tương tự.
 		`,
 		tag: [
 			'tAction',
@@ -4009,8 +4054,8 @@ const anime = [
 		aired: '09/10/2011 - 25/12/2011',
 		rating: 'PG-13',
 		synopsis: `
-			- Siêu thị là một tòa nhà quan trọng ở bất kỳ thành phố nào, vì chúng cung cấp một cách thuận tiện để mua nhiều loại thực phẩm trong một môi trường an toàn, thân thiện với gia đình. Tuy nhiên, những cửa hàng này thay đổi trong chớp mắt khi những hộp bento chưa bán được sẽ có doanh số giảm một nửa hàng đêm! Chiến tranh nổ ra và bạn bè trở thành kẻ thù khi mỗi người chiến đấu vì danh dự, niềm tự hào và bữa tối. Không còn bất kỳ người nào trong các siêu thị này, chỉ có Chó sói và Chó — người chiến thắng và người thua cuộc.<br>
-			- Học sinh trung học You Satou đau đớn được giới thiệu về những trận chiến này sau khi vô tình vấp ngã vào vùng chiến sự, nhưng thay vì chọn cách tránh những trận đánh hàng đêm này, anh ta muốn tham gia. Sau khi thấy Satou thiếu kỹ năng chiến đấu, sinh viên lớp trên và Wolf Sen Yarizui mời anh ta và Hana Oshiroi, một cô gái thích xem các cuộc ẩu đả, tham gia Câu lạc bộ những người yêu thích thực phẩm nửa giá của cô ấy để cho họ thấy sự khác biệt giữa Chó và Chó sói. Cùng nhau, họ tìm hiểu ý nghĩa thực sự của việc chiến đấu cho thức ăn của bạn.
+			- Siêu thị là một tòa nhà quan trọng ở bất kỳ thành phố nào, vì chúng cung cấp một cách thuận tiện để mua nhiều loại thực phẩm trong một môi trường an toàn, thân thiện với gia đình. Tuy nhiên, những cửa hàng này thay đổi trong chớp mắt khi những hộp bento chưa bán được sẽ có doanh số giảm một nửa hàng đêm! Chiến tranh nổ ra và bạn bè trở thành kẻ thù khi mỗi người chiến đấu vì danh dự, niềm tự hào và bữa tối. Không còn bất kỳ người nào trong các siêu thị này, chỉ có Chó sói và Chó — người chiến thắng và người thua cuộc.
+			<br>- Học sinh trung học You Satou đau đớn được giới thiệu về những trận chiến này sau khi vô tình vấp ngã vào vùng chiến sự, nhưng thay vì chọn cách tránh những trận đánh hàng đêm này, anh ta muốn tham gia. Sau khi thấy Satou thiếu kỹ năng chiến đấu, sinh viên lớp trên và Wolf Sen Yarizui mời anh ta và Hana Oshiroi, một cô gái thích xem các cuộc ẩu đả, tham gia Câu lạc bộ những người yêu thích thực phẩm nửa giá của cô ấy để cho họ thấy sự khác biệt giữa Chó và Chó sói. Cùng nhau, họ tìm hiểu ý nghĩa thực sự của việc chiến đấu cho thức ăn của bạn.
 		`,
 		tag: [
 			'tAction',
@@ -4128,8 +4173,8 @@ const anime = [
 		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Mahiru Shiina xứng đáng với biệt danh "Thiên thần": cô ấy là một vẻ đẹp thần thánh được mọi người yêu mến, và cô ấy xuất sắc trong cả học tập và điền kinh. Shiina sống trong một thế giới hoàn toàn khác với Amane Fujimiya, người hàng xóm bên cạnh cô. Mặc dù sống rất gần nhau, họ chưa bao giờ nói chuyện một lần. Nhưng sự im lặng của họ bị phá vỡ khi Fujimiya phát hiện ra Shiina đang hả hê ngồi trên xích đu giữa cơn mưa lớn và cho cô mượn chiếc ô của mình.<br>
-			- Khi Fujimiya bị cảm lạnh vào ngày hôm sau, Shiina muốn trả lại ân huệ cho chiếc ô bằng cách chăm sóc cậu khỏe mạnh trở lại. Tin rằng đây sẽ là lần tương tác đầu tiên và cuối cùng của họ, anh thầm trân trọng lòng tốt của cô. Tuy nhiên, Shiina - người không thể không lo lắng về sự thiếu gọn gàng và dinh dưỡng hợp lý của Fujimiya - bắt đầu nấu ăn và dọn dẹp cho cậu. Khi cặp đôi khó có thể dành thời gian bên nhau trong căn hộ của Fujimiya, họ khám phá bản chất thực sự của mối quan hệ của họ và những cảm xúc nhẹ nhàng nảy sinh từ đó.
+			- Mahiru Shiina xứng đáng với biệt danh "Thiên thần": cô ấy là một vẻ đẹp thần thánh được mọi người yêu mến, và cô ấy xuất sắc trong cả học tập và điền kinh. Shiina sống trong một thế giới hoàn toàn khác với Amane Fujimiya, người hàng xóm bên cạnh cô. Mặc dù sống rất gần nhau, họ chưa bao giờ nói chuyện một lần. Nhưng sự im lặng của họ bị phá vỡ khi Fujimiya phát hiện ra Shiina đang hả hê ngồi trên xích đu giữa cơn mưa lớn và cho cô mượn chiếc ô của mình.
+			<br>- Khi Fujimiya bị cảm lạnh vào ngày hôm sau, Shiina muốn trả lại ân huệ cho chiếc ô bằng cách chăm sóc cậu khỏe mạnh trở lại. Tin rằng đây sẽ là lần tương tác đầu tiên và cuối cùng của họ, anh thầm trân trọng lòng tốt của cô. Tuy nhiên, Shiina - người không thể không lo lắng về sự thiếu gọn gàng và dinh dưỡng hợp lý của Fujimiya - bắt đầu nấu ăn và dọn dẹp cho cậu. Khi cặp đôi khó có thể dành thời gian bên nhau trong căn hộ của Fujimiya, họ khám phá bản chất thực sự của mối quan hệ của họ và những cảm xúc nhẹ nhàng nảy sinh từ đó.
 		`,
 		tag: [
 			'tComedy',
@@ -4188,9 +4233,9 @@ const anime = [
 		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Vào đêm Giáng sinh, Miri Unasaka, bốn tuổi, đến Tokyo hoàn toàn một mình, để tìm kiếm cha mình. Ánh đèn rực rỡ và bầu không khí vui vẻ dẫn Miri đến một khách sạn lớn và một người đàn ông với một chiếc bánh trông rất ngon. Tuy nhiên, đứa trẻ vừa vô tình bước vào trung tâm của một kế hoạch phức tạp, hoàn hảo để ám sát một ông trùm mafia nguy hiểm.<br>
-			- Sát thủ chuyên nghiệp Kazuki Kurusu và Rei Suwa sống cùng nhau, chạy trốn ký ức về thời thơ ấu nghiệt ngã của họ và tránh các kết nối cảm xúc. Khi nhiệm vụ của họ trở nên tồi tệ và cuối cùng họ đưa Miri về nhà, chỉ có một điều hợp lý để làm: trả lại Miri cho mẹ cô ấy. Nhưng tiếng cười ngây thơ và thế giới quan thuần khiết của cô gái đã nhanh chóng khiến cô trở thành Kazuki, người thầm thích đóng vai cha mẹ, và không lâu sau đó, trái tim bất khả xâm phạm của Rei nhường chỗ cho Miri.<br>
-			- Mọi động thái của Miri đều không thể đoán trước được, và Kazuki và Rei nhận thấy việc nuôi dạy một đứa trẻ tràn đầy năng lượng khó hơn bất kỳ nhiệm vụ nào của họ. Mặc dù nó mang lại rủi ro lớn cho sự nghiệp của họ, Kazuki và Rei - cả hai đều có biệt danh trìu mến là "papa" - quyết định mang đến cho Miri một tuổi thơ bình thường bất chấp mọi khó khăn chồng chất lên họ.
+			- Vào đêm Giáng sinh, Miri Unasaka, bốn tuổi, đến Tokyo hoàn toàn một mình, để tìm kiếm cha mình. Ánh đèn rực rỡ và bầu không khí vui vẻ dẫn Miri đến một khách sạn lớn và một người đàn ông với một chiếc bánh trông rất ngon. Tuy nhiên, đứa trẻ vừa vô tình bước vào trung tâm của một kế hoạch phức tạp, hoàn hảo để ám sát một ông trùm mafia nguy hiểm.
+			<br>- Sát thủ chuyên nghiệp Kazuki Kurusu và Rei Suwa sống cùng nhau, chạy trốn ký ức về thời thơ ấu nghiệt ngã của họ và tránh các kết nối cảm xúc. Khi nhiệm vụ của họ trở nên tồi tệ và cuối cùng họ đưa Miri về nhà, chỉ có một điều hợp lý để làm: trả lại Miri cho mẹ cô ấy. Nhưng tiếng cười ngây thơ và thế giới quan thuần khiết của cô gái đã nhanh chóng khiến cô trở thành Kazuki, người thầm thích đóng vai cha mẹ, và không lâu sau đó, trái tim bất khả xâm phạm của Rei nhường chỗ cho Miri.
+			<br>- Mọi động thái của Miri đều không thể đoán trước được, và Kazuki và Rei nhận thấy việc nuôi dạy một đứa trẻ tràn đầy năng lượng khó hơn bất kỳ nhiệm vụ nào của họ. Mặc dù nó mang lại rủi ro lớn cho sự nghiệp của họ, Kazuki và Rei - cả hai đều có biệt danh trìu mến là "papa" - quyết định mang đến cho Miri một tuổi thơ bình thường bất chấp mọi khó khăn chồng chất lên họ.
 		`,
 		tag: [
 			'tAction',
@@ -4238,9 +4283,9 @@ const anime = [
 		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Trong thế giới Ars, con người dẫn đầu một cuộc chiến kéo dài hàng thập kỷ chống lại những con thú khổng lồ tàn phá vùng đất và ăn tài nguyên của chúng. Những người được giao nhiệm vụ chiến đấu với họ là những nhà vô địch được gọi là nagimori, người sử dụng sức mạnh hủy diệt của kannagi: những sinh vật có năng khiếu với sức mạnh ma thuật không thể kiểm soát.<br>
-			- Trong khi thương tiếc cái chết của người bạn đời chiến tranh của mình, cựu nagimori Jiiro băng qua đường với Kuumi, một phụ nữ trẻ vừa đánh thức sức mạnh ma thuật của mình. Sau khi cặp đôi lập một hợp đồng để cứu thành phố khỏi một cuộc tấn công quái thú khổng lồ, Jiiro biết rằng Kuumi đã thoát khỏi phòng thí nghiệm và đang bị săn đuổi bởi thuộc hạ của Mezami, người đứng đầu cơ sở nghiên cứu.<br>
-			- Miễn cưỡng đồng ý giúp Kuumi chạy trốn khỏi những kẻ truy đuổi, Jiiro bắt đầu đi du lịch với người bạn đời mới của mình và người bạn Myaa của cô, một cô gái trẻ với chiếc mũ mèo. Khi bộ ba khó có thể đi lang thang trên vùng đất Arsian, các quan chức hàng đầu bắt đầu thực hiện kế hoạch của họ — và nhóm các nhà thám hiểm sớm phát hiện ra rằng đàn ông phải sợ hãi hơn quái vật.
+			- Trong thế giới Ars, con người dẫn đầu một cuộc chiến kéo dài hàng thập kỷ chống lại những con thú khổng lồ tàn phá vùng đất và ăn tài nguyên của chúng. Những người được giao nhiệm vụ chiến đấu với họ là những nhà vô địch được gọi là nagimori, người sử dụng sức mạnh hủy diệt của kannagi: những sinh vật có năng khiếu với sức mạnh ma thuật không thể kiểm soát.
+			<br>- Trong khi thương tiếc cái chết của người bạn đời chiến tranh của mình, cựu nagimori Jiiro băng qua đường với Kuumi, một phụ nữ trẻ vừa đánh thức sức mạnh ma thuật của mình. Sau khi cặp đôi lập một hợp đồng để cứu thành phố khỏi một cuộc tấn công quái thú khổng lồ, Jiiro biết rằng Kuumi đã thoát khỏi phòng thí nghiệm và đang bị săn đuổi bởi thuộc hạ của Mezami, người đứng đầu cơ sở nghiên cứu.
+			<br>- Miễn cưỡng đồng ý giúp Kuumi chạy trốn khỏi những kẻ truy đuổi, Jiiro bắt đầu đi du lịch với người bạn đời mới của mình và người bạn Myaa của cô, một cô gái trẻ với chiếc mũ mèo. Khi bộ ba khó có thể đi lang thang trên vùng đất Arsian, các quan chức hàng đầu bắt đầu thực hiện kế hoạch của họ — và nhóm các nhà thám hiểm sớm phát hiện ra rằng đàn ông phải sợ hãi hơn quái vật.
 		`,
 		tag: [
 			'tAction',
@@ -4353,8 +4398,8 @@ const anime = [
 		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Thành viên câu lạc bộ phát thanh truyền hình Shihono Kobayashi luôn nói với người bạn Aoto Endou về MagiKoi, một trò chơi otome nơi nhân vật chính Fiene theo học tại Học viện Phép thuật Hoàng gia. Nhưng bất chấp dàn diễn viên đầy màu sắc, một nhân vật mà Kobayashi bị ám ảnh nhiều nhất là biệt thự Lieselotte Riefenstahl. Trái ngược với những nhận xét khiếm nhã của cô ấy đối với Fiene, Lieselotte khao khát được làm bạn với cô ấy. Lieselotte cũng yêu sâu sắc vị hôn phu của chính mình, Hoàng tử Siegwald Fitzenhagen — tình yêu chính của trò chơi. Thật không may, ở hầu hết mọi tuyến đường, Lieselotte phải chịu một kết thúc bi thảm.<br>
-			- Kobayashi cố gắng thuyết phục Endou đóng vai MagiKoi để thực hành kỹ năng nói của mình. Những gì bắt đầu như một trò chơi bình thường trở nên phi thường khi Siegwald đột nhiên nghe thấy giọng nói của người chơi trong trò chơi! Bây giờ được coi là "các vị thần", Endou và Kobayashi sử dụng những nhận xét và phân tích của họ để cứu biệt thự tsundere yêu quý của họ khỏi cái chết mập mạp của cô ấy.
+			- Thành viên câu lạc bộ phát thanh truyền hình Shihono Kobayashi luôn nói với người bạn Aoto Endou về MagiKoi, một trò chơi otome nơi nhân vật chính Fiene theo học tại Học viện Phép thuật Hoàng gia. Nhưng bất chấp dàn diễn viên đầy màu sắc, một nhân vật mà Kobayashi bị ám ảnh nhiều nhất là biệt thự Lieselotte Riefenstahl. Trái ngược với những nhận xét khiếm nhã của cô ấy đối với Fiene, Lieselotte khao khát được làm bạn với cô ấy. Lieselotte cũng yêu sâu sắc vị hôn phu của chính mình, Hoàng tử Siegwald Fitzenhagen — tình yêu chính của trò chơi. Thật không may, ở hầu hết mọi tuyến đường, Lieselotte phải chịu một kết thúc bi thảm.
+			<br>- Kobayashi cố gắng thuyết phục Endou đóng vai MagiKoi để thực hành kỹ năng nói của mình. Những gì bắt đầu như một trò chơi bình thường trở nên phi thường khi Siegwald đột nhiên nghe thấy giọng nói của người chơi trong trò chơi! Bây giờ được coi là "các vị thần", Endou và Kobayashi sử dụng những nhận xét và phân tích của họ để cứu biệt thự tsundere yêu quý của họ khỏi cái chết mập mạp của cô ấy.
 		`,
 		tag: [
 			'tComedy',
@@ -4455,8 +4500,8 @@ const anime = [
 		aired: '05/01/2023 - 23/03/2023',
 		rating: 'R-17+',
 		synopsis: `
-			- Bị lừa ám sát cha vợ tương lai của chính mình, samurai chính trực Raizou Kurima tràn ngập cảm giác tội lỗi. Để đòi lại danh dự của mình, Raizou thề sẽ trả thù vị lãnh chúa, người đã ra lệnh cho anh ta những mệnh lệnh gây hiểu lầm đó. Trong quá trình theo đuổi, anh ta được hỗ trợ bởi thương nhân tự xưng của tất cả các ngành nghề Yuuen Usui, người thực sự là một trong những Kẻ trả thù — những sát thủ tìm kiếm công lý cho những kẻ bị oan sai và thay mặt họ trả thù đẫm máu.<br>
-			- Bi kịch dường như được định sẵn để theo chân Raizou khi anh ta ngày càng gắn bó với các thành viên của Revengers. Khi anh ta bắt đầu làm việc như một người cảnh giác bên cạnh họ, mạng lưới phức tạp giữa giới tinh hoa chính trị Nhật Bản tham nhũng, những người châu Âu vô đạo đức và Những kẻ trả thù dần dần bộc lộ. Càng vướng vào những vấn đề này, Raizou càng nhận ra rằng công lý cũng lừa dối như danh dự mà anh ta tìm cách chuộc lại.
+			- Bị lừa ám sát cha vợ tương lai của chính mình, samurai chính trực Raizou Kurima tràn ngập cảm giác tội lỗi. Để đòi lại danh dự của mình, Raizou thề sẽ trả thù vị lãnh chúa, người đã ra lệnh cho anh ta những mệnh lệnh gây hiểu lầm đó. Trong quá trình theo đuổi, anh ta được hỗ trợ bởi thương nhân tự xưng của tất cả các ngành nghề Yuuen Usui, người thực sự là một trong những Kẻ trả thù — những sát thủ tìm kiếm công lý cho những kẻ bị oan sai và thay mặt họ trả thù đẫm máu.
+			<br>- Bi kịch dường như được định sẵn để theo chân Raizou khi anh ta ngày càng gắn bó với các thành viên của Revengers. Khi anh ta bắt đầu làm việc như một người cảnh giác bên cạnh họ, mạng lưới phức tạp giữa giới tinh hoa chính trị Nhật Bản tham nhũng, những người châu Âu vô đạo đức và Những kẻ trả thù dần dần bộc lộ. Càng vướng vào những vấn đề này, Raizou càng nhận ra rằng công lý cũng lừa dối như danh dự mà anh ta tìm cách chuộc lại.
 		`,
 		tag: [
 			'tAction',
@@ -4540,9 +4585,9 @@ const anime = [
 		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Ở vương quốc Tây Nguyên, các nàng tiên sống tự do cho đến khi con người phản bội họ. Một khi một nàng tiên đã bị tước cánh, bất cứ ai sở hữu nó đều nắm giữ mạng sống của nàng tiên trong tay. Lợi dụng điều này, con người bắt các nàng tiên làm nô lệ, nhưng Ann Halford, 15 tuổi, khao khát được nhìn thấy ngày mà các nàng tiên và con người được đối xử bình đẳng.<br>
-			- Người làm bánh kẹo đầy tham vọng mơ ước trở thành Silver Sugar Master giống như người mẹ quá cố của cô. Để đạt được mục tiêu cao cả này, Ann lên đường đến thủ đô Lewiston, nơi tổ chức Hội chợ kẹo Hoàng gia hàng năm. Tuy nhiên, để được ban tặng danh hiệu khó nắm bắt, bánh kẹo của Ann được chế tác từ đường bạc phải được công nhận bằng huy chương hoàng gia tại sự kiện.<br>
-			- Ann thuê một nàng tiên chiến binh có lưỡi sắc bén, Shall Fen Shall, làm vệ sĩ cho cuộc hành trình nguy hiểm phía trước. Sau khi cứu anh ta khỏi người buôn bán cổ tích độc ác của mình, cô hứa sẽ trả lại đôi cánh của Sshall cho anh ta khi họ đến thủ đô, khiến anh ta bối rối. Nhưng khi cặp đôi đi xa hơn, thời gian họ dành cho nhau ngày càng tăng, và họ tìm hiểu thêm về nhau và mong muốn thực sự của họ.
+			- Ở vương quốc Tây Nguyên, các nàng tiên sống tự do cho đến khi con người phản bội họ. Một khi một nàng tiên đã bị tước cánh, bất cứ ai sở hữu nó đều nắm giữ mạng sống của nàng tiên trong tay. Lợi dụng điều này, con người bắt các nàng tiên làm nô lệ, nhưng Ann Halford, 15 tuổi, khao khát được nhìn thấy ngày mà các nàng tiên và con người được đối xử bình đẳng.
+			<br>- Người làm bánh kẹo đầy tham vọng mơ ước trở thành Silver Sugar Master giống như người mẹ quá cố của cô. Để đạt được mục tiêu cao cả này, Ann lên đường đến thủ đô Lewiston, nơi tổ chức Hội chợ kẹo Hoàng gia hàng năm. Tuy nhiên, để được ban tặng danh hiệu khó nắm bắt, bánh kẹo của Ann được chế tác từ đường bạc phải được công nhận bằng huy chương hoàng gia tại sự kiện.
+			<br>- Ann thuê một nàng tiên chiến binh có lưỡi sắc bén, Shall Fen Shall, làm vệ sĩ cho cuộc hành trình nguy hiểm phía trước. Sau khi cứu anh ta khỏi người buôn bán cổ tích độc ác của mình, cô hứa sẽ trả lại đôi cánh của Sshall cho anh ta khi họ đến thủ đô, khiến anh ta bối rối. Nhưng khi cặp đôi đi xa hơn, thời gian họ dành cho nhau ngày càng tăng, và họ tìm hiểu thêm về nhau và mong muốn thực sự của họ.
 		`,
 		tag: [
 			'tAdventure',
@@ -4878,8 +4923,8 @@ const anime = [
 		aired: '05/01/2023 - 23/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Tự xưng là "nhân viên bảo vệ gia đình" Mahiro Oyama đã không rời khỏi nhà trong nhiều năm, ẩn mình trong phòng chơi tiểu thuyết trực quan khiêu dâm. Lối sống đồi trụy này khiến người chị gái phi thường của anh, Mihari, lo lắng về sức khỏe của anh. Với hy vọng giải quyết vấn đề này, cô nghĩ ra một kế hoạch để phục hồi anh trở lại trạng thái bình thường.<br>
-			- Phần đầu tiên trong kế hoạch của Mihari là pha chế một loại thuốc thay đổi hiến pháp sinh học của anh trai cô thành một phụ nữ chân chính, khiến Mahiro mất tinh thần kịch liệt. Bị mắc kẹt trong tình trạng khó khăn này, Mahiro không có lựa chọn nào khác ngoài việc sống cuộc sống của mình như một cô gái dễ thương cho đến khi hiệu ứng mất đi — nếu có.
+			- Tự xưng là "nhân viên bảo vệ gia đình" Mahiro Oyama đã không rời khỏi nhà trong nhiều năm, ẩn mình trong phòng chơi tiểu thuyết trực quan khiêu dâm. Lối sống đồi trụy này khiến người chị gái phi thường của anh, Mihari, lo lắng về sức khỏe của anh. Với hy vọng giải quyết vấn đề này, cô nghĩ ra một kế hoạch để phục hồi anh trở lại trạng thái bình thường.
+			<br>- Phần đầu tiên trong kế hoạch của Mihari là pha chế một loại thuốc thay đổi hiến pháp sinh học của anh trai cô thành một phụ nữ chân chính, khiến Mahiro mất tinh thần kịch liệt. Bị mắc kẹt trong tình trạng khó khăn này, Mahiro không có lựa chọn nào khác ngoài việc sống cuộc sống của mình như một cô gái dễ thương cho đến khi hiệu ứng mất đi — nếu có.
 		`,
 		tag: [
 			'tComedy',
@@ -4992,8 +5037,8 @@ const anime = [
 		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Là thường dân đầu tiên theo học tại Học viện Phép thuật Arnold danh tiếng, Ray White ngay lập tức vấp phải sự khinh miệt từ một số sinh viên đến từ giới quý tộc. Họ không hề hay biết, danh tính thực sự của Ray là của Iceblade Sorcerer nổi tiếng — một anh hùng đã dẫn dắt đất nước đến chiến thắng trong một cuộc chiến trong quá khứ và là một trong bảy thầy phù thủy mạnh nhất còn sống. Bất chấp địa vị huyền thoại của mình, Ray không muốn gì hơn là sống cuộc sống học đường bình thường mà anh chưa từng có.<br>
-			- Ray nhanh chóng kết bạn với một số sinh viên có ảnh hưởng nhất nhờ bản tính tốt bụng và dễ mến của mình. Thật không may, khi những người có động cơ bất chính bắt đầu thực hiện động thái của họ, Ray có thể sớm không còn lựa chọn nào khác ngoài việc sử dụng sức mạnh thực sự của mình để bảo tồn những mối liên kết khiến cuộc sống mới của anh ta trở nên đáng giá.
+			- Là thường dân đầu tiên theo học tại Học viện Phép thuật Arnold danh tiếng, Ray White ngay lập tức vấp phải sự khinh miệt từ một số sinh viên đến từ giới quý tộc. Họ không hề hay biết, danh tính thực sự của Ray là của Iceblade Sorcerer nổi tiếng — một anh hùng đã dẫn dắt đất nước đến chiến thắng trong một cuộc chiến trong quá khứ và là một trong bảy thầy phù thủy mạnh nhất còn sống. Bất chấp địa vị huyền thoại của mình, Ray không muốn gì hơn là sống cuộc sống học đường bình thường mà anh chưa từng có.
+			<br>- Ray nhanh chóng kết bạn với một số sinh viên có ảnh hưởng nhất nhờ bản tính tốt bụng và dễ mến của mình. Thật không may, khi những người có động cơ bất chính bắt đầu thực hiện động thái của họ, Ray có thể sớm không còn lựa chọn nào khác ngoài việc sử dụng sức mạnh thực sự của mình để bảo tồn những mối liên kết khiến cuộc sống mới của anh ta trở nên đáng giá.
 		`,
 		tag: [
 			'tAction',
@@ -5162,9 +5207,9 @@ const anime = [
 		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Một thập kỷ trước, nhân loại đã chứng kiến tiềm năng chết người của vũ khí do Đại chiến gây ra. Để tránh một thảm họa khác, các chính phủ trên toàn thế giới đã dùng đến hoạt động gián điệp để thực hiện các chương trình nghị sự của họ.<br>
-			- Tại Cộng hòa Din, Lily là một cô gái trẻ nhiệt tình, khao khát trở thành một điệp viên và phục vụ quốc gia của mình. Tuy nhiên, cô bắt đầu nghi ngờ khả năng của mình, khi cô phải vật lộn để thể hiện tốt trong học tập. Niềm đam mê của Lily được khơi dậy khi cô được đề nghị tốt nghiệp tạm thời bằng cách gia nhập đội gián điệp Lamplight, đội mà cô háo hức chấp nhận bất chấp bản chất bí ẩn của cơ hội.<br>
-			- Khi đến đích, Lily ngạc nhiên khi thấy sáu cô gái khác đang đợi ở đó, tất cả đều phải đối mặt với những khó khăn trong học tập của chính họ. Một người đàn ông bí ẩn tên Klaus sớm xuất hiện và tiết lộ rằng họ phải hoàn thành một "Nhiệm vụ bất khả thi": xâm nhập vào Đế chế Galgad chỉ sau một tháng huấn luyện. Mặc dù nghi ngờ, các cô gái cuối cùng đã đồng ý làm việc cùng nhau dưới sự hướng dẫn của Klaus — vì đây có thể là cơ hội duy nhất để họ chứng minh giá trị của mình với tư cách là gián điệp.
+			- Một thập kỷ trước, nhân loại đã chứng kiến tiềm năng chết người của vũ khí do Đại chiến gây ra. Để tránh một thảm họa khác, các chính phủ trên toàn thế giới đã dùng đến hoạt động gián điệp để thực hiện các chương trình nghị sự của họ.
+			<br>- Tại Cộng hòa Din, Lily là một cô gái trẻ nhiệt tình, khao khát trở thành một điệp viên và phục vụ quốc gia của mình. Tuy nhiên, cô bắt đầu nghi ngờ khả năng của mình, khi cô phải vật lộn để thể hiện tốt trong học tập. Niềm đam mê của Lily được khơi dậy khi cô được đề nghị tốt nghiệp tạm thời bằng cách gia nhập đội gián điệp Lamplight, đội mà cô háo hức chấp nhận bất chấp bản chất bí ẩn của cơ hội.
+			<br>- Khi đến đích, Lily ngạc nhiên khi thấy sáu cô gái khác đang đợi ở đó, tất cả đều phải đối mặt với những khó khăn trong học tập của chính họ. Một người đàn ông bí ẩn tên Klaus sớm xuất hiện và tiết lộ rằng họ phải hoàn thành một "Nhiệm vụ bất khả thi": xâm nhập vào Đế chế Galgad chỉ sau một tháng huấn luyện. Mặc dù nghi ngờ, các cô gái cuối cùng đã đồng ý làm việc cùng nhau dưới sự hướng dẫn của Klaus — vì đây có thể là cơ hội duy nhất để họ chứng minh giá trị của mình với tư cách là gián điệp.
 		`,
 		tag: [
 			'tAction',
@@ -5233,8 +5278,8 @@ const anime = [
 		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Những người bạn thời thơ ấu Tomo Aizawa và Junichirou "Jun" Kubota làm mọi thứ cùng nhau, cho dù đó là đào tạo hay chỉ là tận hưởng một ngày vui vẻ. Bất cứ ai cũng sẽ nghĩ rằng hai người này là bạn thân suốt đời. Vấn đề duy nhất là Tomo tomboyish đang yêu Jun, nhưng anh ấy coi cô ấy như một người anh trai.<br>
-			- Vào đầu năm đầu tiên của trường trung học, Tomo đã thổ lộ tình cảm của mình với Jun. Tuy nhiên, cách cư xử thô bạo của cô ấy và thiếu do dự khi tung ra một cú đấm không làm gì làm lung lay trái tim Jun. Nhận ra rằng anh ấy sẽ vẫn thờ ơ với tình cảm của cô ấy trừ khi cô ấy làm điều gì đó với nó, Tomo phải tìm cách đánh bật một số ý nghĩa vào Jun và mở mắt ra những gì ngay trước mặt anh ấy.
+			- Những người bạn thời thơ ấu Tomo Aizawa và Junichirou "Jun" Kubota làm mọi thứ cùng nhau, cho dù đó là đào tạo hay chỉ là tận hưởng một ngày vui vẻ. Bất cứ ai cũng sẽ nghĩ rằng hai người này là bạn thân suốt đời. Vấn đề duy nhất là Tomo tomboyish đang yêu Jun, nhưng anh ấy coi cô ấy như một người anh trai.
+			<br>- Vào đầu năm đầu tiên của trường trung học, Tomo đã thổ lộ tình cảm của mình với Jun. Tuy nhiên, cách cư xử thô bạo của cô ấy và thiếu do dự khi tung ra một cú đấm không làm gì làm lung lay trái tim Jun. Nhận ra rằng anh ấy sẽ vẫn thờ ơ với tình cảm của cô ấy trừ khi cô ấy làm điều gì đó với nó, Tomo phải tìm cách đánh bật một số ý nghĩa vào Jun và mở mắt ra những gì ngay trước mặt anh ấy.
 		`,
 		tag: [
 			'tComedy',
@@ -5403,8 +5448,8 @@ const anime = [
 		aired: '07/01/2023 - 25/03/2023',
 		rating: 'R+',
 		synopsis: `
-			- Vào một buổi chiều mưa, một nam học sinh trung học thức dậy đóng băng trên đường phố mà không nhớ mình đã đến đó bằng cách nào. Bạn cùng lớp và người yêu của anh ấy, Karen Inukai, tìm thấy anh ấy và đưa anh ấy trở về nhà của cô ấy, nơi trước sự ngạc nhiên của anh ấy, cô ấy bắt đầu cởi quần áo. Cô ấy dường như có ý định tắm với anh ấy, mặc dù anh ấy không biết tại sao. Khi cô ấy ôm anh ấy một lần nữa, anh ấy nhìn thoáng qua mình trong gương — phát hiện ra rằng anh ấy đã biến thành một!<br>
-			- Inukai nhận nuôi chú chó con và đặt tên cho nó là Pochita. Bây giờ, anh ta phải thích nghi với cuộc sống như một và tìm ra cách thoát khỏi tình trạng khó khăn kỳ lạ này. Nhưng trong khi nghiền ngẫm về một kế hoạch trốn thoát, Pochita nhìn thấy một khía cạnh hoàn toàn mới đối với Inukai mà anh chưa từng thấy ở trường.
+			- Vào một buổi chiều mưa, một nam học sinh trung học thức dậy đóng băng trên đường phố mà không nhớ mình đã đến đó bằng cách nào. Bạn cùng lớp và người yêu của anh ấy, Karen Inukai, tìm thấy anh ấy và đưa anh ấy trở về nhà của cô ấy, nơi trước sự ngạc nhiên của anh ấy, cô ấy bắt đầu cởi quần áo. Cô ấy dường như có ý định tắm với anh ấy, mặc dù anh ấy không biết tại sao. Khi cô ấy ôm anh ấy một lần nữa, anh ấy nhìn thoáng qua mình trong gương — phát hiện ra rằng anh ấy đã biến thành một!
+			<br>- Inukai nhận nuôi chú chó con và đặt tên cho nó là Pochita. Bây giờ, anh ta phải thích nghi với cuộc sống như một và tìm ra cách thoát khỏi tình trạng khó khăn kỳ lạ này. Nhưng trong khi nghiền ngẫm về một kế hoạch trốn thoát, Pochita nhìn thấy một khía cạnh hoàn toàn mới đối với Inukai mà anh chưa từng thấy ở trường.
 		`,
 		tag: [
 			'tComedy',
@@ -5457,9 +5502,9 @@ const anime = [
 		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Himuro-kun tốt bụng thật không may: khi ở trong sự tập trung sâu sắc, căng thẳng hoặc bối rối, anh ta vô tình tạo ra điều kiện bão tuyết cho bản thân và bất kỳ ai trong vùng lân cận. Trong một sự cố như vậy vào ngày đầu tiên của công việc mới, Himuro-kun gặp Fuyutsuki-san xinh đẹp, người giúp anh thoát ra khỏi lớp băng do thần kinh gây ra. Hóa ra, Fuyutsuki-san là đồng nghiệp mới của anh ấy.<br>
-			- Tại văn phòng, Fuyutsuki-san đầu lạnh đưa ra các giải pháp đơn giản và hợp lý cho những tình huống khó xử băng giá của Himuro-kun — mọi thứ từ giúp anh ta làm vườn mà không bị đóng băng cây cối đến đảm bảo anh ta không tan chảy trong thời gian nghỉ ngơi làm việc nhiệt đới của họ. Mỗi khi Fuyutsuki-san làm điều gì đó tử tế cho anh ta, cơn bão cảm xúc mà anh ta trải qua bên trong lại thể hiện một cách đáng xấu hổ ở bên ngoài.<br>
-			- Do những cơn bão tuyết thường xuyên, tình cảm của Himuro-kun dành cho Fuyutsuki-san là không thể che giấu. Mặc dù Fuyutsuki-san không quen thuộc với tình yêu, Himuro-kun vẫn quyết tâm đáp lại lòng tốt và sưởi ấm trái tim cô bằng mọi cách có thể.
+			- Himuro-kun tốt bụng thật không may: khi ở trong sự tập trung sâu sắc, căng thẳng hoặc bối rối, anh ta vô tình tạo ra điều kiện bão tuyết cho bản thân và bất kỳ ai trong vùng lân cận. Trong một sự cố như vậy vào ngày đầu tiên của công việc mới, Himuro-kun gặp Fuyutsuki-san xinh đẹp, người giúp anh thoát ra khỏi lớp băng do thần kinh gây ra. Hóa ra, Fuyutsuki-san là đồng nghiệp mới của anh ấy.
+			<br>- Tại văn phòng, Fuyutsuki-san đầu lạnh đưa ra các giải pháp đơn giản và hợp lý cho những tình huống khó xử băng giá của Himuro-kun — mọi thứ từ giúp anh ta làm vườn mà không bị đóng băng cây cối đến đảm bảo anh ta không tan chảy trong thời gian nghỉ ngơi làm việc nhiệt đới của họ. Mỗi khi Fuyutsuki-san làm điều gì đó tử tế cho anh ta, cơn bão cảm xúc mà anh ta trải qua bên trong lại thể hiện một cách đáng xấu hổ ở bên ngoài.
+			<br>- Do những cơn bão tuyết thường xuyên, tình cảm của Himuro-kun dành cho Fuyutsuki-san là không thể che giấu. Mặc dù Fuyutsuki-san không quen thuộc với tình yêu, Himuro-kun vẫn quyết tâm đáp lại lòng tốt và sưởi ấm trái tim cô bằng mọi cách có thể.
 		`,
 		tag: [
 			'tComedy',
@@ -5533,9 +5578,9 @@ const anime = [
 		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Công chúa Anisphia "Anis" Wynn Palletia luôn mơ ước được bay trên bầu trời, mặc dù người dân trong vương quốc của cô coi đó là một tham vọng ngớ ngẩn. Cũng mâu thuẫn với mục tiêu của cô là việc Anis không có khả năng sử dụng phép thuật mặc dù địa vị cao quý của cô. Không chịu bỏ cuộc dễ dàng như vậy, cô từ bỏ quyền lên ngôi và tập trung vào việc phát triển "phép thuật học" bằng cách kết hợp nhiều nguồn lực khác nhau với kiến thức từ kiếp trước trên Trái đất.<br>
-			- Do bản chất của Anis, trách nhiệm đối với tương lai của vương quốc được chuyển cho em trai cô, Algard. Bị đẩy vào một cuộc hôn nhân chính trị với Euphyllia Magenta, một cô gái mà anh hầu như không biết, Algard nổi loạn bằng cách dành nhiều thời gian cho một cô gái bình thường hơn là vị hôn thê của mình. Sau khi Euphyllia cố gắng can thiệp, Algard đã công khai hủy bỏ cuộc hôn nhân của họ và tố cáo vị hôn thê cũ của mình là một kẻ bắt nạt.<br>
-			- Sau khi đâm vào bữa tiệc nơi Algard đưa ra thông báo, Anis giải cứu Euphyllia trên cây chổi bay mà cô đang thử nghiệm. Cô quyết định biến Euphyllia thành trợ lý của mình, điều mà cô gái kia miễn cưỡng đồng ý. Mặc dù quan hệ đối tác của họ thoạt đầu có vẻ ngẫu nhiên, Anis có một động cơ thầm kín để muốn công ty của Euphyllia.
+			- Công chúa Anisphia "Anis" Wynn Palletia luôn mơ ước được bay trên bầu trời, mặc dù người dân trong vương quốc của cô coi đó là một tham vọng ngớ ngẩn. Cũng mâu thuẫn với mục tiêu của cô là việc Anis không có khả năng sử dụng phép thuật mặc dù địa vị cao quý của cô. Không chịu bỏ cuộc dễ dàng như vậy, cô từ bỏ quyền lên ngôi và tập trung vào việc phát triển "phép thuật học" bằng cách kết hợp nhiều nguồn lực khác nhau với kiến thức từ kiếp trước trên Trái đất.
+			<br>- Do bản chất của Anis, trách nhiệm đối với tương lai của vương quốc được chuyển cho em trai cô, Algard. Bị đẩy vào một cuộc hôn nhân chính trị với Euphyllia Magenta, một cô gái mà anh hầu như không biết, Algard nổi loạn bằng cách dành nhiều thời gian cho một cô gái bình thường hơn là vị hôn thê của mình. Sau khi Euphyllia cố gắng can thiệp, Algard đã công khai hủy bỏ cuộc hôn nhân của họ và tố cáo vị hôn thê cũ của mình là một kẻ bắt nạt.
+			<br>- Sau khi đâm vào bữa tiệc nơi Algard đưa ra thông báo, Anis giải cứu Euphyllia trên cây chổi bay mà cô đang thử nghiệm. Cô quyết định biến Euphyllia thành trợ lý của mình, điều mà cô gái kia miễn cưỡng đồng ý. Mặc dù quan hệ đối tác của họ thoạt đầu có vẻ ngẫu nhiên, Anis có một động cơ thầm kín để muốn công ty của Euphyllia.
 		`,
 		tag: [
 			'tFantasy',
@@ -5629,8 +5674,8 @@ const anime = [
 		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Nhà thám hiểm kỳ cựu Nick, pháp sư Tiana, giáo sĩ Zem và Curran nửa rồng mỗi người xuất hiện một mình tại một quán rượu, chỉ để thấy mình ngồi cùng bàn. Khi màn đêm buông xuống, họ thay phiên nhau tiết lộ những bất bình của mình và những sở thích mà họ đã coi là một phương tiện để đối phó. Mặc dù câu chuyện của họ hoàn toàn khác nhau, nhưng có một điểm chung: sự phản bội. Mỗi người trong số bốn người, đã bị phản bội cay đắng bởi một người mà họ trân trọng, đã phát triển một sự mất lòng tin sâu sắc vào nhân loại.<br>
-			- Nhưng ngoài thế giới quan tương tự của họ, cả bốn còn có một điểm chung nữa: thiếu vốn nghiêm trọng. Nhận ra rằng mọi thứ không thể tiếp tục như hiện tại, họ quyết định thành lập một bữa tiệc, thăng hạng và kiếm càng nhiều tiền càng tốt để chi tiêu cho các sở thích tương ứng của họ. Tuy nhiên, điều mà những nhà thám hiểm vỡ mộng này không biết là một ngày nào đó họ sẽ cứu thế giới khỏi nguy hiểm khó lường.
+			- Nhà thám hiểm kỳ cựu Nick, pháp sư Tiana, giáo sĩ Zem và Curran nửa rồng mỗi người xuất hiện một mình tại một quán rượu, chỉ để thấy mình ngồi cùng bàn. Khi màn đêm buông xuống, họ thay phiên nhau tiết lộ những bất bình của mình và những sở thích mà họ đã coi là một phương tiện để đối phó. Mặc dù câu chuyện của họ hoàn toàn khác nhau, nhưng có một điểm chung: sự phản bội. Mỗi người trong số bốn người, đã bị phản bội cay đắng bởi một người mà họ trân trọng, đã phát triển một sự mất lòng tin sâu sắc vào nhân loại.
+			<br>- Nhưng ngoài thế giới quan tương tự của họ, cả bốn còn có một điểm chung nữa: thiếu vốn nghiêm trọng. Nhận ra rằng mọi thứ không thể tiếp tục như hiện tại, họ quyết định thành lập một bữa tiệc, thăng hạng và kiếm càng nhiều tiền càng tốt để chi tiêu cho các sở thích tương ứng của họ. Tuy nhiên, điều mà những nhà thám hiểm vỡ mộng này không biết là một ngày nào đó họ sẽ cứu thế giới khỏi nguy hiểm khó lường.
 		`,
 		tag: [
 			'tAction',
@@ -5794,8 +5839,8 @@ const anime = [
 		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Umaru Doma là một học sinh kiểu mẫu có một khía cạnh ẩn giấu: khi về nhà mỗi ngày, cô mặc chiếc áo hoodie hamster của mình và biến thành một otaku chậm chạp thích đồ ăn vặt. Khi Umaru tiếp tục những trò hề hàng ngày này, tình bạn giữa cô và các bạn cùng lớp — Nana Ebina, Kirie Motoba và Sylphinford Tachibana — ngày càng sâu sắc, và ngày càng có nhiều sự kiện thú vị bắt đầu diễn ra.<br>
-			- Tất nhiên, những sự kiện này làm nảy sinh nhiều câu hỏi. Nana đã hỏi gì về Taihei, anh trai của Umaru? Cô gái bí ẩn với chiếc kẹp tóc kim cương là ai? Và quan trọng nhất của tất cả: tại sao cô gái này dường như biết Umaru? Những câu hỏi này và nhiều hơn nữa sẽ được trả lời trong Himouto! Umaru-chan R!
+			- Umaru Doma là một học sinh kiểu mẫu có một khía cạnh ẩn giấu: khi về nhà mỗi ngày, cô mặc chiếc áo hoodie hamster của mình và biến thành một otaku chậm chạp thích đồ ăn vặt. Khi Umaru tiếp tục những trò hề hàng ngày này, tình bạn giữa cô và các bạn cùng lớp — Nana Ebina, Kirie Motoba và Sylphinford Tachibana — ngày càng sâu sắc, và ngày càng có nhiều sự kiện thú vị bắt đầu diễn ra.
+			<br>- Tất nhiên, những sự kiện này làm nảy sinh nhiều câu hỏi. Nana đã hỏi gì về Taihei, anh trai của Umaru? Cô gái bí ẩn với chiếc kẹp tóc kim cương là ai? Và quan trọng nhất của tất cả: tại sao cô gái này dường như biết Umaru? Những câu hỏi này và nhiều hơn nữa sẽ được trả lời trong Himouto! Umaru-chan R!
 		`,
 		tag: [
 			'tComedy',
@@ -5913,8 +5958,8 @@ const anime = [
 		aired: '09/07/2015 - 24/09/2015',
 		rating: 'PG-13',
 		synopsis: `
-			- Mọi người không phải lúc nào cũng giống như họ xuất hiện, như trường hợp của Umaru Doma, nữ sinh trung học hoàn hảo — nghĩa là cho đến khi cô ấy về nhà! Khi cửa trước đóng lại, niềm vui thực sự bắt đầu. Khi mặc áo hoodie hamster của mình, cô ấy biến đổi từ một học sinh tinh tế, thành tích quá mức thành một otaku lười biếng, ăn đồ ăn vặt, để lại tất cả công việc nhà cho anh trai Taihei có trách nhiệm của cô ấy. Cho dù cô ấy đang đi chơi với bạn bè Nana Ebina và Kirie Motoba, hay cạnh tranh với "đối thủ" tự xưng là Sylphinford Tachibana, Umaru biết cách quay trở lại và vui chơi!<br>
-			- Himouto! Umaru-chan là một câu chuyện dễ thương kể về cuộc phiêu lưu hàng ngày của Umaru và Taihei, khi họ chăm sóc — và chịu đựng — lẫn nhau tốt nhất có thể, cũng như mối quan hệ không thể phá vỡ giữa bạn bè và anh chị em.
+			- Mọi người không phải lúc nào cũng giống như họ xuất hiện, như trường hợp của Umaru Doma, nữ sinh trung học hoàn hảo — nghĩa là cho đến khi cô ấy về nhà! Khi cửa trước đóng lại, niềm vui thực sự bắt đầu. Khi mặc áo hoodie hamster của mình, cô ấy biến đổi từ một học sinh tinh tế, thành tích quá mức thành một otaku lười biếng, ăn đồ ăn vặt, để lại tất cả công việc nhà cho anh trai Taihei có trách nhiệm của cô ấy. Cho dù cô ấy đang đi chơi với bạn bè Nana Ebina và Kirie Motoba, hay cạnh tranh với "đối thủ" tự xưng là Sylphinford Tachibana, Umaru biết cách quay trở lại và vui chơi!
+			<br>- Himouto! Umaru-chan là một câu chuyện dễ thương kể về cuộc phiêu lưu hàng ngày của Umaru và Taihei, khi họ chăm sóc — và chịu đựng — lẫn nhau tốt nhất có thể, cũng như mối quan hệ không thể phá vỡ giữa bạn bè và anh chị em.
 		`,
 		tag: [
 			'tComedy',
@@ -6134,8 +6179,8 @@ const anime = [
 		aired: '15/01/2020 - 01/04/2020',
 		rating: 'PG-13',
 		synopsis: `
-			- Mặc dù đã hoàn thành tất cả các nhiệm vụ được giao cho họ, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki và các thành viên khác của Lớp 2 rất ngạc nhiên khi biết rằng vai trò học sinh của họ còn lâu mới kết thúc. Không có phương tiện để trở về nhà, tầng lớp tính cách lập dị vẫn bị mắc kẹt một cách bí ẩn trong thế giới xa lạ. Mặc dù, khi họ đang trở nên khá yêu nhau, dành nhiều thời gian hơn cho nhau nghe có vẻ không tệ.<br>
-			- Với sự xuất hiện bất ngờ của các sinh viên chuyển trường mới, những trò hề hài hước của các nhân vật yêu quý của chúng ta tiếp tục phát triển. Do đó, cuộc sống học đường kỳ lạ nhưng thờ ơ của họ vẫn tiếp tục.
+			- Mặc dù đã hoàn thành tất cả các nhiệm vụ được giao cho họ, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki và các thành viên khác của Lớp 2 rất ngạc nhiên khi biết rằng vai trò học sinh của họ còn lâu mới kết thúc. Không có phương tiện để trở về nhà, tầng lớp tính cách lập dị vẫn bị mắc kẹt một cách bí ẩn trong thế giới xa lạ. Mặc dù, khi họ đang trở nên khá yêu nhau, dành nhiều thời gian hơn cho nhau nghe có vẻ không tệ.
+			<br>- Với sự xuất hiện bất ngờ của các sinh viên chuyển trường mới, những trò hề hài hước của các nhân vật yêu quý của chúng ta tiếp tục phát triển. Do đó, cuộc sống học đường kỳ lạ nhưng thờ ơ của họ vẫn tiếp tục.
 		`,
 		tag: [
 			'tComedy',
@@ -6368,8 +6413,8 @@ const anime = [
 		aired: '10/04/2019 - 26/06/2019',
 		rating: 'PG-13',
 		synopsis: `
-			- Đó là một ngày bình thường; tất cả mọi người từ cô gái quân nhân loạn trí Tanya Degurechaff và nhân vật chính isekai 16 tuổi Satou Kazuma đến lãnh chúa bành trướng Ainz Ooal Gown và chị em quỷ Rem và Ram tiếp tục cuộc sống hàng ngày của họ. Đột nhiên, một nút màu đỏ dễ thấy cầu xin được nhấn xuất hiện trước mặt họ. Vượt qua sự tò mò, các nhân vật ở thế giới khác nhấn nút, đưa họ đến một thế giới xa lạ.<br>
-			- Không có cách nào trốn thoát, các nhân vật phải có một cuộc sống học đường bình thường và làm quen với những người khác. Có một điều chắc chắn: lớp học đầy những tính cách lập dị được người hâm mộ yêu thích không bao giờ trở nên nhàm chán!
+			- Đó là một ngày bình thường; tất cả mọi người từ cô gái quân nhân loạn trí Tanya Degurechaff và nhân vật chính isekai 16 tuổi Satou Kazuma đến lãnh chúa bành trướng Ainz Ooal Gown và chị em quỷ Rem và Ram tiếp tục cuộc sống hàng ngày của họ. Đột nhiên, một nút màu đỏ dễ thấy cầu xin được nhấn xuất hiện trước mặt họ. Vượt qua sự tò mò, các nhân vật ở thế giới khác nhấn nút, đưa họ đến một thế giới xa lạ.
+			<br>- Không có cách nào trốn thoát, các nhân vật phải có một cuộc sống học đường bình thường và làm quen với những người khác. Có một điều chắc chắn: lớp học đầy những tính cách lập dị được người hâm mộ yêu thích không bao giờ trở nên nhàm chán!
 		`,
 		tag: [
 			'tComedy',
@@ -6562,9 +6607,9 @@ const anime = [
 		aired: '07/04/2017 - 23/06/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Sinh ra và lớn lên ở vùng nông thôn Nhật Bản, Hinako "Hina" Sakuragi dễ dàng lo lắng khi nói chuyện với những người mới — đến nỗi cô giống như một con bù nhìn cứng nhắc. Để vượt qua điều này, Hina hy vọng sẽ tham gia vào nhà hát, lấy cảm hứng từ một vở kịch mà cô đã xem trong chuyến đi thực tế của trường. Vì vậy, Hina chuyển đến Trang viên Hitotose ở thành phố Tokyo nhộn nhịp để theo học tại trường trung học Fujiyama, khao khát được tham gia câu lạc bộ sân khấu nổi tiếng của trường.<br>
-			- Nhưng trước sự thất vọng của Hina, cô biết rằng câu lạc bộ sân khấu của trường Fujiyama High đã bị gián đoạn một thời gian dài. Đã đến Tokyo và đăng ký vào trường, Hina không biết phải làm gì tiếp theo. Cảm nhận được sự thất vọng và háo hức học sân khấu của mình, Chiaki Hagino, bà chủ của Trang viên Hitoose, khuyến khích Hina thành lập một đoàn kịch với cư dân của Trang viên Hitotose là thành viên của nó.<br>
-			- Hinako Note theo chân Hina khi cô bắt đầu một cuộc sống mới ở Tokyo khi theo học trường trung học Fujiyama trong khi học các sợi dây của nhà hát với sự hỗ trợ của bạn bè trên đường đi.
+			- Sinh ra và lớn lên ở vùng nông thôn Nhật Bản, Hinako "Hina" Sakuragi dễ dàng lo lắng khi nói chuyện với những người mới — đến nỗi cô giống như một con bù nhìn cứng nhắc. Để vượt qua điều này, Hina hy vọng sẽ tham gia vào nhà hát, lấy cảm hứng từ một vở kịch mà cô đã xem trong chuyến đi thực tế của trường. Vì vậy, Hina chuyển đến Trang viên Hitotose ở thành phố Tokyo nhộn nhịp để theo học tại trường trung học Fujiyama, khao khát được tham gia câu lạc bộ sân khấu nổi tiếng của trường.
+			<br>- Nhưng trước sự thất vọng của Hina, cô biết rằng câu lạc bộ sân khấu của trường Fujiyama High đã bị gián đoạn một thời gian dài. Đã đến Tokyo và đăng ký vào trường, Hina không biết phải làm gì tiếp theo. Cảm nhận được sự thất vọng và háo hức học sân khấu của mình, Chiaki Hagino, bà chủ của Trang viên Hitoose, khuyến khích Hina thành lập một đoàn kịch với cư dân của Trang viên Hitotose là thành viên của nó.
+			<br>- Hinako Note theo chân Hina khi cô bắt đầu một cuộc sống mới ở Tokyo khi theo học trường trung học Fujiyama trong khi học các sợi dây của nhà hát với sự hỗ trợ của bạn bè trên đường đi.
 		`,
 		tag: [
 			'tComedy',
@@ -6628,8 +6673,8 @@ const anime = [
 		aired: '15/05/2015',
 		rating: 'PG-13',
 		synopsis: `
-			- OVA đi kèm với tập manga Shigatsu wa Kimi no Uso thứ 11.<br>
-			- OVA sẽ tập trung vào Kousei, Emi và Takeshi khi họ còn trẻ, cho thấy những rắc rối của họ trong các cuộc thi và bắt đầu cuộc cạnh tranh của họ.
+			- OVA đi kèm với tập manga Shigatsu wa Kimi no Uso thứ 11.
+			<br>- OVA sẽ tập trung vào Kousei, Emi và Takeshi khi họ còn trẻ, cho thấy những rắc rối của họ trong các cuộc thi và bắt đầu cuộc cạnh tranh của họ.
 		`,
 		tag: [
 			'tMusic',
@@ -6713,8 +6758,8 @@ const anime = [
 		aired: '10/10/2014 - 20/03/2015',
 		rating: 'PG-13',
 		synopsis: `
-			- Kousei Arima là một thần đồng nhí được mệnh danh là "Máy đếm nhịp con người" để chơi piano với độ chính xác và hoàn hảo. Được hướng dẫn bởi một người mẹ nghiêm khắc và được đào tạo nghiêm ngặt, Kousei thống trị mọi cuộc thi mà anh tham gia, nhận được sự ngưỡng mộ của các đồng nghiệp âm nhạc và lời khen ngợi từ khán giả. Khi mẹ anh đột ngột qua đời, chấn thương sau đó khiến anh không thể nghe thấy tiếng đàn piano, và anh không bao giờ lên sân khấu sau đó.<br>
-			- Ngày nay, Kousei sống một cuộc sống yên tĩnh và khiêm tốn khi còn là một học sinh trung học cơ sở cùng với những người bạn Tsubaki Sawabe và Ryouta Watari. Trong khi vật lộn để vượt qua cái chết của mẹ mình, anh tiếp tục bám vào âm nhạc. Cuộc sống đơn sắc của anh ấy đảo lộn vào ngày anh ấy gặp nghệ sĩ violin lập dị Kaori Miyazono, người đã đưa anh ấy trở lại ánh đèn sân khấu với tư cách là người đệm đàn cho cô ấy. Thông qua một lời nói dối nhỏ, hai nhạc sĩ trẻ này ngày càng thân thiết hơn với nhau khi Kaori cố gắng lấp đầy thế giới của Kousei bằng màu sắc.
+			- Kousei Arima là một thần đồng nhí được mệnh danh là "Máy đếm nhịp con người" để chơi piano với độ chính xác và hoàn hảo. Được hướng dẫn bởi một người mẹ nghiêm khắc và được đào tạo nghiêm ngặt, Kousei thống trị mọi cuộc thi mà anh tham gia, nhận được sự ngưỡng mộ của các đồng nghiệp âm nhạc và lời khen ngợi từ khán giả. Khi mẹ anh đột ngột qua đời, chấn thương sau đó khiến anh không thể nghe thấy tiếng đàn piano, và anh không bao giờ lên sân khấu sau đó.
+			<br>- Ngày nay, Kousei sống một cuộc sống yên tĩnh và khiêm tốn khi còn là một học sinh trung học cơ sở cùng với những người bạn Tsubaki Sawabe và Ryouta Watari. Trong khi vật lộn để vượt qua cái chết của mẹ mình, anh tiếp tục bám vào âm nhạc. Cuộc sống đơn sắc của anh ấy đảo lộn vào ngày anh ấy gặp nghệ sĩ violin lập dị Kaori Miyazono, người đã đưa anh ấy trở lại ánh đèn sân khấu với tư cách là người đệm đàn cho cô ấy. Thông qua một lời nói dối nhỏ, hai nhạc sĩ trẻ này ngày càng thân thiết hơn với nhau khi Kaori cố gắng lấp đầy thế giới của Kousei bằng màu sắc.
 		`,
 		tag: [
 			'tDrama',
@@ -6873,9 +6918,9 @@ const anime = [
 		aired: '09/01/2017 - 27/03/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Trong nhiều thế kỷ, Thiên đàng đã yêu cầu các thiên thần trẻ của mình phải sống và nghiên cứu giữa con người để trở thành những thiên thần chính thức. Điều này không khác gì đối với Gabriel White Tenma, người tin rằng sứ mệnh của cô là trở thành một thiên thần vĩ đại, người sẽ mang lại hạnh phúc cho nhân loại. Tuy nhiên, Gabriel ngày càng nghiện trò chơi điện tử trên Trái đất và cuối cùng trở thành một hikikomori. Tự xưng là "Thiên thần sa ngã", cô ấy thờ ơ với mọi thứ khác — khiến Vignette April Tsukinose, một con quỷ mà Gabriel kết bạn trong những ngày đầu thiên thần của cô ấy trên Trái đất.<br>
-			- Những nỗ lực của Vignette để đưa Gabriel trở lại con người trước đây của cô ấy là vô ích, khi Gabriel bắn hạ bất kỳ nỗ lực nào để thay đổi lối sống quý giá của cô ấy. Khi dành thời gian trên Trái đất, họ gặp hai tính cách lập dị: thiên thần Raphiel Ainsworth Shiraha, bạn cùng lớp của Gabriel với thiên hướng tàn bạo, và con quỷ Satanichia McDowell Kurumizawa, một kẻ tự xưng là người cai trị tương lai vụng về của Thế giới ngầm.<br>
-			- Gabriel DropOut theo dõi cuộc sống hài hước của bốn người bạn này khi họ hoàn toàn không hiểu ý nghĩa thực sự của việc trở thành một con quỷ hay một thiên thần.
+			- Trong nhiều thế kỷ, Thiên đàng đã yêu cầu các thiên thần trẻ của mình phải sống và nghiên cứu giữa con người để trở thành những thiên thần chính thức. Điều này không khác gì đối với Gabriel White Tenma, người tin rằng sứ mệnh của cô là trở thành một thiên thần vĩ đại, người sẽ mang lại hạnh phúc cho nhân loại. Tuy nhiên, Gabriel ngày càng nghiện trò chơi điện tử trên Trái đất và cuối cùng trở thành một hikikomori. Tự xưng là "Thiên thần sa ngã", cô ấy thờ ơ với mọi thứ khác — khiến Vignette April Tsukinose, một con quỷ mà Gabriel kết bạn trong những ngày đầu thiên thần của cô ấy trên Trái đất.
+			<br>- Những nỗ lực của Vignette để đưa Gabriel trở lại con người trước đây của cô ấy là vô ích, khi Gabriel bắn hạ bất kỳ nỗ lực nào để thay đổi lối sống quý giá của cô ấy. Khi dành thời gian trên Trái đất, họ gặp hai tính cách lập dị: thiên thần Raphiel Ainsworth Shiraha, bạn cùng lớp của Gabriel với thiên hướng tàn bạo, và con quỷ Satanichia McDowell Kurumizawa, một kẻ tự xưng là người cai trị tương lai vụng về của Thế giới ngầm.
+			<br>- Gabriel DropOut theo dõi cuộc sống hài hước của bốn người bạn này khi họ hoàn toàn không hiểu ý nghĩa thực sự của việc trở thành một con quỷ hay một thiên thần.
 		`,
 		tag: [
 			'tComedy',
@@ -6970,8 +7015,8 @@ const anime = [
 		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
-			- Với mong muốn được độc lập, Maika Sakuranomiya, 16 tuổi, rất muốn hoàn thành một công việc bán thời gian để có đủ khả năng đi du học. Thật không may, đơn đăng ký của cô ấy liên tục bị từ chối do vẻ ngoài đe dọa mà cô ấy vô tình tạo ra bất cứ khi nào cô ấy cười, mặc dù tính tình vui vẻ của cô ấy.<br>
-			- Sau một cuộc phỏng vấn thất bại khác, cô tình cờ gặp Café Stile, một quán cà phê nơi các máy chủ tương tác với khách hàng trong khi nhập vai các đặc điểm khác biệt. Người quản lý cửa hàng người Ý, Dino, trở nên say mê với sự dễ thương của Maika ngay từ cái nhìn đầu tiên, và đề nghị cô làm nhân viên phục vụ với bản tính tàn bạo. Cùng với sự vụng về vốn có của mình, cô quản lý thành công để phục vụ một cặp khách hàng khổ dâm phù hợp với tính cách mới, tàn nhẫn của cô. Cùng với Kaho Hinata trong vai tsundere và Mafuyu Hoshikawa trong vai em gái, Maika quyết định tận dụng tối đa sự kỳ quặc độc đáo của mình và củng cố vị trí của mình trong quán cà phê bằng sự tàn nhẫn không thương tiếc!
+			- Với mong muốn được độc lập, Maika Sakuranomiya, 16 tuổi, rất muốn hoàn thành một công việc bán thời gian để có đủ khả năng đi du học. Thật không may, đơn đăng ký của cô ấy liên tục bị từ chối do vẻ ngoài đe dọa mà cô ấy vô tình tạo ra bất cứ khi nào cô ấy cười, mặc dù tính tình vui vẻ của cô ấy.
+			<br>- Sau một cuộc phỏng vấn thất bại khác, cô tình cờ gặp Café Stile, một quán cà phê nơi các máy chủ tương tác với khách hàng trong khi nhập vai các đặc điểm khác biệt. Người quản lý cửa hàng người Ý, Dino, trở nên say mê với sự dễ thương của Maika ngay từ cái nhìn đầu tiên, và đề nghị cô làm nhân viên phục vụ với bản tính tàn bạo. Cùng với sự vụng về vốn có của mình, cô quản lý thành công để phục vụ một cặp khách hàng khổ dâm phù hợp với tính cách mới, tàn nhẫn của cô. Cùng với Kaho Hinata trong vai tsundere và Mafuyu Hoshikawa trong vai em gái, Maika quyết định tận dụng tối đa sự kỳ quặc độc đáo của mình và củng cố vị trí của mình trong quán cà phê bằng sự tàn nhẫn không thương tiếc!
 		`,
 		tag: [
 			'tComedy',
@@ -7048,8 +7093,8 @@ const anime = [
 		aired: '14/07/2018 - 29/09/2018',
 		rating: 'PG-13',
 		synopsis: `
-			- Iori Kitahara chuyển đến thị trấn ven biển Izu cho năm thứ nhất tại trường đại học của nó, cư trú phía trên Grand Blue, cửa hàng lặn biển của chú anh. Iori rất hy vọng và ước mơ về việc có được trải nghiệm đại học lý tưởng, nhưng khi bước vào cửa hàng, anh bị hút vào các hoạt động nghiện rượu của các thành viên vô tư của Câu lạc bộ Lặn, những người thường xuyên lui tới nơi này. Bị thuyết phục bởi các học sinh lớp trên Shinji Tokita và Ryuujirou Kotobuki, Iori miễn cưỡng tham gia bữa tiệc kỳ lạ của họ. Anh họ của anh ta là Chisa Kotegawa sau đó bước vào và bắt gặp anh ta trong hành động, khiến Iori hoàn toàn khinh miệt.<br>
-			- Dựa trên bộ truyện tranh hài kịch nổi tiếng của Kenji Inoue và Kimitake Yoshioka, Grand Blue theo dõi những sai lầm của Iori với những người bạn mới lập dị của mình khi anh cố gắng thực hiện ước mơ đại học lý tưởng của mình, đồng thời học cách lặn biển.
+			- Iori Kitahara chuyển đến thị trấn ven biển Izu cho năm thứ nhất tại trường đại học của nó, cư trú phía trên Grand Blue, cửa hàng lặn biển của chú anh. Iori rất hy vọng và ước mơ về việc có được trải nghiệm đại học lý tưởng, nhưng khi bước vào cửa hàng, anh bị hút vào các hoạt động nghiện rượu của các thành viên vô tư của Câu lạc bộ Lặn, những người thường xuyên lui tới nơi này. Bị thuyết phục bởi các học sinh lớp trên Shinji Tokita và Ryuujirou Kotobuki, Iori miễn cưỡng tham gia bữa tiệc kỳ lạ của họ. Anh họ của anh ta là Chisa Kotegawa sau đó bước vào và bắt gặp anh ta trong hành động, khiến Iori hoàn toàn khinh miệt.
+			<br>- Dựa trên bộ truyện tranh hài kịch nổi tiếng của Kenji Inoue và Kimitake Yoshioka, Grand Blue theo dõi những sai lầm của Iori với những người bạn mới lập dị của mình khi anh cố gắng thực hiện ước mơ đại học lý tưởng của mình, đồng thời học cách lặn biển.
 		`,
 		tag: [
 			'tComedy',
@@ -7286,8 +7331,8 @@ const anime = [
 		aired: '08/07/2012 - 30/09/2012',
 		rating: 'PG-13',
 		synopsis: `
-			- Khi năm sinh viên tại Học viện Yamaboshi nhận ra rằng không có câu lạc bộ nào phù hợp với họ, họ liên kết với nhau để thành lập Hiệp hội Văn hóa Sinh viên, hay gọi tắt là "StuCS". Câu lạc bộ bao gồm: Taichi Yaegashi, một người hâm mộ đấu vật khó tính; Iori Nagase , một người lạc quan thiếu quyết đoán; Himeko Inaba, một thiên tài máy tính điềm tĩnh; Yui Kiriyama , một học viên karate nhỏ nhắn; và Yoshifumi Aoki, chú hề của lớp.<br>
-			- Một ngày nọ, Aoki và Yui trải qua một sự cố kỳ lạ khi, không báo trước, họ chuyển đổi cơ thể trong một khoảng thời gian ngắn. Khi hiện tượng siêu nhiên này tiếp tục xảy ra ngẫu nhiên giữa năm người bạn, họ bắt đầu nhận ra rằng đó không chỉ là niềm vui và trò chơi. Bây giờ buộc phải trở nên thân thiết hơn bao giờ hết, họ sớm phát hiện ra những bí mật ẩn giấu và những vết sẹo tình cảm của nhau, điều này có thể khiến StuCS và tình bạn của họ tan vỡ.
+			- Khi năm sinh viên tại Học viện Yamaboshi nhận ra rằng không có câu lạc bộ nào phù hợp với họ, họ liên kết với nhau để thành lập Hiệp hội Văn hóa Sinh viên, hay gọi tắt là "StuCS". Câu lạc bộ bao gồm: Taichi Yaegashi, một người hâm mộ đấu vật khó tính; Iori Nagase , một người lạc quan thiếu quyết đoán; Himeko Inaba, một thiên tài máy tính điềm tĩnh; Yui Kiriyama , một học viên karate nhỏ nhắn; và Yoshifumi Aoki, chú hề của lớp.
+			<br>- Một ngày nọ, Aoki và Yui trải qua một sự cố kỳ lạ khi, không báo trước, họ chuyển đổi cơ thể trong một khoảng thời gian ngắn. Khi hiện tượng siêu nhiên này tiếp tục xảy ra ngẫu nhiên giữa năm người bạn, họ bắt đầu nhận ra rằng đó không chỉ là niềm vui và trò chơi. Bây giờ buộc phải trở nên thân thiết hơn bao giờ hết, họ sớm phát hiện ra những bí mật ẩn giấu và những vết sẹo tình cảm của nhau, điều này có thể khiến StuCS và tình bạn của họ tan vỡ.
 		`,
 		tag: [
 			'tDrama',
@@ -7401,8 +7446,8 @@ const anime = [
 		aired: '25/03/2016',
 		rating: 'PG-13',
 		synopsis: `
-			- Buntarou không biết mình muốn làm gì trong tương lai. Anh ấy không có bất kỳ loại ước mơ nào mà anh ấy muốn theo đuổi, vì vậy hiện tại anh ấy chỉ dành cả ngày để quây quần bên bạn bè. Một ngày nọ, bạn cùng lớp Sayuki hỏi anh ta có muốn giúp phát triển một trò chơi gal không. Cô ấy nói rằng cô ấy đã trở nên quan tâm đến sự giúp đỡ của anh ấy sau khi cô ấy đọc một tác phẩm của anh ấy dành cho câu lạc bộ kịch.<br>
-			- Buntarou không biết gì về trò chơi gal, nhưng Sayuki tuyên bố rằng cô ấy có khả năng làm cho nó thành công. Liệu họ có thể tạo ra trò chơi và liệu nó có thành công như cô ấy tuyên bố không? Đây là câu chuyện về những người trẻ tuổi bước một bước táo bạo vào những điều chưa biết...
+			- Buntarou không biết mình muốn làm gì trong tương lai. Anh ấy không có bất kỳ loại ước mơ nào mà anh ấy muốn theo đuổi, vì vậy hiện tại anh ấy chỉ dành cả ngày để quây quần bên bạn bè. Một ngày nọ, bạn cùng lớp Sayuki hỏi anh ta có muốn giúp phát triển một trò chơi gal không. Cô ấy nói rằng cô ấy đã trở nên quan tâm đến sự giúp đỡ của anh ấy sau khi cô ấy đọc một tác phẩm của anh ấy dành cho câu lạc bộ kịch.
+			<br>- Buntarou không biết gì về trò chơi gal, nhưng Sayuki tuyên bố rằng cô ấy có khả năng làm cho nó thành công. Liệu họ có thể tạo ra trò chơi và liệu nó có thành công như cô ấy tuyên bố không? Đây là câu chuyện về những người trẻ tuổi bước một bước táo bạo vào những điều chưa biết...
 		`,
 		tag: [
 			'tSchool'
@@ -7457,9 +7502,9 @@ const anime = [
 		aired: '07/01/2016 - 24/03/2016',
 		rating: 'PG-13',
 		synopsis: `
-			- Shoujo-tachi wa Kouya wo Mezasu là một loạt phim về việc tìm kiếm chính mình và một hướng đi trong cuộc sống... bất kể nó có thể cách xa con đường bị đánh đập đến mức nào.<br>
-			- Buntarou Hojo là một học sinh trung học có tài năng viết lách, nhưng không có định hướng thực sự trong cuộc sống hoặc bất kỳ kế hoạch nào cho tương lai. Bạn cùng lớp của cậu, Sayuki Kuroda nhận thấy tài năng của cậu, quyết định giúp cậu tìm cách sử dụng nó đúng cách bằng cách lôi kéo cậu vào nhóm phát triển trò chơi bishoujo của cô.<br>
-			- Khi Buntarou bị Sayuki dồn vào phòng tắm nam ở trường, cậu rất ngạc nhiên khi được hỏi về những gì cậu nghĩ là một cuộc hẹn hò, và thậm chí còn ngạc nhiên hơn nữa khi cậu phát hiện ra rằng đó không phải là một cuộc hẹn hò, mà là một cuộc phỏng vấn xin việc. Miễn cưỡng đồng ý, cả hai bắt đầu tuyển dụng các thành viên khác cho đội của họ nhưng họ sẽ tìm hiểu thêm về cách tạo trò chơi, hay bản thân cuộc sống trên đường đi?
+			- Shoujo-tachi wa Kouya wo Mezasu là một loạt phim về việc tìm kiếm chính mình và một hướng đi trong cuộc sống... bất kể nó có thể cách xa con đường bị đánh đập đến mức nào.
+			<br>- Buntarou Hojo là một học sinh trung học có tài năng viết lách, nhưng không có định hướng thực sự trong cuộc sống hoặc bất kỳ kế hoạch nào cho tương lai. Bạn cùng lớp của cậu, Sayuki Kuroda nhận thấy tài năng của cậu, quyết định giúp cậu tìm cách sử dụng nó đúng cách bằng cách lôi kéo cậu vào nhóm phát triển trò chơi bishoujo của cô.
+			<br>- Khi Buntarou bị Sayuki dồn vào phòng tắm nam ở trường, cậu rất ngạc nhiên khi được hỏi về những gì cậu nghĩ là một cuộc hẹn hò, và thậm chí còn ngạc nhiên hơn nữa khi cậu phát hiện ra rằng đó không phải là một cuộc hẹn hò, mà là một cuộc phỏng vấn xin việc. Miễn cưỡng đồng ý, cả hai bắt đầu tuyển dụng các thành viên khác cho đội của họ nhưng họ sẽ tìm hiểu thêm về cách tạo trò chơi, hay bản thân cuộc sống trên đường đi?
 		`,
 		tag: [
 			'tSchool'
@@ -7583,8 +7628,8 @@ const anime = [
 		aired: '06/07/2012 - 28/09/2012',
 		rating: 'PG-13',
 		synopsis: `
-			- Yuuki Oojima là thành viên của Câu lạc bộ Nghiên cứu Thực phẩm ở trường trung học của mình, hoạt động chính là ăn đồ ăn nhẹ được mua bằng tiền do nhà trường phân bổ cho họ. Tuy nhiên, lối sống yên bình và lãng phí này đang bị đe dọa khi cuộc bầu cử sinh viên sắp tới đang đến gần. Satsuki Shinonome, một ứng cử viên lớn và là người đứng đầu bộ phận tài chính, vận động trên một nền tảng bao gồm giải tán các câu lạc bộ vô dụng như Câu lạc bộ Nghiên cứu Thực phẩm và chuyển hướng ngân sách của họ sang các câu lạc bộ thích hợp.<br>
-			- Có thể hiểu, Câu lạc bộ Nghiên cứu Thực phẩm đang xôn xao về sự phát triển này, với chủ tịch Chisato Sumiyoshi thề sẽ bảo tồn nó. Nhưng họ thậm chí có thể làm gì để ngăn chặn Satsuki có năng lực cao và nổi tiếng được bầu?
+			- Yuuki Oojima là thành viên của Câu lạc bộ Nghiên cứu Thực phẩm ở trường trung học của mình, hoạt động chính là ăn đồ ăn nhẹ được mua bằng tiền do nhà trường phân bổ cho họ. Tuy nhiên, lối sống yên bình và lãng phí này đang bị đe dọa khi cuộc bầu cử sinh viên sắp tới đang đến gần. Satsuki Shinonome, một ứng cử viên lớn và là người đứng đầu bộ phận tài chính, vận động trên một nền tảng bao gồm giải tán các câu lạc bộ vô dụng như Câu lạc bộ Nghiên cứu Thực phẩm và chuyển hướng ngân sách của họ sang các câu lạc bộ thích hợp.
+			<br>- Có thể hiểu, Câu lạc bộ Nghiên cứu Thực phẩm đang xôn xao về sự phát triển này, với chủ tịch Chisato Sumiyoshi thề sẽ bảo tồn nó. Nhưng họ thậm chí có thể làm gì để ngăn chặn Satsuki có năng lực cao và nổi tiếng được bầu?
 		`,
 		tag: [
 			'tDrama',
@@ -7714,13 +7759,13 @@ const anime = [
 		aired: '25/12/2013 - 28/05/2014',
 		rating: 'R+',
 		synopsis: `
-			- Hoạt hình gốc sẽ được đưa vào các bản phát hành tập BD và DVD của Machine-Doll wa Kizutsukanai.<br>
-			- Tập 1: "Soshite Futari wa Manabisha e (Và vì vậy họ đến trường)"<br>
-			- Tập 2: "Irori, Rotenburo de Sosou suru (Irori gặp tai nạn tại phòng tắm ngoài trời)"<br>
-			- Tập 3: "Char và Frey, Senritsu no Bathroom (Charl, Frey và Phòng tắm khủng bố)"<br>
-			- Tập 4: "Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Giấc mơ đêm hè)"<br>
-			- Tập 5: "Kojin Jugyou: Imishitsu de Bijo Futari to ~ (Bài học riêng - Hai người đẹp trong bệnh xá)"<br>
-			- Tập 6: "Bishoujo Shuugou! Mizugi Darake no Daisoudou (Những cô gái xinh đẹp tụ tập! Pandemonium râu áo tắm)
+			- Hoạt hình gốc sẽ được đưa vào các bản phát hành tập BD và DVD của Machine-Doll wa Kizutsukanai.
+			<br>- Tập 1: "Soshite Futari wa Manabisha e (Và vì vậy họ đến trường)"
+			<br>- Tập 2: "Irori, Rotenburo de Sosou suru (Irori gặp tai nạn tại phòng tắm ngoài trời)"
+			<br>- Tập 3: "Char và Frey, Senritsu no Bathroom (Charl, Frey và Phòng tắm khủng bố)"
+			<br>- Tập 4: "Akabane Nadeshiko, Natsu no Yo no Yume (Nadeshiko Akabane, Giấc mơ đêm hè)"
+			<br>- Tập 5: "Kojin Jugyou: Imishitsu de Bijo Futari to ~ (Bài học riêng - Hai người đẹp trong bệnh xá)"
+			<br>- Tập 6: "Bishoujo Shuugou! Mizugi Darake no Daisoudou (Những cô gái xinh đẹp tụ tập! Pandemonium râu áo tắm)
 		`,
 		tag: [
 			'tAction',
@@ -7794,9 +7839,9 @@ const anime = [
 		aired: '07/10/2013 - 23/12/2013',
 		rating: 'PG-13',
 		synopsis: `
-			- Học viện Hoàng gia Walpurgis của Machinart được thành lập cùng với sự phát triển của "Machinart", phép thuật máy móc có khả năng mang lại sự sống và trí thông minh cho những con búp bê cơ khí sau đó được gọi là "máy tự động". Mục đích của nó: đào tạo những nghệ sĩ múa rối lành nghề để điều khiển máy tự động, khi quân đội trên toàn cầu đã bắt đầu kết hợp Machinart vào quân đội của họ.<br>
-			- Sau khi thất bại thảm hại trong kỳ thi tuyển sinh của học viện, Raishin Akabane và máy tự động hình người Yaya của anh ta phải đánh bại một trong một trăm học sinh hàng đầu để giành quyền tham gia Bữa tiệc buổi tối, một cuộc chiến giành quyền tối cao giữa những người múa rối bằng cách sử dụng máy tự động của họ. Người đứng cuối cùng được ban tặng danh hiệu "Người khôn ngoan" và được cấp quyền truy cập vào các nghệ thuật bị cấm mạnh mẽ. Do đó, Raishin thách thức Charlotte Belew và máy tự động Sigmund của cô ấy trong một cuộc đấu tay đôi, nhưng trước khi họ bắt đầu, Sigmund bị tấn công bởi các sinh viên khác.<br>
-			- Sau khi cứu đối thủ của mình khỏi những kẻ tấn công họ, Raishin hủy bỏ cuộc đấu tay đôi nhưng buộc phải tìm kiếm một cách mới để có quyền truy cập vào Đảng. Được thúc đẩy bởi những bi kịch trong quá khứ của mình, Raishin chiến đấu cùng với Yaya để vươn lên dẫn đầu và giành danh hiệu Wiseman.
+			- Học viện Hoàng gia Walpurgis của Machinart được thành lập cùng với sự phát triển của "Machinart", phép thuật máy móc có khả năng mang lại sự sống và trí thông minh cho những con búp bê cơ khí sau đó được gọi là "máy tự động". Mục đích của nó: đào tạo những nghệ sĩ múa rối lành nghề để điều khiển máy tự động, khi quân đội trên toàn cầu đã bắt đầu kết hợp Machinart vào quân đội của họ.
+			<br>- Sau khi thất bại thảm hại trong kỳ thi tuyển sinh của học viện, Raishin Akabane và máy tự động hình người Yaya của anh ta phải đánh bại một trong một trăm học sinh hàng đầu để giành quyền tham gia Bữa tiệc buổi tối, một cuộc chiến giành quyền tối cao giữa những người múa rối bằng cách sử dụng máy tự động của họ. Người đứng cuối cùng được ban tặng danh hiệu "Người khôn ngoan" và được cấp quyền truy cập vào các nghệ thuật bị cấm mạnh mẽ. Do đó, Raishin thách thức Charlotte Belew và máy tự động Sigmund của cô ấy trong một cuộc đấu tay đôi, nhưng trước khi họ bắt đầu, Sigmund bị tấn công bởi các sinh viên khác.
+			<br>- Sau khi cứu đối thủ của mình khỏi những kẻ tấn công họ, Raishin hủy bỏ cuộc đấu tay đôi nhưng buộc phải tìm kiếm một cách mới để có quyền truy cập vào Đảng. Được thúc đẩy bởi những bi kịch trong quá khứ của mình, Raishin chiến đấu cùng với Yaya để vươn lên dẫn đầu và giành danh hiệu Wiseman.
 		`,
 		tag: [
 			'tAction',
@@ -19147,8 +19192,8 @@ const anime = [
 		aired: '17/12/2022',
 		rating: 'PG-13',
 		synopsis: `
-			- Sau nụ hôn đầu tiên, Kaguya Shinomiya và Miyuki Shirogane không chắc mối quan hệ của họ đang đứng ở đâu. Sự không chắc chắn đáng lo ngại về việc liệu họ có thể được coi là một cặp đôi chính thức hay không đã giải phóng những vấn đề mới khi cả Kaguya và Shirogane đấu tranh để sắp xếp tình cảm của họ.<br>
-			- Trong khi các nhân viên hội học sinh đáng yêu băn khoăn, mùa Giáng sinh trôi qua, và sự lãng mạn đang ở trong không khí. Đối mặt với sự dịu dàng lan rộng, Kaguya và Shirogane phải chịu đựng trận chiến trí tuệ trìu mến của họ một lần nữa. Nếu họ dung hòa tình cảm của họ dành cho nhau, họ có thể thấy mình trong tầm tay của điều mà cả hai đã khao khát bấy lâu: tình yêu đích thực.
+			- Sau nụ hôn đầu tiên, Kaguya Shinomiya và Miyuki Shirogane không chắc mối quan hệ của họ đang đứng ở đâu. Sự không chắc chắn đáng lo ngại về việc liệu họ có thể được coi là một cặp đôi chính thức hay không đã giải phóng những vấn đề mới khi cả Kaguya và Shirogane đấu tranh để sắp xếp tình cảm của họ.
+			<br>- Trong khi các nhân viên hội học sinh đáng yêu băn khoăn, mùa Giáng sinh trôi qua, và sự lãng mạn đang ở trong không khí. Đối mặt với sự dịu dàng lan rộng, Kaguya và Shirogane phải chịu đựng trận chiến trí tuệ trìu mến của họ một lần nữa. Nếu họ dung hòa tình cảm của họ dành cho nhau, họ có thể thấy mình trong tầm tay của điều mà cả hai đã khao khát bấy lâu: tình yêu đích thực.
 		`,
 		tag: [
 			'tComedy',
@@ -22338,8 +22383,8 @@ const anime = [
 		aired: '11/01/2023 - 20/04/2023',
 		rating: 'PG-13',
 		synopsis: `
-			- Sau khi đạt được kết quả tốt trong các sự kiện trước đây của New World Online, guild Maple Tree nổi tiếng hiện nay rất hào hứng khám phá các tầng mới được giới thiệu trong trò chơi. Như thể bang hội của họ chưa đủ sợ hãi, mỗi thành viên có động lực để tìm ra các kỹ năng mạnh hơn cho bản thân để mở rộng đáng kể các lựa chọn của họ trong các trận chiến trong tương lai. Không quên tầm quan trọng của việc kết nối, guild cũng tạo ra mối quan hệ thân thiện với các guild đáng chú ý khác, chẳng hạn như Vương quốc Flame Emperor và Congregation of the Holy Swords.<br>
-			- Với bậc thầy bang hội lập dị Maple của họ đi đầu, các thành viên của Maple Tree tiếp tục vấp phải những cách sáng tạo để thực hiện các kỹ năng của họ, khiến các nhà phát triển trò chơi phát điên trên đường đi.
+			- Sau khi đạt được kết quả tốt trong các sự kiện trước đây của New World Online, guild Maple Tree nổi tiếng hiện nay rất hào hứng khám phá các tầng mới được giới thiệu trong trò chơi. Như thể bang hội của họ chưa đủ sợ hãi, mỗi thành viên có động lực để tìm ra các kỹ năng mạnh hơn cho bản thân để mở rộng đáng kể các lựa chọn của họ trong các trận chiến trong tương lai. Không quên tầm quan trọng của việc kết nối, guild cũng tạo ra mối quan hệ thân thiện với các guild đáng chú ý khác, chẳng hạn như Vương quốc Flame Emperor và Congregation of the Holy Swords.
+			<br>- Với bậc thầy bang hội lập dị Maple của họ đi đầu, các thành viên của Maple Tree tiếp tục vấp phải những cách sáng tạo để thực hiện các kỹ năng của họ, khiến các nhà phát triển trò chơi phát điên trên đường đi.
 		`,
 		tag: [
 			'tAction',
@@ -27362,41 +27407,6 @@ const anime = [
 			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders',
 			'',
 			"JoJo's Bizarre Adventure: Stardust Crusaders"
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		aired: '//202 - //202',
-		rating: 'PG-13',
-		synopsis: `
-
-		`,
-		tag: [
-			''
-		],
-		character: {
-			main: [
-				{
-					img: '',
-					name: ''
-				}
-			],
-			support: [
-				{
-					img: '',
-					name: ''
-				}
-			]
-		}
-	},
-	{
-		img: '5/50055',
-		name: [
-			'JoJo no Kimyou na Bouken: Phantom Blood',
-			'',
-			"JoJo's Bizarre Adventure: Phantom Blood"
 		],
 		studio: [
 			sNone
