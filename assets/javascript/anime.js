@@ -572,7 +572,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1766/130919',
+		img: '1963/136050',
 		name: [
 			'Megami no Café Terrace',
 			'女神のカフェテラス',
@@ -21028,7 +21028,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1439/135042',
+		img: '1626/135844',
 		name: [
 			'Kono Subarashii Sekai ni Bakuen wo!',
 			'この素晴らしい世界に爆焔を！',
@@ -21042,7 +21042,8 @@ const anime = [
 		aired: '06/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
-
+			- Megumin là một phù thủy trẻ và đam mê đến từ Làng quỷ đỏ thẫm, một cộng đồng pháp sư xa xôi với đôi mắt đỏ và sự tinh tế cho kịch tính. Cô ấy đã dành cả cuộc đời mình để thành thạo ma thuật bùng nổ, một phép thuật mạnh mẽ nhưng không thực tế khiến cô ấy cạn kiệt mana và không thể di chuyển trong phần còn lại của ngày. Bất kể, cô ấy từ chối học bất kỳ kỹ năng nào khác.
+			<br>- Cùng với người bạn thời thơ ấu và đối thủ tự xưng của mình, Yunyun, Megumin ghi danh vào Nhà tù Đỏ: một học viện danh tiếng dành cho những người sử dụng phép thuật Crimson Demon. Ở đó, cô tìm hiểu thêm về những bí mật và lịch sử của gia tộc mình, cũng như các mối đe dọa và thách thức mà họ phải đối mặt. Khi cô đánh bóng sức mạnh của mình tại Nhà tù Đỏ với sự giúp đỡ của Chomusuke quen thuộc trung thành và em gái đáng yêu Komekko, Megumin đặt mục tiêu trở thành phù thủy bùng nổ vĩ đại nhất mọi thời đại!
 		`,
 		tag: [
 			'tComedy',
