@@ -4,7 +4,9 @@ let page = 0;
 let max = 0;
 let listPresent = anime;
 getMax(listPresent);
-run(listPresent);
+setTimeout(function delay() {
+	run(listPresent);
+}, 60);
 
 const numberInput = document.querySelector('.numberInput');
 function numberOnly(e) {

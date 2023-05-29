@@ -55,9 +55,6 @@ function filter() {
 	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
 	document.querySelector('.fTag').innerHTML = tagTemp;
-	page = 0;
-	getMax(anime);
-	run(anime);
 }
 
 function apply() {
@@ -189,6 +186,7 @@ function apply() {
 	page = 0;
 	getMax(filterByTag);
 	run(filterByTag);
+	numberInput.value = 1;
 }
 
 // function checked(get) {
