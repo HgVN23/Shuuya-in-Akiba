@@ -729,7 +729,7 @@ const anime = [
 		}
 	},
 	{
-		img: '1967/129736',
+		img: '1250/135256',
 		name: [
 			'Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita',
 			'異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～',
