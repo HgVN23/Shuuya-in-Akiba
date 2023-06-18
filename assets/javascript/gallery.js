@@ -106,7 +106,7 @@ function addAnime(list) {
 		for(var j = 0; j < temp.tag.length; j++) {
 			tag += `<div class="tag ${temp.tag[j]}"></div>\n`
 		}
-		let character = ``;
+		// let character = ``;
 		// for(var j = 0; j < temp.character.main.length; j++) {
 		// 	character += `
 		// 		<div class="cContainer">
@@ -142,18 +142,11 @@ function addAnime(list) {
 							<div class="smallInfo">
 								<p class="type">${type}</p>
 								<p class="season">${season}</p>
-								<p class="aired">${aired}</p>
 								<p class="rating">${rating}</p>
 							</div>
 						</div>
-						<p class="synopsis">
-							${synopsis}
-						</p>
 						<div class="tagBox">
 							${tag}
-						</div>
-						<div class="characterBox">
-							${character}
 						</div>
 						<div class="relatedBox">
 							<a class="rImg rAnimeVietsub" href="https://animevietsub.im/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>

@@ -11,7 +11,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -45,7 +44,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
-		aired: '07/10/2014 - 26/12/2014',
 		rating: 'PG-13',
 		synopsis: `
 			- Seiya Kanie, một học sinh trung học thông minh và cực kỳ tự ái, tin rằng Isuzu Sento xinh đẹp nhưng dè dặt đã mời anh hẹn hò tại một công viên giải trí có tên Amagi Brilliant Park. Trước sự thất vọng của anh, không chỉ là một cơ sở xuống cấp, ngày được cho là chỉ đơn thuần là một chuyến tham quan tuyển dụng, nơi Sento và Công chúa Latifa Fleuranza, chủ sở hữu của công viên giải trí, yêu cầu anh trở thành người quản lý mới của công viên. Nguyên nhân tuyệt vọng của họ? Theo quy định trong hợp đồng sử dụng đất, Amagi có ít hơn ba tháng để đáp ứng hạn ngạch 500.000 khách, hoặc công viên sẽ bị đóng cửa vĩnh viễn và đất được tái phát triển bởi một công ty bất động sản tham lam.
@@ -91,7 +89,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
-		aired: '05/10/2011 - 21/12/2011',
 		rating: 'R+',
 		synopsis: `
 			- Khi các chàng trai đột nhiên đến những nơi mà họ chưa bao giờ được phép trước đây, một số cô gái có xu hướng khó chịu. Vì vậy, khi quyết định hợp nhất Học viện tư nhân nữ Yuihime ưu tú và Học viện tư nhân Kagamidai đồng giáo dục, mọi người đều muốn cẩn thận hơn trong việc tránh rắc rối trong khi đưa hai Tư nhân lại với nhau. Do đó, thay vì chỉ đưa các chàng trai Kagamidai vào trường nữ sinh Yuihime cùng một lúc, một kế hoạch được lập ra, trong đó một nhóm nam sinh thử nghiệm sẽ được đưa vào Học viện tư nhân nữ trước.
@@ -150,7 +147,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '20/04/2023 - ??/09/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một trăm năm trước, đã có một cuộc đại chiến giữa loài người và loài thú. Khi chiến tranh kết thúc, một truyền thống hàng năm đã được đề xuất, nơi một vật hiến tế nữ sẽ được lấy từ con người để Vua Thú ăn. Truyền thống này tiếp tục khi lễ hiến tế thứ 99, Sariphi, 15 tuổi, được đưa từ làng của cô đến vương quốc Ozmargo, một vương quốc đầy khí độc, nơi thú dữ sống và con người bị cấm.
@@ -192,7 +188,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '09/04/2023 - ??/09/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Hajime Aono từng sống vì tiếng đàn violin của mình. Ngay từ khi còn nhỏ, anh đã ngưỡng mộ người cha nghệ sĩ violin nổi tiếng thế giới của mình, người đã truyền cảm hứng cho anh tự mình chọn nhạc cụ. Nhưng sau cuộc ly hôn cay đắng của cha mẹ, Aono thề sẽ không bao giờ chơi nữa và đi học trung học mà không có định hướng hay triển vọng.
@@ -246,7 +241,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '12/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Ai Hoshino mười sáu tuổi là một thần tượng tài năng và xinh đẹp, được người hâm mộ yêu mến. Cô ấy là hiện thân của một thiếu nữ trẻ trung, thuần khiết. Nhưng tất cả những gì lấp lánh không phải là vàng.
@@ -294,7 +288,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '11/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Đó là một cuộc đối đầu cho các lứa tuổi khi người anh hùng huyền thoại đối đầu với thần xác chết necromancer, nhưng khi bụi lắng xuống, có điều gì đó không hoàn toàn đúng ... Trong những giây phút cuối cùng của cuộc đối đầu hoành tráng của họ, phát súng canh bạc cuối cùng của vị thần xác chết hoàn toàn bất ngờ—ma thuật luân hồi! Xuyên không gian và thời gian, một cậu bé tên Polka Shinoyama đánh thức cảm xúc... không hoàn toàn là chính mình... Ai có thể ngờ rằng trận chiến đỉnh cao giữa thiện và ác lại diễn ra như thế này?
@@ -341,7 +334,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '10/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Khi Park Eunha chết ở Hàn Quốc ngày nay, cô tỉnh dậy trong cơ thể của Raeliana McMillan, con gái lớn của một nam tước giàu có. Tuy nhiên, đây không phải là thế giới bình thường; Nó giống hệt như một cuốn tiểu thuyết mà cô đã từng đọc. Được gia đình yêu quý, dường như cô đang ở trong một câu chuyện cổ tích. Nhưng Raeliana khác xa với nhân vật chính — cô ấy chỉ là một thiết bị âm mưu, vụ giết người dưới tay vị hôn phu của cô ấy đã xúi giục toàn bộ câu chuyện.
@@ -384,7 +376,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '11/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Tất cả bắt đầu với cái chết của một trong những thành viên của Câu lạc bộ Thiên văn học. Từ đó, bóng ma tin đồn của câu lạc bộ trở nên sống động.
@@ -427,7 +418,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Đã từng có một người đàn ông được triệu hồi đến một thế giới khác, và đã cứu nó. Tất nhiên, anh ta trở nên quá nổi tiếng ở đó, và biến thành một isekai-normie. Tuy nhiên, người đàn ông đó đã rơi vào một "cái bẫy" và buộc phải trở về thế giới ban đầu của mình. Hơn nữa, anh phải bắt đầu lại từ khi còn nhỏ!
@@ -484,7 +474,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Ever since their father died, Ichirou Kuga has struggled to support his two younger siblings on nothing but a small inheritance and his passion for drawing manga. But it's becoming harder to keep up with his growing responsibilities and deadlines, especially after his last two assistants quit to follow their dreams. Just as he's nearing his breaking point, the beautiful and scarily competent Shiori Goshiki applies to become his new assistant. But there's something almost otherworldly about Goshiki, and soon Kuga finds his reality turned upside down when she suddenly declares them engaged to marry!
@@ -526,7 +515,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '07/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Liza Luna là một người ngoài hành tinh muốn hủy diệt Trái đất ngay từ cái nhìn đầu tiên. Nhưng hành tinh này có rất nhiều điều tốt đẹp, và sẽ thật đáng tiếc nếu cô ấy không kiểm tra nó. Do đó, Trái đất không bị hủy diệt, và người ngoài hành tinh bắt đầu lang thang khắp các nơi. Chẳng mấy chốc, Liza kết thúc ở một quán cà phê mèo, nơi cô sẽ gặp những sinh vật nằm ngoài tầm hiểu biết của cô.				
@@ -583,7 +571,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '08/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -646,7 +633,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '08/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Koito Koganei làm việc như một thiếu nữ trong đền thờ tại đền Takamimi, phục vụ cho ý thích bất chợt của cư dân nơi đây: một yêu tinh hàng thế kỷ yêu thích trò chơi điện tử cũng như ghét ra ngoài! Sắp xếp các dịch vụ của bạn cho yêu tinh otaku — một số nước tăng lực, khoai tây chiên và trò chơi điện tử sẽ hoạt động tốt — và xem những người bạn mới của cô ấy tranh giành để theo kịp!
@@ -696,7 +682,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '06/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Cuộc sống có vẻ đầy hứa hẹn đối với Hime Shiraki, một cô gái có điểm số tốt, danh tiếng hoàn hảo và khuôn mặt dễ thương để vượt qua tất cả. Chỉ cần cô có thể giữ được vẻ ngoài hoàn hảo của mình, cô sẽ có thể thực hiện ước mơ của mình: được mọi người yêu mến và trở thành người vợ danh hiệu của một tỷ phú.
@@ -755,7 +740,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '07/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- "Không phải tôi là người mạnh nhất ở thế giới khác, mà là em gái tôi?!"
@@ -803,7 +787,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '08/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Đối với những người khác trong thế giới thống trị ma thuật của mình, Mash Burnedead trẻ tuổi và bất lực là mối đe dọa đối với nguồn gen và phải bị thanh trừng. Sống bí mật trong rừng, anh dành mỗi ngày để rèn luyện cơ thể, xây dựng cơ bắp đủ mạnh để cạnh tranh với chính ma thuật! Tuy nhiên, khi danh tính của mình bị phơi bày và cuộc sống yên bình của anh ta bị đe dọa, Mash bắt đầu hành trình trở thành một "Người nhìn xa trông rộng thần thánh", một vai trò mạnh mẽ đến mức xã hội sẽ không có lựa chọn nào khác ngoài việc chấp nhận sự tồn tại của anh ta.
@@ -860,7 +843,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '07/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Xa về phía bắc của thế giới là Cổng Địa ngục, một cánh cổng trước đây được Chúa quỷ sử dụng để xâm chiếm vương quốc loài người. Nhờ anh hùng huyền thoại Shion Bladearts, người sử dụng Excalibur, và nhóm bạn đồng hành trung thành của mình, Cánh cổng đã bị phong tỏa và mối đe dọa ma quỷ đã bị đánh bại.
@@ -922,7 +904,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '06/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Cha mẹ của Yukito là thủ lĩnh của một giáo phái. Sau khi anh ta bị hy sinh, anh ta được đầu thai vào một thế giới khác, nơi tôn giáo không tồn tại và sách khiêu dâm giống như hình vẽ nguệch ngoạc của một đứa trẻ. Anh ta thấy rằng đó cũng là một thế giới nơi sự sống và cái chết của bạn được quyết định bởi đất nước. Trong khi cản trở việc hành quyết bạn mình, cả hai đều mất mạng. Ngay lúc đó, vị thần của tôn giáo của mình đến thế giới của họ và hồi sinh họ.
@@ -975,7 +956,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '04/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Sinh viên xuất sắc Iwakura Mitsumi luôn mơ ước rời khỏi thị trấn nhỏ của mình, đến một trường đại học danh tiếng và tạo ra sự thay đổi tích cực trên thế giới. Nhưng cô ấy quá tập trung vào việc đạt được mục tiêu của mình đến nỗi cô ấy không chuẩn bị cho cuộc sống thành phố rất khác biệt (và áp đảo) đang chờ đợi cô ấy ở một trường trung học ở Tokyo. May mắn thay, cô kết bạn nhanh chóng với Shima Sousuke, một người bạn cùng lớp đẹp trai, người thoải mái như cô đã chuẩn bị quá mức. Liệu cô gái nhà quê ngây thơ này có thể làm nên chuyện ở Tokyo với Sousuke bên cạnh?
@@ -1018,7 +998,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '03/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một cơ hội để trở lại!
@@ -1066,7 +1045,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '09/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Đối lập thu hút khi một airhead vui vẻ gặp hoa tường vi cư trú của lớp học mới của mình trong loạt phim hài học đường ấm áp, lát cắt cuộc sống này!
@@ -1109,7 +1087,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '03/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Thiếu niên Shiinya Kazuya đã chết trong khi cứu các cô gái trẻ khỏi một kẻ tấn công, chỉ để thấy mình tái sinh vào một thế giới của kiếm và ma thuật. Đó là một giấc mơ trở thành sự thật! Mặc dù anh ta nhớ cuộc đời và kiến thức của mình về Trái đất, anh ta bây giờ là Cain von Silford, con trai thứ ba của một quý tộc. Được ban cho sự bảo vệ của các vị thần vào ngày sinh nhật thứ năm của mình hóa ra là một điều quá tốt cho Cain. Chỉ số và tăng cường của anh ta rất mạnh mẽ, anh ta phải che giấu khả năng thực sự của mình để leo lên hàng ngũ xã hội khi anh ta rơi vào ngục tối nhất. Cuộc phiêu lưu isekai cuối cùng bắt đầu khi một đứa trẻ tuổi teen bị mắc kẹt trong một vương quốc xinh đẹp mà anh ta không tạo ra, nhưng một ngày nào đó có thể cai trị!
@@ -1161,7 +1138,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '01/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong sự an toàn của các bức tường, thanh thiếu niên được nuôi dưỡng trong một khung cảnh kiểu nhà trẻ bởi robot. Trong khi cuộc sống ở đó có thể xuất hiện cũ trên bề mặt, những đứa trẻ đầy tiềm năng và tò mò. Theo nhiều cách, nó giống như một lát cắt của thiên đường. Thế giới bên ngoài là một cảnh địa ngục. Nó gần như hoàn toàn không có bất cứ thứ gì máy móc và hiện là nơi sinh sống của những sinh vật siêu nhiên kỳ lạ nhưng mạnh mẽ.
@@ -1203,7 +1179,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '02/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Kyoutaro Ichikawa có thể trông giống như học sinh trung học bình thường của bạn, nhưng trong trái tim anh ta, anh ta mơ ước giết người. Do đó, không có gì ngạc nhiên khi người mà anh ta muốn giết nhất không bao giờ xa rời tâm trí anh ta: thần tượng của lớp, Anna Yamada.
@@ -1278,7 +1253,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '02/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Sau khi bạn trai lừa dối cô với một cô gái khác mà anh gặp trong trò chơi, Akane Kinoshita học được một cách khó khăn rằng bạn trai game thủ có thể tệ như loại ngoại tuyến. Khi cô trút giận bằng cách đánh quái vật đám đông đến tủy, cô có cơ hội gặp Akito Yamada, một người bạn cùng bang hội với mặt nạ afro và Noh.
@@ -1336,7 +1310,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
-		aired: '13/07/2021 - 28/09/2021',
 		rating: 'R-17+',
 		synopsis: `
 			- Đó chỉ là một buổi sáng bình thường.
@@ -1431,7 +1404,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
-		aired: '07/07/2014 - 15/12/2014',
 		rating: 'R-17+',
 		synopsis: `
 			- Night Raid là nhánh ám sát bí mật của Quân đội Cách mạng, một cuộc nổi dậy được tập hợp để lật đổ Thủ tướng Trung thực, người có sự hám lợi và tham lam quyền lực đã khiến ông lợi dụng sự thiếu kinh nghiệm của hoàng đế nhí. Nếu không có một nhà lãnh đạo mạnh mẽ và nhân từ, phần còn lại của đất nước bị bỏ lại trong nghèo đói, xung đột và đổ nát. Mặc dù các thành viên Night Raid đều là những kẻ giết người giàu kinh nghiệm, nhưng họ hiểu rằng việc cướp đi mạng sống là điều không đáng khen ngợi và họ có thể sẽ phải đối mặt với sự trả thù khi họ loại bỏ không thương tiếc bất kỳ ai cản đường cuộc cách mạng.
@@ -1717,7 +1689,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
-		aired: '04/07/2017 - 19/09/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Yoshiko Hanabatake là một kẻ ngốc ngoài mọi niềm tin. Bằng cách nào đó, xoay sở để liên tục đạt điểm XNUMX trong tất cả các bài kiểm tra của mình và bị cuốn hút bởi nỗi ám ảnh vô lý về chuối, những hành động vô nghĩa của cô ấy đã khiến ngay cả mẹ ruột của cô ấy cũng mất hết hy vọng. Chỉ có một người hoàn thành nhiệm vụ kiểm soát sự điên rồ của mình: người bạn thời thơ ấu Akuru "A-kun" Akutsu.
@@ -1803,7 +1774,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
-		aired: '02/07/2017 - 24/09/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Chết trong một vụ tai nạn xe hơi, Tsubasa Kurata - một otaku đến từ Nhật Bản hiện đại - được tái sinh ở Vương quốc Fremmevilla, một thế giới thời trung cổ, nơi những người máy mạnh mẽ được gọi là Silhouette Knights được sử dụng để chiến đấu với những con ma thú khủng khiếp.
@@ -1974,7 +1944,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		aired: '01/07/2018 - 16/09/2018',
 		rating: 'PG-13',
 		synopsis: `
 			- Trên một hòn đảo xa xôi cách xa đất liền tên là Urashima, một người đàn ông dạt vào bờ, không nhớ gì về tên hay quê hương của mình. Tuy nhiên, những gì anh ta nhớ lại là anh ta là một nhà du hành thời gian với một nhiệm vụ: cứu một cô gái nào đó khỏi bị chết. Khi màn đêm buông xuống, anh gặp Rinne Ohara, một cô gái hát một giai điệu khiến anh nhớ đến một cái tên cụ thể — Setsuna — và quyết định sử dụng nó như của riêng mình.
@@ -2041,7 +2010,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
-		aired: '30/03/2016',
 		rating: 'PG-13',
 		synopsis: `
 			- Khả năng thấu thị của Takehito Kumagami dẫn nhóm bạn của mình đến một đứa trẻ khác có sức mạnh siêu nhiên: Iori Sekiguchi, một người đọc tâm trí. Tuy nhiên, khi họ cố gắng tiếp cận cô ấy, họ nhận ra sức mạnh của cô ấy khiến cô ấy gần như không thể xác định được. Sau khi được câu lạc bộ lựa chọn để xử lý trường hợp này, Nao Tomori và Yuu Otosaka phải tìm cách để vượt qua khả năng độc đáo của đứa trẻ trước khi quá muộn.
@@ -2101,7 +2069,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
-		aired: '05/07/2015 - 27/09/2015',
 		rating: 'PG-13',
 		synopsis: `
 			- Nếu không phải vì khả năng chiếm lĩnh tâm trí và thể xác của mọi người, Yuu Otosaka sẽ là một học sinh trung học bình thường. Mặc dù nó chỉ kéo dài trong năm giây mỗi lần, nhưng sức mạnh bí ẩn của Yuu đã cho phép anh ta gian lận theo cách của mình để lên đầu lớp và vào một trường trung học danh tiếng, nơi anh ta tiếp tục những hành động không trung thực của mình.
@@ -2264,7 +2231,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
-		aired: '06/01/2021 - 24/03/2021',
 		rating: 'R-17+',
 		synopsis: `
 			- Sau bài phát biểu nghiêm khắc nhưng hấp dẫn của Otto Suwen, Subaru Natsuki trịnh trọng thề rằng anh ấy sẽ vượt qua thành công dòng thời gian này và cứu tất cả những người anh ấy có thể trên đường đi. Bước đầu tiên để đạt được mục tiêu này là giúp Emilia vượt qua quá khứ của mình; tuy nhiên, điều đó nói dễ hơn làm. Cảm giác như thể mình đã bị mọi người xung quanh nói dối, sẽ rất khó để Emilia tin tưởng bất cứ ai, kể cả Subaru, người tự xưng là hiệp sĩ của cô.
@@ -2420,7 +2386,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
-		aired: '08/07/2020 - 30/09/2020',
 		rating: 'R-17+',
 		synopsis: `
 			- Một cuộc hội ngộ được cho là đánh dấu sự xuất hiện của thời kỳ yên bình nhanh chóng bị phá vỡ khi Subaru Natsuki và Emilia trở về làng Irlam. Chứng kiến sự tàn phá do những tai họa được gọi là Tổng giám mục Sin để lại, Subaru chìm vào vực sâu của sự tuyệt vọng khi khả năng làm lại của anh ta tỏ ra vô ích.
@@ -2585,7 +2550,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2019',
-		aired: '08/11/2019',
 		rating: 'PG-13',
 		synopsis: `
 			- Được bao phủ bởi băng tuyết, Rừng Elior là nơi sinh sống của những con thú ma thuật nguy hiểm và 50 yêu tinh bị đóng băng trong băng. Một ngày nọ, tinh thần tuyệt vời Puck giúp một cô gái trẻ thoát ra khỏi nhà tù băng của mình. Tên cô ấy là Emilia, một nửa yêu tinh được sinh ra với mái tóc bạc, đôi tai dài và đôi mắt thạch anh tím — những đặc điểm giống với Phù thủy độc ác đã phá hủy một nửa thế giới từ lâu.
@@ -2651,7 +2615,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2018',
-		aired: '06/10/2018',
 		rating: 'PG-13',
 		synopsis: `
 			- Subaru Natsuki cuối cùng cũng được thở phào, nhưng anh ấy không lãng phí thời gian khi chuẩn bị cho một cuộc hẹn hò với Emilia yêu dấu của mình. Anh ta trinh sát ngôi làng gần đó để tìm đúng địa điểm hẹn hò, và với sự giúp đỡ của những đứa trẻ trong làng, anh ta tìm thấy một địa điểm tuyệt vời. Cùng với đó, anh ấy đã chuẩn bị tốt cho buổi hẹn hò của mình!
@@ -2728,7 +2691,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
-		aired: '04/04/2016 - 19/09/2016',
 		rating: 'R-17+',
 		synopsis: `
 			- Khi Subaru Natsuki rời khỏi cửa hàng tiện lợi, điều cuối cùng anh mong đợi là bị cuốn vào cuộc sống hàng ngày và rơi vào một thế giới giả tưởng. Mọi thứ có vẻ không tốt cho thiếu niên hoang mang; Tuy nhiên, không lâu sau khi đến, anh ta bị một số tên côn đồ tấn công. Chỉ được trang bị một túi hàng tạp hóa và một chiếc điện thoại di động vô dụng, anh ta nhanh chóng bị đánh đến tủy. May mắn thay, một người đẹp bí ẩn tên là Satella, trong cuộc truy đuổi nóng bỏng sau khi kẻ đã đánh cắp phù hiệu của cô, tình cờ gặp Subaru và cứu anh ta. Để cảm ơn cô gái trung thực và tốt bụng, Subaru đề nghị giúp đỡ trong cuộc tìm kiếm của cô, và sau đêm đó, anh thậm chí còn tìm thấy nơi ở của thứ mà cô tìm kiếm. Nhưng họ không hề hay biết, một thế lực đen tối hơn nhiều rình rập cặp đôi từ trong bóng tối, và chỉ vài phút sau khi xác định được phù hiệu, Subaru và Satella đã bị sát hại dã man.
@@ -2935,7 +2897,6 @@ const anime = [
 				},
 				{
 					img: '12/479243',
-					name: `Petelgeuse's Finger (Woman 2) "Insane short-haired woman"`
 				},
 				{
 					img: '2/311500',
@@ -3040,7 +3001,6 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
-		aired: '25/11/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Tập thứ 13 gốc đi kèm với tập 7 phiên bản giới hạn của manga Busou Shoujo Machiavellianism.
@@ -3130,7 +3090,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		aired: '05/04/2017 - 21/06/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Học viện cộng sinh tư nhân Aichi ban đầu là một trường trung học dành cho các nữ sinh cao cấp. Khi nó trở thành đồng sáng tác, các cô gái, vì sợ hãi, đã yêu cầu được phép mang vũ khí đến trường. Khi điều đó được thực thi, một tổ chức giống như quân đoàn cảnh giác gồm năm thành viên được gọi là "Năm thanh kiếm tối cao" cũng được thành lập.
@@ -3260,7 +3219,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2019',
-		aired: '19/07/2019',
 		rating: 'PG-13',
 		synopsis: `
 			- Tokyo hiện đang trải qua những cơn mưa rào dường như phá vỡ nhịp sống thông thường của tất cả mọi người sống ở đó đến không có hồi kết. Giữa trận mưa như vĩnh cửu này, học sinh trung học bỏ trốn Hodaka Morishima, người đang phải vật lộn để tự hỗ trợ tài chính — kết thúc với một công việc tại một nhà xuất bản thời gian nhỏ. Đồng thời, Hina Amano mồ côi cũng cố gắng tìm việc làm để duy trì bản thân và em trai.
@@ -3362,7 +3320,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - ??/??/2023',
 		rating: 'R+',
 		synopsis: `
 			- Matsuri Kazamaki và Suzu Kanade là những người bạn thời thơ ấu, gắn bó với nhau bởi khả năng chung của họ để nhìn thấy ayakashi - yêu quái để tìm kiếm một sinh lực để nuốt chửng. Tuy nhiên, ở trường trung học, mối quan hệ của họ xấu đi. Khi tình cảm một chiều của Suzu ngày càng tăng, sự khác biệt trong quan điểm ayakashi của họ cũng vậy: Matsuri coi tất cả ayakashi là mối đe dọa đối với bạn mình, trong khi Suzu là một phương tiện ayakashi - một người toát ra một lượng sinh lực đáng kể so với con người bình thường - và yêu tất cả họ bất chấp rủi ro.
@@ -3458,7 +3415,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - ??/??/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Junta Shiraishi là một học sinh trung học với một mục tiêu đơn giản - đó là tận hưởng tuổi trẻ của mình. Tuy nhiên, việc đạt được mục tiêu này không đơn giản như vậy vì Shiraishi thực sự vô hình đối với các đồng nghiệp của mình; ngay cả giáo viên của anh ấy thường xuyên không nhận thấy sự hiện diện của anh ấy. Trên thực tế, có một tin đồn lan truyền rằng bất cứ ai quản lý để phát hiện ra anh ta sẽ nhận được may mắn.
@@ -3533,7 +3489,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '11/01/2023 - 29/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Cùng với ba anh hùng khác, Mukouda Tsuyoshi, 27 tuổi, được đưa vào một thế giới giả tưởng để giải cứu một vương quốc khỏi mối đe dọa bí ẩn. Tuy nhiên, ngay sau đó rõ ràng rằng Tsuyoshi đã bị kéo vào nghi thức triệu hồi một cách tình cờ. Kỹ năng duy nhất của anh ấy hóa ra là "Thực đơn thực phẩm", cho phép anh ấy mở một giao diện nơi anh ấy có thể mua và lấy các mặt hàng siêu thị liên quan đến thực phẩm từ Nhật Bản hiện đại.
@@ -3581,7 +3536,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Saenome được giao nhiệm vụ phong ấn các linh hồn sở hữu đồ vật và gây ra mối đe dọa cho xã hội. Được gọi là tsukumogami, những linh hồn này thường không bạo lực và saenome thường phong ấn chúng sau một cuộc trao đổi bằng lời nói đơn giản.
@@ -3649,7 +3603,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - 02/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Wisteria là một cô gái mồ côi sống ở một góc của Đế quốc Anh vào cuối thế kỷ 19. Cuộc sống của cô thật hoang vắng và ảm đạm - cho đến khi cô gặp Marbas, một sinh vật bất tử mạnh mẽ nhưng không kém phần cô đơn với vẻ ngoài có lông, bị săn đuổi bởi những người thợ săn. Cùng nhau, Wisteria và Marbas đi lang thang trong Đế chế - nơi sinh sống của con người và những con thú giống người - để tìm kiếm một nơi mà họ có thể sống cùng nhau trong hòa bình.
@@ -3694,7 +3647,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Vị vua anh hùng Inglis - người đã cống hiến cả cuộc đời mình để xây dựng đất nước của mình - hiện đang tiến gần đến cái chết. Để trao cho anh ta những thành tích danh dự của mình, nữ thần Alistia xuất hiện và ban cho anh ta một điều ước. Chưa bao giờ có thể làm chủ lưỡi kiếm, Inglis yêu cầu được tái sinh để làm như vậy.
@@ -3746,7 +3698,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2016',
-		aired: '17/09/2016',
 		rating: 'PG-13',
 		synopsis: `
 			- Là một thanh niên hoang dã, học sinh tiểu học Shouya Ishida đã tìm cách đánh bại sự nhàm chán theo những cách tàn nhẫn nhất. Khi Shouko Nishimiya khiếm thính chuyển vào lớp học của mình, Shouya và những người còn lại trong lớp đã bắt nạt cô một cách thiếu suy nghĩ để giải trí. Tuy nhiên, khi mẹ cô thông báo cho nhà trường, anh ta bị chỉ ra và đổ lỗi cho tất cả những gì đã làm với cô. Với việc Shouko chuyển ra khỏi trường, Shouya bị bỏ lại dưới sự thương xót của các bạn cùng lớp. Anh ta bị tẩy chay một cách vô tâm trong suốt trường tiểu học và trung học cơ sở, trong khi các giáo viên nhắm mắt làm ngơ.
@@ -3847,7 +3798,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
-		aired: '03/03/2007',
 		rating: 'PG-13',
 		synopsis: `
 			- Điều gì xảy ra khi hai người yêu nhau nhưng không có ý định ở bên nhau? Takaki Toono và Akari Shinohara là bạn thời thơ ấu, nhưng hoàn cảnh ngoài tầm kiểm soát của họ đã xé nát họ. Họ hứa sẽ giữ liên lạc, và mặc dù sự tiến triển của thời gian mở rộng khoảng cách giữa họ, chuỗi ký ức vẫn luôn hiện hữu.
@@ -3904,7 +3854,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - 26/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mặc dù là một người siêng năng với nhiều kỹ năng, Saitou bị đánh giá thấp và trả lương thấp nghiêm trọng. Khi anh ta phàn nàn, ông chủ của anh ta sa thải anh ta, tuyên bố rằng anh ta có thể dễ dàng thay thế. Như thể vận may của anh ta không đủ tệ, một chiếc xe tải bất ngờ đâm và giết chết Saitou trên đường về nhà.
@@ -3956,7 +3905,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '08/01/2023 - 26/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một ngày nọ, Mitsuha rơi xuống một vách đá và được đưa đến một thế giới kiểu châu Âu thời trung cổ! Sau một cuộc chạm trán cận kề cái chết với một bầy sói, sau đó cô ấy nhận ra rằng cô ấy có thể vận chuyển giữa hai thế giới — thế giới này và của chính cô ấy. Tận dụng khả năng này, Mitsuha quyết định sống ở cả hai thế giới và tính toán rằng cô ấy sẽ cần 80.000 đồng tiền vàng để có thể nghỉ hưu! Mitsuha bây giờ phải nghĩ ra nhiều cách khác nhau để thu thập tiền vàng của mình!
@@ -3992,7 +3940,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mặc dù đứng ở đỉnh cao với tư cách là thầy trừ tà mạnh nhất, Haruyoshi Kuga thậm chí còn tìm kiếm sức mạnh lớn hơn, dẫn đến cái chết của anh ta dưới bàn tay của những người ghen tị với sức mạnh của anh ta. Khi anh ta trút hơi thở cuối cùng, anh ta sử dụng một câu thần chú cho phép anh ta tái sinh và thề sẽ trở nên xảo quyệt hơn, hy vọng rằng mọi nỗ lực của anh ta sẽ trở nên hữu ích trong cuộc sống tiếp theo của anh ta.
@@ -4051,7 +3998,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
-		aired: '09/10/2011 - 25/12/2011',
 		rating: 'PG-13',
 		synopsis: `
 			- Siêu thị là một tòa nhà quan trọng ở bất kỳ thành phố nào, vì chúng cung cấp một cách thuận tiện để mua nhiều loại thực phẩm trong một môi trường an toàn, thân thiện với gia đình. Tuy nhiên, những cửa hàng này thay đổi trong chớp mắt khi những hộp bento chưa bán được sẽ có doanh số giảm một nửa hàng đêm! Chiến tranh nổ ra và bạn bè trở thành kẻ thù khi mỗi người chiến đấu vì danh dự, niềm tự hào và bữa tối. Không còn bất kỳ người nào trong các siêu thị này, chỉ có Chó sói và Chó — người chiến thắng và người thua cuộc.
@@ -4170,7 +4116,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mahiru Shiina xứng đáng với biệt danh "Thiên thần": cô ấy là một vẻ đẹp thần thánh được mọi người yêu mến, và cô ấy xuất sắc trong cả học tập và điền kinh. Shiina sống trong một thế giới hoàn toàn khác với Amane Fujimiya, người hàng xóm bên cạnh cô. Mặc dù sống rất gần nhau, họ chưa bao giờ nói chuyện một lần. Nhưng sự im lặng của họ bị phá vỡ khi Fujimiya phát hiện ra Shiina đang hả hê ngồi trên xích đu giữa cơn mưa lớn và cho cô mượn chiếc ô của mình.
@@ -4230,7 +4175,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 01/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Vào đêm Giáng sinh, Miri Unasaka, bốn tuổi, đến Tokyo hoàn toàn một mình, để tìm kiếm cha mình. Ánh đèn rực rỡ và bầu không khí vui vẻ dẫn Miri đến một khách sạn lớn và một người đàn ông với một chiếc bánh trông rất ngon. Tuy nhiên, đứa trẻ vừa vô tình bước vào trung tâm của một kế hoạch phức tạp, hoàn hảo để ám sát một ông trùm mafia nguy hiểm.
@@ -4280,7 +4224,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong thế giới Ars, con người dẫn đầu một cuộc chiến kéo dài hàng thập kỷ chống lại những con thú khổng lồ tàn phá vùng đất và ăn tài nguyên của chúng. Những người được giao nhiệm vụ chiến đấu với họ là những nhà vô địch được gọi là nagimori, người sử dụng sức mạnh hủy diệt của kannagi: những sinh vật có năng khiếu với sức mạnh ma thuật không thể kiểm soát.
@@ -4395,7 +4338,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 25/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Thành viên câu lạc bộ phát thanh truyền hình Shihono Kobayashi luôn nói với người bạn Aoto Endou về MagiKoi, một trò chơi otome nơi nhân vật chính Fiene theo học tại Học viện Phép thuật Hoàng gia. Nhưng bất chấp dàn diễn viên đầy màu sắc, một nhân vật mà Kobayashi bị ám ảnh nhiều nhất là biệt thự Lieselotte Riefenstahl. Trái ngược với những nhận xét khiếm nhã của cô ấy đối với Fiene, Lieselotte khao khát được làm bạn với cô ấy. Lieselotte cũng yêu sâu sắc vị hôn phu của chính mình, Hoàng tử Siegwald Fitzenhagen — tình yêu chính của trò chơi. Thật không may, ở hầu hết mọi tuyến đường, Lieselotte phải chịu một kết thúc bi thảm.
@@ -4497,7 +4439,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - 23/03/2023',
 		rating: 'R-17+',
 		synopsis: `
 			- Bị lừa ám sát cha vợ tương lai của chính mình, samurai chính trực Raizou Kurima tràn ngập cảm giác tội lỗi. Để đòi lại danh dự của mình, Raizou thề sẽ trả thù vị lãnh chúa, người đã ra lệnh cho anh ta những mệnh lệnh gây hiểu lầm đó. Trong quá trình theo đuổi, anh ta được hỗ trợ bởi thương nhân tự xưng của tất cả các ngành nghề Yuuen Usui, người thực sự là một trong những Kẻ trả thù — những sát thủ tìm kiếm công lý cho những kẻ bị oan sai và thay mặt họ trả thù đẫm máu.
@@ -4582,7 +4523,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Ở vương quốc Tây Nguyên, các nàng tiên sống tự do cho đến khi con người phản bội họ. Một khi một nàng tiên đã bị tước cánh, bất cứ ai sở hữu nó đều nắm giữ mạng sống của nàng tiên trong tay. Lợi dụng điều này, con người bắt các nàng tiên làm nô lệ, nhưng Ann Halford, 15 tuổi, khao khát được nhìn thấy ngày mà các nàng tiên và con người được đối xử bình đẳng.
@@ -4706,7 +4646,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong những năm cuối đời, Hiraku Machio vẫn bị giam cầm trên giường bệnh với căn bệnh nan y cho đến khi cuối cùng ông qua đời. Thương hại cho cuộc sống bất công mà anh ta đã sống, một vị thần quyết định tái sinh Hiraku ở một thế giới khác, nơi anh ta có thể sống theo ý mình. Muốn thử làm nông nghiệp trong cuộc sống mới này, anh ấy được ban tặng một "Công cụ canh tác toàn năng" tất cả trong một có thể biến thành bất kỳ triển khai hữu ích nào mà anh ấy muốn. Hiraku sau đó được đưa đến một khu rừng dường như cách xa nền văn minh. Tại đây, anh có kế hoạch xây dựng và canh tác mọi thứ từ đầu — dần dần phát triển khu vực vô hồn thành một xã hội mới thịnh vượng.
@@ -4920,7 +4859,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - 23/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Tự xưng là "nhân viên bảo vệ gia đình" Mahiro Oyama đã không rời khỏi nhà trong nhiều năm, ẩn mình trong phòng chơi tiểu thuyết trực quan khiêu dâm. Lối sống đồi trụy này khiến người chị gái phi thường của anh, Mihari, lo lắng về sức khỏe của anh. Với hy vọng giải quyết vấn đề này, cô nghĩ ra một kế hoạch để phục hồi anh trở lại trạng thái bình thường.
@@ -5034,7 +4972,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '06/01/2023 - 24/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Là thường dân đầu tiên theo học tại Học viện Phép thuật Arnold danh tiếng, Ray White ngay lập tức vấp phải sự khinh miệt từ một số sinh viên đến từ giới quý tộc. Họ không hề hay biết, danh tính thực sự của Ray là của Iceblade Sorcerer nổi tiếng — một anh hùng đã dẫn dắt đất nước đến chiến thắng trong một cuộc chiến trong quá khứ và là một trong bảy thầy phù thủy mạnh nhất còn sống. Bất chấp địa vị huyền thoại của mình, Ray không muốn gì hơn là sống cuộc sống học đường bình thường mà anh chưa từng có.
@@ -5204,7 +5141,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Một thập kỷ trước, nhân loại đã chứng kiến tiềm năng chết người của vũ khí do Đại chiến gây ra. Để tránh một thảm họa khác, các chính phủ trên toàn thế giới đã dùng đến hoạt động gián điệp để thực hiện các chương trình nghị sự của họ.
@@ -5275,7 +5211,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '05/01/2023 - 30/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Những người bạn thời thơ ấu Tomo Aizawa và Junichirou "Jun" Kubota làm mọi thứ cùng nhau, cho dù đó là đào tạo hay chỉ là tận hưởng một ngày vui vẻ. Bất cứ ai cũng sẽ nghĩ rằng hai người này là bạn thân suốt đời. Vấn đề duy nhất là Tomo tomboyish đang yêu Jun, nhưng anh ấy coi cô ấy như một người anh trai.
@@ -5329,7 +5264,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
-		aired: '09/04/2016 - 25/06/2016',
 		rating: 'PG-13',
 		synopsis: `
 			- Đối với học sinh trung học Tanaka, hành động bơ phờ là một cách sống. Được biết đến với sự thiếu chú ý và khả năng ngủ ở bất cứ đâu, Tanaka cầu nguyện rằng mỗi ngày sẽ không đồng đều như lần trước, tìm cách duy trì lối sống lười biếng của mình bằng cách tránh những tình huống đòi hỏi anh phải nỗ lực. Cùng với người bạn đáng tin cậy Oota, người giúp anh ta thực hiện các nhiệm vụ mà anh ta không thể hoàn thành, cậu thiếu niên thờ ơ liên tục đối phó với các sự kiện ngăn cản anh ta trải qua những ngày yên tĩnh và yên bình mà anh ta khao khát.
@@ -5401,10 +5335,8 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2023',
-		aired: '29/03/2023 - 26/04/2023',
 		rating: 'R+',
 		synopsis: `
-			Unaired episodes included in the Blu-ray box volumes.
 		`,
 		tag: [
 			'tComedy',
@@ -5445,7 +5377,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '07/01/2023 - 25/03/2023',
 		rating: 'R+',
 		synopsis: `
 			- Vào một buổi chiều mưa, một nam học sinh trung học thức dậy đóng băng trên đường phố mà không nhớ mình đã đến đó bằng cách nào. Bạn cùng lớp và người yêu của anh ấy, Karen Inukai, tìm thấy anh ấy và đưa anh ấy trở về nhà của cô ấy, nơi trước sự ngạc nhiên của anh ấy, cô ấy bắt đầu cởi quần áo. Cô ấy dường như có ý định tắm với anh ấy, mặc dù anh ấy không biết tại sao. Khi cô ấy ôm anh ấy một lần nữa, anh ấy nhìn thoáng qua mình trong gương — phát hiện ra rằng anh ấy đã biến thành một!
@@ -5499,7 +5430,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Himuro-kun tốt bụng thật không may: khi ở trong sự tập trung sâu sắc, căng thẳng hoặc bối rối, anh ta vô tình tạo ra điều kiện bão tuyết cho bản thân và bất kỳ ai trong vùng lân cận. Trong một sự cố như vậy vào ngày đầu tiên của công việc mới, Himuro-kun gặp Fuyutsuki-san xinh đẹp, người giúp anh thoát ra khỏi lớp băng do thần kinh gây ra. Hóa ra, Fuyutsuki-san là đồng nghiệp mới của anh ấy.
@@ -5575,7 +5505,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '04/01/2023 - 22/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Công chúa Anisphia "Anis" Wynn Palletia luôn mơ ước được bay trên bầu trời, mặc dù người dân trong vương quốc của cô coi đó là một tham vọng ngớ ngẩn. Cũng mâu thuẫn với mục tiêu của cô là việc Anis không có khả năng sử dụng phép thuật mặc dù địa vị cao quý của cô. Không chịu bỏ cuộc dễ dàng như vậy, cô từ bỏ quyền lên ngôi và tập trung vào việc phát triển "phép thuật học" bằng cách kết hợp nhiều nguồn lực khác nhau với kiến thức từ kiếp trước trên Trái đất.
@@ -5671,7 +5600,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '10/01/2023 - 28/03/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Nhà thám hiểm kỳ cựu Nick, pháp sư Tiana, giáo sĩ Zem và Curran nửa rồng mỗi người xuất hiện một mình tại một quán rượu, chỉ để thấy mình ngồi cùng bàn. Khi màn đêm buông xuống, họ thay phiên nhau tiết lộ những bất bình của mình và những sở thích mà họ đã coi là một phương tiện để đối phó. Mặc dù câu chuyện của họ hoàn toàn khác nhau, nhưng có một điểm chung: sự phản bội. Mỗi người trong số bốn người, đã bị phản bội cay đắng bởi một người mà họ trân trọng, đã phát triển một sự mất lòng tin sâu sắc vào nhân loại.
@@ -5836,7 +5764,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
-		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Umaru Doma là một học sinh kiểu mẫu có một khía cạnh ẩn giấu: khi về nhà mỗi ngày, cô mặc chiếc áo hoodie hamster của mình và biến thành một otaku chậm chạp thích đồ ăn vặt. Khi Umaru tiếp tục những trò hề hàng ngày này, tình bạn giữa cô và các bạn cùng lớp — Nana Ebina, Kirie Motoba và Sylphinford Tachibana — ngày càng sâu sắc, và ngày càng có nhiều sự kiện thú vị bắt đầu diễn ra.
@@ -5908,7 +5835,6 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2015',
-		aired: '19/10/2015 - 19/04/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Các tập phim được bao gồm trong tập thứ bảy và thứ mười của manga.
@@ -5955,7 +5881,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
-		aired: '09/07/2015 - 24/09/2015',
 		rating: 'PG-13',
 		synopsis: `
 			- Mọi người không phải lúc nào cũng giống như họ xuất hiện, như trường hợp của Umaru Doma, nữ sinh trung học hoàn hảo — nghĩa là cho đến khi cô ấy về nhà! Khi cửa trước đóng lại, niềm vui thực sự bắt đầu. Khi mặc áo hoodie hamster của mình, cô ấy biến đổi từ một học sinh tinh tế, thành tích quá mức thành một otaku lười biếng, ăn đồ ăn vặt, để lại tất cả công việc nhà cho anh trai Taihei có trách nhiệm của cô ấy. Cho dù cô ấy đang đi chơi với bạn bè Nana Ebina và Kirie Motoba, hay cạnh tranh với "đối thủ" tự xưng là Sylphinford Tachibana, Umaru biết cách quay trở lại và vui chơi!
@@ -6019,7 +5944,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2022',
-		aired: '10/06/2022',
 		rating: 'PG-13',
 		synopsis: `
 			- Cả lớp đến một thế giới khác và họ gặp phải một môi trường hoang vắng bị chi phối bởi một máy tự động ma thuật hoành hành.
@@ -6176,7 +6100,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
-		aired: '15/01/2020 - 01/04/2020',
 		rating: 'PG-13',
 		synopsis: `
 			- Mặc dù đã hoàn thành tất cả các nhiệm vụ được giao cho họ, Ainz Ooal Gown, Tanya Degurechaff, Kazuma Satou, Subaru Natsuki và các thành viên khác của Lớp 2 rất ngạc nhiên khi biết rằng vai trò học sinh của họ còn lâu mới kết thúc. Không có phương tiện để trở về nhà, tầng lớp tính cách lập dị vẫn bị mắc kẹt một cách bí ẩn trong thế giới xa lạ. Mặc dù, khi họ đang trở nên khá yêu nhau, dành nhiều thời gian hơn cho nhau nghe có vẻ không tệ.
@@ -6410,7 +6333,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
-		aired: '10/04/2019 - 26/06/2019',
 		rating: 'PG-13',
 		synopsis: `
 			- Đó là một ngày bình thường; tất cả mọi người từ cô gái quân nhân loạn trí Tanya Degurechaff và nhân vật chính isekai 16 tuổi Satou Kazuma đến lãnh chúa bành trướng Ainz Ooal Gown và chị em quỷ Rem và Ram tiếp tục cuộc sống hàng ngày của họ. Đột nhiên, một nút màu đỏ dễ thấy cầu xin được nhấn xuất hiện trước mặt họ. Vượt qua sự tò mò, các nhân vật ở thế giới khác nhấn nút, đưa họ đến một thế giới xa lạ.
@@ -6604,7 +6526,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		aired: '07/04/2017 - 23/06/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Sinh ra và lớn lên ở vùng nông thôn Nhật Bản, Hinako "Hina" Sakuragi dễ dàng lo lắng khi nói chuyện với những người mới — đến nỗi cô giống như một con bù nhìn cứng nhắc. Để vượt qua điều này, Hina hy vọng sẽ tham gia vào nhà hát, lấy cảm hứng từ một vở kịch mà cô đã xem trong chuyến đi thực tế của trường. Vì vậy, Hina chuyển đến Trang viên Hitotose ở thành phố Tokyo nhộn nhịp để theo học tại trường trung học Fujiyama, khao khát được tham gia câu lạc bộ sân khấu nổi tiếng của trường.
@@ -6670,7 +6591,6 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
-		aired: '15/05/2015',
 		rating: 'PG-13',
 		synopsis: `
 			- OVA đi kèm với tập manga Shigatsu wa Kimi no Uso thứ 11.
@@ -6755,7 +6675,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
-		aired: '10/10/2014 - 20/03/2015',
 		rating: 'PG-13',
 		synopsis: `
 			- Kousei Arima là một thần đồng nhí được mệnh danh là "Máy đếm nhịp con người" để chơi piano với độ chính xác và hoàn hảo. Được hướng dẫn bởi một người mẹ nghiêm khắc và được đào tạo nghiêm ngặt, Kousei thống trị mọi cuộc thi mà anh tham gia, nhận được sự ngưỡng mộ của các đồng nghiệp âm nhạc và lời khen ngợi từ khán giả. Khi mẹ anh đột ngột qua đời, chấn thương sau đó khiến anh không thể nghe thấy tiếng đàn piano, và anh không bao giờ lên sân khấu sau đó.
@@ -6866,7 +6785,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2017',
-		aired: '24/03/2017 - 24/05/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Specials included with the Blu-ray/DVD release of Gabriel DropOut.
@@ -6915,7 +6833,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
-		aired: '09/01/2017 - 27/03/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Trong nhiều thế kỷ, Thiên đàng đã yêu cầu các thiên thần trẻ của mình phải sống và nghiên cứu giữa con người để trở thành những thiên thần chính thức. Điều này không khác gì đối với Gabriel White Tenma, người tin rằng sứ mệnh của cô là trở thành một thiên thần vĩ đại, người sẽ mang lại hạnh phúc cho nhân loại. Tuy nhiên, Gabriel ngày càng nghiện trò chơi điện tử trên Trái đất và cuối cùng trở thành một hikikomori. Tự xưng là "Thiên thần sa ngã", cô ấy thờ ơ với mọi thứ khác — khiến Vignette April Tsukinose, một con quỷ mà Gabriel kết bạn trong những ngày đầu thiên thần của cô ấy trên Trái đất.
@@ -7012,7 +6929,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
-		aired: '08/10/2017 - 24/12/2017',
 		rating: 'PG-13',
 		synopsis: `
 			- Với mong muốn được độc lập, Maika Sakuranomiya, 16 tuổi, rất muốn hoàn thành một công việc bán thời gian để có đủ khả năng đi du học. Thật không may, đơn đăng ký của cô ấy liên tục bị từ chối do vẻ ngoài đe dọa mà cô ấy vô tình tạo ra bất cứ khi nào cô ấy cười, mặc dù tính tình vui vẻ của cô ấy.
@@ -7090,7 +7006,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		aired: '14/07/2018 - 29/09/2018',
 		rating: 'PG-13',
 		synopsis: `
 			- Iori Kitahara chuyển đến thị trấn ven biển Izu cho năm thứ nhất tại trường đại học của nó, cư trú phía trên Grand Blue, cửa hàng lặn biển của chú anh. Iori rất hy vọng và ước mơ về việc có được trải nghiệm đại học lý tưởng, nhưng khi bước vào cửa hàng, anh bị hút vào các hoạt động nghiện rượu của các thành viên vô tư của Câu lạc bộ Lặn, những người thường xuyên lui tới nơi này. Bị thuyết phục bởi các học sinh lớp trên Shinji Tokita và Ryuujirou Kotobuki, Iori miễn cưỡng tham gia bữa tiệc kỳ lạ của họ. Anh họ của anh ta là Chisa Kotegawa sau đó bước vào và bắt gặp anh ta trong hành động, khiến Iori hoàn toàn khinh miệt.
@@ -7215,7 +7130,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
-		aired: '19/11/2012 - 10/12/2012',
 		rating: 'PG-13',
 		synopsis: `
 			- Không lâu sau khi đặt sự kiện siêu nhiên trước đó đằng sau họ, các thành viên của Hiệp hội Văn hóa Sinh viên (StuCS) của Học viện Yamaboshi phải đối phó với thử nghiệm mới nhất của Fuusenkazura — truyền cảm xúc. Hiện tượng này cho phép các thành viên câu lạc bộ nghe thấy suy nghĩ thực sự của nhau, nhưng với một lần bắt: thời gian, người gửi và người nhận đều hoàn toàn ngẫu nhiên. Để làm cho vấn đề tồi tệ hơn, người giám sát của câu lạc bộ, Ryuuzen Gotou, có thể phải từ chức do trách nhiệm của anh ấy trong năm học sắp tới. Với cảm xúc dâng trào và ngày lễ tình nhân đang đến gần, mối quan hệ dường như thân thiết của StuCS sẽ được thử thách khi tình cảm thực sự của họ dành cho nhau được phơi bày.
@@ -7328,7 +7242,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
-		aired: '08/07/2012 - 30/09/2012',
 		rating: 'PG-13',
 		synopsis: `
 			- Khi năm sinh viên tại Học viện Yamaboshi nhận ra rằng không có câu lạc bộ nào phù hợp với họ, họ liên kết với nhau để thành lập Hiệp hội Văn hóa Sinh viên, hay gọi tắt là "StuCS". Câu lạc bộ bao gồm: Taichi Yaegashi, một người hâm mộ đấu vật khó tính; Iori Nagase , một người lạc quan thiếu quyết đoán; Himeko Inaba, một thiên tài máy tính điềm tĩnh; Yui Kiriyama , một học viên karate nhỏ nhắn; và Yoshifumi Aoki, chú hề của lớp.
@@ -7443,7 +7356,6 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2016',
-		aired: '25/03/2016',
 		rating: 'PG-13',
 		synopsis: `
 			- Buntarou không biết mình muốn làm gì trong tương lai. Anh ấy không có bất kỳ loại ước mơ nào mà anh ấy muốn theo đuổi, vì vậy hiện tại anh ấy chỉ dành cả ngày để quây quần bên bạn bè. Một ngày nọ, bạn cùng lớp Sayuki hỏi anh ta có muốn giúp phát triển một trò chơi gal không. Cô ấy nói rằng cô ấy đã trở nên quan tâm đến sự giúp đỡ của anh ấy sau khi cô ấy đọc một tác phẩm của anh ấy dành cho câu lạc bộ kịch.
@@ -7499,7 +7411,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
-		aired: '07/01/2016 - 24/03/2016',
 		rating: 'PG-13',
 		synopsis: `
 			- Shoujo-tachi wa Kouya wo Mezasu là một loạt phim về việc tìm kiếm chính mình và một hướng đi trong cuộc sống... bất kể nó có thể cách xa con đường bị đánh đập đến mức nào.
@@ -7567,7 +7478,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
-		aired: '27/03/2013',
 		rating: 'PG-13',
 		synopsis: `
 			- Tập thứ 13 chưa được phát sóng được phát hành trên DVD / BD thứ 7.
@@ -7625,7 +7535,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
-		aired: '06/07/2012 - 28/09/2012',
 		rating: 'PG-13',
 		synopsis: `
 			- Yuuki Oojima là thành viên của Câu lạc bộ Nghiên cứu Thực phẩm ở trường trung học của mình, hoạt động chính là ăn đồ ăn nhẹ được mua bằng tiền do nhà trường phân bổ cho họ. Tuy nhiên, lối sống yên bình và lãng phí này đang bị đe dọa khi cuộc bầu cử sinh viên sắp tới đang đến gần. Satsuki Shinonome, một ứng cử viên lớn và là người đứng đầu bộ phận tài chính, vận động trên một nền tảng bao gồm giải tán các câu lạc bộ vô dụng như Câu lạc bộ Nghiên cứu Thực phẩm và chuyển hướng ngân sách của họ sang các câu lạc bộ thích hợp.
@@ -7756,7 +7665,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
-		aired: '25/12/2013 - 28/05/2014',
 		rating: 'R+',
 		synopsis: `
 			- Hoạt hình gốc sẽ được đưa vào các bản phát hành tập BD và DVD của Machine-Doll wa Kizutsukanai.
@@ -7836,7 +7744,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		aired: '07/10/2013 - 23/12/2013',
 		rating: 'PG-13',
 		synopsis: `
 			- Học viện Hoàng gia Walpurgis của Machinart được thành lập cùng với sự phát triển của "Machinart", phép thuật máy móc có khả năng mang lại sự sống và trí thông minh cho những con búp bê cơ khí sau đó được gọi là "máy tự động". Mục đích của nó: đào tạo những nghệ sĩ múa rối lành nghề để điều khiển máy tự động, khi quân đội trên toàn cầu đã bắt đầu kết hợp Machinart vào quân đội của họ.
@@ -7956,7 +7863,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -7991,7 +7897,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8026,7 +7931,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8061,7 +7965,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8096,7 +7999,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8131,7 +8033,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8166,7 +8067,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8201,7 +8101,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8236,7 +8135,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8271,7 +8169,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8306,7 +8203,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8341,7 +8237,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8376,7 +8271,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8411,7 +8305,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8446,7 +8339,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8481,7 +8373,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8516,7 +8407,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8551,7 +8441,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8586,7 +8475,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8621,7 +8509,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8656,7 +8543,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8691,7 +8577,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8726,7 +8611,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8761,7 +8645,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8796,7 +8679,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8831,7 +8713,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8866,7 +8747,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8901,7 +8781,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8936,7 +8815,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -8971,7 +8849,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9006,7 +8883,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9041,7 +8917,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9076,7 +8951,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9111,7 +8985,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9146,7 +9019,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9181,7 +9053,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9216,7 +9087,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9251,7 +9121,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9286,7 +9155,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9321,7 +9189,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9356,7 +9223,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9391,7 +9257,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9426,7 +9291,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9461,7 +9325,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9496,7 +9359,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9531,7 +9393,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9566,7 +9427,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9601,7 +9461,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9636,7 +9495,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9671,7 +9529,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9706,7 +9563,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9741,7 +9597,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9776,7 +9631,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9811,7 +9665,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9846,7 +9699,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9881,7 +9733,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9916,7 +9767,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9951,7 +9801,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -9986,7 +9835,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10021,7 +9869,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10056,7 +9903,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10091,7 +9937,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10126,7 +9971,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10161,7 +10005,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10196,7 +10039,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10231,7 +10073,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10266,7 +10107,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10301,7 +10141,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10336,7 +10175,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10371,7 +10209,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10406,7 +10243,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10441,7 +10277,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10476,7 +10311,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10511,7 +10345,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10546,7 +10379,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10581,7 +10413,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10616,7 +10447,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10651,7 +10481,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10686,7 +10515,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10721,7 +10549,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10756,7 +10583,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10791,7 +10617,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10826,7 +10651,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10861,7 +10685,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10896,7 +10719,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10931,7 +10753,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -10966,7 +10787,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11001,7 +10821,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11036,7 +10855,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11071,7 +10889,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11106,7 +10923,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11141,7 +10957,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11176,7 +10991,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11211,7 +11025,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11246,7 +11059,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11281,7 +11093,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11316,7 +11127,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11351,7 +11161,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11386,7 +11195,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11421,7 +11229,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11456,7 +11263,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11491,7 +11297,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11526,7 +11331,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11561,7 +11365,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11596,7 +11399,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11631,7 +11433,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11666,7 +11467,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11701,7 +11501,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11736,7 +11535,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11771,7 +11569,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11806,7 +11603,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11841,7 +11637,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11876,7 +11671,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11911,7 +11705,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11946,7 +11739,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -11981,7 +11773,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12016,7 +11807,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12051,7 +11841,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12086,7 +11875,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12121,7 +11909,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12156,7 +11943,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12191,7 +11977,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12226,7 +12011,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12261,7 +12045,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '05/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mùa thứ hai của Tokyo Mew Mew New ♡ .
@@ -12319,7 +12102,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12354,7 +12136,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12389,7 +12170,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12424,7 +12204,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12459,7 +12238,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12494,7 +12272,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12529,7 +12306,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12564,7 +12340,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12599,7 +12374,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12634,7 +12408,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12669,7 +12442,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12704,7 +12476,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12739,7 +12510,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12774,7 +12544,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12809,7 +12578,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12844,7 +12612,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12879,7 +12646,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12914,7 +12680,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12949,7 +12714,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -12984,7 +12748,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13019,7 +12782,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13054,7 +12816,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13089,7 +12850,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13124,7 +12884,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13159,7 +12918,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13194,7 +12952,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13229,7 +12986,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13264,7 +13020,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13299,7 +13054,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13327,14 +13081,13 @@ const anime = [
 		name: [
 			'Kyoukai no Rinne 2nd Season',
 			'',
-			'sRIN-NE Season 2'
+			'RIN-NE Season 2'
 		],
 		studio: [
 			sNone
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13369,7 +13122,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13404,7 +13156,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13439,7 +13190,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13474,7 +13224,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13509,7 +13258,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13544,7 +13292,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13579,7 +13326,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13614,7 +13360,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13649,7 +13394,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13684,7 +13428,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13719,7 +13462,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13754,7 +13496,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13789,7 +13530,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13824,7 +13564,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13859,7 +13598,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13894,7 +13632,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13929,7 +13666,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13964,7 +13700,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -13999,7 +13734,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14034,7 +13768,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14069,7 +13802,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14104,7 +13836,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14139,7 +13870,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14174,7 +13904,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14209,7 +13938,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14244,7 +13972,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14279,7 +14006,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14314,7 +14040,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14349,7 +14074,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14384,7 +14108,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14419,7 +14142,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14454,7 +14176,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14489,7 +14210,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14524,7 +14244,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14559,7 +14278,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14594,7 +14312,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14629,7 +14346,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14664,7 +14380,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14699,7 +14414,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14734,7 +14448,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14769,7 +14482,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14804,7 +14516,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14839,7 +14550,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14874,7 +14584,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14909,7 +14618,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14944,7 +14652,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -14979,7 +14686,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15014,7 +14720,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15049,7 +14754,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15084,7 +14788,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15119,7 +14822,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15154,7 +14856,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15189,7 +14890,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15224,7 +14924,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15259,7 +14958,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15294,7 +14992,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15329,7 +15026,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15364,7 +15060,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15399,7 +15094,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15434,7 +15128,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15469,7 +15162,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15504,7 +15196,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15539,7 +15230,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15574,7 +15264,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15609,7 +15298,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15644,7 +15332,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15679,7 +15366,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15714,7 +15400,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15749,7 +15434,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15784,7 +15468,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15819,7 +15502,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15854,7 +15536,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15889,7 +15570,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15924,7 +15604,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15959,7 +15638,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -15994,7 +15672,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16029,7 +15706,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16064,7 +15740,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16099,7 +15774,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16134,7 +15808,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16169,7 +15842,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16204,7 +15876,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16239,7 +15910,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16274,7 +15944,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16309,7 +15978,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16344,7 +16012,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16379,7 +16046,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16414,7 +16080,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16449,7 +16114,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16484,7 +16148,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16519,7 +16182,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16554,7 +16216,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16589,7 +16250,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16624,7 +16284,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16659,7 +16318,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16694,7 +16352,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16729,7 +16386,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16764,7 +16420,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16799,7 +16454,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16834,7 +16488,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16869,7 +16522,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16904,7 +16556,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16939,7 +16590,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -16974,7 +16624,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17009,7 +16658,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17044,7 +16692,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17079,7 +16726,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17114,7 +16760,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17149,7 +16794,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17184,7 +16828,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17219,7 +16862,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17254,7 +16896,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17289,7 +16930,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17324,7 +16964,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17359,7 +16998,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17394,7 +17032,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17429,7 +17066,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17464,7 +17100,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17499,7 +17134,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17534,7 +17168,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17569,7 +17202,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17604,7 +17236,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17639,7 +17270,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17674,7 +17304,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17709,7 +17338,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17744,7 +17372,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17779,7 +17406,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17814,7 +17440,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17849,7 +17474,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17884,7 +17508,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17919,7 +17542,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17954,7 +17576,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -17989,7 +17610,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18024,7 +17644,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18059,7 +17678,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18094,7 +17712,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18129,7 +17746,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18164,7 +17780,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18199,7 +17814,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18234,7 +17848,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18269,7 +17882,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18304,7 +17916,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18339,7 +17950,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18374,7 +17984,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18409,7 +18018,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18444,7 +18052,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18479,7 +18086,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18514,7 +18120,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18549,7 +18154,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18584,7 +18188,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18619,7 +18222,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18654,7 +18256,6 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2023',
-		aired: '27/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18699,7 +18300,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18734,7 +18334,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18769,7 +18368,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18804,7 +18402,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18839,7 +18436,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18874,7 +18470,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18909,7 +18504,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18944,7 +18538,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -18979,7 +18572,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19014,7 +18606,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19049,7 +18640,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19084,7 +18674,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19119,7 +18708,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19154,7 +18742,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19189,7 +18776,6 @@ const anime = [
 		],
 		type: 'Moive',
 		season: 'Fall 2022',
-		aired: '17/12/2022',
 		rating: 'PG-13',
 		synopsis: `
 			- Sau nụ hôn đầu tiên, Kaguya Shinomiya và Miyuki Shirogane không chắc mối quan hệ của họ đang đứng ở đâu. Sự không chắc chắn đáng lo ngại về việc liệu họ có thể được coi là một cặp đôi chính thức hay không đã giải phóng những vấn đề mới khi cả Kaguya và Shirogane đấu tranh để sắp xếp tình cảm của họ.
@@ -19289,7 +18875,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19324,7 +18909,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19359,7 +18943,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19394,7 +18977,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19429,7 +19011,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19464,7 +19045,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19499,7 +19079,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19534,7 +19113,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19569,7 +19147,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19604,7 +19181,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19639,7 +19215,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19674,7 +19249,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19709,7 +19283,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19744,7 +19317,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19779,7 +19351,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19814,7 +19385,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19849,7 +19419,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19884,7 +19453,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19919,7 +19487,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19954,7 +19521,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -19989,7 +19555,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20024,7 +19589,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20059,7 +19623,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20094,7 +19657,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20129,7 +19691,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20164,7 +19725,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20199,7 +19759,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20234,7 +19793,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20269,7 +19827,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20304,7 +19861,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20339,7 +19895,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20374,7 +19929,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20409,7 +19963,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20444,7 +19997,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20479,7 +20031,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20514,7 +20065,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20549,7 +20099,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20584,7 +20133,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20619,7 +20167,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20654,7 +20201,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20689,7 +20235,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20724,7 +20269,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20759,7 +20303,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20794,7 +20337,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20829,7 +20371,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20864,7 +20405,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20899,7 +20439,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20934,7 +20473,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -20969,7 +20507,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21004,7 +20541,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21039,7 +20575,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '06/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Megumin là một phù thủy trẻ và đam mê đến từ Làng quỷ đỏ thẫm, một cộng đồng pháp sư xa xôi với đôi mắt đỏ và sự tinh tế cho kịch tính. Cô ấy đã dành cả cuộc đời mình để thành thạo ma thuật bùng nổ, một phép thuật mạnh mẽ nhưng không thực tế khiến cô ấy cạn kiệt mana và không thể di chuyển trong phần còn lại của ngày. Bất kể, cô ấy từ chối học bất kỳ kỹ năng nào khác.
@@ -21080,7 +20615,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21115,7 +20649,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21150,7 +20683,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21185,7 +20717,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21220,7 +20751,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21255,7 +20785,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21290,7 +20819,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21325,7 +20853,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21360,7 +20887,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21395,7 +20921,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21430,7 +20955,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21465,7 +20989,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21500,7 +21023,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21535,7 +21057,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21570,7 +21091,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21605,7 +21125,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21640,7 +21159,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21675,7 +21193,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21710,7 +21227,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21745,7 +21261,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21780,7 +21295,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21815,7 +21329,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21850,7 +21363,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21885,7 +21397,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21920,7 +21431,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21955,7 +21465,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -21990,7 +21499,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22025,7 +21533,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22060,7 +21567,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22095,7 +21601,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22130,7 +21635,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22165,7 +21669,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22199,7 +21702,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '03/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mùa thứ hai của Kuma Kuma Kuma Bear.
@@ -22241,7 +21743,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22276,7 +21777,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22311,7 +21811,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22346,7 +21845,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22381,7 +21879,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		aired: '11/01/2023 - 20/04/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Sau khi đạt được kết quả tốt trong các sự kiện trước đây của New World Online, guild Maple Tree nổi tiếng hiện nay rất hào hứng khám phá các tầng mới được giới thiệu trong trò chơi. Như thể bang hội của họ chưa đủ sợ hãi, mỗi thành viên có động lực để tìm ra các kỹ năng mạnh hơn cho bản thân để mở rộng đáng kể các lựa chọn của họ trong các trận chiến trong tương lai. Không quên tầm quan trọng của việc kết nối, guild cũng tạo ra mối quan hệ thân thiện với các guild đáng chú ý khác, chẳng hạn như Vương quốc Flame Emperor và Congregation of the Holy Swords.
@@ -22425,7 +21922,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22460,7 +21956,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22495,7 +21990,6 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2022',
-		aired: '25/12/2022',
 		rating: 'PG-13',
 		synopsis: `
 			- Ở Raja, một quốc gia nhỏ nằm ở phía tây của Tempest. Rimuru và những người bạn đồng hành của mình tham gia vào một âm mưu kéo dài xoay quanh sức mạnh bí ẩn của nữ hoàng. Rimuru và chỉ huy Benimaru cũng gặp phải một người sống sót yêu tinh khác tên là Hiiro, một người đàn ông từng là anh trai của Benimaru.
@@ -22536,7 +22030,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22571,7 +22064,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22606,7 +22098,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22641,7 +22132,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22676,7 +22166,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22711,7 +22200,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22746,7 +22234,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22781,7 +22268,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22816,7 +22302,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22851,7 +22336,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22886,7 +22370,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22921,7 +22404,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22956,7 +22438,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -22991,7 +22472,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23026,7 +22506,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23061,7 +22540,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23096,7 +22574,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23131,7 +22608,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23166,7 +22642,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23201,7 +22676,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23236,7 +22710,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23271,7 +22744,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23306,7 +22778,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23341,7 +22812,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23376,7 +22846,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23411,7 +22880,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23446,7 +22914,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23481,7 +22948,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23516,7 +22982,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23551,7 +23016,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23586,7 +23050,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23621,7 +23084,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23656,7 +23118,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23691,7 +23152,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23726,7 +23186,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23761,7 +23220,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23796,7 +23254,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23831,7 +23288,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23866,7 +23322,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23901,7 +23356,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23936,7 +23390,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -23971,7 +23424,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24006,7 +23458,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24041,7 +23492,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24076,7 +23526,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24111,7 +23560,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24146,7 +23594,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24181,7 +23628,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24216,7 +23662,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '03/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mùa thứ hai của Isekai wa Smartphone to Tomo ni.
@@ -24293,7 +23738,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24328,7 +23772,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24363,7 +23806,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24398,7 +23840,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24433,7 +23874,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24468,7 +23908,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24503,7 +23942,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24538,7 +23976,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24573,7 +24010,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24608,7 +24044,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24643,7 +24078,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24678,7 +24112,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24713,7 +24146,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24748,7 +24180,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24783,7 +24214,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24818,7 +24248,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24853,7 +24282,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24888,7 +24316,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24923,7 +24350,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24958,7 +24384,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -24993,7 +24418,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25028,7 +24452,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25063,7 +24486,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25098,7 +24520,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25133,7 +24554,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25168,7 +24588,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25203,7 +24622,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25238,7 +24656,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25273,7 +24690,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25308,7 +24724,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25343,7 +24758,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25378,7 +24792,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25413,7 +24826,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25448,7 +24860,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25483,7 +24894,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25518,7 +24928,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25553,7 +24962,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25588,7 +24996,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		aired: '08/04/2023 - ??/06/2023',
 		rating: 'PG-13',
 		synopsis: `
 			- Mùa thứ hai của Tonikaku Kawaii.
@@ -25629,7 +25036,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25664,7 +25070,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25699,7 +25104,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25734,7 +25138,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25769,7 +25172,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25804,7 +25206,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25839,7 +25240,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25874,7 +25274,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25909,7 +25308,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25944,7 +25342,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -25979,7 +25376,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26014,7 +25410,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26049,7 +25444,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26084,7 +25478,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26119,7 +25512,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26154,7 +25546,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26189,7 +25580,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26224,7 +25614,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26259,7 +25648,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26294,7 +25682,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26329,7 +25716,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26364,7 +25750,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26399,7 +25784,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26434,7 +25818,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26469,7 +25852,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26504,7 +25886,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26539,7 +25920,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26574,7 +25954,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26609,7 +25988,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26644,7 +26022,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26679,7 +26056,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26714,7 +26090,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26749,7 +26124,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26784,7 +26158,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26819,7 +26192,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26854,7 +26226,6 @@ const anime = [
 		],
 		type: 'ONA',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26889,7 +26260,6 @@ const anime = [
 		],
 		type: 'ONA',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26924,7 +26294,6 @@ const anime = [
 		],
 		type: 'ONA',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26959,7 +26328,6 @@ const anime = [
 		],
 		type: 'ONA',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -26994,7 +26362,6 @@ const anime = [
 		],
 		type: 'Special',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27029,7 +26396,6 @@ const anime = [
 		],
 		type: 'ONA',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27064,7 +26430,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27099,7 +26464,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27134,7 +26498,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27169,7 +26532,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27204,7 +26566,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27239,7 +26600,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27274,7 +26634,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27309,7 +26668,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27344,7 +26702,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27379,7 +26736,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27414,7 +26770,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27449,7 +26804,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27484,7 +26838,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
@@ -27519,7 +26872,6 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
-		aired: '//202 - //202',
 		rating: 'PG-13',
 		synopsis: `
 
