@@ -238,6 +238,10 @@ const sManglobe = {
 	name: 'Manglobe',
 	id: sNone.id
 };
+const sSunrise = {
+	name: 'Sunrise',
+	id: 14
+};
 
 const studioList = [
 	sNone,
@@ -299,5 +303,6 @@ const studioList = [
 	sStudioElle,
 	sTyphoonGraphics,
 	sNipponAnimation,
-	sManglobe
+	sManglobe,
+	sSunrise
 ]
