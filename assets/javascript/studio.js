@@ -242,6 +242,14 @@ const sSunrise = {
 	name: 'Sunrise',
 	id: 14
 };
+const sStapleEntertainment = {
+	name: 'Staple Entertainment',
+	id: sNone.id
+};
+const sCloverWorks = {
+	name: 'CloverWorks',
+	id: 1835
+};
 
 const studioList = [
 	sNone,
@@ -304,5 +312,7 @@ const studioList = [
 	sTyphoonGraphics,
 	sNipponAnimation,
 	sManglobe,
-	sSunrise
+	sSunrise,
+	sStapleEntertainment,
+	sCloverWorks
 ]

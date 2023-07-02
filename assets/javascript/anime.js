@@ -10,10 +10,48 @@ const anime = [
 			sNone
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2023',
 		rating: 'PG-13',
 		tag: [
 			''
+		]
+	},
+	{
+		img: '1406/136367l',
+		name: [
+			'Ayaka',
+			'AYAKA ‐あやか‐',
+			'Ayaka: A Story of Bonds and Wounds'
+		],
+		studio: [
+			sStudioBlancDot
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tFantasy',
+			'tMythology'
+		]
+	},
+	{
+		img: '1496/136558l',
+		name: [
+			'Jitsu wa Ore, Saikyou deshita?',
+			'実は俺、最強でした?',
+			'Am I Actually the Strongest?'
+		],
+		studio: [
+			sStapleEntertainment
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
@@ -24303,6 +24341,25 @@ const anime = [
 				}
 			]
 		}
+	},
+	{
+		img: '1007/136277l',
+		name: [
+			'Horimiya: Piece',
+			'ホリミヤ -piece-',
+			'Horimiya: The Missing Pieces'
+		],
+		studio: [
+			sCloverWorks
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tRomance',
+			'tSchool',
+			'tShounen'
+		]
 	},
 	{
 		img: '1695/111486l',
