@@ -17,6 +17,43 @@ const anime = [
 		]
 	},
 	{
+		img: '1069/135852l',
+		name: [
+			'Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega',
+			'ライザのアトリエ ~常闇の女王と秘密の隠れ家~',
+			'Atelier Ryza: Ever Darkness & the Secret Hideout The Animation'
+		],
+		studio: [
+			sLIDENFILMS
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAdventure',
+			'tFantasy'
+		]
+	},
+	{
+		img: '1984/136274l',
+		name: [
+			'Uchi no Kaisha no Chiisai Senpai no Hanashi',
+			'うちの会社の小さい先輩の話',
+			'My Tiny Senpai'
+		],
+		studio: [
+			sProjectNo9
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tWorkplace'
+		]
+	},
+	{
 		img: '1406/136367l',
 		name: [
 			'Ayaka',
@@ -22565,6 +22602,27 @@ const anime = [
 				}
 			]
 		}
+	},
+	{
+		img: '1674/136728l',
+		name: [
+			'Mushoku Tensei II: Isekai Ittara Honki Dasu',
+			'無職転生 II ～異世界行ったら本気だす～',
+			'Mushoku Tensei: Jobless Reincarnation Season 2'
+		],
+		studio: [
+			sStudioBind
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'R-17+',
+		tag: [
+			'tDrama',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tReincarnation'
+		]
 	},
 	{
 		img: '1094/120148l',
