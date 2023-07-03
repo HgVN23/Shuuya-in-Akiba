@@ -3619,6 +3619,25 @@ const anime = [
 		}
 	},
 	{
+		img: '1111/135927l',
+		name: [
+			'Mononogatari 2nd Season',
+			'もののがたり 第二章'
+		],
+		studio: [
+			sBandaiNamcoPictures
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tMythology',
+			'tSeinen',
+			'tSupernatural'
+		]
+	},
+	{
 		img: '1173/131830l',
 		name: [
 			'Mononogatari',
