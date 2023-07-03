@@ -250,6 +250,10 @@ const sCloverWorks = {
 	name: 'CloverWorks',
 	id: 1835
 };
+const sBlade = {
+	name: 'Blade',
+	id: 1547
+};
 
 const studioList = [
 	sNone,
@@ -314,5 +318,6 @@ const studioList = [
 	sManglobe,
 	sSunrise,
 	sStapleEntertainment,
-	sCloverWorks
+	sCloverWorks,
+	sBlade
 ]

@@ -17,6 +17,25 @@ const anime = [
 		]
 	},
 	{
+		img: '1879/136721l',
+		name: [
+			'Lv1 Maou to One Room Yuusha',
+			'Lv1魔王とワンルーム勇者',
+			'Level 1 Demon Lord and One Room Hero'
+		],
+		studio: [
+			sSilverLink,
+			sBlade
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tFantasy'
+		]
+	},
+	{
 		img: '1069/135852l',
 		name: [
 			'Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega',
@@ -25030,6 +25049,27 @@ const anime = [
 				}
 			]
 		}
+	},
+	{
+		img: '1667/135587l',
+		name: [
+			'Masamune-kun no Revenge R',
+			'政宗くんのリベンジR',
+			"Masamune-kun's Revenge R"
+		],
+		studio: [
+			sSilverLink
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tSchool',
+			'tShounen'
+		]
 	},
 	{
 		img: '1348/92408l',
