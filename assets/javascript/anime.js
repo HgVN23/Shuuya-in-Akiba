@@ -17,6 +17,47 @@ const anime = [
 		]
 	},
 	{
+		img: '1239/134810l',
+		name: [
+			'Yumemiru Danshi wa Genjitsushugisha',
+			'夢見る男子は現実主義者',
+			'The Dreaming Boy is a Realist'
+		],
+		studio: [
+			sStudioGokumi,
+			sAXsiZ
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tSchool'
+		]
+	},
+	{
+		img: '1251/136232l',
+		name: [
+			'Okashi na Tensei',
+			'おかしな転生',
+			'Sweet Reincarnation'
+		],
+		studio: [
+			sSynergySP
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tFantasy',
+			'tIsekai',
+			'tGourmet',
+			'tReincarnation',
+			'tSliceOfLife'
+		]
+	},
+	{
 		img: '1879/136721l',
 		name: [
 			'Lv1 Maou to One Room Yuusha',

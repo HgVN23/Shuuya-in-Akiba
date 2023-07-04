@@ -254,6 +254,14 @@ const sBlade = {
 	name: 'Blade',
 	id: 1547
 };
+const sStudioGokumi = {
+	name: 'Studio Gokumi',
+	id: 418
+};
+const sAXsiZ = {
+	name: 'AXsiZ',
+	id: 1299
+};
 
 const studioList = [
 	sNone,
@@ -319,5 +327,7 @@ const studioList = [
 	sSunrise,
 	sStapleEntertainment,
 	sCloverWorks,
-	sBlade
+	sBlade,
+	sStudioGokumi,
+	sAXsiZ
 ]
