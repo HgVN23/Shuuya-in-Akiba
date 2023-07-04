@@ -262,6 +262,10 @@ const sAXsiZ = {
 	name: 'AXsiZ',
 	id: 1299
 };
+const sGoHands = {
+	name: 'GoHands',
+	id: 309
+};
 
 const studioList = [
 	sNone,
@@ -329,5 +333,6 @@ const studioList = [
 	sCloverWorks,
 	sBlade,
 	sStudioGokumi,
-	sAXsiZ
+	sAXsiZ,
+	sGoHands
 ]

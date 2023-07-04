@@ -17,6 +17,26 @@ const anime = [
 		]
 	},
 	{
+		img: '1582/136325l',
+		name: [
+			'Suki na Ko ga Megane wo Wasureta',
+			'好きな子がめがねを忘れた',
+			'The Girl I Like Forgot Her Glasses'
+		],
+		studio: [
+			sGoHands
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
+		]
+	},
+	{
 		img: '1239/134810l',
 		name: [
 			'Yumemiru Danshi wa Genjitsushugisha',
