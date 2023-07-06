@@ -266,6 +266,14 @@ const sGoHands = {
 	name: 'GoHands',
 	id: 309
 };
+const sKinemaCitrus = {
+	name: 'Kinema Citrus',
+	id: 290
+};
+const sLapinTrack = {
+	name: 'Lapin Track',
+	id: 1828
+};
 
 const studioList = [
 	sNone,
@@ -334,5 +342,7 @@ const studioList = [
 	sBlade,
 	sStudioGokumi,
 	sAXsiZ,
-	sGoHands
+	sGoHands,
+	sKinemaCitrus,
+	sLapinTrack
 ]

@@ -17,6 +17,65 @@ const anime = [
 		]
 	},
 	{
+		img: '1946/136661l',
+		name: [
+			'Undead Girl Murder Farce',
+			'アンデッドガール・マーダーファルス',
+			'Undead Murder Farce'
+		],
+		studio: [
+			sLapinTrack
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'R-17+',
+		tag: [
+			'tMystery',
+			'tHistorical',
+			'tSupernatural'
+		]
+	},
+	{
+		img: '1653/136097l',
+		name: [
+			'Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou',
+			'自動販売機に生まれ変わった俺は迷宮を彷徨う',
+			'Reborn as a Vending Machine, Now I Wander the Dungeon'
+		],
+		studio: [
+			sStudioGokumi,
+			sAXsiZ
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
+		]
+	},
+	{
+		img: '1147/122444l',
+		name: [
+			'Watashi no Shiawase na Kekkon',
+			'わたしの幸せな結婚',
+			'My Happy Marriage'
+		],
+		studio: [
+			sKinemaCitrus
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tFantasy',
+			'tHistorical',
+			'tRomance'
+		]
+	},
+	{
 		img: '1582/136325l',
 		name: [
 			'Suki na Ko ga Megane wo Wasureta',
