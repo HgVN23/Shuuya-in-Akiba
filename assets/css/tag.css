@@ -34,6 +34,12 @@
 .tFantasy::after {
 	content: 'Giả tưởng';
 }
+.tJosei::before {
+	content: 'Josei';
+}
+.tJosei::after {
+	content: 'Cho độc giả nữ 18+';
+}
 .tGame::before {
 	content: 'Game';
 }
@@ -75,12 +81,6 @@
 }
 .tIyashikei::after {
 	content: 'Chữa lành tâm hồn';
-}
-.tJosei::before {
-	content: 'Josei';
-}
-.tJosei::after {
-	content: 'Cho độc giả nữ 18+';
 }
 .tMagic::before {
 	content: 'Magic';
@@ -227,6 +227,7 @@
 .tDrama::after,
 .tEcchi::after,
 .tFantasy::after,
+.tJosei::after,
 .tGame::after,
 .tGenben::after,
 .tGourmet::after,
@@ -275,6 +276,7 @@
 .tag:hover.tDrama::after,
 .tag:hover.tEcchi::after,
 .tag:hover.tFantasy::after,
+.tag:hover.tJosei::after,
 .tag:hover.tGame::after,
 .tag:hover.tGenben::after,
 .tag:hover.tGourmet::after,

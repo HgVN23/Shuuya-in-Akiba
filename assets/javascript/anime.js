@@ -17,6 +17,47 @@ const anime = [
 		]
 	},
 	{
+		img: '1821/135926l',
+		name: [
+			'Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi',
+			'聖者無双',
+			'The Great Cleric'
+		],
+		studio: [
+			sYokohamaAnimationLab,
+			sCloudHearts
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
+		]
+	},
+	{
+		img: '1722/135542l',
+		name: [
+			'Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.',
+			'悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。',
+			'The Most Heretical Last Boss Queen: From Villainess to Savior'
+		],
+		studio: [
+			sOLMTeamYoshioka
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tFantasy',
+			'tJosei',
+			'tIsekai',
+			'tReincarnation',
+			'tRomance'
+		]
+	},
+	{
 		img: '1946/136661l',
 		name: [
 			'Undead Girl Murder Farce',

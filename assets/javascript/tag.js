@@ -22,6 +22,10 @@ const tFantasy = {
 	name: 'Fantasy',
 	id: 'tFantasy'
 }
+const tJosei = {
+	name: 'Josei',
+	id: 'tJosei'
+}
 const tGame = {
 	name: 'Game',
 	id: 'tGame'
@@ -150,6 +154,7 @@ const tagList = [
 	tDrama,
 	tEcchi,
 	tFantasy,
+	tJosei,
 	tGame,
 	tGenben,
 	tGourmet,

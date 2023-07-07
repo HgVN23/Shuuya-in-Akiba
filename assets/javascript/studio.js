@@ -274,6 +274,14 @@ const sLapinTrack = {
 	name: 'Lapin Track',
 	id: 1828
 };
+const sOLMTeamYoshioka = {
+	name: 'OLM Team Yoshiokas',
+	id: sNone.id
+};
+const sYokohamaAnimationLab = {
+	name: 'Yokohama Animation Lab',
+	id: 1687
+};
 
 const studioList = [
 	sNone,
@@ -344,5 +352,7 @@ const studioList = [
 	sAXsiZ,
 	sGoHands,
 	sKinemaCitrus,
-	sLapinTrack
+	sLapinTrack,
+	sOLMTeamYoshioka,
+	sYokohamaAnimationLab
 ]
