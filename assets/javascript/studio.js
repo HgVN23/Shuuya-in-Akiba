@@ -2,7 +2,7 @@ const sNone = {
 	name: 'None',
 	id: 'placeholder'
 };
-const sFeelDot = {
+const sFeel = {
 	name: 'feel.',
 	id: 91
 };
@@ -18,7 +18,7 @@ const sWhiteFox = {
 	name: 'White Fox',
 	id: 314
 };
-const sSilverLink = {
+const sSILVERLINK = {
 	name: 'SILVER LINK.',
 	id: 300
 };
@@ -34,7 +34,7 @@ const sDiomedéa = {
 	name: 'Diomedéa',
 	id: 51
 };
-const sPineJam = {
+const sPINEJAM = {
 	name: 'PINE JAM',
 	id: 1295
 };
@@ -286,18 +286,58 @@ const sTMSEntertainment = {
 	name: 'TMS Entertainment',
 	id: 73
 };
+const sMahoFilm = {
+	name: 'Maho Film',
+	id: 1978
+};
+const sStudioFlad = {
+	name: 'Studio Flad',
+	id: 1693
+};
+const sZexcs = {
+	name: 'Zexcs',
+	id: 218
+};
+const sTrigger = {
+	name: 'Trigger',
+	id: 803
+};
+const sACGT = {
+	name: 'A.C.G.T.',
+	id: 179
+};
+const sWitStudio = {
+	name: 'Wit Studio',
+	id: 858
+};
+const sSatelight = {
+	name: 'Satelight',
+	id: 41
+};
+const sGonzo = {
+	name: 'Gonzo',
+	id: 3
+};
+const sPlatinumVision = {
+	name: 'Platinum Vision',
+	id: 1471
+};
+const sXebec = {
+	name: 'Xebec',
+	id: 27
+};
 
 const studioList = [
 	sNone,
-	sFeelDot,
+	sFeel,
 	s8bit,
 	sPAWorks,
 	sWhiteFox,
-	sSilverLink,
+	sSILVERLINK,
 	sConnect,
 	sCoMixWaveFilms,
 	sDiomedéa,
-	sPineJam,
+	sPINEJAM,
 	sMappa,
 	sBandaiNamcoPictures,
 	sAshiProductions,
@@ -359,5 +399,15 @@ const studioList = [
 	sLapinTrack,
 	sOLMTeamYoshioka,
 	sYokohamaAnimationLab,
-	sTMSEntertainment
+	sTMSEntertainment,
+	sMahoFilm,
+	sStudioFlad,
+	sZexcs,
+	sTrigger,
+	sACGT,
+	sWitStudio,
+	sSatelight,
+	sGonzo,
+	sPlatinumVision,
+	sXebec
 ]
