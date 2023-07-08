@@ -282,6 +282,10 @@ const sYokohamaAnimationLab = {
 	name: 'Yokohama Animation Lab',
 	id: 1687
 };
+const sTMSEntertainment = {
+	name: 'TMS Entertainment',
+	id: 73
+};
 
 const studioList = [
 	sNone,
@@ -354,5 +358,6 @@ const studioList = [
 	sKinemaCitrus,
 	sLapinTrack,
 	sOLMTeamYoshioka,
-	sYokohamaAnimationLab
+	sYokohamaAnimationLab,
+	sTMSEntertainment
 ]

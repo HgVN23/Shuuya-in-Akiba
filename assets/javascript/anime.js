@@ -17,6 +17,44 @@ const anime = [
 		]
 	},
 	{
+		img: '1074/136720l',
+		name: [
+			'Dekiru Neko wa Kyou mo Yuuutsu',
+			'デキる猫は今日も憂鬱',
+			'The Masterful Cat Is Depressed Again Today'
+		],
+		studio: [
+			sGoHands
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tSupernatural'
+		]
+	},
+	{
+		img: '1706/136176l',
+		name: [
+			'AI no Idenshi',
+			'AIの遺電子',
+			'The Gene of AI'
+		],
+		studio: [
+			sMadhouse
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tDrama',
+			'tPsychological',
+			'tSciFi',
+			'tShounen'
+		]
+	},
+	{
 		img: '1821/135926l',
 		name: [
 			'Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi',
@@ -4785,6 +4823,25 @@ const anime = [
 				}
 			]
 		}
+	},
+	{
+		img: '1399/136114l',
+		name: [
+			'Sugar Apple Fairy Tale Part 2',
+			'シュガーアップル・フェアリーテイル'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAdventure',
+			'tFantasy',
+			'tShoujo',
+			'tRomance'
+		]
 	},
 	{
 		img: '1897/131300l',
@@ -22824,6 +22881,26 @@ const anime = [
 		]
 	},
 	{
+		img: '1627/136934l',
+		name: [
+			'Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz',
+			'無職転生Ⅱ ～異世界行ったら本気だす～ 第0話「守護術師フィッツ」'
+		],
+		studio: [
+			sStudioBind
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'R-17+',
+		tag: [
+			'tDrama',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tReincarnation'
+		]
+	},
+	{
 		img: '1094/120148l',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu',
@@ -24462,6 +24539,25 @@ const anime = [
 				}
 			]
 		}
+	},
+	{
+		img: '1696/136634l',
+		name: [
+			'Kanojo, Okarishimasu 3rd Season',
+			'彼女、お借りします',
+			'Rent-a-Girlfriend Season 3'
+		],
+		studio: [
+			sTMSEntertainment
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tShounen'
+		]
 	},
 	{
 		img: '1070/124592l',
