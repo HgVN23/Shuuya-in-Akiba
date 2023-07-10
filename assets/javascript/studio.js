@@ -326,6 +326,18 @@ const sXebec = {
 	name: 'Xebec',
 	id: 27
 };
+const sBUGFILMS = {
+	name: 'BUG FILMS',
+	id: sNone.id
+};
+const sActas = {
+	name: 'Actas',
+	id: 60
+};
+const sOLM = {
+	name: 'OLM',
+	id: 28
+};
 
 const studioList = [
 	sNone,
@@ -409,5 +421,8 @@ const studioList = [
 	sSatelight,
 	sGonzo,
 	sPlatinumVision,
-	sXebec
+	sXebec,
+	sBUGFILMS,
+	sActas,
+	sOLM
 ]

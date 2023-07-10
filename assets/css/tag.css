@@ -70,6 +70,12 @@
 .tHistorical::after {
 	content: 'Lịch sử';
 }
+.tHorror::before {
+	content: 'Horror';
+}
+.tHorror::after {
+	content: 'Kinh dị';
+}
 .tIsekai::before {
 	content: 'Isekai';
 }
@@ -233,6 +239,7 @@
 .tGourmet::after,
 .tHarem::after,
 .tHistorical::after,
+.tHorror::after,
 .tIsekai::after,
 .tIyashikei::after,
 .tMagic::after,
@@ -282,6 +289,7 @@
 .tag:hover.tGourmet::after,
 .tag:hover.tHarem::after,
 .tag:hover.tHistorical::after,
+.tag:hover.tHorror::after,
 .tag:hover.tIsekai::after,
 .tag:hover.tIyashikei::after,
 .tag:hover.tMagic::after,

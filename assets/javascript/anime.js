@@ -17,6 +17,66 @@ const anime = [
 		]
 	},
 	{
+		img: '1748/136736l',
+		name: [
+			'Dark Gathering',
+			'ダークギャザリング'
+		],
+		studio: [
+			sOLM
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'R-17+',
+		tag: [
+			'tHorror',
+			'tSupernatural',
+			'tShounen'
+		]
+	},
+	{
+		img: '1179/136000l',
+		name: [
+			'Eiyuu Kyoushitsu',
+			'英雄教室',
+			'Classroom for Heroes'
+		],
+		studio: [
+			sActas
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
+		]
+	},
+	{
+		img: '1384/136408l',
+		name: [
+			'Zom 100: Zombie ni Naru made ni Shitai 100 no Koto',
+			'ゾン100～ゾンビになるまでにしたい100のこと～',
+			'Zom 100: Bucket List of the Dead'
+		],
+		studio: [
+			sBUGFILMS
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tComedy',
+			'tHorror',
+			'tSupernatural',
+			'tSeinen'
+		]
+	},
+	{
 		img: '1879/136896l',
 		name: [
 			'Temple',
@@ -11829,6 +11889,24 @@ const anime = [
 		rating: 'PG-13',
 		tag: [
 			''
+		]
+	},
+	{
+		img: '1078/136947l',
+		name: [
+			'Shinigami Bocchan to Kuro Maid 2nd Season',
+			'死神坊ちゃんと黒メイド',
+			'The Duke of Death and His Maid Season 2'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tSupernatural'
 		]
 	},
 	{

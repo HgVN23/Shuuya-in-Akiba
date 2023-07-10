@@ -46,6 +46,10 @@ const tHistorical = {
 	name: 'Historical',
 	id: 'tHistorical'
 }
+const tHorror = {
+	name: 'Horror',
+	id: 'tHorror'
+}
 const tIsekai = {
 	name: 'Isekai',
 	id: 'tIsekai'
@@ -160,6 +164,7 @@ const tagList = [
 	tGourmet,
 	tHarem,
 	tHistorical,
+	tHorror,
 	tIsekai,
 	tIyashikei,
 	tMagic,
