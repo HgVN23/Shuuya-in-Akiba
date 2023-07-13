@@ -338,6 +338,10 @@ const sOLM = {
 	name: 'OLM',
 	id: 28
 };
+const sStudio3Hz = {
+	name: 'Studio 3Hz',
+	id: 1127
+};
 
 const studioList = [
 	sNone,
@@ -424,5 +428,6 @@ const studioList = [
 	sXebec,
 	sBUGFILMS,
 	sActas,
-	sOLM
+	sOLM,
+	sStudio3Hz
 ]

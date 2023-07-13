@@ -17,6 +17,43 @@ const anime = [
 		]
 	},
 	{
+		img: '1329/135096l',
+		name: [
+			'Shiro Seijo to Kuro Bokushi',
+			'白聖女と黒牧師',
+			'Saint Cecilia and Pastor Lawrence'
+		],
+		studio: [
+			sDogaKobo
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tShounen'
+		]
+	},
+	{
+		img: '1879/133302l',
+		name: [
+			'Helck',
+			'ヘルク'
+		],
+		studio: [
+			sSatelight
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tFantasy'
+		]
+	},
+	{
 		img: '1748/136736l',
 		name: [
 			'Dark Gathering',
@@ -1685,6 +1722,25 @@ const anime = [
 			'tAction',
 			'tFantasy',
 			'tSchool'
+		]
+	},
+	{
+		img: '1317/136666l',
+		name: [
+			'Spy Kyoushitsu 2nd Season',
+			'スパイ教室',
+			'Spy Classroom Season 2'
+		],
+		studio: [
+			sFeel
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tMystery'
 		]
 	},
 	{
@@ -10352,37 +10408,66 @@ const anime = [
 		]
 	},
 	{
+		img: '1392/136670l',
+		name: [
+			'Hataraku Maou-sama!! 2nd Season',
+			'はたらく魔王さま！！',
+			'The Devil is a Part-Timer! Season 2 (Sequel)'
+		],
+		studio: [
+			sStudio3Hz
+		],
+		type: 'TV',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tMythology',
+			'tRomance',
+			'tWorkplace'
+		]
+	},
+	{
 		img: '1502/124354l',
 		name: [
 			'Hataraku Maou-sama!!',
-			'',
+			'はたらく魔王さま！！',
 			'The Devil is a Part-Timer! Season 2'
 		],
 		studio: [
-			sNone
+			sStudio3Hz
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tMythology',
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '3/50177l',
 		name: [
 			'Hataraku Maou-sama!',
-			'',
+			'はたらく魔王さま!',
 			'The Devil is a Part-Timer!'
 		],
 		studio: [
-			sNone
+			sWhiteFox
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tMythology',
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
@@ -10972,6 +11057,25 @@ const anime = [
 		]
 	},
 	{
+		img: '1922/136453l',
+		name: [
+			'Tonikaku Kawaii: Joshikou-hen',
+			'トニカクカワイイ 女子高編',
+			'TONIKAWA: Over The Moon For You - High School Days'
+		],
+		studio: [
+			sSevenArcs
+		],
+		type: 'ONA',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tShounen'
+		]
+	},
+	{
 		img: '1996/133361l',
 		name: [
 			'Tonikaku Kawaii 2nd Season',
@@ -10994,51 +11098,57 @@ const anime = [
 		img: '1085/126580l',
 		name: [
 			'Tonikaku Kawaii: Seifuku',
-			'',
+			'トニカクカワイイ ~制服~',
 			'Tonikawa: Over the Moon for You - Uniform'
 		],
 		studio: [
-			sNone
+			sSevenArcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1765/122768l',
 		name: [
 			'Tonikaku Kawaii: SNS',
-			'',
+			'トニカクカワイイ 〜SNS〜',
 			'TONIKAWA: Over The Moon For You - SNS'
 		],
 		studio: [
-			sNone
+			sSevenArcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1613/108722l',
 		name: [
 			'Tonikaku Kawaii',
-			'',
+			'トニカクカワイイ',
 			'TONIKAWA: Over The Moon For You'
 		],
 		studio: [
-			sNone
+			sSevenArcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
