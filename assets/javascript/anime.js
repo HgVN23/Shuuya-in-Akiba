@@ -9715,7 +9715,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1674/136728l',
+		img: '1732/137465l',
 		name: [
 			'Mushoku Tensei II: Isekai Ittara Honki Dasu',
 			'無職転生 II ～異世界行ったら本気だす～',
