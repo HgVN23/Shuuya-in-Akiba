@@ -4338,54 +4338,81 @@ const anime = [
 		]
 	},
 	{
+		img: '1506/120097l',
+		name: [
+			'Fruits Basket: Prelude',
+			'フルーツバスケット -prelude-'
+		],
+		studio: [
+			sTMSEntertainment
+		],
+		type: 'TV',
+		season: 'Winter 2022',
+		rating: 'PG-13',
+		tag: [
+			'tDrama',
+			'tRomance',
+			'tShoujo'
+		]
+	},
+	{
 		img: '1085/114792l',
 		name: [
 			'Fruits Basket: The Final',
-			'',
+			'フルーツバスケット The Final',
 			'Fruits Basket: The Final Season'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1972/111635l',
 		name: [
 			'Fruits Basket 2nd Season',
-			'',
-			''
+			'フルーツバスケット 2nd season'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1447/99827l',
 		name: [
 			'Fruits Basket 1st Season',
-			'',
-			''
+			'フルーツバスケット'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
