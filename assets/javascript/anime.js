@@ -1,6 +1,6 @@
 const anime = [
 	{
-		img: 'l',
+		img: '',
 		name: [
 			'',
 			'',
@@ -17,7 +17,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1329/135096l',
+		img: '1329/135096',
 		name: [
 			'Shiro Seijo to Kuro Bokushi',
 			'白聖女と黒牧師',
@@ -37,7 +37,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1879/133302l',
+		img: '1879/133302',
 		name: [
 			'Helck',
 			'ヘルク'
@@ -54,7 +54,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1748/136736l',
+		img: '1748/136736',
 		name: [
 			'Dark Gathering',
 			'ダークギャザリング'
@@ -72,7 +72,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1179/136000l',
+		img: '1179/136000',
 		name: [
 			'Eiyuu Kyoushitsu',
 			'英雄教室',
@@ -93,7 +93,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1384/136408l',
+		img: '1384/136408',
 		name: [
 			'Zom 100: Zombie ni Naru made ni Shitai 100 no Koto',
 			'ゾン100～ゾンビになるまでにしたい100のこと～',
@@ -114,7 +114,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1879/136896l',
+		img: '1879/136896',
 		name: [
 			'Temple',
 			'てんぷる',
@@ -134,7 +134,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1571/134525l',
+		img: '1571/134525',
 		name: [
 			'Liar Liar',
 			'ライアー・ライアー'
@@ -153,7 +153,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1579/136295l',
+		img: '1579/136295',
 		name: [
 			'Level 1 dakedo Unique Skill de Saikyou desu',
 			'レベル1だけどユニークスキルで最強です',
@@ -173,7 +173,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1074/136720l',
+		img: '1074/136720',
 		name: [
 			'Dekiru Neko wa Kyou mo Yuuutsu',
 			'デキる猫は今日も憂鬱',
@@ -191,7 +191,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1706/136176l',
+		img: '1706/136176',
 		name: [
 			'AI no Idenshi',
 			'AIの遺電子',
@@ -211,7 +211,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1821/135926l',
+		img: '1821/135926',
 		name: [
 			'Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi',
 			'聖者無双',
@@ -231,7 +231,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1722/135542l',
+		img: '1722/135542',
 		name: [
 			'Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.',
 			'悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。',
@@ -252,7 +252,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1946/136661l',
+		img: '1946/136661',
 		name: [
 			'Undead Girl Murder Farce',
 			'アンデッドガール・マーダーファルス',
@@ -271,7 +271,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1653/136097l',
+		img: '1653/136097',
 		name: [
 			'Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou',
 			'自動販売機に生まれ変わった俺は迷宮を彷徨う',
@@ -292,7 +292,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1147/122444l',
+		img: '1147/122444',
 		name: [
 			'Watashi no Shiawase na Kekkon',
 			'わたしの幸せな結婚',
@@ -311,7 +311,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1582/136325l',
+		img: '1582/136325',
 		name: [
 			'Suki na Ko ga Megane wo Wasureta',
 			'好きな子がめがねを忘れた',
@@ -331,7 +331,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1239/134810l',
+		img: '1239/134810',
 		name: [
 			'Yumemiru Danshi wa Genjitsushugisha',
 			'夢見る男子は現実主義者',
@@ -351,7 +351,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1251/136232l',
+		img: '1251/136232',
 		name: [
 			'Okashi na Tensei',
 			'おかしな転生',
@@ -372,7 +372,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1879/136721l',
+		img: '1879/136721',
 		name: [
 			'Lv1 Maou to One Room Yuusha',
 			'Lv1魔王とワンルーム勇者',
@@ -391,7 +391,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1069/135852l',
+		img: '1069/135852',
 		name: [
 			'Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega',
 			'ライザのアトリエ ~常闇の女王と秘密の隠れ家~',
@@ -409,7 +409,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1984/136274l',
+		img: '1984/136274',
 		name: [
 			'Uchi no Kaisha no Chiisai Senpai no Hanashi',
 			'うちの会社の小さい先輩の話',
@@ -428,7 +428,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1406/136367l',
+		img: '1406/136367',
 		name: [
 			'Ayaka',
 			'AYAKA ‐あやか‐',
@@ -446,7 +446,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1496/136558l',
+		img: '1496/136558',
 		name: [
 			'Jitsu wa Ore, Saikyou deshita?',
 			'実は俺、最強でした?',
@@ -466,7 +466,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1208/133335l',
+		img: '1208/133335',
 		name: [
 			'Genjitsu no Yohane: Sunshine in the Mirror',
 			'幻日のヨハネ -SUNSHINE in the MIRROR-',
@@ -483,7 +483,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/85435l',
+		img: '5/85435',
 		name: [
 			'Amagi Brilliant Park',
 			'甘城ブリリアントパーク'
@@ -501,7 +501,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/39303l',
+		img: '9/39303',
 		name: [
 			'Mashiro-iro Symphony: The Color of Lovers',
 			'ましろ色シンフォニー -The color of lovers-',
@@ -521,7 +521,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1997/127227l',
+		img: '1997/127227',
 		name: [
 			'Niehime to Kemono no Ou',
 			'贄姫と獣の王',
@@ -540,7 +540,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1832/133754l',
+		img: '1832/133754',
 		name: [
 			'Ao no Orchestra',
 			'青のオーケストラ',
@@ -559,7 +559,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1812/134736l',
+		img: '1812/134736',
 		name: [
 			'Oshi no Ko',
 			'【推しの子】'
@@ -579,7 +579,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1930/133758l',
+		img: '1930/133758',
 		name: [
 			'Dead Mount Death Play',
 			'デッドマウント・デスプレイ'
@@ -599,7 +599,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1109/130452l',
+		img: '1109/130452',
 		name: [
 			'Kanojo ga Koushaku-tei ni Itta Riyuu',
 			'彼女が公爵邸に行った理由',
@@ -619,7 +619,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1402/134007l',
+		img: '1402/134007',
 		name: [
 			'Kimi wa Houkago Insomnia',
 			'君は放課後インソムニア',
@@ -638,7 +638,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1387/134151l',
+		img: '1387/134151',
 		name: [
 			'Isekai Shoukan wa Nidome desu',
 			'異世界召喚は二度目です',
@@ -660,7 +660,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1091/135041l',
+		img: '1091/135041',
 		name: [
 			'Otonari ni Ginga',
 			'おとなりに銀河',
@@ -680,7 +680,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1332/134658l',
+		img: '1332/134658',
 		name: [
 			'Kawaisugi Crisis',
 			'カワイスギクライシス',
@@ -699,7 +699,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1963/136050l',
+		img: '1963/136050',
 		name: [
 			'Megami no Café Terrace',
 			'女神のカフェテラス',
@@ -720,7 +720,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1171/133777l',
+		img: '1171/133777',
 		name: [
 			'Edomae Elf',
 			'江戸前エルフ',
@@ -739,7 +739,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1708/133360l',
+		img: '1708/133360',
 		name: [
 			'Watashi no Yuri wa Oshigoto desu!',
 			'私の百合はお仕事です！',
@@ -759,7 +759,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1250/135256l',
+		img: '1250/135256',
 		name: [
 			'Isekai One Turn Kill Neesan: Ane Douhan no Isekai Seikatsu Hajimemashita',
 			'異世界ワンターンキル姉さん ～姉同伴の異世界生活はじめました～',
@@ -779,7 +779,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1218/135107l',
+		img: '1218/135107',
 		name: [
 			'Mashle',
 			'マッシュル-MASHLE-',
@@ -801,7 +801,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1868/133866l',
+		img: '1868/133866',
 		name: [
 			'Yuusha ga Shinda!',
 			'勇者が死んだ！',
@@ -823,7 +823,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1794/135148l',
+		img: '1794/135148',
 		name: [
 			'Kaminaki Sekai no Kamisama Katsudou',
 			'神無き世界のカミサマ活動',
@@ -846,7 +846,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1355/133785l',
+		img: '1355/133785',
 		name: [
 			'Skip to Loafer',
 			'スキップとローファー',
@@ -867,7 +867,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1316/134327l',
+		img: '1316/134327',
 		name: [
 			'Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta',
 			'異世界でチート能力を手にした俺は、現実世界をも無双する ～レベルアップは人生を変えた～',
@@ -888,7 +888,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1350/133642l',
+		img: '1350/133642',
 		name: [
 			'Jijou wo Shiranai Tenkousei ga Guigui Kuru.',
 			'事情を知らない転校生がグイグイくる。',
@@ -907,7 +907,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1071/135255l',
+		img: '1071/135255',
 		name: [
 			'Tensei Kizoku no Isekai Boukenroku: Jichou wo Shiranai Kamigami no Shito',
 			'転生貴族の異世界冒険録～自重を知らない神々の使徒～',
@@ -930,7 +930,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1121/133132l',
+		img: '1121/133132',
 		name: [
 			'Tengoku Daimakyou',
 			'天国大魔境',
@@ -949,7 +949,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1545/133887l',
+		img: '1545/133887',
 		name: [
 			'Boku no Kokoro no Yabai Yatsu',
 			'僕の心のヤバイやつ',
@@ -968,7 +968,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1298/134178l',
+		img: '1298/134178',
 		name: [
 			'Yamada-kun to Lv999 no Koi wo Suru',
 			'山田くんとLv999の恋をする',
@@ -986,7 +986,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1673/117409l',
+		img: '1673/117409',
 		name: [
 			'Deatte 5-byou de Battle',
 			'出会って5秒でバトル',
@@ -1007,7 +1007,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1429/95946l',
+		img: '1429/95946',
 		name: [
 			'Akame ga Kill!',
 			'アカメが斬る！'
@@ -1026,7 +1026,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/86665l',
+		img: '7/86665',
 		name: [
 			'Aho Girl',
 			'アホガール'
@@ -1045,7 +1045,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1472/93813l',
+		img: '1472/93813',
 		name: [
 			"Knight's & Magic",
 			'ナイツ&マジック'
@@ -1066,7 +1066,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1951/95080l',
+		img: '1951/95080',
 		name: [
 			'Island'
 		],
@@ -1083,7 +1083,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1709/98068l',
+		img: '1709/98068',
 		name: [
 			'Charlotte: Tsuyoimono-tachi',
 			'Charlotte（シャーロット）特別篇 強い者たち',
@@ -1102,7 +1102,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/74683l',
+		img: '12/74683',
 		name: [
 			'Charlotte',
 			'Charlotte（シャーロット）'
@@ -1120,7 +1120,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1724/117421l',
+		img: '1724/117421',
 		name: [
 			'Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season Part 2',
 			'Re:ゼロから始める異世界生活',
@@ -1141,7 +1141,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1444/108005l',
+		img: '1444/108005',
 		name: [
 			'Re:Zero kara Hajimeru Isekai Seikatsu 2nd Season',
 			'Re:ゼロから始める異世界生活',
@@ -1162,7 +1162,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1238/104023l',
+		img: '1238/104023',
 		name: [
 			'Re:Zero kara Hajimeru Isekai Seikatsu - Hyouketsu no Kizuna',
 			'Re:ゼロから始める異世界生活『氷結の絆',
@@ -1181,7 +1181,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1773/109444l',
+		img: '1773/109444',
 		name: [
 			'Re:Zero kara Hajimeru Isekai Seikatsu - Memory Snow',
 			'Re:ゼロから始める異世界生活 Memory Snow',
@@ -1199,7 +1199,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1522/128039l',
+		img: '1522/128039',
 		name: [
 			'Re:Zero kara Hajimeru Isekai Seikatsu',
 			'Re:ゼロから始める異世界生活',
@@ -1220,7 +1220,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/89687l',
+		img: '6/89687',
 		name: [
 			'Busou Shoujo Machiavellianism: Doki! "Goken-darake" no Ian Ryokou',
 			'武装少女マキャヴェリズム ドキッ！「五剣だらけ」の慰安旅行'
@@ -1239,7 +1239,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/83995l',
+		img: '3/83995',
 		name: [
 			'Busou Shoujo Machiavellianism',
 			'武装少女マキャヴェリズム',
@@ -1262,7 +1262,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1880/101146l',
+		img: '1880/101146',
 		name: [
 			'Tenki no Ko',
 			'天気の子',
@@ -1281,7 +1281,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1078/131921l',
+		img: '1078/131921',
 		name: [
 			'Ayakashi Triangle',
 			'あやかしトライアングル'
@@ -1304,7 +1304,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1818/132330l',
+		img: '1818/132330',
 		name: [
 			'Kubo-san wa Mob wo Yurusanai',
 			'久保さんは僕を許さない',
@@ -1324,7 +1324,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1661/131889l',
+		img: '1661/131889',
 		name: [
 			'Tondemo Skill de Isekai Hourou Meshi',
 			'とんでもスキルで異世界放浪メシ',
@@ -1345,7 +1345,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1111/135927l',
+		img: '1111/135927',
 		name: [
 			'Mononogatari 2nd Season',
 			'もののがたり 第二章'
@@ -1364,7 +1364,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1173/131830l',
+		img: '1173/131830',
 		name: [
 			'Mononogatari',
 			'もののがたり',
@@ -1384,7 +1384,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1087/129002l',
+		img: '1087/129002',
 		name: [
 			'Nokemono-tachi no Yoru',
 			'ノケモノたちの夜',
@@ -1403,7 +1403,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1044/129594l',
+		img: '1044/129594',
 		name: [
 			'Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀',
 			'英雄王、武を極めるため転生す ～そして、世界最強の見習い騎士♀～',
@@ -1423,7 +1423,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1122/96435l',
+		img: '1122/96435',
 		name: [
 			'Koe no Katachi',
 			'聲の形',
@@ -1441,7 +1441,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1417/112991l',
+		img: '1417/112991',
 		name: [
 			'Byousoku 5 Centimeter',
 			'秒速５センチメートル',
@@ -1459,7 +1459,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1805/132335l',
+		img: '1805/132335',
 		name: [
 			'Benriya Saitou-san, Isekai ni Iku',
 			'便利屋斎藤さん、異世界に行く',
@@ -1479,7 +1479,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1890/131473l',
+		img: '1890/131473',
 		name: [
 			'Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu',
 			'老後に備えて異世界で８万枚の金貨を貯めます',
@@ -1497,7 +1497,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1547/125900l',
+		img: '1547/125900',
 		name: [
 			'Saikyou Onmyouji no Isekai Tenseiki',
 			'最強陰陽師の異世界転生記',
@@ -1518,7 +1518,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/73984l',
+		img: '12/73984',
 		name: [
 			'Ben-To',
 			'ベン・トー'
@@ -1537,7 +1537,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1240/133638l',
+		img: '1240/133638',
 		name: [
 			'Otonari no Tenshi-sama ni Itsunomanika Dame Ningen ni Sareteita Ken',
 			'お隣の天使様にいつの間にか駄目人間にされていた件',
@@ -1556,7 +1556,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1553/133767l',
+		img: '1553/133767',
 		name: [
 			'Buddy Daddies'
 		],
@@ -1572,7 +1572,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1866/133949l',
+		img: '1866/133949',
 		name: [
 			'Ars no Kyojuu',
 			'アルスの巨獣',
@@ -1591,7 +1591,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1997/131327l',
+		img: '1997/131327',
 		name: [
 			'Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san',
 			'ツンデレ悪役令嬢リーゼロッテと実況の遠藤くんと解説の小林さん',
@@ -1611,7 +1611,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1884/131748l',
+		img: '1884/131748',
 		name: [
 			'Revenger',
 			'リベンジャー'
@@ -1629,7 +1629,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1399/136114l',
+		img: '1399/136114',
 		name: [
 			'Sugar Apple Fairy Tale Part 2',
 			'シュガーアップル・フェアリーテイル'
@@ -1648,7 +1648,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1897/131300l',
+		img: '1897/131300',
 		name: [
 			'Sugar Apple Fairy Tale',
 			'シュガーアップル・フェアリーテイル'
@@ -1667,7 +1667,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1983/132329l',
+		img: '1983/132329',
 		name: [
 			'Isekai Nonbiri Nouka',
 			'異世界のんびり農家',
@@ -1687,7 +1687,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1058/131632l',
+		img: '1058/131632',
 		name: [
 			'Oniichan wa Oshimai!',
 			'お兄ちゃんはおしまい！',
@@ -1706,7 +1706,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1049/131580l',
+		img: '1049/131580',
 		name: [
 			'Hyouken no Majutsushi ga Sekai wo Suberu',
 			'冰剣の魔術師が世界を統べる',
@@ -1725,7 +1725,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1317/136666l',
+		img: '1317/136666',
 		name: [
 			'Spy Kyoushitsu 2nd Season',
 			'スパイ教室',
@@ -1744,7 +1744,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1491/132864l',
+		img: '1491/132864',
 		name: [
 			'Spy Kyoushitsu',
 			'スパイ教室',
@@ -1763,7 +1763,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1444/131828l',
+		img: '1444/131828',
 		name: [
 			'Tomo-chan wa Onnanoko!',
 			'トモちゃんは女の子！',
@@ -1782,7 +1782,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1189/111994l',
+		img: '1189/111994',
 		name: [
 			'Tanaka-kun wa Itsumo Kedaruge',
 			'田中くんはいつもけだるげ',
@@ -1801,7 +1801,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1453/132695l',
+		img: '1453/132695',
 		name: [
 			'Inu ni Nattara Suki na Hito ni Hirowareta. Specials',
 			'犬になったら好きな人に拾われた。OVA'
@@ -1811,13 +1811,14 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2023',
+		rating: 'R+',
 		tag: [
 			'tComedy',
 			'tEcchi'
 		]
 	},
 	{
-		img: '1832/132333l',
+		img: '1832/132333',
 		name: [
 			'Inu ni Nattara Suki na Hito ni Hirowareta',
 			'犬になったら好きな人に拾われた。',
@@ -1835,7 +1836,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1927/132758l',
+		img: '1927/132758',
 		name: [
 			'Koori Zokusei Danshi to Cool na Douryou Joshi',
 			'氷属性男子とクールな同僚女子',
@@ -1856,7 +1857,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1053/129004l',
+		img: '1053/129004',
 		name: [
 			'Tensei Oujo to Tensai Reijou no Mahou Kakumei',
 			'転生王女と天才令嬢の魔法革命',
@@ -1876,7 +1877,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1446/131578l',
+		img: '1446/131578',
 		name: [
 			'Ningen Fushin no Boukensha-tachi ga Sekai wo Sukuu you desu',
 			'人間不信の冒険者たちが世界を救うようです',
@@ -1895,7 +1896,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/89671l',
+		img: '10/89671',
 		name: [
 			'Himouto! Umaru-chan R',
 			'干物妹！うまるちゃんR'
@@ -1912,7 +1913,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/76826l',
+		img: '7/76826',
 		name: [
 			'Himouto! Umaru-chan OVA',
 			'干物妹！うまるちゃん OVA'
@@ -1929,7 +1930,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/75086l',
+		img: '12/75086',
 		name: [
 			'Himouto! Umaru-chan',
 			'干物妹！うまるちゃん'
@@ -1946,7 +1947,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1854/121605l',
+		img: '1854/121605',
 		name: [
 			'Isekai Quartet Movie: Another World',
 			'劇場版 異世界かるてっと ～あなざーわーるど～'
@@ -1965,7 +1966,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1030/103383l',
+		img: '1030/103383',
 		name: [
 			'Isekai Quartet 2',
 			'異世界かるてっと2'
@@ -1984,7 +1985,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1965/99667l',
+		img: '1965/99667',
 		name: [
 			'Isekai Quartet',
 			'異世界かるてっと'
@@ -2003,7 +2004,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/84858l',
+		img: '2/84858',
 		name: [
 			'Hinako Note',
 			'ひなこのーと'
@@ -2020,7 +2021,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/74156l',
+		img: '6/74156',
 		name: [
 			'Shigatsu wa Kimi no Uso: Moments',
 			'四月は君の嘘 MOMENTS',
@@ -2038,7 +2039,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/72831l',
+		img: '3/72831',
 		name: [
 			'Shigatsu wa Kimi no Uso',
 			'四月は君の嘘',
@@ -2059,7 +2060,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/89690l',
+		img: '8/89690',
 		name: [
 			'Gabriel DropOut Specials',
 			'ガヴリールドロップアウトOVA'
@@ -2079,7 +2080,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/82590l',
+		img: '9/82590',
 		name: [
 			'Gabriel DropOut',
 			'ガヴリールドロップアウト'
@@ -2099,7 +2100,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/88286l',
+		img: '6/88286',
 		name: [
 			'Blend S',
 			'ブレンド・S',
@@ -2118,7 +2119,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1302/94882l',
+		img: '1302/94882',
 		name: [
 			'Grand Blue',
 			'ぐらんぶる',
@@ -2136,7 +2137,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1755/98075l',
+		img: '1755/98075',
 		name: [
 			'Kokoro Connect: Michi Random',
 			'ココロコネクト ミチランダム',
@@ -2156,7 +2157,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/39665l',
+		img: '2/39665',
 		name: [
 			'Kokoro Connect',
 			'ココロコネクト'
@@ -2175,7 +2176,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/77837l',
+		img: '4/77837',
 		name: [
 			'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira',
 			'少女たちは荒野を目指す 言うべきものかしら'
@@ -2192,7 +2193,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/77837l',
+		img: '4/77837',
 		name: [
 			'Shoujo-tachi wa Kouya wo Mezasu',
 			'少女たちは荒野を目指す',
@@ -2209,7 +2210,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/83000l',
+		img: '3/83000',
 		name: [
 			'Koi to Senkyo to Chocolate: Koi Imouto!',
 			'恋と選挙とチョコレート 第13話「恋妹！」'
@@ -2228,7 +2229,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/42015l',
+		img: '4/42015',
 		name: [
 			'Koi to Senkyo to Chocolate',
 			'恋と選挙とチョコレート',
@@ -2248,7 +2249,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/56525l',
+		img: '5/56525',
 		name: [
 			'Machine-Doll wa Kizutsukanai Specials',
 			'機巧少女は傷つかない',
@@ -2268,7 +2269,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/52801l',
+		img: '7/52801',
 		name: [
 			'Machine-Doll wa Kizutsukanai',
 			'機巧少女〈マシンドール〉は傷つかない',
@@ -2288,7 +2289,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1464/112501l',
+		img: '1464/112501',
 		name: [
 			'Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru OVA',
 			'俺の脳内選択肢が、学園ラブコメを全力で邪魔している OAD',
@@ -2308,7 +2309,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/55831l',
+		img: '9/55831',
 		name: [
 			'Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru',
 			'俺の脳内選択肢が、学園ラブコメを全力で邪魔している',
@@ -2328,7 +2329,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/74014l',
+		img: '12/74014',
 		name: [
 			'Nogizaka Haruka no Himitsu: Finale',
 			'乃木坂春香の秘密 ふぃな～れ♪',
@@ -2346,7 +2347,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/74013l',
+		img: '10/74013',
 		name: [
 			'Nogizaka Haruka no Himitsu: Purezza',
 			'乃木坂春香の秘密ぴゃあれっつぁ',
@@ -2365,7 +2366,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/56965l',
+		img: '11/56965',
 		name: [
 			'Nogizaka Haruka no Himitsu',
 			'乃木坂春香の秘密',
@@ -2383,7 +2384,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1756/104652l',
+		img: '1756/104652',
 		name: [
 			'Toradora!: Bentou no Gokui',
 			'とらドラ！ 弁当の極意',
@@ -2402,7 +2403,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1242/123508l',
+		img: '1242/123508',
 		name: [
 			'Toradora!: SOS! Kuishinbou Banbanzai',
 			'とらドラ! SOS! 食いしん坊万々歳',
@@ -2420,7 +2421,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/22128l',
+		img: '13/22128',
 		name: [
 			'Toradora!',
 			'とらドラ！'
@@ -2438,7 +2439,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/43643l',
+		img: '4/43643',
 		name: [
 			'Sakura-sou no Pet na Kanojo',
 			'さくら荘のペットな彼女',
@@ -2457,7 +2458,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1934/128719l',
+		img: '1934/128719',
 		name: [
 			'4-nin wa Sorezore Uso wo Tsuku',
 			'４人はそれぞれウソをつく',
@@ -2478,7 +2479,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1423/122029l',
+		img: '1423/122029',
 		name: [
 			'Shokei Shoujo no Virgin Road',
 			'処刑少女の生きる道〈バージンロード〉',
@@ -2498,7 +2499,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/84603l',
+		img: '3/84603',
 		name: [
 			'Mangaka-san to Assistant-san to The Animation Specials',
 			'マンガ家さんとアシスタントさんと THE ANIMATION'
@@ -2517,7 +2518,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/62219l',
+		img: '11/62219',
 		name: [
 			'Mangaka-san to Assistant-san to The Animation',
 			'マンガ家さんとアシスタントさんと THE ANIMATION',
@@ -2537,7 +2538,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1256/128714l',
+		img: '1256/128714',
 		name: [
 			'Mushikaburi-hime',
 			'虫かぶり姫',
@@ -2557,7 +2558,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1614/90408l',
+		img: '1614/90408',
 		name: [
 			'Darling in the FranXX',
 			'ダーリン・イン・ザ・フランキス'
@@ -2579,7 +2580,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1208/120085l',
+		img: '1208/120085',
 		name: [
 			'Strike the Blood Final',
 			'ストライク・ザ・ブラッドFINAL'
@@ -2599,7 +2600,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1692/116875l',
+		img: '1692/116875',
 		name: [
 			'Strike the Blood IV',
 			'ストライク・ザ・ブラッド IV'
@@ -2619,7 +2620,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1918/103377l',
+		img: '1918/103377',
 		name: [
 			'Strike the Blood: Kieta Seisou-hen',
 			'ストライク・ザ・ブラッド 消えた聖槍篇'
@@ -2639,7 +2640,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1768/111676l',
+		img: '1768/111676',
 		name: [
 			'Strike the Blood III',
 			'ストライク・ザ・ブラッドⅢ'
@@ -2659,7 +2660,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1600/111675l',
+		img: '1600/111675',
 		name: [
 			'Strike the Blood II',
 			'ストライク・ザ・ブラッドⅡ',
@@ -2681,7 +2682,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/77275l',
+		img: '12/77275',
 		name: [
 			'Strike the Blood: Valkyria no Oukoku-hen',
 			'ストライク・ザ・ブラッド　ヴァルキュリアの王国篇',
@@ -2704,7 +2705,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/56163l',
+		img: '5/56163',
 		name: [
 			'Strike the Blood',
 			'ストライク・ザ・ブラッド'
@@ -2726,7 +2727,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/56413l',
+		img: '8/56413',
 		name: [
 			'Freezing Vibration Specials',
 			'震えちゃう❤フリージング ヴァイブレーションOVA'
@@ -2744,7 +2745,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/68195l',
+		img: '3/68195',
 		name: [
 			'Freezing Vibration',
 			'フリージング ヴァイブレーション'
@@ -2766,7 +2767,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/28086l',
+		img: '2/28086',
 		name: [
 			'Freezing Specials',
 			'はじけちゃう! ドキドキトラブルフリージング'
@@ -2784,7 +2785,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/28535l',
+		img: '10/28535',
 		name: [
 			'Freezing',
 			'フリージング'
@@ -2805,7 +2806,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/22525l',
+		img: '11/22525',
 		name: [
 			'Omamori Himari',
 			'おまもりひまり'
@@ -2829,7 +2830,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1271/90136l',
+		img: '1271/90136',
 		name: [
 			'Koi wa Ameagari no You ni',
 			'恋は雨上がりのように',
@@ -2849,7 +2850,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/76216l',
+		img: '5/76216',
 		name: [
 			'Yosuga no Sora: In Solitude, Where We Are Least Alone.',
 			'ヨスガノソラ In solitude, where we are least alone.',
@@ -2868,7 +2869,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/64911l',
+		img: '3/64911',
 		name: [
 			'Madan no Ou to Vanadis',
 			'魔弾の王と戦姫 (ヴァナディース)',
@@ -2889,7 +2890,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/71769l',
+		img: '7/71769',
 		name: [
 			'Seiken Tsukai no World Break',
 			'聖剣使いの禁呪詠唱〈ワールドブレイク〉',
@@ -2910,7 +2911,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/76211l',
+		img: '6/76211',
 		name: [
 			'Taimadou Gakuen 35 Shiken Shoutai',
 			'対魔導学園35試験小隊',
@@ -2932,7 +2933,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/76664l',
+		img: '12/76664',
 		name: [
 			'Saijaku Muhai no Bahamut',
 			'最弱無敗の神装機竜《バハムート》',
@@ -2955,7 +2956,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1718/98214l',
+		img: '1718/98214',
 		name: [
 			'Midara na Ao-chan wa Benkyou ga Dekinai',
 			'淫らな青ちゃんは勉強ができない',
@@ -2976,7 +2977,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1849/95019l',
+		img: '1849/95019',
 		name: [
 			'Conception',
 			'CONCEPTION（コンセプション）'
@@ -2998,7 +2999,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1465/121561l',
+		img: '1465/121561',
 		name: [
 			'Seiren',
 			'セイレン'
@@ -3017,7 +3018,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/88234l',
+		img: '10/88234',
 		name: [
 			'Just Because!'
 		],
@@ -3034,7 +3035,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1471/93329l',
+		img: '1471/93329',
 		name: [
 			'Devils Line: Anytime Anywhere',
 			'デビルズライン エニタイム エニウェア'
@@ -3054,7 +3055,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1053/98838l',
+		img: '1053/98838',
 		name: [
 			"Devil's Line",
 			'デビルズライン'
@@ -3074,7 +3075,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/21655l',
+		img: '6/21655',
 		name: [
 			'Ladies versus Butlers! Specials',
 			'れでぃ×ばと!'
@@ -3090,7 +3091,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/75252l',
+		img: '7/75252',
 		name: [
 			'Ladies versus Butlers!',
 			'れでぃ×ばと!'
@@ -3110,7 +3111,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/75662l',
+		img: '13/75662',
 		name: [
 			'Campione! Matsurowanu Kamigami to Kamigoroshi no Maou',
 			'カンピオーネ！ ～まつろわぬ神々と神殺しの魔王～',
@@ -3131,1214 +3132,1457 @@ const anime = [
 		]
 	},
 	{
-		img: '7/62209l',
+		img: '7/62209',
 		name: [
 			'Maken-Ki! Two Specials',
-			'',
-			''
+			'マケン姫っ！通 Ｐ～私事'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Winter 2014',
+		rating: 'R+',
 		tag: [
-			''
+			'tEcchi',
+			'tShounen'
 		]
 	},
 	{
-		img: '10/58191l',
+		img: '10/58191',
 		name: [
 			'Maken-Ki! Two',
-			'',
-			''
+			'マケン姫っ！通'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2014',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tEcchi',
+			'tHarem',
+			'tMartialArts',
+			'tSchool',
+			'tSuperPower',
+			'tShounen'
 		]
 	},
 	{
-		img: '1832/121753l',
+		img: '7/36929',
+		name: [
+			'Maken-Ki! OVA',
+			'マケン姫っ！ OVA'
+		],
+		studio: [
+			sAICSpirits
+		],
+		type: 'OVA',
+		season: 'Winter 2012',
+		rating: 'R+',
+		tag: [
+			'tAction',
+			'tEcchi',
+			'tHarem',
+			'tMartialArts',
+			'tSchool',
+			'tSuperPower'
+		]
+	},
+	{
+		img: '1832/121753',
 		name: [
 			'Maken-Ki! Specials',
-			'',
+			'マケン姫っ！ ドキドキッ！',
 			'Maken-Ki! Secret Training'
 		],
 		studio: [
-			sNone
+			sAICSpirits
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tSports',
+			'tEcchi',
+			'tShounen'
 		]
 	},
 	{
-		img: '7/36929l',
-		name: [
-			'Maken-Ki! OVA',
-			'',
-			''
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
-		tag: [
-			''
-		]
-	},
-	{
-		img: '1215/123362l',
+		img: '1215/123362',
 		name: [
 			'Maken-Ki!',
-			'',
-			''
+			'マケン姫っ！'
 		],
 		studio: [
-			sNone
+			sAICSpirits
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tEcchi',
+			'tHarem',
+			'tMartialArts',
+			'tSchool',
+			'tSuperPower',
+			'tShounen'
 		]
 	},
 	{
-		img: '4/43515l',
+		img: '4/43515',
 		name: [
 			'Kore wa Zombie desu ka? of the Dead: Hai, Minotake ni Attemasu',
-			'',
+			'これはゾンビですか? OF THE DEAD 「はい、身の丈に合ってます」',
 			'Is This a Zombie? Of the Dead OVA'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2012',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
-		img: '4/37451l',
+		img: '4/37451',
 		name: [
 			'Kore wa Zombie desu ka? of the Dead',
-			'',
+			'これはゾンビですか? OF THE DEAD',
 			'Is this A Zombie? of the Dead'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2012',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
-		img: '2/38589l',
+		img: '2/38589',
 		name: [
 			'Kore wa Zombie desu ka? OVA',
-			'',
+			'これはゾンビですか? OVA',
 			'Is This a Zombie? OVA'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
-		img: '13/75521l',
+		img: '13/75521',
 		name: [
 			'Kore wa Zombie desu ka?',
-			'',
+			'これはゾンビですか?',
 			'Is This a Zombie?'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2011',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
-		img: '9/62845l',
+		img: '9/62845',
 		name: [
 			'Seitokai no Ichizon Lv.2: Watasu Seitokai',
-			'',
-			''
+			'生徒会の一存 Lv.2 渡す生徒会'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tHarem',
+			'tParody',
+			'tSchool'
 		]
 	},
 	{
-		img: '13/75645l',
+		img: '13/75645',
 		name: [
 			'Seitokai no Ichizon Lv.2',
-			'',
+			'生徒会の一存 Lv.2',
 			"Student Council's Discretion Level 2"
 		],
 		studio: [
-			sNone
+			sAIC
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tHarem',
+			'tParody',
+			'tSchool'
 		]
 	},
 	{
-		img: '7/19646l',
+		img: '7/19646',
 		name: [
 			'Seitokai no Ichizon',
-			'',
+			'生徒会の一存',
 			"Student Council's Discretion"
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2009',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tHarem',
+			'tParody',
+			'tSchool'
 		]
 	},
 	{
-		img: '2/62655l',
+		img: '2/62655',
 		name: [
 			'Rokujouma no Shinryakusha!?',
-			'',
+			'六畳間の侵略者！？',
 			'Invaders of the Rokujyoma!?'
 		],
 		studio: [
 			sNone
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
-		img: '1660/121553l',
+		img: '1660/121553',
 		name: [
 			'Kiss x Sis',
-			'',
-			'TV'
+			'キスシス'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1323/108709l',
+		img: '1323/108709',
 		name: [
 			'IS: Infinite Stratos 2 - Infinite Wedding',
-			'',
-			''
+			'IS〈インフィニット・ストラトス〉2 インフィニット・ウエディング'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem'
 		]
 	},
 	{
-		img: '9/67545l',
+		img: '9/67545',
 		name: [
 			'IS: Infinite Stratos 2 - World Purge-hen',
-			'',
-			''
+			'IS〈インフィニット・ストラトス〉2　ワールド・パージ編'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2014',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMecha'
 		]
 	},
 	{
-		img: '7/56159l',
+		img: '7/56159',
 		name: [
 			'IS: Infinite Stratos 2 - Hitonatsu no Omoide',
-			'',
-			''
+			'IS 〈インフィニット・ストラトス〉2 ロングバケーション 一夏（ひとなつ）の想いで'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSciFi',
+			'tHarem',
+			'tMecha'
 		]
 	},
 	{
-		img: '2/54925l',
+		img: '2/54925',
 		name: [
 			'IS: Infinite Stratos 2',
-			'',
+			'IS〈インフィニット・ストラトス〉2',
 			'Infinite Stratos 2'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMecha'
 		]
 	},
 	{
-		img: '10/33627l',
+		img: '10/33627',
 		name: [
 			'IS: Infinite Stratos Encore - Koi ni Kogareru Rokujuusou',
-			'',
-			''
+			'IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMecha'
 		]
 	},
 	{
-		img: '3/74045l',
+		img: '3/74045',
 		name: [
 			'IS: Infinite Stratos',
-			'',
+			'IS 〈インフィニット・ストラトス〉',
 			'Infinite Stratos'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMecha'
 		]
 	},
 	{
-		img: '1311/120270l',
+		img: '1311/120270',
 		name: [
 			'Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto',
-			'',
+			'ヒロインたるもの！〜嫌われヒロインと内緒のお仕事〜',
 			'Heroines Run the Show: The Unpopular Girl and the Secret Task'
 		],
 		studio: [
-			sNone
+			sLayduce
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tMusic',
+			'tSchool'
 		]
 	},
 	{
-		img: '1185/117548l',
+		img: '1185/117548',
 		name: [
 			'Ganbare Douki-chan: Kakusa Shakai ni Nayamu Kaisha no Douki',
-			'',
+			'がんばれ同期ちゃん 格差社会に悩む会社の同期',
 			'Ganbare Douki-chan: The Coworker is Suffering from Social Inequality'
 		],
 		studio: [
-			sNone
+			sAtelierPontdarc
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi',
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
-		img: '1185/117548l',
+		img: '1185/117548',
 		name: [
 			'Ganbare Douki-chan',
-			'',
-			''
+			'がんばれ同期ちゃん'
 		],
 		studio: [
-			sNone
+			sAtelierPontdarc
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi',
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
-		img: '1485/119329l',
+		img: '1485/119329',
 		name: [
 			'Koroshi Ai',
-			'',
+			'殺し愛',
 			'Love of Kill'
 		],
 		studio: [
-			sNone
+			sPlatinumVision
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tJosei'
 		]
 	},
 	{
-		img: '4/86243l',
+		img: '4/86243',
 		name: [
 			'Konbini Kareshi',
-			'',
+			'コンビニカレシ',
 			'Convenience Store Boy Friends'
 		],
 		studio: [
-			sNone
+			sPierrot
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance'
 		]
 	},
 	{
-		img: '1399/131410l',
+		img: '1399/131410',
 		name: [
 			'Angel Beats! Another Epilogue',
-			'',
-			''
+			'エンジェルビーツ! アナザーエピローグ'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
-		img: '4/25073l',
+		img: '4/25073',
 		name: [
 			'Angel Beats! Specials',
-			'',
-			''
+			'エンジェルビーツ'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
-		img: '10/22061l',
+		img: '10/22061',
 		name: [
 			'Angel Beats!',
-			'',
-			''
+			'Angel Beats!（エンジェルビーツ!）'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
-		img: '2/75559l',
+		img: '2/75559',
 		name: [
 			'Zero no Tsukaima F',
-			'',
+			'ゼロの使い魔F',
 			'The Familiar of Zero F'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tIsekai'
 		]
 	},
 	{
-		img: '6/12370l',
+		img: '6/12370',
 		name: [
 			'Zero no Tsukaima: Princesses no Rondo - Yuuwaku no Sunahama',
-			'',
+			'ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～ 誘惑の砂浜',
 			'The Familiar of Zero: Rondo of the Princesses OVA'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2008',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
-		img: '6/10256l',
+		img: '6/10256',
 		name: [
 			'Zero no Tsukaima: Princesses no Rondo',
-			'',
+			'ゼロの使い魔 ～三美姫（プリンセッセ）の輪舞（ロンド）～',
 			'The Familiar of Zero: Rondo of Princesses'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2008',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tIsekai',
+			'tSchool'
 		]
 	},
 	{
-		img: '2/22740l',
+		img: '2/22740',
 		name: [
 			'Zero no Tsukaima: Futatsuki no Kishi',
-			'',
+			'ゼロの使い魔 ～双月の騎士～',
 			'The Familiar of Zero: Knight of the Twin Moons'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2007',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tIsekai',
+			'tSchool'
 		]
 	},
 	{
-		img: '8/20680l',
+		img: '8/20680',
 		name: [
 			'Zero no Tsukaima',
-			'',
+			'ゼロの使い魔',
 			'The Familiar of Zero'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2006',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tIsekai',
+			'tSchool'
 		]
 	},
 	{
-		img: '4/72750l',
+		img: '4/72750',
 		name: [
 			'Plastic Memories',
-			'',
-			''
+			'プラスティック・メモリーズ'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSciFi'
 		]
 	},
 	{
-		img: '1730/108516l',
+		img: '1730/108516',
 		name: [
 			'Grisaia: Phantom Trigger The Animation - Stargazer',
-			'',
-			''
+			'グリザイア：ファントムトリガー THE ANIMATION スターゲイザー'
 		],
 		studio: [
-			sNone
+			sBiburyAnimationStudios
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Fall 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tSchool'
 		]
 	},
 	{
-		img: '1298/106867l',
+		img: '1298/106867',
 		name: [
 			'Grisaia: Phantom Trigger The Animation',
-			'',
-			''
+			'グリザイア：ファントムトリガー THE ANIMATION'
 		],
 		studio: [
-			sNone
+			sBiburyAnimationStudios
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Winter 2019',
+		rating: 'R-17+',
 		tag: [
 			''
 		]
 	},
 	{
-		img: '2/75328l',
+		img: '2/75328',
 		name: [
 			'Grisaia no Meikyuu: Caprice no Mayu 0 - Takizono Basketball Club no Nama Cream Party!',
-			'',
-			''
+			'グリザイアの迷宮 カプリスの繭0 姫&バスケ部編「滝園バスケ部の生クリームパーティ! 」'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Summer 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tEcchi'
 		]
 	},
 	{
-		img: '7/74609l',
-		name: [
-			'Grisaia no Kajitsu Specials',
-			'',
-			''
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
-		tag: [
-			''
-		]
-	},
-	{
-		img: '8/72855l',
+		img: '8/72855',
 		name: [
 			'Grisaia no Rakuen',
-			'',
+			'グリザイアの楽園',
 			'The Eden of Grisaia'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tHarem',
+			'tPsychological'
 		]
 	},
 	{
-		img: '1278/112633l',
+		img: '1278/112633',
 		name: [
 			'Grisaia no Meikyuu: Caprice no Mayu 0',
-			'',
+			'グリザイアの迷宮 カプリスの繭0',
 			'The Labyrinth of Grisaia: The Cocoon of Caprice 0'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Spring 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tDrama'
 		]
 	},
 	{
-		img: '1645/112632l',
+		img: '7/74609',
+		name: [
+			'Grisaia no Kajitsu Specials',
+			'グリザイアの果実'
+		],
+		studio: [
+			s8bit
+		],
+		type: 'Special',
+		season: 'Fall 2014',
+		rating: 'R+',
+		tag: [
+			'tEcchi'
+		]
+	},
+	{
+		img: '1645/112632',
 		name: [
 			'Grisaia no Kajitsu',
-			'',
+			'グリザイアの果実',
 			'The Fruit of Grisaia'
 		],
 		studio: [
 			sNone
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2014',
+		rating: 'R+',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tHarem',
+			'tPsychological',
+			'tSchool'
 		]
 	},
 	{
-		img: '12/89979l',
+		img: '12/89979',
 		name: [
 			'Ryuuou no Oshigoto!',
-			'',
+			'りゅうおうのおしごと！',
 			"The Ryuo's Work is Never Done!"
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tGame'
 		]
 	},
 	{
-		img: '3/78858l',
+		img: '3/78858',
 		name: [
 			'Hundred',
-			'',
-			''
+			'ハンドレッド'
 		],
 		studio: [
-			sNone
+			sProductionIMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMecha',
+			'tSchool'
 		]
 	},
 	{
-		img: '6/88307l',
+		img: '6/88307',
 		name: [
 			'Tsuki ga Kirei Special',
-			'',
-			''
+			'月がきれい'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '2/85592l',
+		img: '2/85592',
 		name: [
 			'Tsuki ga Kirei',
-			'',
-			''
+			'月がきれい'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '1356/93469l',
+		img: '1356/93469',
 		name: [
 			'Meiji Tokyo Renka',
-			'',
-			''
+			'明治東亰恋伽'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSupernatural',
+			'tHistorical',
+			'tHarem',
+			'tTimeTravel',
+			'tShoujo'
 		]
 	},
 	{
-		img: '8/83735l',
+		img: '8/83735',
 		name: [
 			'Fuuka',
-			'',
-			''
+			'風夏'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2017',
+		rating: 'R+',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tEcchi',
+			'tMusic',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
-		img: '1424/93855l',
+		img: '1424/93855',
 		name: [
 			'Irozuku Sekai no Ashita kara',
-			'',
+			'色づく世界の明日から',
 			'Iroduku: The World in Colors'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tSchool',
+			'tTimeTravel'
 		]
 	},
 	{
-		img: '1566/91061l',
+		img: '1566/91061',
 		name: [
 			'ReLIFE: Kanketsu-hen',
-			'',
+			'ReLIFE 完結編',
 			'ReLIFE: Final Arc'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '3/82149l',
+		img: '3/82149',
 		name: [
-			'ReLIFE',
-			'',
-			''
+			'ReLIFE'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '1122/96012l',
+		img: '1122/96012',
 		name: [
 			'Nil Admirari no Tenbin',
-			'',
+			'ニル・アドミラリの天秤',
 			'Libra of Nil Admirari'
 		],
 		studio: [
-			sNone
+			sZeroG
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tRomance',
+			'tHistorical',
+			'tHarem',
+			'tJosei'
 		]
 	},
 	{
-		img: '4/85260l',
+		img: '4/85260',
 		name: [
 			'Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?',
-			'',
+			'終末なにしてますか？忙しいですか？救ってもらっていいですか？',
 			'WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?'
 		],
 		studio: [
-			sNone
+			sSatelight,
+			sC2C
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tSciFi'
 		]
 	},
 	{
-		img: '1560/99904l',
+		img: '1560/99904',
 		name: [
 			'High Score Girl II',
-			'',
-			''
+			'ハイスコアガール II',
+			'Hi Score Girl II'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tGame',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1057/111384l',
+		img: '1057/111384',
 		name: [
 			'High Score Girl: Extra Stage',
-			'',
-			''
+			'ハイスコアガール EXTRA STAGE',
+			'Hi Score Girl: Extra Stage'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tGame',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1668/91345l',
+		img: '1668/91345',
 		name: [
 			'High Score Girl',
-			'',
+			'ハイスコアガール',
 			'Hi Score Girl'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tGame',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1745/93307l',
+		img: '1745/93307',
 		name: [
 			'Beatless Final Stage',
-			'',
-			''
+			'BEATLESS Final Stage'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tDrama',
+			'tRomance',
+			'tSciFi'
 		]
 	},
 	{
-		img: '1986/90184l',
+		img: '1986/90184',
 		name: [
 			'Beatless',
-			'',
-			''
+			'BEATLESS'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
-			]
+			'tAction',
+			'tDrama',
+			'tRomance',
+			'tSciFi'
+		]
 	},
 	{
-		img: '11/69085l',
+		img: '11/69085',
 		name: [
 			'Juuou Mujin no Fafnir',
-			'',
+			'銃皇無尽のファフニール',
 			'Unlimited Fafnir'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
-		img: '1815/109046l',
+		img: '1395/95778',
 		name: [
-			'Shinmai Maou no Testament Specials',
-			'',
-			''
+			'Shinmai Maou no Testament Departures',
+			'新妹魔王の契約者 DEPARTURES',
+			'The Testament of Sister New Devil Departures'
 		],
 		studio: [
-			sNone
+			sProductionIMS
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Winter 2018',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tMythology'
 		]
 	},
 	{
-		img: '12/69911l',
+		img: '1151/94750',
+		name: [
+			'Shinmai Maou no Testament Burst',
+			'新妹魔王の契約者 BURST',
+			'The Testament of Sister New Devil: Burst'
+		],
+		studio: [
+			sProductionIMS
+		],
+		type: 'TV',
+		season: 'Fall 2015',
+		rating: 'R+',
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tMythology'
+		]
+	},
+	{
+		img: '12/69911',
 		name: [
 			'Shinmai Maou no Testament: Toujou Basara no Hard Sweet na Nichijou',
-			'',
-			''
+			'新妹魔王の契約者〈テスタメント〉 第13話「東城刃更のハードスウィートな日常」',
+			'The Testament of Sister New Devil OVA'
 		],
 		studio: [
-			sNone
+			sProductionIMS
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Spring 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tMythology'
 		]
 	},
 	{
-		img: '1654/112033l',
+		img: '1815/109046',
+		name: [
+			'Shinmai Maou no Testament Specials',
+			'新妹魔王の契約者〈テスタメント〉',
+			'The Testament of Sister New Devil Specials'
+		],
+		studio: [
+			sProductionIMS
+		],
+		type: 'Special',
+		season: 'Winter 2015',
+		rating: 'R+',
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tMythology'
+		]
+	},
+	{
+		img: '1654/112033',
 		name: [
 			'Shinmai Maou no Testament',
-			'',
+			'新妹魔王の契約者〈テスタメント〉',
 			'The Testament of Sister New Devil'
 		],
 		studio: [
-			sNone
+			sProductionIMS
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tMythology'
 		]
 	},
 	{
-		img: '1446/91841l',
+		img: '1446/91841',
 		name: [
 			'Tada-kun wa Koi wo Shinai',
-			'',
+			'多田くんは恋をしない',
 			'Tada Never Falls in Love'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '1342/122261l',
+		img: '1342/122261',
 		name: [
 			'Koi to Uso: Isshou no Koi/Koi no Kimochi',
-			'',
+			'恋と嘘 一生の恋 / 恋の気持ち',
 			'Love and Lies: Love of a Lifetime/Feelings of Love'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '5/86663l',
+		img: '5/86663',
 		name: [
 			'Koi to Uso',
-			'',
+			'恋と嘘',
 			'Love and Lies'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '9/76493l',
+		img: '9/76493',
 		name: [
 			'Rakudai Kishi no Cavalry',
-			'',
+			'落第騎士の英雄譚《キャバルリィ》',
 			'Chivalry of a Failed Knight'
 		],
 		studio: [
-			sNone
+			sSILVERLINK,
+			sNexus
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tSchool'
 		]
 	},
 	{
-		img: '1284/106945l',
+		img: '1284/106945',
 		name: [
 			'Arte',
-			'',
-			''
+			'アルテ'
 		],
 		studio: [
-			sNone
+			sSevenArcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tHistorical',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1919/107275l',
+		img: '1919/107275',
 		name: [
 			'Yesterday wo Utatte: Haishin-ban Episode',
-			'',
-			''
+			'イエスタデイをうたって 配信版エピソード'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1553/107721l',
+		img: '1553/107721',
 		name: [
 			'Yesterday wo Utatte',
-			'',
+			'イエスタデイをうたって',
 			'Sing "Yesterday" for Me'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1874/111374l',
+		img: '1874/111374',
 		name: [
 			'Ueno-san wa Bukiyou',
-			'',
+			'上野さんは不器用',
 			'How clumsy you are, Miss Ueno'
 		],
 		studio: [
-			sNone
+			sLesprit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1186/108864l',
+		img: '1186/108864',
 		name: [
 			'Josee to Tora to Sakana-tachi',
-			'',
+			'ジョゼと虎と魚たち',
 			'Josee, the Tiger and the Fish'
 		],
 		studio: [
-			sNone
+			sBones
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance'
 		]
 	},
 	{
-		img: '1021/95670l',
+		img: '1021/95670',
 		name: [
 			'Domestic na Kanojo',
-			'',
+			'ドメスティックな彼女',
 			'Domestic Girlfriend'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2019',
+		rating: 'R+',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
-		img: '1506/120097l',
+		img: '1506/120097',
 		name: [
 			'Fruits Basket: Prelude',
 			'フルーツバスケット -prelude-'
@@ -4356,7 +4600,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1085/114792l',
+		img: '1085/114792',
 		name: [
 			'Fruits Basket: The Final',
 			'フルーツバスケット The Final',
@@ -4376,7 +4620,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1972/111635l',
+		img: '1972/111635',
 		name: [
 			'Fruits Basket 2nd Season',
 			'フルーツバスケット 2nd season'
@@ -4396,7 +4640,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1447/99827l',
+		img: '1447/99827',
 		name: [
 			'Fruits Basket 1st Season',
 			'フルーツバスケット'
@@ -4416,126 +4660,137 @@ const anime = [
 		]
 	},
 	{
-		img: '1237/113435l',
+		img: '1237/113435',
 		name: [
 			'3D Kanojo: Real Girl 2nd Season',
-			'',
+			'3D彼女 リアルガール第2シーズン',
 			'Real Girl Season 2'
 		],
 		studio: [
-			sNone
+			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
-		img: '1327/93616l',
+		img: '1327/93616',
 		name: [
 			'3D Kanojo: Real Girl',
-			'',
+			'３Ｄ彼女　リアルガール',
 			'Real Girl'
 		],
 		studio: [
-			sNone
+			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
-		img: '9/67077l',
+		img: '9/67077',
 		name: [
 			'D-Frag!*',
-			'',
-			''
+			'ディーふらぐ! ウォーター!!'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		]
 	},
 	{
-		img: '2/53407l',
+		img: '2/53407',
 		name: [
 			'D-Frag!',
-			'',
-			''
+			'ディーふらぐ！'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSchool',
+			'tGame',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1892/111383l',
+		img: '1892/111383',
 		name: [
 			'Wotaku ni Koi wa Muzukashii OVA',
-			'',
+			'ヲタクに恋は難しい OAD',
 			'Wotakoi: Love is Hard for Otaku OVA'
 		],
 		studio: [
-			sNone
+			sA1Pictures,
+			sLapinTrack
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
-		img: '1864/93518l',
+		img: '1864/93518',
 		name: [
 			'Wotaku ni Koi wa Muzukashii',
-			'',
+			'ヲタクに恋は難しい',
 			'Wotakoi: Love is Hard for Otaku'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
-		img: '1519/110527l',
+		img: '1519/110527',
 		name: [
 			'Koi to Yobu ni wa Kimochi Warui',
-			'',
+			'恋と呼ぶには気持ち悪い',
 			'Koikimo'
 		],
 		studio: [
-			sNone
+			sNomad
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
-		img: '1274/133807l',
+		img: '1274/133807',
 		name: [
 			'Tokyo Mew Mew New ♡ 2nd Season',
 			'東京ミュウミュウ にゅ～♡'
@@ -4555,109 +4810,122 @@ const anime = [
 		]
 	},
 	{
-		img: '1001/116687l',
+		img: '1001/116687',
 		name: [
 			'Tokyo Mew Mew New ♡',
-			'',
+			'東京ミュウミュウ にゅ～♡',
 			'Tokyo Mew Mew New'
 		],
 		studio: [
-			sNone
+			sYumetaCompany,
+			sGraphinica
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tShoujo'
 		]
 	},
 	{
-		img: '1947/114235l',
+		img: '1947/114235',
 		name: [
 			'Seijo no Maryoku wa Bannou desu',
-			'',
+			'聖女の魔力は万能です',
 			"The Saint's Magic Power is Omnipotent"
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tMedical'
 		]
 	},
 	{
-		img: '1055/118890l',
+		img: '1055/118890',
 		name: [
 			'Senpai ga Uzai Kouhai no Hanashi',
-			'',
+			'先輩がうざい後輩の話',
 			'My Senpai is Annoying'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tWorkplace'
 		]
 	},
 	{
-		img: '1179/119897l',
+		img: '1179/119897',
 		name: [
 			'Sono Bisque Doll wa Koi wo Suru',
-			'',
+			'その着せ替え人形は恋をする',
 			'My Dress-Up Darling'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
-		img: '1539/128058l',
+		img: '1539/128058',
 		name: [
 			'Uzaki-chan wa Asobitai! Double',
-			'',
+			'宇崎ちゃんは遊びたい！ω（だぶる）',
 			'Uzaki-chan Wants to Hang Out! Season 2'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
-		img: '1540/108292l',
+		img: '1540/108292',
 		name: [
 			'Uzaki-chan wa Asobitai!',
-			'',
+			'宇崎ちゃんは遊びたい！',
 			'Uzaki-chan Wants to Hang Out!'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
-		img: '13/68705l',
+		img: '13/68705',
 		name: [
 			'Denki-gai no Honya-san',
 			'',
@@ -4674,7 +4942,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/86786l',
+		img: '2/86786',
 		name: [
 			'No Game No Life: Zero',
 			'',
@@ -4691,7 +4959,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/71783l',
+		img: '7/71783',
 		name: [
 			'No Game No Life Specials',
 			'',
@@ -4708,7 +4976,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1074/111944l',
+		img: '1074/111944',
 		name: [
 			'No Game No Life',
 			'',
@@ -4725,7 +4993,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/72614l',
+		img: '9/72614',
 		name: [
 			"Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
 			'',
@@ -4742,7 +5010,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/73298l',
+		img: '6/73298',
 		name: [
 			"Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
 			'',
@@ -4759,7 +5027,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/63205l',
+		img: '2/63205',
 		name: [
 			'Kyoukai no Kanata: Shinonome',
 			'',
@@ -4776,7 +5044,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/72218l',
+		img: '10/72218',
 		name: [
 			'Kyoukai no Kanata: Mini Gekijou',
 			'',
@@ -4793,7 +5061,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/85468l',
+		img: '3/85468',
 		name: [
 			'Kyoukai no Kanata',
 			'',
@@ -4810,7 +5078,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/69517l',
+		img: '9/69517',
 		name: [
 			'Ao Haru Ride OVA',
 			'',
@@ -4827,7 +5095,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/64813l',
+		img: '8/64813',
 		name: [
 			'Ao Haru Ride',
 			'',
@@ -4844,7 +5112,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/68839l',
+		img: '4/68839',
 		name: [
 			'Absolute Duo',
 			'',
@@ -4861,7 +5129,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1376/123398l',
+		img: '1376/123398',
 		name: [
 			'Karakai Jouzu no Takagi-san Movie',
 			'',
@@ -4878,7 +5146,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1861/120361l',
+		img: '1861/120361',
 		name: [
 			'Karakai Jouzu no Takagi-san 3',
 			'',
@@ -4895,7 +5163,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1393/107033l',
+		img: '1393/107033',
 		name: [
 			'Karakai Jouzu no Takagi-san 2',
 			'',
@@ -4912,7 +5180,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1128/99821l',
+		img: '1128/99821',
 		name: [
 			'Karakai Jouzu no Takagi-san: Water Slide',
 			'',
@@ -4929,7 +5197,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1591/95091l',
+		img: '1591/95091',
 		name: [
 			'Karakai Jouzu no Takagi-san',
 			'',
@@ -4946,7 +5214,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/73475l',
+		img: '4/73475',
 		name: [
 			'Denpa Kyoushi',
 			'',
@@ -4963,7 +5231,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/73735l',
+		img: '7/73735',
 		name: [
 			'Haiyore! Nyaruko-san F',
 			'',
@@ -4980,7 +5248,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/61789l',
+		img: '4/61789',
 		name: [
 			'Haiyore! Nyaruko-san W: W ni Sayonara/Kono Onsen ni Koi no Konton wo',
 			'',
@@ -4997,7 +5265,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/47533l',
+		img: '10/47533',
 		name: [
 			'Haiyore! Nyaruko-san W',
 			'',
@@ -5014,7 +5282,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/49081l',
+		img: '6/49081',
 		name: [
 			'Haiyore! Nyaruko-san',
 			'',
@@ -5031,7 +5299,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/85289l',
+		img: '13/85289',
 		name: [
 			'Kyoukai no Rinne 3rd Season',
 			'',
@@ -5048,7 +5316,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/79665l',
+		img: '7/79665',
 		name: [
 			'Kyoukai no Rinne 2nd Season',
 			'',
@@ -5065,7 +5333,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/73436l',
+		img: '13/73436',
 		name: [
 			'Kyoukai no Rinne',
 			'',
@@ -5082,7 +5350,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/67047l',
+		img: '8/67047',
 		name: [
 			'Inou-Battle wa Nichijou-kei no Naka de',
 			'',
@@ -5099,7 +5367,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/84879l',
+		img: '13/84879',
 		name: [
 			'Hajimete no Gal: Hajimete no Bunkasai',
 			'',
@@ -5116,7 +5384,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/86826l',
+		img: '9/86826',
 		name: [
 			'Hajimete no Gal',
 			'',
@@ -5133,7 +5401,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1015/123541l',
+		img: '1015/123541',
 		name: [
 			'Itsudatte Bokura no Koi wa 10 cm Datta.',
 			'',
@@ -5150,7 +5418,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/87065l',
+		img: '12/87065',
 		name: [
 			'Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai',
 			'',
@@ -5167,7 +5435,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/82121l',
+		img: '3/82121',
 		name: [
 			'Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai',
 			'',
@@ -5184,7 +5452,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1902/129579l',
+		img: '1902/129579',
 		name: [
 			'Ijiranaide, Nagatoro-san 2nd Attack',
 			'',
@@ -5201,7 +5469,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1900/110097l',
+		img: '1900/110097',
 		name: [
 			'Ijiranaide, Nagatoro-san',
 			'',
@@ -5218,7 +5486,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1716/104880l',
+		img: '1716/104880',
 		name: [
 			'Nekopara',
 			'',
@@ -5235,7 +5503,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1102/103268l',
+		img: '1102/103268',
 		name: [
 			'Nekopara: Koneko no Hi no Yakusoku',
 			'',
@@ -5252,7 +5520,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/89829l',
+		img: '7/89829',
 		name: [
 			'Nekopara OVA',
 			'',
@@ -5269,7 +5537,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/86790l',
+		img: '4/86790',
 		name: [
 			'New Game!!',
 			'',
@@ -5286,7 +5554,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/86507l',
+		img: '10/86507',
 		name: [
 			'New Game! Watashi, Shain Ryokou tte Hajimete nano de...',
 			'',
@@ -5303,7 +5571,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/80417l',
+		img: '9/80417',
 		name: [
 			'New Game!',
 			'',
@@ -5320,7 +5588,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1301/110433l',
+		img: '1301/110433',
 		name: [
 			'Munou na Nana',
 			'',
@@ -5337,7 +5605,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/86676l',
+		img: '12/86676',
 		name: [
 			'Tsurezure Children',
 			'',
@@ -5354,7 +5622,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/79107l',
+		img: '11/79107',
 		name: [
 			'Gakusen Toshi Asterisk 2nd Season',
 			'',
@@ -5371,7 +5639,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/76034l',
+		img: '5/76034',
 		name: [
 			'Gakusen Toshi Asterisk',
 			'',
@@ -5388,7 +5656,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/90115l',
+		img: '7/90115',
 		name: [
 			'Net-juu no Susume Special',
 			'',
@@ -5405,7 +5673,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/87463l',
+		img: '3/87463',
 		name: [
 			'Net-juu no Susume',
 			'',
@@ -5422,7 +5690,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1642/100344l',
+		img: '1642/100344',
 		name: [
 			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials',
 			'',
@@ -5439,7 +5707,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1359/96152l',
+		img: '1359/96152',
 		name: [
 			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai',
 			'',
@@ -5456,7 +5724,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1786/118533l',
+		img: '1786/118533',
 		name: [
 			'Isuca: Gokuraku',
 			'',
@@ -5473,7 +5741,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/71767l',
+		img: '3/71767',
 		name: [
 			'Isuca',
 			'',
@@ -5490,7 +5758,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1774/111679l',
+		img: '1774/111679',
 		name: [
 			'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai',
 			'',
@@ -5507,7 +5775,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1301/93586l',
+		img: '1301/93586',
 		name: [
 			'Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai',
 			'',
@@ -5524,7 +5792,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1713/117119l',
+		img: '1713/117119',
 		name: [
 			'Kanojo mo Kanojo',
 			'',
@@ -5541,7 +5809,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1034/112435l',
+		img: '1034/112435',
 		name: [
 			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA',
 			'',
@@ -5558,7 +5826,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/87623l',
+		img: '12/87623',
 		name: [
 			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken',
 			'',
@@ -5575,7 +5843,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1622/111483l',
+		img: '1622/111483',
 		name: [
 			'Araburu Kisetsu no Otome-domo yo',
 			'',
@@ -5592,7 +5860,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1687/123304l',
+		img: '1687/123304',
 		name: [
 			'B-gata H-kei',
 			'',
@@ -5609,7 +5877,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/79414l',
+		img: '3/79414',
 		name: [
 			'Netoge no Yome wa Onnanoko ja Nai to Omotta?',
 			'',
@@ -5626,7 +5894,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1024/93549l',
+		img: '1024/93549',
 		name: [
 			'Akkun to Kanojo',
 			'',
@@ -5643,7 +5911,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/89848l',
+		img: '9/89848',
 		name: [
 			'Imouto sae Ireba Ii. Special',
 			'',
@@ -5660,7 +5928,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/88472l',
+		img: '10/88472',
 		name: [
 			'Imouto sae Ireba Ii',
 			'',
@@ -5677,7 +5945,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/23635l',
+		img: '10/23635',
 		name: [
 			'Mayoi Neko Overrun! Specials',
 			'',
@@ -5694,7 +5962,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/23770l',
+		img: '10/23770',
 		name: [
 			'Mayoi Neko Overrun!',
 			'',
@@ -5711,7 +5979,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/75240l',
+		img: '9/75240',
 		name: [
 			'Ookami-san to Shichinin no Nakama-tachi',
 			'',
@@ -5728,7 +5996,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/25892l',
+		img: '6/25892',
 		name: [
 			'Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho',
 			'',
@@ -5745,7 +6013,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/26876l',
+		img: '11/26876',
 		name: [
 			'Fortune Arterial: Akai Yakusoku',
 			'',
@@ -5762,7 +6030,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/29138l',
+		img: '2/29138',
 		name: [
 			'Hidan no Aria: Butei ga Kitarite Onsen Kenshuu',
 			'',
@@ -5779,7 +6047,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/30095l',
+		img: '9/30095',
 		name: [
 			'Hidan no Aria',
 			'',
@@ -5796,7 +6064,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/30175l',
+		img: '5/30175',
 		name: [
 			'R-15: R15 Shounen Hyouryuuki',
 			'',
@@ -5813,7 +6081,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/33029l',
+		img: '9/33029',
 		name: [
 			'R-15',
 			'',
@@ -5830,7 +6098,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/29971l',
+		img: '13/29971',
 		name: [
 			'Mayo Chiki!',
 			'',
@@ -5847,7 +6115,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/63597l',
+		img: '8/63597',
 		name: [
 			'Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi',
 			'',
@@ -5864,7 +6132,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/28992l',
+		img: '3/28992',
 		name: [
 			'Baka to Test to Shoukanjuu Ni!',
 			'',
@@ -5881,7 +6149,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/27463l',
+		img: '8/27463',
 		name: [
 			'Baka to Test to Shoukanjuu: Matsuri',
 			'',
@@ -5898,7 +6166,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/67315l',
+		img: '8/67315',
 		name: [
 			'Baka to Test to Shoukanjuu Specials',
 			'',
@@ -5915,7 +6183,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/50389l',
+		img: '3/50389',
 		name: [
 			'Baka to Test to Shoukanjuu',
 			'',
@@ -5932,7 +6200,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/30853l',
+		img: '11/30853',
 		name: [
 			'Astarotte no Omocha! EX',
 			'',
@@ -5949,7 +6217,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/75562l',
+		img: '3/75562',
 		name: [
 			'Astarotte no Omocha!',
 			'',
@@ -5966,7 +6234,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/59825l',
+		img: '6/59825',
 		name: [
 			'Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day',
 			'',
@@ -5983,7 +6251,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/75197l',
+		img: '5/75197',
 		name: [
 			'Itsuka Tenma no Kuro Usagi',
 			'',
@@ -6000,7 +6268,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/30839l',
+		img: '10/30839',
 		name: [
 			'Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi',
 			'',
@@ -6017,7 +6285,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/73521l',
+		img: '3/73521',
 		name: [
 			'Hoshizora e Kakaru Hashi',
 			'',
@@ -6034,7 +6302,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/51565l',
+		img: '11/51565',
 		name: [
 			'Dakara Boku wa, H ga Dekinai. Mie Sugi! Mizugi Contest',
 			'',
@@ -6051,7 +6319,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/75102l',
+		img: '4/75102',
 		name: [
 			'Dakara Boku wa, H ga Dekinai.',
 			'',
@@ -6068,7 +6336,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/47627l',
+		img: '6/47627',
 		name: [
 			'Papa no Iukoto wo Kikinasai! OVA',
 			'',
@@ -6085,7 +6353,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/78213l',
+		img: '12/78213',
 		name: [
 			'Papa no Iukoto wo Kikinasai!: Pokkapoka',
 			'',
@@ -6102,7 +6370,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/35039l',
+		img: '2/35039',
 		name: [
 			'Papa no Iukoto wo Kikinasai!',
 			'',
@@ -6119,7 +6387,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/43823l',
+		img: '12/43823',
 		name: [
 			'Acchi Kocchi: Place=Princess',
 			'',
@@ -6136,7 +6404,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/46489l',
+		img: '5/46489',
 		name: [
 			'Acchi Kocchi',
 			'',
@@ -6153,7 +6421,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/51459l',
+		img: '11/51459',
 		name: [
 			'Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito',
 			'',
@@ -6170,7 +6438,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/75534l',
+		img: '5/75534',
 		name: [
 			'Kono Naka ni Hitori, Imouto ga Iru!',
 			'',
@@ -6187,7 +6455,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/46981l',
+		img: '6/46981',
 		name: [
 			'Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials',
 			'',
@@ -6204,7 +6472,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/42111l',
+		img: '6/42111',
 		name: [
 			'Oniichan dakedo Ai sae Areba Kankeinai yo ne!',
 			'',
@@ -6221,7 +6489,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/41927l',
+		img: '10/41927',
 		name: [
 			'Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto',
 			'',
@@ -6238,7 +6506,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1760/98794l',
+		img: '1760/98794',
 		name: [
 			'Inu x Boku SS',
 			'',
@@ -6255,7 +6523,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1318/92768l',
+		img: '1318/92768',
 		name: [
 			'Tokyo Ravens',
 			'',
@@ -6272,7 +6540,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/75235l',
+		img: '7/75235',
 		name: [
 			'Magical☆Star Kanon 100%',
 			'',
@@ -6289,7 +6557,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/51949l',
+		img: '6/51949',
 		name: [
 			'Kami nomi zo Shiru Sekai: Megami-hen',
 			'',
@@ -6306,7 +6574,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/43359l',
+		img: '11/43359',
 		name: [
 			'Kami nomi zo Shiru Sekai: Tenri-hen',
 			'',
@@ -6323,7 +6591,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/32297l',
+		img: '12/32297',
 		name: [
 			'Kami nomi zo Shiru Sekai: 4-nin to Idol',
 			'',
@@ -6340,7 +6608,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/30030l',
+		img: '11/30030',
 		name: [
 			'Kami nomi zo Shiru Sekai II',
 			'',
@@ -6357,7 +6625,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/43361l',
+		img: '2/43361',
 		name: [
 			'Kami nomi zo Shiru Sekai',
 			'',
@@ -6374,7 +6642,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/45090l',
+		img: '10/45090',
 		name: [
 			'Kotoura-san: Haruka no Heya',
 			'',
@@ -6391,7 +6659,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/75585l',
+		img: '10/75585',
 		name: [
 			'Kotoura-san',
 			'',
@@ -6408,7 +6676,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/75788l',
+		img: '3/75788',
 		name: [
 			'Hentai Ouji to Warawanai Neko',
 			'',
@@ -6425,7 +6693,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/44187l',
+		img: '13/44187',
 		name: [
 			'Ore no Kanojo to Osananajimi ga Shuraba Sugiru',
 			'',
@@ -6442,7 +6710,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/45769l',
+		img: '8/45769',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai.',
 			'',
@@ -6459,7 +6727,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/29734l',
+		img: '8/29734',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials',
 			'',
@@ -6476,7 +6744,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/28240l',
+		img: '10/28240',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai',
 			'',
@@ -6493,7 +6761,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1624/112109l',
+		img: '1624/112109',
 		name: [
 			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita OVA',
 			'',
@@ -6510,7 +6778,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/54389l',
+		img: '13/54389',
 		name: [
 			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita',
 			'',
@@ -6527,7 +6795,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/52091l',
+		img: '12/52091',
 		name: [
 			'Golden Time',
 			'',
@@ -6544,7 +6812,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/44724l',
+		img: '3/44724',
 		name: [
 			'Boku wa Tomodachi ga Sukunai Next',
 			'',
@@ -6561,7 +6829,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/39215l',
+		img: '3/39215',
 		name: [
 			'Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai',
 			'',
@@ -6578,7 +6846,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/32873l',
+		img: '8/32873',
 		name: [
 			'Boku wa Tomodachi ga Sukunai',
 			'',
@@ -6595,7 +6863,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1215/100764l',
+		img: '1215/100764',
 		name: [
 			'Trinity Seven Movie 2: Heavens Library to Crimson Lord',
 			'',
@@ -6612,7 +6880,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1031/112821l',
+		img: '1031/112821',
 		name: [
 			'Trinity Seven Movie 1: Eternity Library to Alchemic Girl',
 			'',
@@ -6629,7 +6897,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/74066l',
+		img: '3/74066',
 		name: [
 			'Trinity Seven: Nanatsu no Taizai to Nana Madoushi',
 			'',
@@ -6646,7 +6914,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/67795l',
+		img: '12/67795',
 		name: [
 			'Trinity Seven',
 			'',
@@ -6663,7 +6931,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/64061l',
+		img: '13/64061',
 		name: [
 			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA',
 			'',
@@ -6680,7 +6948,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/56589l',
+		img: '3/56589',
 		name: [
 			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga',
 			'',
@@ -6697,7 +6965,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/57563l',
+		img: '6/57563',
 		name: [
 			'Nourin',
 			'',
@@ -6714,7 +6982,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/69591l',
+		img: '3/69591',
 		name: [
 			'Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?',
 			'',
@@ -6731,7 +6999,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/63363l',
+		img: '11/63363',
 		name: [
 			'Kanojo ga Flag wo Oraretara',
 			'',
@@ -6748,7 +7016,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/60095l',
+		img: '7/60095',
 		name: [
 			'Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne',
 			'',
@@ -6765,7 +7033,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/64481l',
+		img: '3/64481',
 		name: [
 			'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo',
 			'',
@@ -6782,7 +7050,7 @@ const anime = [
 		]
 	},
 	{
-		img: '10/75249l',
+		img: '10/75249',
 		name: [
 			'Mikakunin de Shinkoukei',
 			'',
@@ -6799,7 +7067,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/89974l',
+		img: '2/89974',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Movie: Take On Me',
 			'',
@@ -6816,7 +7084,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/60351l',
+		img: '13/60351',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Ren Specials',
 			'',
@@ -6833,7 +7101,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/66827l',
+		img: '3/66827',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars',
 			'',
@@ -6850,7 +7118,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/56643l',
+		img: '7/56643',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Ren',
 			'',
@@ -6867,7 +7135,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/45512l',
+		img: '7/45512',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel',
 			'',
@@ -6884,7 +7152,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/43245l',
+		img: '9/43245',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Depth of Field: Ai to Nikushimi Gekijou',
 			'',
@@ -6901,7 +7169,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/42655l',
+		img: '5/42655',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Lite',
 			'',
@@ -6918,7 +7186,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/46931l',
+		img: '12/46931',
 		name: [
 			'Chuunibyou demo Koi ga Shitai!',
 			'',
@@ -6935,7 +7203,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/72479l',
+		img: '8/72479',
 		name: [
 			'Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki',
 			'',
@@ -6952,7 +7220,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/67797l',
+		img: '3/67797',
 		name: [
 			'Hitsugi no Chaika: Avenging Battle',
 			'',
@@ -6969,7 +7237,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/61781l',
+		img: '4/61781',
 		name: [
 			'Hitsugi no Chaika',
 			'',
@@ -6986,7 +7254,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1901/131653l',
+		img: '1901/131653',
 		name: [
 			'Kyokou Suiri Season 2',
 			'',
@@ -7003,7 +7271,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1310/117188l',
+		img: '1310/117188',
 		name: [
 			'Kyokou Suiri',
 			'',
@@ -7020,7 +7288,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/72173l',
+		img: '4/72173',
 		name: [
 			'Seireitsukai no Blade Dance Specials',
 			'',
@@ -7037,7 +7305,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/63031l',
+		img: '7/63031',
 		name: [
 			'Seireitsukai no Blade Dance',
 			'',
@@ -7054,7 +7322,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/76840l',
+		img: '6/76840',
 		name: [
 			'Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi',
 			'',
@@ -7071,7 +7339,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/73527l',
+		img: '3/73527',
 		name: [
 			'Nagato Yuki-chan no Shoushitsu',
 			'',
@@ -7088,7 +7356,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1676/128173l',
+		img: '1676/128173',
 		name: [
 			'Romantic Killer',
 			'',
@@ -7105,7 +7373,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/76542l',
+		img: '9/76542',
 		name: [
 			'Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken',
 			'',
@@ -7122,7 +7390,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1702/97867l',
+		img: '1702/97867',
 		name: [
 			'Saenai Heroine no Sodatekata Fine',
 			'',
@@ -7139,7 +7407,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/84797l',
+		img: '2/84797',
 		name: [
 			'Saenai Heroine no Sodatekata ♭',
 			'',
@@ -7156,7 +7424,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/86672l',
+		img: '5/86672',
 		name: [
 			'Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai',
 			'',
@@ -7173,7 +7441,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/68783l',
+		img: '7/68783',
 		name: [
 			'Saenai Heroine no Sodatekata',
 			'',
@@ -7190,7 +7458,7 @@ const anime = [
 		]
 	},
 	{
-		img: '6/70493l',
+		img: '6/70493',
 		name: [
 			'Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai',
 			'',
@@ -7207,7 +7475,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/73700l',
+		img: '2/73700',
 		name: [
 			'Yamada-kun to 7-nin no Majo',
 			'',
@@ -7224,7 +7492,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1079/104630l',
+		img: '1079/104630',
 		name: [
 			'Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai',
 			'',
@@ -7241,7 +7509,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1992/112119l',
+		img: '1992/112119',
 		name: [
 			'Nisekoi: OVA',
 			'',
@@ -7258,7 +7526,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/72626l',
+		img: '13/72626',
 		name: [
 			'Nisekoi:',
 			'',
@@ -7275,7 +7543,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/71754l',
+		img: '2/71754',
 		name: [
 			'Nisekoi OVA',
 			'',
@@ -7292,7 +7560,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/75587l',
+		img: '13/75587',
 		name: [
 			'Nisekoi',
 			'',
@@ -7309,7 +7577,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1979/106698l',
+		img: '1979/106698',
 		name: [
 			'Momokuri',
 			'',
@@ -7326,7 +7594,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/80688l',
+		img: '3/80688',
 		name: [
 			'Kono Bijutsu-bu ni wa Mondai ga Aru!',
 			'',
@@ -7343,7 +7611,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/83930l',
+		img: '13/83930',
 		name: [
 			'Rewrite 2nd Season',
 			'',
@@ -7360,7 +7628,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1827/92122l',
+		img: '1827/92122',
 		name: [
 			'Rewrite',
 			'',
@@ -7377,7 +7645,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/82409l',
+		img: '8/82409',
 		name: [
 			'Okusama ga Seitokaichou!+!',
 			'',
@@ -7394,7 +7662,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/78265l',
+		img: '12/78265',
 		name: [
 			'Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi',
 			'',
@@ -7411,7 +7679,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/76157l',
+		img: '9/76157',
 		name: [
 			'Okusama ga Seitokaichou!',
 			'',
@@ -7428,7 +7696,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1619/106323l',
+		img: '1619/106323',
 		name: [
 			'Dokyuu Hentai HxEros OVA',
 			'',
@@ -7445,7 +7713,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1342/108321l',
+		img: '1342/108321',
 		name: [
 			'Dokyuu Hentai HxEros',
 			'',
@@ -7462,7 +7730,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/84266l',
+		img: '9/84266',
 		name: [
 			'Renai Boukun',
 			'',
@@ -7479,7 +7747,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1833/95350l',
+		img: '1833/95350',
 		name: [
 			'Osake wa Fuufu ni Natte kara: Yuzu Atsukan',
 			'',
@@ -7496,7 +7764,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1554/116612l',
+		img: '1554/116612',
 		name: [
 			'Osake wa Fuufu ni Natte kara',
 			'',
@@ -7513,7 +7781,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1582/96343l',
+		img: '1582/96343',
 		name: [
 			'Eromanga-sensei OVA',
 			'',
@@ -7530,7 +7798,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/86468l',
+		img: '2/86468',
 		name: [
 			'Eromanga-sensei',
 			'',
@@ -7547,7 +7815,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/89469l',
+		img: '8/89469',
 		name: [
 			'Yuragi-sou no Yuuna-san OVA',
 			'',
@@ -7564,7 +7832,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1462/98802l',
+		img: '1462/98802',
 		name: [
 			'Yuragi-sou no Yuuna-san',
 			'',
@@ -7581,7 +7849,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1908/93416l',
+		img: '1908/93416',
 		name: [
 			'Kishuku Gakkou no Juliet',
 			'',
@@ -7598,7 +7866,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1577/111404l',
+		img: '1577/111404',
 		name: [
 			'Val x Love',
 			'',
@@ -7615,7 +7883,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1448/127956l',
+		img: '1448/127956',
 		name: [
 			'Bocchi the Rock!',
 			'',
@@ -7632,7 +7900,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1334/132921l',
+		img: '1334/132921',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan OVA',
 			'やはり俺の青春ラブコメはまちがっている。結',
@@ -7651,7 +7919,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1958/107912l',
+		img: '1958/107912',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan',
 			'',
@@ -7668,7 +7936,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/84052l',
+		img: '13/84052',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA',
 			'',
@@ -7685,7 +7953,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/75376l',
+		img: '11/75376',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku',
 			'',
@@ -7702,7 +7970,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/54831l',
+		img: '9/54831',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA',
 			'',
@@ -7719,7 +7987,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/49459l',
+		img: '11/49459',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
 			'',
@@ -7736,7 +8004,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1448/108514l',
+		img: '1448/108514',
 		name: [
 			'Maou-jou de Oyasumi',
 			'',
@@ -7753,7 +8021,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1299/106117l',
+		img: '1299/106117',
 		name: [
 			'Hatena☆Illusion',
 			'',
@@ -7770,7 +8038,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1662/118849l',
+		img: '1662/118849',
 		name: [
 			'Taishou Otome Otogibanashi',
 			'',
@@ -7787,7 +8055,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1843/115815l',
+		img: '1843/115815',
 		name: [
 			'Tantei wa Mou, Shindeiru',
 			'',
@@ -7804,7 +8072,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1996/118848l',
+		img: '1996/118848',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA',
 			'',
@@ -7821,7 +8089,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1088/116439l',
+		img: '1088/116439',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X',
 			'',
@@ -7838,7 +8106,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1483/107061l',
+		img: '1483/107061',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...',
 			'',
@@ -7855,7 +8123,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1447/121183l',
+		img: '1447/121183',
 		name: [
 			'RPG Fudousan',
 			'',
@@ -7872,7 +8140,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1347/120593l',
+		img: '1347/120593',
 		name: [
 			'Koi wa Sekai Seifuku no Ato de',
 			'',
@@ -7889,7 +8157,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1670/130060l',
+		img: '1670/130060',
 		name: [
 			'Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai',
 			'かぐや様は告らせたい -ファーストキッスは終わらない-',
@@ -7910,7 +8178,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1160/122627l',
+		img: '1160/122627',
 		name: [
 			'Kaguya-sama wa Kokurasetai: Ultra Romantic',
 			'',
@@ -7927,7 +8195,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1027/115055l',
+		img: '1027/115055',
 		name: [
 			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA',
 			'',
@@ -7944,7 +8212,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1764/106659l',
+		img: '1764/106659',
 		name: [
 			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen',
 			'',
@@ -7961,7 +8229,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1295/106551l',
+		img: '1295/106551',
 		name: [
 			'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen',
 			'',
@@ -7978,7 +8246,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1814/99677l',
+		img: '1814/99677',
 		name: [
 			'Sewayaki Kitsune no Senko-san',
 			'',
@@ -7995,7 +8263,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1943/117882l',
+		img: '1943/117882',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu',
 			'',
@@ -8012,7 +8280,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1252/115539l',
+		img: '1252/115539',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon S',
 			'',
@@ -8029,7 +8297,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/88486l',
+		img: '5/88486',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai',
 			'',
@@ -8046,7 +8314,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/85434l',
+		img: '5/85434',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon',
 			'',
@@ -8063,7 +8331,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1062/114363l',
+		img: '1062/114363',
 		name: [
 			'Clockwork Planet',
 			'',
@@ -8080,7 +8348,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/85593l',
+		img: '8/85593',
 		name: [
 			'Rokudenashi Majutsu Koushi to Akashic Records',
 			'',
@@ -8097,7 +8365,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1956/94914l',
+		img: '1956/94914',
 		name: [
 			'Shichisei no Subaru',
 			'',
@@ -8114,7 +8382,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1129/111477l',
+		img: '1129/111477',
 		name: [
 			"Goblin Slayer: Goblin's Crown",
 			'',
@@ -8131,7 +8399,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1719/95621l',
+		img: '1719/95621',
 		name: [
 			'Goblin Slayer',
 			'',
@@ -8148,7 +8416,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1827/95738l',
+		img: '1827/95738',
 		name: [
 			'Beelzebub-jou no Okinimesu mama',
 			'',
@@ -8165,7 +8433,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1189/124642l',
+		img: '1189/124642',
 		name: [
 			'Tate no Yuusha no Nariagari Season 2',
 			'',
@@ -8182,7 +8450,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1490/101365l',
+		img: '1490/101365',
 		name: [
 			'Tate no Yuusha no Nariagari',
 			'',
@@ -8199,7 +8467,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1568/101203l',
+		img: '1568/101203',
 		name: [
 			'Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai',
 			'',
@@ -8216,7 +8484,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1693/111618l',
+		img: '1693/111618',
 		name: [
 			'Assassins Pride',
 			'',
@@ -8233,7 +8501,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1169/95381l',
+		img: '1169/95381',
 		name: [
 			'Toaru Kagaku no Accelerator',
 			'',
@@ -8250,7 +8518,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1024/108413l',
+		img: '1024/108413',
 		name: [
 			'Assault Lily: Bouquet',
 			'',
@@ -8267,7 +8535,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1885/109122l',
+		img: '1885/109122',
 		name: [
 			"King's Raid: Ishi wo Tsugumono-tachi",
 			'',
@@ -8284,7 +8552,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1394/132755l',
+		img: '1394/132755',
 		name: [
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II',
 			'',
@@ -8301,7 +8569,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1126/108573l',
+		img: '1126/108573',
 		name: [
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou',
 			'',
@@ -8318,7 +8586,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1100/109044l',
+		img: '1100/109044',
 		name: [
 			'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen',
 			'',
@@ -8335,7 +8603,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1044/106309l',
+		img: '1044/106309',
 		name: [
 			'Shachou, Battle no Jikan desu!',
 			'',
@@ -8352,7 +8620,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1847/120234l',
+		img: '1847/120234',
 		name: [
 			'Mahouka Koukou no Rettousei: Tsuioku-hen',
 			'',
@@ -8369,7 +8637,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1719/116262l',
+		img: '1719/116262',
 		name: [
 			'Mahouka Koukou no Yuutousei',
 			'',
@@ -8386,7 +8654,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1629/109556l',
+		img: '1629/109556',
 		name: [
 			'Mahouka Koukou no Rettousei: Raihousha-hen',
 			'',
@@ -8403,7 +8671,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1690/114330l',
+		img: '1690/114330',
 		name: [
 			'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo',
 			'',
@@ -8420,7 +8688,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/61039l',
+		img: '11/61039',
 		name: [
 			'Mahouka Koukou no Rettousei',
 			'',
@@ -8437,7 +8705,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1620/130589l',
+		img: '1620/130589',
 		name: [
 			'Renai Flops',
 			'',
@@ -8454,7 +8722,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1013/108558l',
+		img: '1013/108558',
 		name: [
 			'Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari',
 			'',
@@ -8471,7 +8739,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1079/114017l',
+		img: '1079/114017',
 		name: [
 			'Seven Knights Revolution: Eiyuu no Keishousha',
 			'',
@@ -8488,7 +8756,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1444/115118l',
+		img: '1444/115118',
 		name: [
 			'Sentouin, Hakenshimasu!',
 			'',
@@ -8505,7 +8773,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1723/117854l',
+		img: '1723/117854',
 		name: [
 			'Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita',
 			'',
@@ -8522,7 +8790,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1093/121114l',
+		img: '1093/121114',
 		name: [
 			'Mahoutsukai Reimeiki',
 			'',
@@ -8539,7 +8807,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1263/119511l',
+		img: '1263/119511',
 		name: [
 			'Tensai Ouji no Akaji Kokka Saisei Jutsu',
 			'',
@@ -8556,7 +8824,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1369/123738l',
+		img: '1369/123738',
 		name: [
 			'Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na',
 			'',
@@ -8573,7 +8841,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1934/122301l',
+		img: '1934/122301',
 		name: [
 			'Yuusha, Yamemasu',
 			'',
@@ -8590,7 +8858,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1713/126442l',
+		img: '1713/126442',
 		name: [
 			'Fuufu Ijou, Koibito Miman',
 			'',
@@ -8607,7 +8875,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1387/127598l',
+		img: '1387/127598',
 		name: [
 			'Kuro no Shoukanshi',
 			'',
@@ -8624,7 +8892,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/87145l',
+		img: '5/87145',
 		name: [
 			'Accel World: Infinite∞Burst',
 			'',
@@ -8641,7 +8909,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1451/127575l',
+		img: '1451/127575',
 		name: [
 			'Accel World EX',
 			'',
@@ -8658,7 +8926,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/38155l',
+		img: '8/38155',
 		name: [
 			'Accel World',
 			'',
@@ -8675,7 +8943,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/44618l',
+		img: '8/44618',
 		name: [
 			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki',
 			'',
@@ -8692,7 +8960,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/43369l',
+		img: '12/43369',
 		name: [
 			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?',
 			'',
@@ -8709,7 +8977,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/54343l',
+		img: '7/54343',
 		name: [
 			'Outbreak Company',
 			'',
@@ -8726,7 +8994,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/78160l',
+		img: '11/78160',
 		name: [
 			'Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter',
 			'',
@@ -8743,7 +9011,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/77976l',
+		img: '13/77976',
 		name: [
 			'Hai to Gensou no Grimgar',
 			'',
@@ -8760,7 +9028,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1626/135844l',
+		img: '1626/135844',
 		name: [
 			'Kono Subarashii Sekai ni Bakuen wo!',
 			'この素晴らしい世界に爆焔を！',
@@ -8778,7 +9046,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1129/117109l',
+		img: '1129/117109',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu',
 			'',
@@ -8795,7 +9063,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1115/98517l',
+		img: '1115/98517',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!',
 			'',
@@ -8812,7 +9080,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/83188l',
+		img: '2/83188',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! 2',
 			'',
@@ -8829,7 +9097,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1649/98516l',
+		img: '1649/98516',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!',
 			'',
@@ -8846,7 +9114,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/77831l',
+		img: '8/77831',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo!',
 			'',
@@ -8863,7 +9131,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1648/126110l',
+		img: '1648/126110',
 		name: [
 			'Akuyaku Reijou nano de Last Boss wo Kattemimashita',
 			'',
@@ -8880,7 +9148,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1585/95225l',
+		img: '1585/95225',
 		name: [
 			'Hyakuren no Haou to Seiyaku no Valkyria',
 			'',
@@ -8897,7 +9165,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/88911l',
+		img: '4/88911',
 		name: [
 			'Death March kara Hajimaru Isekai Kyousoukyoku',
 			'',
@@ -8914,7 +9182,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1261/100452l',
+		img: '1261/100452',
 		name: [
 			'Kenja no Mago',
 			'',
@@ -8931,7 +9199,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1325/129603l',
+		img: '1325/129603',
 		name: [
 			'Akiba Meido Sensou',
 			'',
@@ -8948,7 +9216,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1736/103512l',
+		img: '1736/103512',
 		name: [
 			'Hataage! Kemono Michi',
 			'',
@@ -8965,7 +9233,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1651/128718l',
+		img: '1651/128718',
 		name: [
 			'Futoku no Guild',
 			'',
@@ -8982,7 +9250,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1824/99611l',
+		img: '1824/99611',
 		name: [
 			'Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi',
 			'',
@@ -8999,7 +9267,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1282/102248l',
+		img: '1282/102248',
 		name: [
 			'Isekai Cheat Magician',
 			'',
@@ -9016,7 +9284,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1132/111619l',
+		img: '1132/111619',
 		name: [
 			'Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!',
 			'',
@@ -9033,7 +9301,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1205/111403l',
+		img: '1205/111403',
 		name: [
 			'Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!',
 			'',
@@ -9050,7 +9318,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1754/113897l',
+		img: '1754/113897',
 		name: [
 			'Maou-sama, Retry!',
 			'',
@@ -9067,7 +9335,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1715/103419l',
+		img: '1715/103419',
 		name: [
 			'Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru',
 			'',
@@ -9084,7 +9352,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1091/128729l',
+		img: '1091/128729',
 		name: [
 			'Kage no Jitsuryokusha ni Naritakute!',
 			'',
@@ -9101,7 +9369,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1976/122302l',
+		img: '1976/122302',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season',
 			'',
@@ -9118,7 +9386,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1464/107998l',
+		img: '1464/107998',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season',
 			'',
@@ -9135,7 +9403,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1931/114311l',
+		img: '1931/114311',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA',
 			'',
@@ -9152,7 +9420,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1582/101697l',
+		img: '1582/101697',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen',
 			'',
@@ -9169,7 +9437,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1476/125643l',
+		img: '1476/125643',
 		name: [
 			'Shinobi no Ittoki',
 			'',
@@ -9186,7 +9454,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1068/124244l',
+		img: '1068/124244',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou',
 			'',
@@ -9203,7 +9471,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1780/119657l',
+		img: '1780/119657',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou 2nd Season: Arifureta Yorimichi de Sekai Saikyou',
 			'',
@@ -9220,7 +9488,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1877/119668l',
+		img: '1877/119668',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou 2nd Season',
 			'',
@@ -9237,7 +9505,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1634/102577l',
+		img: '1634/102577',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou Specials',
 			'',
@@ -9254,7 +9522,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1776/97682l',
+		img: '1776/97682',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou',
 			'',
@@ -9271,7 +9539,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1269/110115l',
+		img: '1269/110115',
 		name: [
 			'Kami no Tou',
 			'',
@@ -9288,7 +9556,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1963/128728l',
+		img: '1963/128728',
 		name: [
 			'Shinmai Renkinjutsushi no Tenpo Keiei',
 			'',
@@ -9305,7 +9573,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1834/110718l',
+		img: '1834/110718',
 		name: [
 			'Hachi-nan tte, Sore wa Nai deshou!',
 			'',
@@ -9322,7 +9590,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1132/134608l',
+		img: '1132/134608',
 		name: [
 			'Kuma Kuma Kuma Bear Punch!',
 			'くまクマ熊ベアーぱーんち！'
@@ -9341,7 +9609,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1062/107803l',
+		img: '1062/107803',
 		name: [
 			'Kuma Kuma Kuma Bear',
 			'',
@@ -9358,7 +9626,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1854/114772l',
+		img: '1854/114772',
 		name: [
 			'Infinite Dendrogram',
 			'',
@@ -9375,7 +9643,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1521/131469l',
+		img: '1521/131469',
 		name: [
 			'Kami-tachi ni Hirowareta Otoko 2nd Season',
 			'',
@@ -9392,7 +9660,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1654/108801l',
+		img: '1654/108801',
 		name: [
 			'Kami-tachi ni Hirowareta Otoko',
 			'',
@@ -9409,7 +9677,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1782/128859l',
+		img: '1782/128859',
 		name: [
 			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2',
 			'痛いのは嫌なので防御力に極振りしたいと思います。2',
@@ -9430,7 +9698,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1579/113812l',
+		img: '1579/113812',
 		name: [
 			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu',
 			'',
@@ -9447,7 +9715,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1084/126652l',
+		img: '1084/126652',
 		name: [
 			'Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau',
 			'',
@@ -9464,7 +9732,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1745/128238l',
+		img: '1745/128238',
 		name: [
 			'Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen',
 			'劇場版 転生したらスライムだった件 紅蓮の絆編',
@@ -9487,7 +9755,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1458/117607l',
+		img: '1458/117607',
 		name: [
 			'Tensura Nikki: Tensei shitara Slime Datta Ken',
 			'',
@@ -9504,7 +9772,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1033/118296l',
+		img: '1033/118296',
 		name: [
 			'Tensei shitara Slime Datta Ken 2nd Season Part 2',
 			'',
@@ -9521,7 +9789,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1530/106442l',
+		img: '1530/106442',
 		name: [
 			'Tensei shitara Slime Datta Ken 2nd Season',
 			'',
@@ -9538,7 +9806,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1116/104615l',
+		img: '1116/104615',
 		name: [
 			'Tensei shitara Slime Datta Ken OVA',
 			'',
@@ -9555,7 +9823,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1069/123309l',
+		img: '1069/123309',
 		name: [
 			'Tensei shitara Slime Datta Ken',
 			'',
@@ -9572,7 +9840,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1384/127328l',
+		img: '1384/127328',
 		name: [
 			'Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta',
 			'',
@@ -9589,7 +9857,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1950/116474l',
+		img: '1950/116474',
 		name: [
 			'Tsuki ga Michibiku Isekai Douchuu',
 			'',
@@ -9606,7 +9874,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1928/117620l',
+		img: '1928/117620',
 		name: [
 			'Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru',
 			'',
@@ -9623,7 +9891,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1862/128297l',
+		img: '1862/128297',
 		name: [
 			'Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
 			'',
@@ -9640,7 +9908,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1537/117590l',
+		img: '1537/117590',
 		name: [
 			'Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
 			'',
@@ -9657,7 +9925,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1836/116060l',
+		img: '1836/116060',
 		name: [
 			'Seirei Gensouki',
 			'',
@@ -9674,7 +9942,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1593/113724l',
+		img: '1593/113724',
 		name: [
 			'Kumo desu ga, Nani ka?',
 			'',
@@ -9691,7 +9959,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1777/117885l',
+		img: '1777/117885',
 		name: [
 			'Isekai Shokudou 2',
 			'',
@@ -9708,7 +9976,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/86666l',
+		img: '3/86666',
 		name: [
 			'Isekai Shokudou',
 			'',
@@ -9725,7 +9993,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1498/121952l',
+		img: '1498/121952',
 		name: [
 			'Tensei shitara Ken deshita',
 			'',
@@ -9742,7 +10010,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1732/137465l',
+		img: '1732/137465',
 		name: [
 			'Mushoku Tensei II: Isekai Ittara Honki Dasu',
 			'無職転生 II ～異世界行ったら本気だす～',
@@ -9763,7 +10031,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1627/136934l',
+		img: '1627/136934',
 		name: [
 			'Mushoku Tensei II: Isekai Ittara Honki Dasu - Shugo Jutsushi Fitz',
 			'無職転生Ⅱ ～異世界行ったら本気だす～ 第0話「守護術師フィッツ」'
@@ -9783,7 +10051,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1094/120148l',
+		img: '1094/120148',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu',
 			'',
@@ -9800,7 +10068,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1028/117777l',
+		img: '1028/117777',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2',
 			'',
@@ -9817,7 +10085,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1530/117776l',
+		img: '1530/117776',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu',
 			'',
@@ -9834,7 +10102,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1510/108026l',
+		img: '1510/108026',
 		name: [
 			'Log Horizon: Entaku Houkai',
 			'',
@@ -9851,7 +10119,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/68097l',
+		img: '5/68097',
 		name: [
 			'Log Horizon 2nd Season',
 			'',
@@ -9868,7 +10136,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/84004l',
+		img: '5/84004',
 		name: [
 			'Log Horizon',
 			'',
@@ -9885,7 +10153,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1088/120068l',
+		img: '1088/120068',
 		name: [
 			'Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2',
 			'',
@@ -9902,7 +10170,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1297/118764l',
+		img: '1297/118764',
 		name: [
 			'Genjitsu Shugi Yuusha no Oukoku Saikenki',
 			'',
@@ -9919,7 +10187,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1357/113277l',
+		img: '1357/113277',
 		name: [
 			'Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara',
 			'',
@@ -9936,7 +10204,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1787/115817l',
+		img: '1787/115817',
 		name: [
 			'Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore',
 			'',
@@ -9953,7 +10221,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1161/121462l',
+		img: '1161/121462',
 		name: [
 			'Otome Game Sekai wa Mob ni Kibishii Sekai desu',
 			'',
@@ -9970,7 +10238,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1361/120706l',
+		img: '1361/120706',
 		name: [
 			'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu',
 			'',
@@ -9987,7 +10255,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1743/125204l',
+		img: '1743/125204',
 		name: [
 			'Isekai Ojisan',
 			'',
@@ -10004,7 +10272,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1583/119223l',
+		img: '1583/119223',
 		name: [
 			'Kenja no Deshi wo Nanoru Kenja',
 			'',
@@ -10021,7 +10289,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1430/120065l',
+		img: '1430/120065',
 		name: [
 			'Fantasy Bishoujo Juniku Ojisan to',
 			'',
@@ -10038,7 +10306,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1906/117145l',
+		img: '1906/117145',
 		name: [
 			'Princess Connect! Re:Dive Season 2',
 			'',
@@ -10055,7 +10323,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1810/106070l',
+		img: '1810/106070',
 		name: [
 			'Princess Connect! Re:Dive',
 			'',
@@ -10072,7 +10340,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1904/120095l',
+		img: '1904/120095',
 		name: [
 			'Shijou Saikyou no Daimaou, Murabito A ni Tensei suru',
 			'',
@@ -10089,7 +10357,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1226/131884l',
+		img: '1226/131884',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen',
 			'',
@@ -10106,7 +10374,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1180/120373l',
+		img: '1180/120373',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen',
 			'',
@@ -10123,7 +10391,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1767/110800l',
+		img: '1767/110800',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA',
 			'',
@@ -10140,7 +10408,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1523/108380l',
+		img: '1523/108380',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III',
 			'',
@@ -10157,7 +10425,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1360/111696l',
+		img: '1360/111696',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA',
 			'',
@@ -10174,7 +10442,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1730/101329l',
+		img: '1730/101329',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II',
 			'',
@@ -10191,7 +10459,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1239/96949l',
+		img: '1239/96949',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya',
 			'',
@@ -10208,7 +10476,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1181/123312l',
+		img: '1181/123312',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria',
 			'',
@@ -10225,7 +10493,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/81432l',
+		img: '9/81432',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA',
 			'',
@@ -10242,7 +10510,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/70187l',
+		img: '2/70187',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
 			'',
@@ -10259,7 +10527,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1011/113703l',
+		img: '1011/113703',
 		name: [
 			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω',
 			'',
@@ -10276,7 +10544,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1649/93412l',
+		img: '1649/93412',
 		name: [
 			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu',
 			'',
@@ -10293,7 +10561,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1436/116410l',
+		img: '1436/116410',
 		name: [
 			'Megami-ryou no Ryoubo-kun',
 			'',
@@ -10310,7 +10578,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1424/117718l',
+		img: '1424/117718',
 		name: [
 			'100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season',
 			'',
@@ -10327,7 +10595,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1506/117717l',
+		img: '1506/117717',
 		name: [
 			'100-man no Inochi no Ue ni Ore wa Tatteiru',
 			'',
@@ -10344,7 +10612,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1932/131464l',
+		img: '1932/131464',
 		name: [
 			'Isekai wa Smartphone to Tomo ni. 2',
 			'異世界はスマートフォンとともに。',
@@ -10367,7 +10635,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/86794l',
+		img: '7/86794',
 		name: [
 			'Isekai wa Smartphone to Tomo ni',
 			'',
@@ -10384,7 +10652,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1561/125302l',
+		img: '1561/125302',
 		name: [
 			'Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu',
 			'',
@@ -10401,7 +10669,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1824/125048l',
+		img: '1824/125048',
 		name: [
 			'Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita',
 			'',
@@ -10418,7 +10686,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1549/125495l',
+		img: '1549/125495',
 		name: [
 			'Engage Kiss',
 			'',
@@ -10435,7 +10703,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1392/136670l',
+		img: '1392/136670',
 		name: [
 			'Hataraku Maou-sama!! 2nd Season',
 			'はたらく魔王さま！！',
@@ -10456,7 +10724,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1502/124354l',
+		img: '1502/124354',
 		name: [
 			'Hataraku Maou-sama!!',
 			'はたらく魔王さま！！',
@@ -10477,7 +10745,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/50177l',
+		img: '3/50177',
 		name: [
 			'Hataraku Maou-sama!',
 			'はたらく魔王さま!',
@@ -10498,7 +10766,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1022/123845l',
+		img: '1022/123845',
 		name: [
 			'Saikin Yatotta Maid ga Ayashii',
 			'',
@@ -10515,7 +10783,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1120/124644l',
+		img: '1120/124644',
 		name: [
 			'Isekai Yakkyoku',
 			'',
@@ -10532,7 +10800,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1392/124401l',
+		img: '1392/124401',
 		name: [
 			'Lycoris Recoil',
 			'',
@@ -10549,7 +10817,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1132/120388l',
+		img: '1132/120388',
 		name: [
 			'Shikkakumon no Saikyou Kenja',
 			'',
@@ -10566,7 +10834,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1988/115708l',
+		img: '1988/115708',
 		name: [
 			'Ore dake Haireru Kakushi Dungeon',
 			'',
@@ -10583,7 +10851,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1109/118948l',
+		img: '1109/118948',
 		name: [
 			'Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart',
 			'',
@@ -10600,7 +10868,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1432/103533l',
+		img: '1432/103533',
 		name: [
 			'Rikei ga Koi ni Ochita no de Shoumei shitemita',
 			'',
@@ -10617,7 +10885,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1696/136634l',
+		img: '1696/136634',
 		name: [
 			'Kanojo, Okarishimasu 3rd Season',
 			'彼女、お借りします',
@@ -10636,7 +10904,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1070/124592l',
+		img: '1070/124592',
 		name: [
 			'Kanojo, Okarishimasu 2nd Season',
 			'',
@@ -10653,7 +10921,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1902/128382l',
+		img: '1902/128382',
 		name: [
 			'Kanojo, Okarishimasu',
 			'',
@@ -10670,7 +10938,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1396/109465l',
+		img: '1396/109465',
 		name: [
 			'Kamisama ni Natta Hi',
 			'',
@@ -10687,7 +10955,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1871/118309l',
+		img: '1871/118309',
 		name: [
 			'Bokutachi no Remake',
 			'',
@@ -10704,7 +10972,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1007/136277l',
+		img: '1007/136277',
 		name: [
 			'Horimiya: Piece',
 			'ホリミヤ -piece-',
@@ -10723,7 +10991,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1695/111486l',
+		img: '1695/111486',
 		name: [
 			'Horimiya',
 			'',
@@ -10740,7 +11008,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1146/113477l',
+		img: '1146/113477',
 		name: [
 			'Hige wo Soru. Soshite Joshikousei wo Hirou',
 			'',
@@ -10757,7 +11025,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1892/114853l',
+		img: '1892/114853',
 		name: [
 			'Jaku-Chara Tomozaki-kun Specials',
 			'',
@@ -10774,7 +11042,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1120/109232l',
+		img: '1120/109232',
 		name: [
 			'Jaku-Chara Tomozaki-kun',
 			'',
@@ -10791,7 +11059,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1430/102439l',
+		img: '1430/102439',
 		name: [
 			'Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?',
 			'',
@@ -10808,7 +11076,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1155/106799l',
+		img: '1155/106799',
 		name: [
 			'Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set',
 			'',
@@ -10825,7 +11093,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1348/102797l',
+		img: '1348/102797',
 		name: [
 			'Ore wo Suki nano wa Omae dake ka yo',
 			'',
@@ -10842,7 +11110,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/66871l',
+		img: '9/66871',
 		name: [
 			'Gekkan Shoujo Nozaki-kun Specials',
 			'',
@@ -10859,7 +11127,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/66083l',
+		img: '5/66083',
 		name: [
 			'Gekkan Shoujo Nozaki-kun',
 			'',
@@ -10876,7 +11144,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1111/113327l',
+		img: '1111/113327',
 		name: [
 			'Osananajimi ga Zettai ni Makenai Love Comedy',
 			'',
@@ -10893,7 +11161,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1995/121695l',
+		img: '1995/121695',
 		name: [
 			'Kawaii dake ja Nai Shikimori-san',
 			'',
@@ -10910,7 +11178,7 @@ const anime = [
 		]
 	},
 	{
-		img: '4/86828l',
+		img: '4/86828',
 		name: [
 			'Gamers!',
 			'',
@@ -10927,7 +11195,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1285/120529l',
+		img: '1285/120529',
 		name: [
 			'Kakkou no Iinazuke',
 			'',
@@ -10944,7 +11212,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1045/123711l',
+		img: '1045/123711',
 		name: [
 			'Yofukashi no Uta',
 			'',
@@ -10961,7 +11229,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1010/124180l',
+		img: '1010/124180',
 		name: [
 			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season',
 			'',
@@ -10978,7 +11246,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/86830l',
+		img: '5/86830',
 		name: [
 			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
 			'',
@@ -10995,7 +11263,7 @@ const anime = [
 		]
 	},
 	{
-		img: '2/76368l',
+		img: '2/76368',
 		name: [
 			'Danchigai: Juusan Goutou Sentou Ikitai!!',
 			'',
@@ -11012,7 +11280,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/74879l',
+		img: '7/74879',
 		name: [
 			'Danchigai',
 			'',
@@ -11029,7 +11297,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1667/135587l',
+		img: '1667/135587',
 		name: [
 			'Masamune-kun no Revenge R',
 			'政宗くんのリベンジR',
@@ -11050,7 +11318,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1348/92408l',
+		img: '1348/92408',
 		name: [
 			'Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella',
 			'',
@@ -11067,7 +11335,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/83709l',
+		img: '12/83709',
 		name: [
 			'Masamune-kun no Revenge',
 			'',
@@ -11084,7 +11352,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1922/136453l',
+		img: '1922/136453',
 		name: [
 			'Tonikaku Kawaii: Joshikou-hen',
 			'トニカクカワイイ 女子高編',
@@ -11103,7 +11371,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1996/133361l',
+		img: '1996/133361',
 		name: [
 			'Tonikaku Kawaii 2nd Season',
 			'トニカクカワイイ',
@@ -11122,7 +11390,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1085/126580l',
+		img: '1085/126580',
 		name: [
 			'Tonikaku Kawaii: Seifuku',
 			'トニカクカワイイ ~制服~',
@@ -11141,7 +11409,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1765/122768l',
+		img: '1765/122768',
 		name: [
 			'Tonikaku Kawaii: SNS',
 			'トニカクカワイイ 〜SNS〜',
@@ -11160,7 +11428,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1613/108722l',
+		img: '1613/108722',
 		name: [
 			'Tonikaku Kawaii',
 			'トニカクカワイイ',
@@ -11179,7 +11447,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1751/98216l',
+		img: '1751/98216',
 		name: [
 			'Senryuu Shoujo',
 			'',
@@ -11196,7 +11464,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1506/113668l',
+		img: '1506/113668',
 		name: [
 			'5-toubun no Hanayome Movie',
 			'',
@@ -11213,7 +11481,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1775/109514l',
+		img: '1775/109514',
 		name: [
 			'5-toubun no Hanayome ∬',
 			'',
@@ -11230,7 +11498,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1819/97947l',
+		img: '1819/97947',
 		name: [
 			'5-toubun no Hanayome',
 			'',
@@ -11247,7 +11515,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1917/108615l',
+		img: '1917/108615',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru',
 			'',
@@ -11264,7 +11532,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1530/102782l',
+		img: '1530/102782',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru',
 			'',
@@ -11281,7 +11549,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1974/102960l',
+		img: '1974/102960',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai!',
 			'',
@@ -11298,7 +11566,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1602/100510l',
+		img: '1602/100510',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai',
 			'',
@@ -11315,7 +11583,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1108/121157l',
+		img: '1108/121157',
 		name: [
 			'Komi-san wa, Comyushou desu. 2nd Season',
 			'',
@@ -11332,7 +11600,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1899/117237l',
+		img: '1899/117237',
 		name: [
 			'Komi-san wa, Comyushou desu',
 			'',
@@ -11349,7 +11617,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1612/120636l',
+		img: '1612/120636',
 		name: [
 			'Aharen-san wa Hakarenai',
 			'',
@@ -11366,7 +11634,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1454/122063l',
+		img: '1454/122063',
 		name: [
 			'Kumichou Musume to Sewagakari',
 			'',
@@ -11383,7 +11651,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1708/123281l',
+		img: '1708/123281',
 		name: [
 			'Mamahaha no Tsurego ga Motokano datta',
 			'',
@@ -11400,7 +11668,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1945/126130l',
+		img: '1945/126130',
 		name: [
 			'Soredemo Ayumu wa Yosetekuru',
 			'',
@@ -11417,7 +11685,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1530/120110l',
+		img: '1530/120110',
 		name: [
 			'Overlord IV',
 			'',
@@ -11434,7 +11702,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1511/93473l',
+		img: '1511/93473',
 		name: [
 			'Overlord III',
 			'',
@@ -11451,7 +11719,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1212/113415l',
+		img: '1212/113415',
 		name: [
 			'Overlord II',
 			'',
@@ -11468,7 +11736,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/87758l',
+		img: '5/87758',
 		name: [
 			'Overlord Movie 2: Shikkoku no Eiyuu',
 			'',
@@ -11485,7 +11753,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1495/121641l',
+		img: '1495/121641',
 		name: [
 			'Overlord Movie 1: Fushisha no Ou',
 			'',
@@ -11502,7 +11770,7 @@ const anime = [
 		]
 	},
 	{
-		img: '7/88019l',
+		img: '7/88019',
 		name: [
 			'Overlord',
 			'',
@@ -11519,7 +11787,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1111/127508l',
+		img: '1111/127508',
 		name: [
 			'Spy x Family Part 2',
 			'',
@@ -11536,7 +11804,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1441/122795l',
+		img: '1441/122795',
 		name: [
 			'Spy x Family',
 			'',
@@ -11553,7 +11821,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1368/121281l',
+		img: '1368/121281',
 		name: [
 			'Date A Live IV',
 			'',
@@ -11570,7 +11838,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1002/108424l',
+		img: '1002/108424',
 		name: [
 			'Date A Bullet: Nightmare or Queen',
 			'',
@@ -11587,7 +11855,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1984/108425l',
+		img: '1984/108425',
 		name: [
 			'Date A Bullet: Dead or Bullet',
 			'',
@@ -11604,7 +11872,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1055/100468l',
+		img: '1055/100468',
 		name: [
 			'Date A Live III',
 			'',
@@ -11621,7 +11889,7 @@ const anime = [
 		]
 	},
 	{
-		img: '9/75466l',
+		img: '9/75466',
 		name: [
 			'Date A Live Movie: Mayuri Judgment',
 			'',
@@ -11638,7 +11906,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1759/131412l',
+		img: '1759/131412',
 		name: [
 			'Date A Live II: Kurumi Star Festival',
 			'',
@@ -11655,7 +11923,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/76003l',
+		img: '5/76003',
 		name: [
 			'Date A Live II',
 			'',
@@ -11672,7 +11940,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1629/112503l',
+		img: '1629/112503',
 		name: [
 			'Date A Live: Date to Date',
 			'',
@@ -11689,7 +11957,7 @@ const anime = [
 		]
 	},
 	{
-		img: '13/44844l',
+		img: '13/44844',
 		name: [
 			'Date A Live',
 			'',
@@ -11706,7 +11974,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1970/122297l',
+		img: '1970/122297',
 		name: [
 			'Paripi Koumei',
 			'',
@@ -11723,7 +11991,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1321/132900l',
+		img: '1321/132900',
 		name: [
 			'Aggressive Retsuko 5th Season',
 			'',
@@ -11740,7 +12008,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1228/118066l',
+		img: '1228/118066',
 		name: [
 			'Aggressive Retsuko 4th Season',
 			'',
@@ -11757,7 +12025,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1049/108692l',
+		img: '1049/108692',
 		name: [
 			'Aggressive Retsuko 3rd Season',
 			'',
@@ -11774,7 +12042,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1739/101117l',
+		img: '1739/101117',
 		name: [
 			'Aggressive Retsuko 2nd Season',
 			'',
@@ -11791,7 +12059,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1435/97291l',
+		img: '1435/97291',
 		name: [
 			'Aggressive Retsuko: We Wish You a Metal Christmas',
 			'',
@@ -11808,7 +12076,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1566/129181l',
+		img: '1566/129181',
 		name: [
 			'Aggressive Retsuko',
 			'',
@@ -11825,7 +12093,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1247/122044l',
+		img: '1247/122044',
 		name: [
 			'One Punch Man 2nd Season',
 			'',
@@ -11842,7 +12110,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1802/124744l',
+		img: '1802/124744',
 		name: [
 			'One Punch Man: Road to Hero',
 			'',
@@ -11859,7 +12127,7 @@ const anime = [
 		]
 	},
 	{
-		img: '12/76049l',
+		img: '12/76049',
 		name: [
 			'One Punch Man',
 			'',
@@ -11876,7 +12144,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1233/128920l',
+		img: '1233/128920',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3',
 			'',
@@ -11893,7 +12161,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1051/121959l',
+		img: '1051/121959',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2',
 			'',
@@ -11910,7 +12178,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1896/119844l',
+		img: '1896/119844',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean',
 			'',
@@ -11927,7 +12195,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1249/99809l',
+		img: '1249/99809',
 		name: [
 			'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze',
 			'',
@@ -11944,7 +12212,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1716/103072l',
+		img: '1716/103072',
 		name: [
 			'Kishibe Rohan wa Ugokanai',
 			'',
@@ -11961,7 +12229,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/79156l',
+		img: '3/79156',
 		name: [
 			'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai',
 			'',
@@ -11978,7 +12246,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/75045l',
+		img: '11/75045',
 		name: [
 			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season',
 			'',
@@ -11995,7 +12263,7 @@ const anime = [
 		]
 	},
 	{
-		img: '11/55267l',
+		img: '11/55267',
 		name: [
 			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders',
 			'',
@@ -12012,7 +12280,7 @@ const anime = [
 		]
 	},
 	{
-		img: '3/40409l',
+		img: '3/40409',
 		name: [
 			'JoJo no Kimyou na Bouken',
 			'',
@@ -12029,7 +12297,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1078/136947l',
+		img: '1078/136947',
 		name: [
 			'Shinigami Bocchan to Kuro Maid 2nd Season',
 			'死神坊ちゃんと黒メイド',
@@ -12047,7 +12315,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1471/115593l',
+		img: '1471/115593',
 		name: [
 			'Shinigami Bocchan to Kuro Maid',
 			'',
@@ -12064,7 +12332,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1888/133089l',
+		img: '1888/133089',
 		name: [
 			'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita',
 			'',

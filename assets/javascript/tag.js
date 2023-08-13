@@ -70,6 +70,10 @@ const tMecha = {
 	name: 'Mecha',
 	id: 'tMecha'
 }
+const tMedical = {
+	name: 'Medical',
+	id: 'tMedical'
+}
 const tMilitary = {
 	name: 'Military',
 	id: 'tMilitary'
@@ -170,6 +174,7 @@ const tagList = [
 	tMagic,
 	tMartialArts,
 	tMecha,
+	tMedical,
 	tMilitary,
 	tMusic,
 	tMystery,

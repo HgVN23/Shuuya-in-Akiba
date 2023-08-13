@@ -342,6 +342,62 @@ const sStudio3Hz = {
 	name: 'Studio 3Hz',
 	id: 1127
 };
+const sAICSpirits = {
+	name: 'AIC Spirits',
+	id: sNone.id
+};
+const sStudioDeen = {
+	name: 'Studio Deen',
+	id: sNone.id
+};
+const sAIC = {
+	name: 'AIC',
+	id: 48
+};
+const sAtelierPontdarc = {
+	name: 'AtelierPontdarc',
+	id: sNone.id
+};
+const sPierrot = {
+	name: 'Pierrot',
+	id: 1
+};
+const sBiburyAnimationStudios = {
+	name: 'Bibury Animation Studios',
+	id: 1722
+};
+const sProductionIMS = {
+	name: 'ProductionIMS',
+	id: sNone.id
+};
+const sNexus = {
+	name: 'Nexus',
+	id: 852
+};
+const sLesprit = {
+	name: 'Lesprit',
+	id: 1829
+};
+const sBones = {
+	name: 'Bones',
+	id: 4
+};
+const sHoodsEntertainment = {
+	name: 'Hoods Entertainment',
+	id: 346
+};
+const sBrainsBase = {
+	name: "Brain's Base",
+	id: 112
+};
+const sNomad = {
+	name: 'Nomad',
+	id: 70
+};
+const sENGI = {
+	name: 'ENGI',
+	id: 1974
+};
 
 const studioList = [
 	sNone,
@@ -429,5 +485,19 @@ const studioList = [
 	sBUGFILMS,
 	sActas,
 	sOLM,
-	sStudio3Hz
+	sStudio3Hz,
+	sAICSpirits,
+	sStudioDeen,
+	sAIC,
+	sAtelierPontdarc,
+	sPierrot,
+	sBiburyAnimationStudios,
+	sProductionIMS,
+	sNexus,
+	sLesprit,
+	sBones,
+	sHoodsEntertainment,
+	sBrainsBase,
+	sNomad,
+	sENGI
 ]

@@ -106,6 +106,12 @@
 .tMecha::after {
 	content: 'Máy móc';
 }
+.tMedical::before {
+	content: 'Medical';
+}
+.tMedical::after {
+	content: 'Y học';
+}
 .tMilitary::before {
 	content: 'Military';
 }
@@ -245,6 +251,7 @@
 .tMagic::after,
 .tMartialArts::after,
 .tMecha::after,
+.tMedical::after,
 .tMilitary::after,
 .tMusic::after,
 .tMystery::after,
@@ -295,6 +302,7 @@
 .tag:hover.tMagic::after,
 .tag:hover.tMartialArts::after,
 .tag:hover.tMecha::after,
+.tag:hover.tMedical::after,
 .tag:hover.tMilitary::after,
 .tag:hover.tMusic::after,
 .tag:hover.tMystery::after,

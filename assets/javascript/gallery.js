@@ -126,12 +126,12 @@ function addAnime(list) {
 
 		const format = `
 			<div class="anime">
-				<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}.jpg" alt="${name}">
+				<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
 				<div class="name">${name}</div>
 			</div>
 			<div class="moreInfo hideInfo">
 				<div class="split">
-					<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}.jpg" alt="${name}">
+					<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
 					<div class="limited">
 						<h1>${name}</h1>
 						${altName}

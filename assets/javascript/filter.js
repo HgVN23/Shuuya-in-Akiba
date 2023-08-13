@@ -7,7 +7,8 @@ const typeList = [
 	'TV',
 	'OVA',
 	'Special',
-	'ONA'
+	'ONA',
+	'Movie'
 ]
 let typeTemp = ``;
 for(var i = 0; i < typeList.length; i++){
