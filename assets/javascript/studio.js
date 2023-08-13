@@ -66,7 +66,7 @@ const sFelixFilm = {
 	name: 'Felix Film',
 	id: 1440
 };
-const sStudioBlancDot = {
+const sStudioBlanc = {
 	name: 'Studio Blanc.',
 	id: 478
 };
@@ -236,7 +236,7 @@ const sNipponAnimation = {
 };
 const sManglobe = {
 	name: 'Manglobe',
-	id: sNone.id
+	id: 32
 };
 const sSunrise = {
 	name: 'Sunrise',
@@ -348,7 +348,7 @@ const sAICSpirits = {
 };
 const sStudioDeen = {
 	name: 'Studio Deen',
-	id: sNone.id
+	id: 37
 };
 const sAIC = {
 	name: 'AIC',
@@ -367,7 +367,7 @@ const sBiburyAnimationStudios = {
 	id: 1722
 };
 const sProductionIMS = {
-	name: 'ProductionIMS',
+	name: 'Production IMS',
 	id: sNone.id
 };
 const sNexus = {
@@ -398,6 +398,42 @@ const sENGI = {
 	name: 'ENGI',
 	id: 1974
 };
+const sNAZ = {
+	name: 'NAZ',
+	id: 951
+};
+const sQualiaAnimation = {
+	name: 'Qualia Animation',
+	id: sNone.id
+};
+const sBridge = {
+	name: 'Bridge',
+	id: 397
+};
+const sSignalMD = {
+	name: 'Signal.MD',
+	id: 1278
+};
+const sMagiaDoraglier = {
+	name: 'Magia Doraglier',
+	id: sNone.id
+};
+const sArms = {
+	name: 'Arms',
+	id: sNone.id
+};
+const sHalFilmMaker = {
+	name: 'Hal Film Maker',
+	id: 34
+};
+const sAICClassic = {
+	name: 'AIC Classic',
+	id: sNone.id
+};
+const sAsread = {
+	name: 'asread.',
+	id: 163
+};
 
 const studioList = [
 	sNone,
@@ -417,7 +453,7 @@ const studioList = [
 	sKyotoAnimation,
 	sC2C,
 	sFelixFilm,
-	sStudioBlancDot,
+	sStudioBlanc,
 	sDavidProduction,
 	sProjectNo9,
 	sEncourageFilms,
@@ -499,5 +535,14 @@ const studioList = [
 	sHoodsEntertainment,
 	sBrainsBase,
 	sNomad,
-	sENGI
+	sENGI,
+	sNAZ,
+	sQualiaAnimation,
+	sBridge,
+	sSignalMD,
+	sMagiaDoraglier,
+	sArms,
+	sHalFilmMaker,
+	sAICClassic,
+	sAsread
 ]

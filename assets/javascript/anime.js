@@ -435,7 +435,7 @@ const anime = [
 			'Ayaka: A Story of Bonds and Wounds'
 		],
 		studio: [
-			sStudioBlancDot
+			sStudioBlanc
 		],
 		type: 'TV',
 		season: 'Summer 2023',
@@ -1504,7 +1504,7 @@ const anime = [
 			'The Reincarnation of the Strongest Exorcist in Another World'
 		],
 		studio: [
-			sStudioBlancDot
+			sStudioBlanc
 		],
 		type: 'TV',
 		season: 'Winter 2023',
@@ -4928,1887 +4928,2181 @@ const anime = [
 		img: '13/68705',
 		name: [
 			'Denki-gai no Honya-san',
-			'',
+			'デンキ街の本屋さん',
 			'Denki-gai'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace',
+			'tSeinen'
 		]
 	},
 	{
 		img: '2/86786',
 		name: [
 			'No Game No Life: Zero',
-			'',
-			''
+			'ノーゲーム・ノーライフ ゼロ'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tIsekai'
 		]
 	},
 	{
 		img: '7/71783',
 		name: [
 			'No Game No Life Specials',
-			'',
-			''
+			'ノーゲーム・ノーライフ ミニ'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1074/111944',
 		name: [
 			'No Game No Life',
-			'',
+			'ノーゲーム・ノーライフ',
 			'No Game, No Life'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tStrategy',
+			'tGame'
 		]
 	},
 	{
 		img: '9/72614',
 		name: [
 			"Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen",
-			'',
+			"劇場版 境界の彼方 I'LL BE HERE 未来篇",
 			"Beyond the Boundary: I'll Be Here - Future"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '6/73298',
 		name: [
 			"Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen",
-			'',
+			"劇場版 境界の彼方 I'LL BE HERE 過去篇",
 			"Beyond the Boundary: I'll Be Here - Past"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSchool'
 		]
 	},
 	{
 		img: '2/63205',
 		name: [
 			'Kyoukai no Kanata: Shinonome',
-			'',
+			'境界の彼方 ＃0「東雲」',
 			'Beyond the Boundary: Daybreak'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy'
 		]
 	},
 	{
 		img: '10/72218',
 		name: [
 			'Kyoukai no Kanata: Mini Gekijou',
-			'',
-			''
+			'境界の彼方 ミニ劇場'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tSliceOfLife',
+			'tSupernatural'
 		]
 	},
 	{
 		img: '3/85468',
 		name: [
 			'Kyoukai no Kanata',
-			'',
+			'境界の彼方',
 			'Beyond the Boundary'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSchool'
 		]
 	},
 	{
 		img: '9/69517',
 		name: [
 			'Ao Haru Ride OVA',
-			'',
+			'アオハライド OAD',
 			'Blue Spring Ride OVA'
 		],
 		studio: [
-			sNone
+			sProductionIG
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '8/64813',
 		name: [
 			'Ao Haru Ride',
-			'',
+			'アオハライド',
 			'Blue Spring Ride'
 		],
 		studio: [
-			sNone
+			sProductionIG
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '4/68839',
 		name: [
 			'Absolute Duo',
-			'',
-			''
+			'アブソリュート・デュオ'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1376/123398',
 		name: [
 			'Karakai Jouzu no Takagi-san Movie',
-			'',
+			'からかい上手の高木さん',
 			'Teasing Master Takagi-san: The Movie'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1861/120361',
 		name: [
 			'Karakai Jouzu no Takagi-san 3',
-			'',
+			'からかい上手の高木さん3',
 			'Teasing Master Takagi-san 3'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1393/107033',
 		name: [
 			'Karakai Jouzu no Takagi-san 2',
-			'',
+			'からかい上手の高木さん2',
 			'Teasing Master Takagi-san 2'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1128/99821',
 		name: [
 			'Karakai Jouzu no Takagi-san: Water Slide',
-			'',
+			'からかい上手の高木さん ウォータースライダー',
 			'Teasing Master Takagi-san: Water Slide'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1591/95091',
 		name: [
 			'Karakai Jouzu no Takagi-san',
-			'',
+			'からかい上手の高木さん',
 			'Teasing Master Takagi-san'
 		],
 		studio: [
-			sNone
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '4/73475',
 		name: [
 			'Denpa Kyoushi',
-			'',
+			'電波教師',
 			'Ultimate Otaku Teacher'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '7/73735',
 		name: [
 			'Haiyore! Nyaruko-san F',
-			'',
-			''
+			'這いよれ！ニャル子さんF'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSciFi',
+			'tParody'
 		]
 	},
 	{
 		img: '4/61789',
 		name: [
 			'Haiyore! Nyaruko-san W: W ni Sayonara/Kono Onsen ni Koi no Konton wo',
-			'',
-			''
+			'這いよれ！ニャル子さん W Wにさよなら / この温泉に恋の渾沌を'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi',
+			'tParody'
 		]
 	},
 	{
 		img: '10/47533',
 		name: [
 			'Haiyore! Nyaruko-san W',
-			'',
+			'這いよれ！ニャル子さん W',
 			'Nyaruko: Crawling With Love! Second Season'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSciFi',
+			'tParody'
 		]
 	},
 	{
 		img: '6/49081',
 		name: [
 			'Haiyore! Nyaruko-san',
-			'',
+			'這いよれ！ニャル子さん',
 			'Nyaruko: Crawling With Love!'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSciFi',
+			'tParody'
 		]
 	},
 	{
 		img: '13/85289',
 		name: [
 			'Kyoukai no Rinne 3rd Season',
-			'',
+			'境界のRINNE',
 			'RIN-NE Season 3'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '7/79665',
 		name: [
 			'Kyoukai no Rinne 2nd Season',
-			'',
+			'境界のRINNE',
 			'RIN-NE Season 2'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '13/73436',
 		name: [
 			'Kyoukai no Rinne',
-			'',
+			'境界のRINNE',
 			'RIN-NE'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '8/67047',
 		name: [
 			'Inou-Battle wa Nichijou-kei no Naka de',
-			'',
+			'異能バトルは日常系のなかで',
 			'When Supernatural Battles Became Commonplace'
 		],
 		studio: [
-			sNone
+			sTrigger
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tHarem',
+			'tSchool',
+			'tSuperPower'
 		]
 	},
 	{
-		img: '13/84879',
+		img: '3/84417',
 		name: [
 			'Hajimete no Gal: Hajimete no Bunkasai',
-			'',
+			'はじめてのギャル はじめての文化祭',
 			'My First Girlfriend is a Gal: My First Cultural Festival'
 		],
 		studio: [
-			sNone
+			sNAZ
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '9/86826',
 		name: [
 			'Hajimete no Gal',
-			'',
+			'はじめてのギャル',
 			'My First Girlfriend is a Gal'
 		],
 		studio: [
-			sNone
+			sNAZ
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1015/123541',
 		name: [
 			'Itsudatte Bokura no Koi wa 10 cm Datta.',
-			'',
+			'いつだって僕らの恋は10センチだった。',
 			'Our love has always been 10 centimeters apart'
 		],
 		studio: [
-			sNone
+			sLayduce
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '12/87065',
 		name: [
 			'Suki ni Naru Sono Shunkan wo. Kokuhaku Jikkou Iinkai',
-			'',
+			'好きになるその瞬間を。～告白実行委員会～',
 			'The Moment You Fall in Love'
 		],
 		studio: [
-			sNone
+			sQualiaAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Fall 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/82121',
 		name: [
 			'Zutto Mae kara Suki deshita. Kokuhaku Jikkou Iinkai',
-			'',
+			'ずっと前から好きでした。～告白実行委員会～',
 			"I've Always Liked You"
 		],
 		studio: [
-			sNone
+			sQualiaAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1902/129579',
 		name: [
 			'Ijiranaide, Nagatoro-san 2nd Attack',
-			'',
+			'イジらないで、長瀞さん 2nd Attack',
 			"Don't Toy with Me, Miss Nagatoro 2nd Attack"
 		],
 		studio: [
-			sNone
+			sOLM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2023',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1900/110097',
 		name: [
 			'Ijiranaide, Nagatoro-san',
-			'',
+			'イジらないで、長瀞さん',
 			"Don't Toy with Me, Miss Nagatoro"
 		],
 		studio: [
-			sNone
+			sOLM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1716/104880',
 		name: [
 			'Nekopara',
-			'',
-			''
+			'ネコぱら'
 		],
 		studio: [
-			sNone
+			sFelixFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '1102/103268',
 		name: [
 			'Nekopara: Koneko no Hi no Yakusoku',
-			'',
-			''
+			'ネコぱら 仔ネコの日の約束'
 		],
 		studio: [
-			sNone
+			sFelixFilm
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '7/89829',
 		name: [
 			'Nekopara OVA',
-			'',
-			''
+			'ネコぱらOVA'
 		],
 		studio: [
-			sNone
+			sFelixFilm
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '4/86790',
 		name: [
 			'New Game!!',
-			'',
-			''
+			'NEW GAME!!'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '10/86507',
 		name: [
 			'New Game! Watashi, Shain Ryokou tte Hajimete nano de...',
-			'',
-			''
+			'NEW GAME! 私、社員旅行って初めてなので…'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '9/80417',
 		name: [
 			'New Game!',
-			'',
-			''
+			'NEW GAME!'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1301/110433',
 		name: [
 			'Munou na Nana',
-			'',
+			'無能なナナ',
 			'Talentless Nana'
 		],
 		studio: [
-			sNone
+			sBridge
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tSupernatural',
+			'tPsychological',
+			'tSuperPower',
+			'tShounen'
 		]
 	},
 	{
 		img: '12/86676',
 		name: [
 			'Tsurezure Children',
-			'',
+			'徒然チルドレン',
 			'Tsuredure Children'
 		],
 		studio: [
-			sNone
+			sStudioGokumi
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '11/79107',
 		name: [
 			'Gakusen Toshi Asterisk 2nd Season',
-			'',
+			'学戦都市アスタリスク',
 			'The Asterisk War Season 2'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/76034',
 		name: [
 			'Gakusen Toshi Asterisk',
-			'',
+			'学戦都市アスタリスク',
 			'The Asterisk War'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/90115',
 		name: [
 			'Net-juu no Susume Special',
-			'',
+			'ネト充のススメ',
 			'Recovery of an MMO Junkie Special'
 		],
 		studio: [
-			sNone
+			sSignalMD
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tGame'
 		]
 	},
 	{
 		img: '3/87463',
 		name: [
 			'Net-juu no Susume',
-			'',
+			'ネト充のススメ',
 			'Recovery of an MMO Junkie'
 		],
 		studio: [
-			sNone
+			sSignalMD
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tGame'
 		]
 	},
 	{
 		img: '1642/100344',
 		name: [
 			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai Specials',
-			'',
-			''
+			'俺が好きなのは妹だけど妹じゃない俺が好きなのは妹だけど妹じゃない新規短編アニメーション'
 		],
 		studio: [
-			sNone
+			sNAZ,
+			sMagiaDoraglier
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Winter 2019',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
 		img: '1359/96152',
 		name: [
 			'Ore ga Suki nano wa Imouto dakedo Imouto ja Nai',
-			'',
+			'俺が好きなのは妹だけど妹じゃない',
 			'My Sister, My Writer'
 		],
 		studio: [
-			sNone
+			sNAZ,
+			sMagiaDoraglier
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2018',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '1786/118533',
 		name: [
 			'Isuca: Gokuraku',
-			'',
-			''
+			'ISUCA 第拾壱話「極楽」'
 		],
 		studio: [
-			sNone
+			sArms
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Summer 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tSeinen'
 		]
 	},
 	{
 		img: '3/71767',
 		name: [
 			'Isuca',
-			'',
-			''
+			'ISUCA [イスカ]'
 		],
 		studio: [
-			sNone
+			sArms
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1774/111679',
 		name: [
 			'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai',
-			'',
+			'青春ブタ野郎はゆめみる少女の夢を見ない',
 			'Rascal Does Not Dream of a Dreaming Girl'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
 		img: '1301/93586',
 		name: [
 			'Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai',
-			'',
+			'青春ブタ野郎はバニーガール先輩の夢を見ない',
 			'Rascal Does Not Dream of Bunny Girl Senpai'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
 		img: '1713/117119',
 		name: [
 			'Kanojo mo Kanojo',
-			'',
+			'カノジョも彼女',
 			'Girlfriend, Girlfriend'
 		],
 		studio: [
-			sNone
+			sTezukaProductions
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1034/112435',
 		name: [
 			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken OVA',
-			'',
+			'僕の彼女がマジメ過ぎるしょびっちな件 OVA',
 			'My Girlfriend is Shobitch OVA'
 		],
 		studio: [
-			sNone
+			sDiomedéa,
+			sStudioBlanc
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool'
 		]
 	},
 	{
 		img: '12/87623',
 		name: [
 			'Boku no Kanojo ga Majimesugiru Sho-bitch na Ken',
-			'',
+			'僕の彼女がマジメ過ぎるしょびっちな件',
 			'My Girlfriend is Shobitch'
 		],
 		studio: [
-			sNone
+			sDiomedéa,
+			sStudioBlanc
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1622/111483',
 		name: [
 			'Araburu Kisetsu no Otome-domo yo',
-			'',
+			'荒ぶる季節の乙女どもよ。',
 			'O Maidens in Your Savage Season'
 		],
 		studio: [
-			sNone
+			sLayduce
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1687/123304',
 		name: [
 			'B-gata H-kei',
-			'',
+			'B型H系',
 			"Yamada's First Time: B Gata H Kei"
 		],
 		studio: [
-			sNone
+			sHalFilmMaker
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2010',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '3/79414',
 		name: [
 			'Netoge no Yome wa Onnanoko ja Nai to Omotta?',
-			'',
+			'ネトゲの嫁は女の子じゃないと思った？',
 			'And you thought there is never a girl online?'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool',
+			'tGame'
 		]
 	},
 	{
 		img: '1024/93549',
 		name: [
 			'Akkun to Kanojo',
-			'',
+			'あっくんとカノジョ',
 			'My Sweet Tyrant'
 		],
 		studio: [
-			sNone
+			sYumetaCompany
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tJosei'
 		]
 	},
 	{
 		img: '9/89848',
 		name: [
 			'Imouto sae Ireba Ii. Special',
-			'',
-			''
+			'妹さえいればいい。'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '10/88472',
 		name: [
 			'Imouto sae Ireba Ii',
-			'',
+			'妹さえいればいい。',
 			"A Sister's All You Need"
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '10/23635',
 		name: [
 			'Mayoi Neko Overrun! Specials',
-			'',
-			''
+			'迷い猫ねこねこ劇場'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Spring 2010',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '10/23770',
 		name: [
 			'Mayoi Neko Overrun!',
-			'',
+			'迷い猫オーバーラン!',
 			'Stray Cats Overrun!'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem'
 		]
 	},
 	{
 		img: '9/75240',
 		name: [
 			'Ookami-san to Shichinin no Nakama-tachi',
-			'',
+			'オオカミさんと七人の仲間たち',
 			'Okami-San and Her Seven Companions'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tParody'
 		]
 	},
 	{
 		img: '6/25892',
 		name: [
 			'Fortune Arterial: Akai Yakusoku - Tadoritsuita Basho',
-			'',
-			''
+			'FORTUNE ARTERIAL 赤い約束 たどり着いた場所'
 		],
 		studio: [
-			sNone
+			sFeel,
+			sZexcs
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tHarem'
 		]
 	},
 	{
 		img: '11/26876',
 		name: [
 			'Fortune Arterial: Akai Yakusoku',
-			'',
-			''
+			'FORTUNE ARTERIAL 赤い約束'
 		],
 		studio: [
-			sNone
+			sFeel,
+			sZexcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
 		img: '2/29138',
 		name: [
 			'Hidan no Aria: Butei ga Kitarite Onsen Kenshuu',
-			'',
+			'緋弾のアリア 武偵が来たりて温泉研修',
 			'Aria the Scarlet Ammo Special'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tMystery',
+			'tRomance'
 		]
 	},
 	{
 		img: '9/30095',
 		name: [
 			'Hidan no Aria',
-			'',
+			'緋弾のアリア',
 			'Aria the Scarlet Ammo'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/30175',
 		name: [
 			'R-15: R15 Shounen Hyouryuuki',
-			'',
-			''
+			'あーるじゅうご R15少年漂流記'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tParody'
 		]
 	},
 	{
 		img: '9/33029',
 		name: [
 			'R-15',
-			'',
-			''
+			'あーるじゅうご'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '13/29971',
 		name: [
 			'Mayo Chiki!',
-			'',
-			''
+			'まよチキ!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '8/63597',
 		name: [
 			'Baka to Test to Shoukanjuu Ni!: Mahou Hideyoshi Hideyoshi',
-			'',
+			'バカとテストと召喚獣にっ！ 『魔法秀吉ひでよし』',
 			'Baka and Test - Summon the Beasts: Magical Hideyoshi Hideyoshi'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '3/28992',
 		name: [
 			'Baka to Test to Shoukanjuu Ni!',
-			'',
+			'バカとテストと召喚獣 にっ！',
 			'Baka & Test – Summon the Beasts 2'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSuperPower'
 		]
 	},
 	{
 		img: '8/27463',
 		name: [
 			'Baka to Test to Shoukanjuu: Matsuri',
-			'',
+			'バカとテストと召喚獣 ～祭～',
 			'Baka & Test - Summon the Beasts OVA'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSchool',
+			'tSuperPower'
 		]
 	},
 	{
 		img: '8/67315',
 		name: [
 			'Baka to Test to Shoukanjuu Specials',
-			'',
-			''
+			'バカとテストと召喚獣 映像特典'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Spring 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/50389',
 		name: [
 			'Baka to Test to Shoukanjuu',
-			'',
+			'バカとテストと召喚獣',
 			'Baka & Test - Summon the Beasts'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
 		]
 	},
 	{
 		img: '11/30853',
 		name: [
 			'Astarotte no Omocha! EX',
-			'',
+			'アスタロッテのおもちゃ! EX',
 			"Astarotte's Toy EX"
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tIsekai',
+			'tSeinen'
 		]
 	},
 	{
 		img: '3/75562',
 		name: [
 			'Astarotte no Omocha!',
-			'',
+			'アスタロッテのおもちゃ！',
 			"Astarotte's Toy"
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tIsekai',
+			'tSeinen'
 		]
 	},
 	{
 		img: '6/59825',
 		name: [
 			'Itsuka Tenma no Kuro Usagi: Kokoro Utsuri no Toukoubi - School Attendance Day',
-			'',
-			''
+			'いつか天魔の黒ウサギ 心移りの登校日 ~すくーる·あてんだんす·でぃ~'
 		],
 		studio: [
-			sNone
+			sZexcs
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi'
 		]
 	},
 	{
 		img: '5/75197',
 		name: [
 			'Itsuka Tenma no Kuro Usagi',
-			'',
+			'いつか天魔の黒ウサギ',
 			'A Dark Rabbit has Seven Lives'
 		],
 		studio: [
-			sNone
+			sZexcs
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi'
 		]
 	},
 	{
 		img: '10/30839',
 		name: [
 			'Hoshizora e Kakaru Hashi: Kakaru ka? Gakuensai ni Koi no Hashi',
-			'',
-			''
+			'星空へ架かる橋　架かるか？学園祭に恋の橋'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/73521',
 		name: [
 			'Hoshizora e Kakaru Hashi',
-			'',
+			'星空へ架かる橋',
 			'A Bridge to the Starry Skies'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '11/51565',
 		name: [
 			'Dakara Boku wa, H ga Dekinai. Mie Sugi! Mizugi Contest',
-			'',
+			'だから僕は、Ｈができない 。 見えすぎ! 水着コンテスト',
 			"So, I Can't Play H! Episode 13"
 		],
 		studio: [
-			sNone
+			sFeel
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Winter 2013',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '4/75102',
 		name: [
 			'Dakara Boku wa, H ga Dekinai.',
-			'',
+			'だから僕は、Hができない。',
 			"So, I Can't Play H!"
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2012',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi'
 		]
 	},
 	{
 		img: '6/47627',
 		name: [
 			'Papa no Iukoto wo Kikinasai! OVA',
-			'',
-			''
+			'パパのいうことを聞きなさい！OVA'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '12/78213',
 		name: [
 			'Papa no Iukoto wo Kikinasai!: Pokkapoka',
-			'',
-			''
+			'パパのいうことを聞きなさい！ぽっかぽか'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '2/35039',
 		name: [
 			'Papa no Iukoto wo Kikinasai!',
-			'',
+			'パパのいうことを聞きなさい！',
 			'Listen to Me, Girls. I Am Your Father!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '12/43823',
 		name: [
 			'Acchi Kocchi: Place=Princess',
-			'',
-			''
+			'あっちこっち 第13話(未放送)「PLACE=PRINCESS」'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/46489',
 		name: [
 			'Acchi Kocchi',
-			'',
+			'あっちこっち',
 			'Place to Place'
 		],
 		studio: [
-			sNone
+			sAIC
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '11/51459',
 		name: [
 			'Kono Naka ni Hitori, Imouto ga Iru!: Ani, Imouto, Koibito',
-			'',
-			''
+			'この中に1人、妹がいる！兄、妹、恋人'
 		],
 		studio: [
-			sNone
+			sStudioGokumi
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/75534',
 		name: [
 			'Kono Naka ni Hitori, Imouto ga Iru!',
-			'',
+			'この中に1人、妹がいる！',
 			'NAKAIMO - My Little Sister Is Among Them!'
 		],
 		studio: [
-			sNone
+			sStudioGokumi
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2012',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tMystery',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '6/46981',
 		name: [
 			'Oniichan dakedo Ai sae Areba Kankeinai yo ne! Specials',
-			'',
+			'お兄ちゃんだけど愛さえあれば関係ないよねっ',
 			'OniAi Specials'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Fall 2012',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '6/42111',
 		name: [
 			'Oniichan dakedo Ai sae Areba Kankeinai yo ne!',
-			'',
+			'お兄ちゃんだけど愛さえあれば関係ないよねっ',
 			'OniAi'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2012',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '10/41927',
 		name: [
 			'Inu x Boku SS: Miketsukami-kun Henka/Switch/Omamagoto',
-			'',
+			'妖狐×僕SS 御狐神くん変化 / スイッチ / おままごと',
 			'Inu X Boku Secret Service Episode 13'
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1760/98794',
 		name: [
 			'Inu x Boku SS',
-			'',
+			'妖狐×僕SS',
 			'Inu X Boku Secret Service'
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tMythology',
+			'tShounen'
 		]
 	},
 	{
 		img: '1318/92768',
 		name: [
 			'Tokyo Ravens',
-			'',
-			''
+			'東京レイヴンズ'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/75235',
 		name: [
 			'Magical☆Star Kanon 100%',
-			'',
+			'マジカル☆スター　かのん100％',
 			'Magical Star Kanon 100%!'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tMusic',
+			'tShounen'
 		]
 	},
 	{
 		img: '6/51949',
 		name: [
 			'Kami nomi zo Shiru Sekai: Megami-hen',
-			'',
+			'神のみぞ知るセカイ 女神篇',
 			'The World God Only Knows: Goddesses'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '11/43359',
 		name: [
 			'Kami nomi zo Shiru Sekai: Tenri-hen',
-			'',
+			'神のみぞ知るセカイ 天理篇',
 			'The World God Only Knows: Tenri Arc'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '12/32297',
 		name: [
 			'Kami nomi zo Shiru Sekai: 4-nin to Idol',
-			'',
+			'神のみぞ知るセカイ　４人とアイドル',
 			'The World God Only Knows: Four Girls and an Idol'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tMusic',
+			'tShounen'
 		]
 	},
 	{
 		img: '11/30030',
 		name: [
 			'Kami nomi zo Shiru Sekai II',
-			'',
+			'神のみぞ知るセカイ II',
 			'The World God Only Knows II'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '2/43361',
 		name: [
 			'Kami nomi zo Shiru Sekai',
-			'',
+			'神のみぞ知るセカイ',
 			'The World God Only Knows'
 		],
 		studio: [
-			sNone
+			sManglobe
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '10/45090',
 		name: [
 			'Kotoura-san: Haruka no Heya',
-			'',
-			''
+			'琴浦さん 春香の部屋'
 		],
 		studio: [
-			sNone
+			sAICClassic
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSchool'
 		]
 	},
 	{
 		img: '10/75585',
 		name: [
 			'Kotoura-san',
-			'',
+			'琴浦さん',
 			'The Troubled Life of Miss Kotoura'
 		],
 		studio: [
-			sNone
+			sAICClassic
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/75788',
 		name: [
 			'Hentai Ouji to Warawanai Neko',
-			'',
+			'変態王子と笑わない猫。',
 			'The "Hentai" Prince and the Stony Cat'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '13/44187',
 		name: [
 			'Ore no Kanojo to Osananajimi ga Shuraba Sugiru',
-			'',
+			'俺の彼女と幼なじみが修羅場すぎる',
 			'Oreshura'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
+		]
+	},
+	{
+		img: '1314/129575',
+		name: [
+			'Ore no Imouto ga Konnani Kawaii Wake ga Nai. Specials',
+			'俺の妹がこんなに可愛いわけがない。',
+			'OreImo 2 Specials'
+		],
+		studio: [
+			sA1Pictures
+		],
+		type: 'ONA',
+		season: 'Summer 2013',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '8/45769',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai.',
-			'',
+			'俺の妹がこんなに可愛いわけがない。',
 			'Oreimo 2'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '8/29734',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials',
-			'',
+			'俺の妹がこんなに可愛いわけがない',
 			'OreImo Specials'
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Winter 2011',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '10/28240',
 		name: [
 			'Ore no Imouto ga Konnani Kawaii Wake ga Nai',
-			'',
+			'俺の妹がこんなに可愛いわけがない',
 			'OreImo'
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2010',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '1624/112109',
 		name: [
 			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita OVA',
-			'',
+			'勇者になれなかった俺はしぶしぶ就職を決意しました。OVA',
 			"Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA"
 		],
 		studio: [
-			sNone
+			sAsread
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Winter 2014',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '13/54389',
 		name: [
 			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita',
-			'',
+			'勇者になれなかった俺はしぶしぶ就職を決意しました。',
 			'I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job'
 		],
 		studio: [
-			sNone
+			sAsread
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2013',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '12/52091',
 		name: [
 			'Golden Time',
-			'',
-			''
+			'ゴールデンタイム'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance'
 		]
 	},
 	{
