@@ -434,6 +434,34 @@ const sAsread = {
 	name: 'asread.',
 	id: 163
 };
+const sSevenArcsPictures = {
+	name: 'Seven Arcs Pictures',
+	id: 1569
+};
+const sTNK = {
+	name: 'TNK',
+	id: 120
+};
+const sDomerica = {
+	name: 'domerica',
+	id: sNone.id
+};
+const sShaft = {
+	name: 'Shaft',
+	id: 44
+};
+const sSeven = {
+	name: 'Seven',
+	id: 541
+};
+const sCreatorsinPack = {
+	name: 'Creators in Pack',
+	id: 1195
+};
+const sChildrensPlaygroundEntertainment = {
+	name: "Children's Playground Entertainment",
+	id: 1407
+};
 
 const studioList = [
 	sNone,
@@ -544,5 +572,12 @@ const studioList = [
 	sArms,
 	sHalFilmMaker,
 	sAICClassic,
-	sAsread
+	sAsread,
+	sSevenArcsPictures,
+	sTNK,
+	sDomerica,
+	sShaft,
+	sSeven,
+	sCreatorsinPack,
+	sChildrensPlaygroundEntertainment
 ]

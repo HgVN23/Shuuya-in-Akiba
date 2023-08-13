@@ -7109,1088 +7109,1300 @@ const anime = [
 		img: '3/44724',
 		name: [
 			'Boku wa Tomodachi ga Sukunai Next',
-			'',
+			'僕は友達が少ないNEXT',
 			"Haganai: I don't have many friends NEXT"
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/39215',
 		name: [
 			'Boku wa Tomodachi ga Sukunai: Relay Shousetsu wa Ketsumatsu ga Hanpanai',
-			'',
+			'僕は友達が少ない リレー小説は結末が半端ないL(゜□゜)」',
 			"Haganai: A Round-Robin Story's Ending Is Way Extreme"
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Summer 2012',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool'
 		]
 	},
 	{
 		img: '8/32873',
 		name: [
 			'Boku wa Tomodachi ga Sukunai',
-			'',
+			'僕は友達が少ない',
 			"Haganai: I don't have many friends"
 		],
 		studio: [
-			sNone
+			sAICBuild
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2011',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1215/100764',
 		name: [
 			'Trinity Seven Movie 2: Heavens Library to Crimson Lord',
-			'',
-			''
+			'劇場版 トリニティセブン -天空図書館〈ヘブンズライブラリー〉と真紅の魔王〈クリムゾンロード〉'
 		],
 		studio: [
-			sNone
+			sSevenArcsPictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1031/112821',
 		name: [
 			'Trinity Seven Movie 1: Eternity Library to Alchemic Girl',
-			'',
+			'劇場版 トリニティセブン －悠久図書館〈エターニティライブラリー〉と錬金術少女〈アルケミックガール〉－',
 			'Trinity Seven: Eternity Library & Alchemic Girl'
 		],
 		studio: [
-			sNone
+			sSevenArcsPictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '3/74066',
 		name: [
 			'Trinity Seven: Nanatsu no Taizai to Nana Madoushi',
-			'',
-			'Trinity Seven OVA'
+			'トリニティセブン 七つの大罪と七魔道士',
+			'Trinity Seven: The Seven Deadly Sins and The Seven Mages'
 		],
 		studio: [
-			sNone
+			sSevenArcsPictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '12/67795',
 		name: [
 			'Trinity Seven',
-			'',
-			''
+			'トリニティセブン'
 		],
 		studio: [
-			sNone
+			sSevenArcsPictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '13/64061',
 		name: [
 			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga. OVA',
-			'',
-			''
+			'最近、妹のようすがちょっとおかしいんだが。 OVA'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tShounen'
 		]
 	},
 	{
 		img: '3/56589',
 		name: [
 			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga',
-			'',
+			'最近、妹のようすがちょっとおかしいんだが。',
 			'Recently, my sister is unusual'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tShounen'
 		]
 	},
 	{
 		img: '6/57563',
 		name: [
 			'Nourin',
-			'',
+			'のうりん',
 			'No-Rin'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tParody',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/69591',
 		name: [
 			'Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?',
-			'',
-			''
+			'彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?'
 		],
 		studio: [
-			sNone
+			sHoodsEntertainment
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '11/63363',
 		name: [
 			'Kanojo ga Flag wo Oraretara',
-			'',
+			'彼女がフラグをおられたら',
 			'If Her Flag Breaks'
 		],
 		studio: [
-			sNone
+			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/60095',
 		name: [
 			'Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne',
-			'',
-			''
+			'未確認で進行形 「鴨肉って緑っぽい味がするのね。」'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '3/64481',
 		name: [
 			'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo',
-			'',
-			''
+			'未確認で進行形 「見て。あれが私たちの泊まっている旅館よ。」'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '10/75249',
 		name: [
 			'Mikakunin de Shinkoukei',
-			'',
+			'未確認で進行形',
 			'Engaged to the Unidentified'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
 		img: '2/89974',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Movie: Take On Me',
-			'',
+			'映画 中二病でも恋がしたい！-Take On Me-',
 			'Love, Chunibyo & Other Delusions!: Take On Me'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
-		]
-	},
-	{
-		img: '13/60351',
-		name: [
-			'Chuunibyou demo Koi ga Shitai! Ren Specials',
-			'',
-			'Love, Chunibyo & Other Delusions: Heart Throb Specials'
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
-		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/66827',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Ren: The Rikka Wars',
-			'',
+			' 中二病でも恋がしたい！戀 再生の･･･邪王真眼黙示録（The Rikka Wars）',
 			'Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool'
+		]
+	},
+	{
+		img: '13/60351',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Ren Specials',
+			'中二病でも恋がしたい！戀 未放送ショートムービー',
+			'Love, Chunibyo & Other Delusions: Heart Throb Specials'
+		],
+		studio: [
+			sKyotoAnimation
+		],
+		type: 'Special',
+		season: 'Winter 2014',
+		rating: 'PG-13',
+		tag: [
+			'tComedy'
 		]
 	},
 	{
 		img: '7/56643',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Ren',
-			'',
+			'中二病でも恋がしたい！戀',
 			'Love, Chunibyo & Other Delusions!: Heart Throb'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/45512',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Kirameki no... Slapstick Noel',
-			'',
+			'中二病でも恋がしたい! 煌めきの... 聖爆誕祭（スラップステック・ノエル）',
 			'Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '9/43245',
 		name: [
 			'Chuunibyou demo Koi ga Shitai! Depth of Field: Ai to Nikushimi Gekijou',
-			'',
+			'中二病でも恋がしたい！DEPTH OF FIELD ～ 愛と憎しみ劇場',
 			'Love, Chunibyo & Other Delusions! Depth of Field: Love and Hate Theater'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
-		]
-	},
-	{
-		img: '5/42655',
-		name: [
-			'Chuunibyou demo Koi ga Shitai! Lite',
-			'',
-			'Love, Chunibyo & Other Delusions!: Chuni-Shorts'
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
-		tag: [
-			''
+			'tAction',
+			'tMecha'
 		]
 	},
 	{
 		img: '12/46931',
 		name: [
 			'Chuunibyou demo Koi ga Shitai!',
-			'',
+			'中二病でも恋がしたい!',
 			'Love, Chunibyo & Other Delusions!'
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
+		]
+	},
+	{
+		img: '5/42655',
+		name: [
+			'Chuunibyou demo Koi ga Shitai! Lite',
+			'中二病でも恋がしたい！Lite',
+			'Love, Chunibyo & Other Delusions!: Chuni-Shorts'
+		],
+		studio: [
+			sKyotoAnimation
+		],
+		type: 'ONA',
+		season: 'Summer 2012',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tSchool'
 		]
 	},
 	{
 		img: '8/72479',
 		name: [
 			'Hitsugi no Chaika: Nerawareta Hitsugi/Yomigaeru Iseki',
-			'',
-			''
+			'棺姫のチャイカ ねらわれた棺 / 蘇る遺跡'
 		],
 		studio: [
-			sNone
+			sBones
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Winter 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance'
 		]
 	},
 	{
 		img: '3/67797',
 		name: [
 			'Hitsugi no Chaika: Avenging Battle',
-			'',
+			'棺姫のチャイカ AVENGING BATTLE',
 			'Chaika -The Coffin Princess- Avenging Battle'
 		],
 		studio: [
-			sNone
+			sBones
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2014',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance'
 		]
 	},
 	{
 		img: '4/61781',
 		name: [
 			'Hitsugi no Chaika',
-			'',
+			'棺姫のチャイカ',
 			'Chaika -The Coffin Princess-'
 		],
 		studio: [
-			sNone
+			sBones
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2014',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance'
 		]
 	},
 	{
 		img: '1901/131653',
 		name: [
 			'Kyokou Suiri Season 2',
-			'',
+			'虚構推理 Season2',
 			'In/Spectre 2'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2023',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tMystery',
+			'tRomance',
+			'tSupernatural',
+			'tMythology',
+			'tShounen'
 		]
 	},
 	{
 		img: '1310/117188',
 		name: [
 			'Kyokou Suiri',
-			'',
+			'虚構推理',
 			'In/Spectre'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tMystery',
+			'tRomance',
+			'tSupernatural',
+			'tMythology',
+			'tShounen'
 		]
 	},
 	{
 		img: '4/72173',
 		name: [
 			'Seireitsukai no Blade Dance Specials',
-			'',
-			''
+			'精霊使いの剣舞〈ブレイドダンス〉ミニOVA'
 		],
 		studio: [
-			sNone
+			sTNK
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/63031',
 		name: [
 			'Seireitsukai no Blade Dance',
-			'',
+			'精霊使いの剣舞〈ブレイドダンス〉',
 			'Blade Dance of the Elementalers'
 		],
 		studio: [
-			sNone
+			sTNK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '6/76840',
 		name: [
 			'Nagato Yuki-chan no Shoushitsu: Owarenai Natsuyasumi',
-			'',
+			'長門有希ちゃんの消失 第17話「終われない夏休み」',
 			'The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End'
 		],
 		studio: [
-			sNone
+			sSatelight
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSeinen'
 		]
 	},
 	{
 		img: '3/73527',
 		name: [
 			'Nagato Yuki-chan no Shoushitsu',
-			'',
+			'長門有希ちゃんの消失',
 			'The Disappearance of Nagato Yuki-chan'
 		],
 		studio: [
-			sNone
+			sSatelight
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1676/128173',
 		name: [
 			'Romantic Killer',
-			'',
-			''
+			'ロマンティック・キラー'
 		],
 		studio: [
-			sNone
+			sDomerica
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tParody',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '9/76542',
 		name: [
 			'Ore ga Ojousama Gakkou ni "Shomin Sample" Toshite Gets♥Sareta Ken',
-			'',
+			'俺がお嬢様学校に「庶民サンプル」としてゲッツされた件',
 			'Shomin Sample'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1702/97867',
 		name: [
 			'Saenai Heroine no Sodatekata Fine',
-			'',
+			'冴えない彼女の育てかた Fine',
 			'Saekano the Movie: Finale'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '2/84797',
 		name: [
 			'Saenai Heroine no Sodatekata ♭',
-			'',
+			'冴えない彼女〈ヒロイン〉の育てかた♭',
 			'Saekano: How to Raise a Boring Girlfriend .flat'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/86672',
 		name: [
 			'Saenai Heroine no Sodatekata ♭: Koi to Junjou no Service-kai',
-			'',
+			'冴えない彼女〈ヒロイン〉の育てかた♭ #0 「恋と純情のサービス回」',
 			'Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '7/68783',
 		name: [
 			'Saenai Heroine no Sodatekata',
-			'',
+			'冴えない彼女〈ヒロイン〉の育てかた',
 			'Saekano: How to Raise a Boring Girlfriend'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '6/70493',
 		name: [
 			'Saenai Heroine no Sodatekata: Ai to Seishun no Service-kai',
-			'',
+			'冴えない彼女の育てかた #0 「愛と青春のサービス回」',
 			'Saekano: Fan Service of Love and Youth'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
 		img: '2/73700',
 		name: [
 			'Yamada-kun to 7-nin no Majo',
-			'',
+			'山田くんと7人の魔女',
 			'Yamada-kun and the Seven Witches'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tMystery',
+			'tRomance',
+			'tSupernatural',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1079/104630',
 		name: [
 			'Yamada-kun to 7-nin no Majo: Mou Hitotsu no Suzaku-sai',
-			'',
-			''
+			'山田くんと7人の魔女 OAD'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
-		]
-	},
-	{
-		img: '1992/112119',
-		name: [
-			'Nisekoi: OVA',
-			'',
-			''
-		],
-		studio: [
-			sNone
-		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
-		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '13/72626',
 		name: [
 			'Nisekoi:',
-			'',
+			'ニセコイ',
 			'Nisekoi: False Love'
 		],
 		studio: [
-			sNone
+			sShaft
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
+		]
+	},
+	{
+		img: '1992/112119',
+		name: [
+			'Nisekoi: OVA',
+			'ニセコイ OAD'
+		],
+		studio: [
+			sShaft
+		],
+		type: 'OVA',
+		season: 'Fall 2014',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '2/71754',
 		name: [
 			'Nisekoi OVA',
-			'',
-			''
+			'ニセコイ OAD'
 		],
 		studio: [
-			sNone
+			sShaft
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '13/75587',
 		name: [
 			'Nisekoi',
-			'',
+			'ニセコイ',
 			'Nisekoi: False Love'
 		],
 		studio: [
-			sNone
+			sShaft
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1979/106698',
 		name: [
 			'Momokuri',
-			'',
-			''
+			'ももくり'
 		],
 		studio: [
-			sNone
+			sSatelight
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '3/80688',
 		name: [
 			'Kono Bijutsu-bu ni wa Mondai ga Aru!',
-			'',
+			'この美術部には問題がある！',
 			'This Art Club Has a Problem!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '13/83930',
 		name: [
 			'Rewrite 2nd Season',
-			'',
+			'Rewrite 2ndシーズン',
 			'Rewrite: Moon and Terra'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tSupernatural'
 		]
 	},
 	{
 		img: '1827/92122',
 		name: [
 			'Rewrite',
-			'',
-			''
+			'リライト'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tSchool'
 		]
 	},
 	{
 		img: '8/82409',
 		name: [
 			'Okusama ga Seitokaichou!+!',
-			'',
+			'おくさまが生徒会長!＋!',
 			'My Wife is the Student Council President!+'
 		],
 		studio: [
-			sNone
+			sSeven
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2016',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '12/78265',
 		name: [
 			'Okusama ga Seitokaichou! Seitokaichou to Ofuro Asobi',
-			'',
+			'おくさまが生徒会長！ 生徒会長とお風呂遊び',
 			'My Wife is the Student Council President OVA'
 		],
 		studio: [
-			sNone
+			sSeven
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Winter 2016',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tShounen'
 		]
 	},
 	{
 		img: '9/76157',
 		name: [
 			'Okusama ga Seitokaichou!',
-			'',
+			'おくさまが生徒会長！',
 			'My Wife is the Student Council President!'
 		],
 		studio: [
-			sNone
+			sSeven
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2015',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1619/106323',
 		name: [
 			'Dokyuu Hentai HxEros OVA',
-			'',
-			''
+			'ド級編隊エグゼロス'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2020',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tSciFi',
+			'tEcchi',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1342/108321',
 		name: [
 			'Dokyuu Hentai HxEros',
-			'',
+			'ド級編隊エグゼロス',
 			'SUPER HXEROS'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2020',
+		rating: 'R+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tSciFi',
+			'tEcchi',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '9/84266',
 		name: [
 			'Renai Boukun',
-			'',
+			'恋愛暴君',
 			'Love Tyrant'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1833/95350',
 		name: [
 			'Osake wa Fuufu ni Natte kara: Yuzu Atsukan',
-			'',
-			''
+			'お酒は夫婦になってから 14杯め「ゆず熱燗'
 		],
 		studio: [
-			sNone
+			sCreatorsinPack
 		],
-		type: 'TV',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tGourmet',
+			'tRomance'
 		]
 	},
 	{
 		img: '1554/116612',
 		name: [
 			'Osake wa Fuufu ni Natte kara',
-			'',
+			'お酒は夫婦になってから',
 			'Love is Like a Cocktail'
 		],
 		studio: [
-			sNone
+			sCreatorsinPack
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tGourmet',
+			'tRomance'
 		]
 	},
 	{
 		img: '1582/96343',
 		name: [
 			'Eromanga-sensei OVA',
-			'',
+			'エロマンガ先生 OVA',
 			'Eromanga Sensei OVA'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '2/86468',
 		name: [
 			'Eromanga-sensei',
-			'',
+			'エロマンガ先生',
 			'Eromanga Sensei'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tEcchi'
 		]
 	},
 	{
 		img: '8/89469',
 		name: [
 			'Yuragi-sou no Yuuna-san OVA',
-			'',
-			''
+			'ゆらぎ荘の幽奈さん'
 		],
 		studio: [
-			sNone
+			sXebec,
+			sSignalMD
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Summer 2018',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1462/98802',
 		name: [
 			'Yuragi-sou no Yuuna-san',
-			'',
+			'ゆらぎ荘の幽奈さん',
 			'Yuuna and the Haunted Hot Springs'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2018',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tEcchi',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1908/93416',
 		name: [
 			'Kishuku Gakkou no Juliet',
-			'',
+			'寄宿学校のジュリエット',
 			'Boarding School Juliet'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1577/111404',
 		name: [
 			'Val x Love',
-			'',
-			''
+			'戦×恋（ヴァルラヴ）'
 		],
 		studio: [
-			sNone
+			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2019',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1448/127956',
 		name: [
 			'Bocchi the Rock!',
-			'',
-			''
+			'ぼっち・ざ・ろっく！'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tMusic'
 		]
 	},
 	{
@@ -8216,238 +8428,285 @@ const anime = [
 		img: '1958/107912',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Kan',
-			'',
+			'やはり俺の青春ラブコメはまちがっている。完',
 			'My Teen Romantic Comedy SNAFU Climax!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '13/84052',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku OVA',
-			'',
+			'やはり俺の青春ラブコメはまちがっている. 続 きっと, 女の子はお砂糖とスパイスと素敵な何かでできている。',
 			'My Teen Romantic Comedy SNAFU TOO! OVA'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '11/75376',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku',
-			'',
+			'やはり俺の青春ラブコメはまちがっている。続',
 			'My Teen Romantic Comedy SNAFU TOO!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '9/54831',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA',
-			'',
+			'やはり俺の青春ラブコメはまちがっている。OVA「こちらとしても彼ら彼女らの行く末に幸多からんことを願わざるを得ない。」',
 			'My Teen Romantic Comedy SNAFU OVA'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '11/49459',
 		name: [
 			'Yahari Ore no Seishun Love Comedy wa Machigatteiru.',
-			'',
+			'やはり俺の青春ラブコメはまちがっている。',
 			'My Teen Romantic Comedy SNAFU'
 		],
 		studio: [
-			sNone
+			sBrainsBase
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1448/108514',
 		name: [
 			'Maou-jou de Oyasumi',
-			'',
+			'魔王城でおやすみ',
 			'Sleepy Princess in the Demon Castle'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tMythology',
+			'tShounen'
 		]
 	},
 	{
 		img: '1299/106117',
 		name: [
 			'Hatena☆Illusion',
-			'',
+			'はてな☆イリュージョン',
 			'Hatena Illusion'
 		],
 		studio: [
-			sNone
+			sChildrensPlaygroundEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSupernatural'
 		]
 	},
 	{
 		img: '1662/118849',
 		name: [
 			'Taishou Otome Otogibanashi',
-			'',
+			'大正処女御伽話',
 			'Taisho Otome Fairy Tale'
 		],
 		studio: [
-			sNone
+			sSynergySP
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tHistorical',
+			'tShounen'
 		]
 	},
 	{
 		img: '1843/115815',
 		name: [
 			'Tantei wa Mou, Shindeiru',
-			'',
+			'探偵はもう、死んでいる。',
 			'The Detective Is Already Dead'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tMystery',
+			'tRomance'
 		]
 	},
 	{
 		img: '1996/118848',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... OVA',
-			'',
+			'乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… OAD',
 			'My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tReincarnation',
+			'tHarem',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1088/116439',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta... X',
-			'',
+			'乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…X',
 			'My Next Life as a Villainess: All Routes Lead to Doom! X'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tReincarnation',
+			'tHarem',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1483/107061',
 		name: [
 			'Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta...',
-			'',
+			'乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…',
 			'My Next Life as a Villainess: All Routes Lead to Doom!'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tReincarnation',
+			'tHarem',
+			'tSchool',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1447/121183',
 		name: [
 			'RPG Fudousan',
-			'',
+			'RPG不動産',
 			'RPG Real Estate'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1347/120593',
 		name: [
 			'Koi wa Sekai Seifuku no Ato de',
-			'',
+			'恋は世界征服のあとで',
 			'Love After World Domination'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance',
+			'tParody',
+			'tShounen'
 		]
 	},
 	{
@@ -8460,7 +8719,7 @@ const anime = [
 		studio: [
 			sA1Pictures
 		],
-		type: 'Moive',
+		type: 'Movie',
 		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
@@ -8475,153 +8734,174 @@ const anime = [
 		img: '1160/122627',
 		name: [
 			'Kaguya-sama wa Kokurasetai: Ultra Romantic',
-			'',
+			'かぐや様は告らせたい-ウルトラロマンティック-',
 			'Kaguya-sama: Love is War - Ultra Romantic'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1027/115055',
 		name: [
 			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen OVA',
-			'',
+			'かぐや様は告らせたい？ ～天才たちの恋愛頭脳戦～ OVA',
 			'Kaguya-sama: Love is War OVA'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tEcchi',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1764/106659',
 		name: [
 			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen',
-			'',
+			'かぐや様は告らせたい？～天才たちの恋愛頭脳戦～',
 			'Kaguya-sama: Love is War Season 2'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tPsychological',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1295/106551',
 		name: [
 			'Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen',
-			'',
+			'かぐや様は告らせたい～天才たちの恋愛頭脳戦～',
 			'Kaguya-sama: Love is War'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tPsychological',
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1814/99677',
 		name: [
 			'Sewayaki Kitsune no Senko-san',
-			'',
+			'世話やきキツネの仙狐さん',
 			'The Helpful Fox Senko-san'
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tSliceOfLife',
+			'tSupernatural',
+			'tIyashikei'
 		]
 	},
 	{
-		img: '1943/117882',
+		img: '1557/137227',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu',
-			'',
+			'小林さんちのメイドラゴンＳ ニッポンのおもてなし（アテンドはドラゴンです）',
 			"Miss Kobayashi's Dragon Maid S: Japanese HospitalityThe Attendant is a Dragon"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '1252/115539',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon S',
-			'',
+			'小林さんちのメイドラゴンS',
 			"Miss Kobayashi's Dragon Maid S"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '5/88486',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon: Valentine, Soshite Onsen! - Amari Kitai Shinaide Kudasai',
-			'',
+			'小林さんちのメイドラゴン バレンタイン, そして温泉! (あまり期待しないでください)',
 			"Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs!Please Don't Get Your Hopes Up)"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '5/85434',
 		name: [
 			'Kobayashi-san Chi no Maid Dragon',
-			'',
+			'小林さんちのメイドラゴン',
 			"Miss Kobayashi's Dragon Maid"
 		],
 		studio: [
-			sNone
+			sKyotoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
