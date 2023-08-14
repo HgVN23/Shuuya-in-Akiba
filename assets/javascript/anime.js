@@ -13,7 +13,7 @@ const anime = [
 		season: 'Summer 2023',
 		rating: 'PG-13',
 		tag: [
-			''
+			't'
 		]
 	},
 	{
@@ -1427,7 +1427,7 @@ const anime = [
 		name: [
 			'Koe no Katachi',
 			'聲の形',
-			'A Silent Voice',
+			'A Silent Voice'
 		],
 		studio: [
 			sKyotoAnimation
@@ -2427,7 +2427,7 @@ const anime = [
 			'とらドラ！'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
 		season: 'Fall 2008',
@@ -3383,7 +3383,7 @@ const anime = [
 			'Invaders of the Rokujyoma!?'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
 		season: 'Summer 2014',
@@ -3851,7 +3851,7 @@ const anime = [
 		season: 'Winter 2019',
 		rating: 'R-17+',
 		tag: [
-			''
+			't'
 		]
 	},
 	{
@@ -3931,7 +3931,7 @@ const anime = [
 			'The Fruit of Grisaia'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
 		season: 'Fall 2014',
@@ -8908,697 +8908,804 @@ const anime = [
 		img: '1062/114363',
 		name: [
 			'Clockwork Planet',
-			'',
-			''
+			'クロックワーク・プラネット'
 		],
 		studio: [
-			sNone
+			sXebec
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSciFi',	
 		]
 	},
 	{
 		img: '8/85593',
 		name: [
 			'Rokudenashi Majutsu Koushi to Akashic Records',
-			'',
+			'ロクでなし魔術講師と禁忌教典',
 			'Akashic Records of Bastard Magic Instructor'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2017',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSchool'
 		]
 	},
 	{
 		img: '1956/94914',
 		name: [
 			'Shichisei no Subaru',
-			'',
+			'七星のスバル',
 			"Seven Senses of the Re'Union"
 		],
 		studio: [
-			sNone
+			sLerche
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tDrama',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '1129/111477',
 		name: [
 			"Goblin Slayer: Goblin's Crown",
-			'',
-			''
+			"ゴブリンスレイヤー -GOBLIN'S CROWN-"
 		],
 		studio: [
-			sNone
+			sWhiteFox
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Winter 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1719/95621',
 		name: [
 			'Goblin Slayer',
-			'',
-			''
+			'ゴブリンスレイヤー'
 		],
 		studio: [
-			sNone
+			sWhiteFox
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2018',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1827/95738',
 		name: [
-			'Beelzebub-jou no Okinimesu mama',
-			'',
-			'As Miss Beelzebub Likes'
+			'Beelzebub-jou no Okinimesu mama.',
+			'ベルゼブブ嬢のお気に召すまま。',
+			'As Miss Beelzebub Likes.'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tMythology',
+			'tWorkplace',
+			'tShounen'
 		]
 	},
 	{
 		img: '1189/124642',
 		name: [
 			'Tate no Yuusha no Nariagari Season 2',
-			'',
+			'盾の勇者の成り上がり Season2',
 			'The Rising of the Shield Hero Season 2'
 		],
 		studio: [
-			sNone
+			sKinemaCitrus,
+			sDRMovie
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1490/101365',
 		name: [
 			'Tate no Yuusha no Nariagari',
-			'',
+			'盾の勇者の成り上がり',
 			'The Rising of the Shield Hero'
 		],
 		studio: [
-			sNone
+			sKinemaCitrus
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1568/101203',
 		name: [
-			'Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai',
-			'',
+			'Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.',
+			'うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。',
 			"If It's for My Daughter, I'd Even Defeat a Demon Lord"
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '1693/111618',
 		name: [
 			'Assassins Pride',
-			'',
-			''
+			'アサシンズプライド'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy'
 		]
 	},
 	{
 		img: '1169/95381',
 		name: [
 			'Toaru Kagaku no Accelerator',
-			'',
+			'とある科学の一方通行〈アクセラレータ〉',
 			'A Certain Scientific Accelerator'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2019',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSciFi',
+			'tSuperPower'
 		]
 	},
 	{
 		img: '1024/108413',
 		name: [
 			'Assault Lily: Bouquet',
-			'',
-			''
+			'アサルトリリィ Bouquet'
 		],
 		studio: [
-			sNone
+			sShaft
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1885/109122',
 		name: [
 			"King's Raid: Ishi wo Tsugumono-tachi",
-			'',
+			'キングスレイド 意志を継ぐものたち',
 			"King's Raid: Successors of the Will"
 		],
 		studio: [
-			sNone
+			sOLM,
+			sSunriseBeyond
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1394/132755',
 		name: [
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II',
-			'',
+			'魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ II',
 			'The Misfit of Demon King Academy Ⅱ'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2023',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tMythology',
+			'tReincarnation',
+			'tSchool'
 		]
 	},
 	{
 		img: '1126/108573',
 		name: [
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou',
-			'',
+			'魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～',
 			'The Misfit of Demon King Academy'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tMythology',
+			'tReincarnation',
+			'tSchool'
 		]
 	},
 	{
 		img: '1100/109044',
 		name: [
 			'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen',
-			'',
+			'キミと僕の最後の戦場、あるいは世界が始まる聖戦',
 			'Our Last Crusade or the Rise of a New World'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tMilitary'
 		]
 	},
 	{
 		img: '1044/106309',
 		name: [
 			'Shachou, Battle no Jikan desu!',
-			'',
+			'社長, バトルの時間です!',
 			"Shachibato! President, It's Time for Battle!"
 		],
 		studio: [
-			sNone
+			sC2C
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1847/120234',
 		name: [
 			'Mahouka Koukou no Rettousei: Tsuioku-hen',
-			'',
+			'魔法科高校の劣等生 追憶編',
 			'The Irregular at Magic High School: Reminiscence Arc'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSciFi'
 		]
 	},
 	{
 		img: '1719/116262',
 		name: [
 			'Mahouka Koukou no Yuutousei',
-			'',
+			'魔法科高校の優等生',
 			'The Honor Student at Magic High School'
 		],
 		studio: [
-			sNone
+			sConnect
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSciFi',
+			'tSchool'
 		]
 	},
 	{
 		img: '1629/109556',
 		name: [
 			'Mahouka Koukou no Rettousei: Raihousha-hen',
-			'',
+			'魔法科高校の劣等生 来訪者編',
 			'The Irregular at Magic High School: Visitor Arc'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tSchool'
 		]
 	},
 	{
 		img: '1690/114330',
 		name: [
 			'Mahouka Koukou no Rettousei Movie: Hoshi wo Yobu Shoujo',
-			'',
+			'劇場版 魔法科高校の劣等生 星を呼ぶ少女',
 			'The Irregular at Magic High School The Movie - The Girl Who Summons The Stars'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Spring 2017',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tSciFi'
 		]
 	},
 	{
 		img: '11/61039',
 		name: [
 			'Mahouka Koukou no Rettousei',
-			'',
+			'魔法科高校の劣等生',
 			'The Irregular at Magic High School'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tSciFi',
+			'tSchool'
 		]
 	},
 	{
 		img: '1620/130589',
 		name: [
 			'Renai Flops',
-			'',
+			'恋愛フロップス',
 			'Love Flops'
 		],
 		studio: [
-			sNone
+			sPassione
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2022',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1013/108558',
 		name: [
 			'Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari',
-			'',
+			'たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語',
 			'Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1079/114017',
 		name: [
 			'Seven Knights Revolution: Eiyuu no Keishousha',
-			'',
+			'セブンナイツ レボリューション -英雄の継承者-',
 			'Seven Knights Revolution: Hero Successor'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS,
+			sDomerica
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2021',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1444/115118',
 		name: [
 			'Sentouin, Hakenshimasu!',
-			'',
+			'戦闘員、派遣します！',
 			'Combatants Will Be Dispatched!'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tSciFi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1723/117854',
 		name: [
 			'Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita',
-			'',
+			'真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました',
 			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside"
 		],
 		studio: [
-			sNone
+			sStudioFlad,
+			sWolfsbane
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tRomance'
 		]
 	},
 	{
 		img: '1093/121114',
 		name: [
 			'Mahoutsukai Reimeiki',
-			'',
+			'魔法使い黎明期',
 			'The Dawn of the Witch'
 		],
 		studio: [
-			sNone
+			sTezukaProductions
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1263/119511',
 		name: [
 			'Tensai Ouji no Akaji Kokka Saisei Jutsu',
-			'',
+			'天才王子の赤字国家再生術',
 			"The Genius Prince's Guide to Raising a Nation Out of Debt"
 		],
 		studio: [
-			sNone
+			sYokohamaAnimationLab
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1369/123738',
 		name: [
 			'Yuusha, Yamemasu: Kenshuu Ryokou wa Mokuteki wo Miushinau na',
-			'',
+			'勇者、辞めます「研修旅行は目的を見失うな」',
 			"I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity"
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1934/122301',
 		name: [
 			'Yuusha, Yamemasu',
-			'',
+			'勇者、辞めます',
 			"I'm Quitting Heroing"
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1713/126442',
 		name: [
-			'Fuufu Ijou, Koibito Miman',
-			'',
-			'More than a married couple, but not lovers'
+			'Fuufu Ijou, Koibito Miman.',
+			'夫婦以上、恋人未満。',
+			'More than a married couple, but not lovers.'
 		],
 		studio: [
-			sNone
+			sStudioMOTHER
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1387/127598',
 		name: [
 			'Kuro no Shoukanshi',
-			'',
+			' 黒の召喚士',
 			'Black Summoner'
 		],
 		studio: [
-			sNone
+			sSatelight
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '5/87145',
 		name: [
 			'Accel World: Infinite∞Burst',
-			'',
-			''
+			'アクセル・ワールド INFINITE∞BURST（インフィニット・バースト）'
 		],
 		studio: [
-			sNone
+			sSunrise
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tSchool',
+			'tGame'
 		]
 	},
 	{
 		img: '1451/127575',
 		name: [
 			'Accel World EX',
-			'',
-			''
+			'アクセル・ワールド EX'
 		],
 		studio: [
-			sNone
+			sSunrise
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tSchool',
+			'tGame'
 		]
 	},
 	{
 		img: '8/38155',
 		name: [
 			'Accel World',
-			'',
-			''
+			'アクセル・ワールド'
 		],
 		studio: [
-			sNone
+			sSunrise
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2012',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tSchool',
+			'tGame'
 		]
 	},
 	{
 		img: '8/44618',
 		name: [
 			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?: Onsen Manyuuki',
-			'',
+			'問題児たちが異世界から来るそうですよ? 〜温泉漫遊記〜',
 			"Problem Children Are Coming from Another World, Aren't They? OVA"
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '12/43369',
 		name: [
 			'Mondaiji-tachi ga Isekai kara Kuru Sou desu yo?',
-			'',
+			'問題児たちが異世界から来るそうですよ?',
 			"Problem Children Are Coming from Another World, Aren't They?"
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '7/54343',
 		name: [
 			'Outbreak Company',
-			'',
-			''
+			'アウトブレイク・カンパニー'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tParody'
 		]
 	},
 	{
 		img: '11/78160',
 		name: [
 			'Hai to Gensou no Grimgar: Furoagari no Kabe ni Kaketa Seishun - One More Centimeter',
-			'',
+			'灰と幻想のグリムガル 「風呂上りの壁にかけた青春―one more センチメートル」',
 			'Grimgar: Staking Our Youths on the Bath Wall - One More Centimeter'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '13/77976',
 		name: [
 			'Hai to Gensou no Grimgar',
-			'',
+			'灰と幻想のグリムガル',
 			'Grimgar: Ashes and Illusions'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2016',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
@@ -9623,544 +9730,654 @@ const anime = [
 		img: '1129/117109',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! Movie: Kurenai Densetsu',
-			'',
+			'映画 この素晴らしい世界に祝福を！紅伝説',
 			"KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson"
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1115/98517',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!',
-			'',
+			'この素晴らしい世界に祝福を！ 2',
 			"KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!"
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '2/83188',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! 2',
-			'',
+			'この素晴らしい世界に祝福を！',
 			"KonoSuba: God's Blessing on This Wonderful World! 2"
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1649/98516',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo! Kono Subarashii Choker ni Shukufuku wo!',
-			'',
+			'この素晴らしい世界に祝福を！ 第11話 この素晴らしいチヨーカーに祝福を！',
 			"KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!"
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '8/77831',
 		name: [
 			'Kono Subarashii Sekai ni Shukufuku wo!',
-			'',
+			'この素晴らしい世界に祝福を！',
 			"KonoSuba: God's Blessing on This Wonderful World!"
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1648/126110',
 		name: [
 			'Akuyaku Reijou nano de Last Boss wo Kattemimashita',
-			'',
+			'悪役令嬢なのでラスボスを飼ってみました',
 			"I'm the Villainess, So I'm Taming the Final Boss"
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tShoujo'
 		]
 	},
 	{
 		img: '1585/95225',
 		name: [
 			'Hyakuren no Haou to Seiyaku no Valkyria',
-			'',
+			'百錬の覇王と聖約の戦乙女〈ヴァルキュリア〉',
 			'The Master of Ragnarok & Blesser of Einherjar'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '4/88911',
 		name: [
 			'Death March kara Hajimaru Isekai Kyousoukyoku',
-			'',
+			'デスマーチからはじまる異世界狂想曲',
 			'Death March to the Parallel World Rhapsody'
 		],
 		studio: [
-			sNone
+			sSILVERLINK,
+			sConnect
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1261/100452',
 		name: [
 			'Kenja no Mago',
-			'',
+			'賢者の孫',
 			"Wise Man's Grandchild"
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1325/129603',
 		name: [
 			'Akiba Meido Sensou',
-			'',
+			'アキバ冥途戦争',
 			'Akiba Maid War'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy'
 		]
 	},
 	{
 		img: '1736/103512',
 		name: [
 			'Hataage! Kemono Michi',
-			'',
+			'旗揚! けものみち',
 			'Kemono Michi: Rise Up'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tShounen'
 		]
 	},
 	{
 		img: '1651/128718',
 		name: [
 			'Futoku no Guild',
-			'',
+			'不徳のギルド',
 			'Immoral Guild'
 		],
 		studio: [
-			sNone
+			sTNK
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2022',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1824/99611',
 		name: [
 			'Isekai Cheat Magician: Yoiboshi no Matsuri to Majutsushi',
-			'',
-			''
+			'異世界チート魔術師 第13話「宵星の祭りと魔術師」'
 		],
 		studio: [
-			sNone
+			sEncourageFilms
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1282/102248',
 		name: [
 			'Isekai Cheat Magician',
-			'',
-			''
+			'異世界チート魔術師〈マジシャン〉'
 		],
 		studio: [
-			sNone
+			sEncourageFilms
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1132/111619',
 		name: [
 			'Choujin Koukousei-tachi wa Isekai demo Yoyuu de Ikinuku you desu!',
-			'',
+			'超人高校生たちは異世界でも余裕で生き抜くようです！',
 			'CHOYOYU!: High School Prodigies Have It Easy Even in Another World!'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1205/111403',
 		name: [
 			'Watashi, Nouryoku wa Heikinchi de tte Itta yo ne!',
-			'',
+			'私、能力は平均値でって言ったよね!',
 			"Didn't I Say to Make My Abilities Average in the Next Life?!"
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1754/113897',
 		name: [
 			'Maou-sama, Retry!',
-			'',
+			'魔王様、リトライ！',
 			'Demon Lord, Retry!'
 		],
 		studio: [
-			sNone
+			sEKACHIEPILKA
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1715/103419',
 		name: [
 			'Shinchou Yuusha: Kono Yuusha ga Ore Tueee Kuse ni Shinchou Sugiru',
-			'',
+			'慎重勇者 ～この勇者が俺TUEEEくせに慎重すぎる～',
 			'Cautious Hero: The Hero Is Overpowered but Overly Cautious'
 		],
 		studio: [
-			sNone
+			sWhiteFox
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2019',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody'
 		]
 	},
 	{
 		img: '1091/128729',
 		name: [
 			'Kage no Jitsuryokusha ni Naritakute!',
-			'',
+			'の実力者になりたくて！',
 			'The Eminence in Shadow'
 		],
 		studio: [
-			sNone
+			sNexus
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1976/122302',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season',
-			'',
+			'本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第3期',
 			'Ascendance of a Bookworm Season 3'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1464/107998',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 2nd Season',
-			'',
+			'本好きの下剋上 ～司書になるためには手段を選んでいられません～ 第2期',
 			'Ascendance of a Bookworm Season 2'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1931/114311',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen OVA',
-			'',
+			'本好きの下剋上 ～司書になるためには手段を選んでいられません～ OVA',
 			'Ascendance of a Bookworm: Side Story'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1582/101697',
 		name: [
 			'Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen',
-			'',
+			'本好きの下剋上 ～司書になるためには手段を選んでいられません～',
 			'Ascendance of a Bookworm'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1476/125643',
 		name: [
 			'Shinobi no Ittoki',
-			'',
-			''
+			'忍の一時'
 		],
 		studio: [
-			sNone
+			sTROYCA
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tSchool'
 		]
 	},
 	{
 		img: '1068/124244',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou',
-			'',
+			'ありふれた職業で世界最強 「幻の冒険と奇跡の邂逅」',
 			'Arifureta: Phantom Adventure and Miraculous Encounter'
 		],
 		studio: [
-			sNone
+			sAsread,
+			sStudioMOTHER
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1780/119657',
 		name: [
-			'Arifureta Shokugyou de Sekai Saikyou 2nd Season: Arifureta Yorimichi de Sekai Saikyou',
-			'',
+			'Arifureta Shokugyou de Sekai Saikyou: Arifureta Yorimichi de Sekai Saikyou',
+			'ありふれた職業で世界最強 ありふれた寄り道で世界最強',
 			"Arifureta: From a Detour to the World's Strongest"
 		],
 		studio: [
-			sNone
+			sAsread,
+			sStudioMOTHER
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1877/119668',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou 2nd Season',
-			'',
+			'ありふれた職業で世界最強 2nd Season',
 			"Arifureta: From Commonplace to World's Strongest Season 2"
 		],
 		studio: [
-			sNone
+			sAsread,
+			sStudioMOTHER
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1634/102577',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou Specials',
-			'',
+			'ありふれた職業で世界最強',
 			"Arifureta: From Commonplace to World's Strongest Specials"
 		],
 		studio: [
-			sNone
+			sAsread,
+			sWhiteFox
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1776/97682',
 		name: [
 			'Arifureta Shokugyou de Sekai Saikyou',
-			'',
+			'ありふれた職業で世界最強',
 			"Arifureta: From Commonplace to World's Strongest"
 		],
 		studio: [
-			sNone
+			sAsread,
+			sWhiteFox
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1269/110115',
 		name: [
 			'Kami no Tou',
-			'',
+			'神之塔 -Tower of God-',
 			'Tower of God'
 		],
 		studio: [
-			sNone
+			sTelecomAnimationFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tMystery'
 		]
 	},
 	{
 		img: '1963/128728',
 		name: [
 			'Shinmai Renkinjutsushi no Tenpo Keiei',
-			'',
+			'新米錬金術師の店舗経営',
 			'Management of a Novice Alchemist'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '1834/110718',
 		name: [
 			'Hachi-nan tte, Sore wa Nai deshou!',
-			'',
+			'八男って、それはないでしょう！',
 			'The 8th son? Are you kidding me?'
 		],
 		studio: [
-			sNone
+			sSynergySP,
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
@@ -10186,68 +10403,79 @@ const anime = [
 		img: '1062/107803',
 		name: [
 			'Kuma Kuma Kuma Bear',
-			'',
-			''
+			'くま クマ 熊 ベアー'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1854/114772',
 		name: [
 			'Infinite Dendrogram',
-			'',
-			''
+			'<Infinite Dendrogram>-インフィニット・デンドログラム-'
 		],
 		studio: [
-			sNone
+			sNAZ
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '1521/131469',
 		name: [
 			'Kami-tachi ni Hirowareta Otoko 2nd Season',
-			'',
+			'神達に拾われた男',
 			'By the Grace of the Gods 2'
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2023',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife',
+			'tIsekai',
+			'tIyashikei',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1654/108801',
 		name: [
 			'Kami-tachi ni Hirowareta Otoko',
-			'',
+			'神達に拾われた男',
 			'By the Grace of the Gods'
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tSliceOfLife',
+			'tIsekai',
+			'tIyashikei',
+			'tReincarnation'
 		]
 	},
 	{
@@ -10274,35 +10502,41 @@ const anime = [
 	{
 		img: '1579/113812',
 		name: [
-			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu',
-			'',
-			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense"
+			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.',
+			'痛いのは嫌なので防御力に極振りしたいと思います。',
+			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '1084/126652',
 		name: [
 			'Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau',
-			'',
+			'勇者パーティーを追放されたビーストテイマー、最強種の猫耳少女と出会う',
 			'Beast Tamer'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tHarem'
 		]
 	},
 	{
@@ -10332,255 +10566,325 @@ const anime = [
 		img: '1458/117607',
 		name: [
 			'Tensura Nikki: Tensei shitara Slime Datta Ken',
-			'',
+			'転スラ日記 転生したらスライムだった件',
 			'The Slime Diaries'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tShounen'
 		]
 	},
 	{
 		img: '1033/118296',
 		name: [
 			'Tensei shitara Slime Datta Ken 2nd Season Part 2',
-			'',
+			'転生したらスライムだった件',
 			'That Time I Got Reincarnated as a Slime Season 2 Part 2'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1530/106442',
 		name: [
 			'Tensei shitara Slime Datta Ken 2nd Season',
-			'',
+			'転生したらスライムだった件',
 			'That Time I Got Reincarnated as a Slime Season 2'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1116/104615',
 		name: [
 			'Tensei shitara Slime Datta Ken OVA',
-			'',
+			'転生したらスライムだった件 OVA',
 			'That Time I Got Reincarnated as a Slime OAD'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1069/123309',
 		name: [
 			'Tensei shitara Slime Datta Ken',
-			'',
+			'転生したらスライムだった件',
 			'That Time I Got Reincarnated as a Slime'
 		],
 		studio: [
-			sNone
+			s8bit
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1384/127328',
 		name: [
-			'Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta',
-			'',
+			'Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.',
+			'農民関連のスキルばっか上げてたら何故か強くなった。',
 			"I've Somehow Gotten Stronger When I Improved My Farm-Relatedd Skills"
 		],
 		studio: [
-			sNone
+			sStudioACAT
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1950/116474',
 		name: [
 			'Tsuki ga Michibiku Isekai Douchuu',
-			'',
+			'月が導く異世界道中',
 			'Tsukimichi -Moonlit Fantasy-'
 		],
 		studio: [
-			sNone
+			sC2C
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1928/117620',
 		name: [
 			'Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru',
-			'',
+			'世界最高の暗殺者、異世界貴族に転生する',
 			"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat"
 		],
 		studio: [
-			sNone
+			sSILVERLINK,
+			sStudioPalette
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tDrama',
+			'tFantasy',
+			'tMystery',
+			'tRomance',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1862/128297',
 		name: [
 			'Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
-			'',
+			'真・進化の実～知らないうちに勝ち組人生～',
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2'
 		],
 		studio: [
-			sNone
+			sHotline
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2023',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1537/117590',
 		name: [
 			'Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei',
-			'',
+			'進化の実～知らないうちに勝ち組人生～',
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made'
 		],
 		studio: [
-			sNone
+			sHotline
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1836/116060',
 		name: [
 			'Seirei Gensouki',
-			'',
+			'精霊幻想記',
 			'Seirei Gensouki: Spirit Chronicles'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1593/113724',
 		name: [
 			'Kumo desu ga, Nani ka?',
-			'',
+			'蜘蛛ですが、なにか？',
 			"So I'm a Spider, So What?"
 		],
 		studio: [
-			sNone
+			sMillepensee
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tMystery',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1777/117885',
 		name: [
 			'Isekai Shokudou 2',
-			'',
+			'異世界食堂 2',
 			'Restaurant to Another World 2'
 		],
 		studio: [
-			sNone
+			sOLM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tGourmet',
+			'tSliceOfLife',
+			'tIsekai',
+			'tIyashikei',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '3/86666',
 		name: [
 			'Isekai Shokudou',
-			'',
+			'異世界食堂',
 			'Restaurant to Another World'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tGourmet',
+			'tSliceOfLife',
+			'tIsekai',
+			'tIyashikei',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1498/121952',
 		name: [
 			'Tensei shitara Ken deshita',
-			'',
+			'転生したら剣でした',
 			'Reincarnated as a Sword'
 		],
 		studio: [
-			sNone
+			sC2C
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
@@ -10613,7 +10917,7 @@ const anime = [
 		studio: [
 			sStudioBind
 		],
-		type: 'TV',
+		type: 'Special',
 		season: 'Summer 2023',
 		rating: 'R-17+',
 		tag: [
@@ -10628,561 +10932,667 @@ const anime = [
 		img: '1094/120148',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu - Eris no Goblin Toubatsu',
-			'',
+			'無職転生 ～異世界行ったら本気だす～ エリスのゴブリン討伐',
 			'Mushoku Tensei: Jobless Reincarnation - Eris the Goblin Slayer'
 		],
 		studio: [
-			sNone
+			sStudioBind
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Special',
+		season: 'Winter 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1028/117777',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu Part 2',
-			'',
+			'無職転生 ～異世界行ったら本気だす～ 第2クール',
 			'Mushoku Tensei: Jobless Reincarnation Part 2'
 		],
 		studio: [
-			sNone
+			sStudioBind
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2021',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1530/117776',
 		name: [
 			'Mushoku Tensei: Isekai Ittara Honki Dasu',
-			'',
+			'無職転生 ～異世界行ったら本気だす～',
 			'Mushoku Tensei: Jobless Reincarnation'
 		],
 		studio: [
-			sNone
+			sStudioBind
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2021',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tEcchi',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1510/108026',
 		name: [
 			'Log Horizon: Entaku Houkai',
-			'',
+			'ログ・ホライズン 円卓崩壊',
 			'Log Horizon: Destruction of the Round Table'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '5/68097',
 		name: [
 			'Log Horizon 2nd Season',
-			'',
+			'ログ・ホライズン 第2シリーズ',
 			'Log Horizon 2'
 		],
 		studio: [
-			sNone
+			sStudioDeen
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '5/84004',
 		name: [
 			'Log Horizon',
-			'',
-			''
+			'ログ・ホライズン'
 		],
 		studio: [
-			sNone
+			sSatelight
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '1088/120068',
 		name: [
 			'Genjitsu Shugi Yuusha no Oukoku Saikenki Part 2',
-			'',
+			'現実主義勇者の王国再建記',
 			'How a Realist Hero Rebuilt the Kingdom Part 2'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai',
+			'tMilitary'
 		]
 	},
 	{
 		img: '1297/118764',
 		name: [
 			'Genjitsu Shugi Yuusha no Oukoku Saikenki',
-			'',
+			'現実主義勇者の王国再建記',
 			'How a Realist Hero Rebuilt the Kingdom'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai',
+			'tMilitary'
 		]
 	},
 	{
 		img: '1357/113277',
 		name: [
 			'Kyuukyoku Shinka shita Full Dive RPG ga Genjitsu yori mo Kusoge Dattara',
-			'',
+			'究極進化したフルダイブRPGが現実よりもクソゲーだったら',
 			'Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tGame'
 		]
 	},
 	{
 		img: '1787/115817',
 		name: [
 			'Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore',
-			'',
+			'チート薬師のスローライフ～異世界に作ろうドラッグストア～',
 			'Drug Store in Another World: The Slow Life of a Cheat Pharmacist'
 		],
 		studio: [
-			sNone
+			sEMTSquared
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1161/121462',
 		name: [
 			'Otome Game Sekai wa Mob ni Kibishii Sekai desu',
-			'',
+			'乙女ゲー世界はモブに厳しい世界です',
 			'Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs'
 		],
 		studio: [
-			sNone
+			sENGI
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tMecha',
+			'tReincarnation',
+			'tSchool'
 		]
 	},
 	{
 		img: '1361/120706',
 		name: [
 			'Gaikotsu Kishi-sama, Tadaima Isekai e Odekakechuu',
-			'',
+			'骸骨騎士様、只今異世界へお出掛け中',
 			'Skeleton Knight in Another World'
 		],
 		studio: [
-			sNone
+			sStudioKai,
+			sHORNETS
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1743/125204',
 		name: [
 			'Isekai Ojisan',
-			'',
+			'異世界おじさん',
 			'Uncle from Another World'
 		],
 		studio: [
-			sNone
+			sAtelierPontdarc
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody'
 		]
 	},
 	{
 		img: '1583/119223',
 		name: [
 			'Kenja no Deshi wo Nanoru Kenja',
-			'',
+			'賢者の弟子を名乗る賢者',
 			'She Professed Herself Pupil of the Wise Man'
 		],
 		studio: [
-			sNone
+			sStudioACAT
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tGenben'
 		]
 	},
 	{
 		img: '1430/120065',
 		name: [
 			'Fantasy Bishoujo Juniku Ojisan to',
-			'',
+			'異世界美少女受肉おじさんと',
 			'Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout'
 		],
 		studio: [
-			sNone
+			sOLMTeamYoshioka
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tGenben',
+			'tParody'
 		]
 	},
 	{
 		img: '1906/117145',
 		name: [
 			'Princess Connect! Re:Dive Season 2',
-			'',
-			''
+			'プリンセスコネクト! Re:Dive Season 2'
 		],
 		studio: [
-			sNone
+			sCygamesPictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tGourmet'
 		]
 	},
 	{
 		img: '1810/106070',
 		name: [
 			'Princess Connect! Re:Dive',
-			'',
-			''
+			'プリンセスコネクト！Re:Dive'
 		],
 		studio: [
-			sNone
+			sCygamesPictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tGourmet'
 		]
 	},
 	{
 		img: '1904/120095',
 		name: [
 			'Shijou Saikyou no Daimaou, Murabito A ni Tensei suru',
-			'',
+			'史上最強の大魔王、村人Aに転生する',
 			'The Greatest Demon Lord Is Reborn as a Typical Nobody'
 		],
 		studio: [
-			sNone
+			sSILVERLINK,
+			sBlade
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tHarem',
+			'tReincarnation',
+			'tSchool'
 		]
 	},
 	{
 		img: '1226/131884',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうかⅣ深章 厄災篇',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2023',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1180/120373',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1767/110800',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III OVA',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうかⅢ OVA',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario?'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '1523/108380',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうかIII',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1360/111696',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうか 2期 OVA',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '1730/101329',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうかII',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1239/96949',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Movie: Orion no Ya',
-			'',
+			'劇場版 ダンジョンに出会いを求めるのは間違っているだろうか -オリオンの矢-',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1181/123312',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうか外伝 ソード・オラトリア',
 			'Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '9/81432',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka OVA',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうか OVA「ダンジョンに温泉を求めるのは 間違っているだろうか」',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2016',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tEcchi'
 		]
 	},
 	{
 		img: '2/70187',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka',
-			'',
+			'ダンジョンに出会いを求めるのは間違っているだろうか',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1011/113703',
 		name: [
 			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu Ω',
-			'',
+			'異世界魔王と召喚少女の奴隷魔術Ω',
 			'How Not to Summon a Demon Lord Ω'
 		],
 		studio: [
-			sNone
+			sTezukaProductions,
+			sOkurutoNoboru
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1649/93412',
 		name: [
 			'Isekai Maou to Shoukan Shoujo no Dorei Majutsu',
-			'',
+			'異世界魔王と召喚少女の奴隷魔術',
 			'How Not to Summon a Demon Lord'
 		],
 		studio: [
-			sNone
+			sAjiado
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1436/116410',
 		name: [
-			'Megami-ryou no Ryoubo-kun',
-			'',
+			'Megami-ryou no Ryoubo-kun.',
+			'女神寮の寮母くん。',
 			"Mother of the Goddess' Dormitory"
 		],
 		studio: [
-			sNone
+			sAsread
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2021',
+		rating: 'R+',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1424/117718',
 		name: [
 			'100-man no Inochi no Ue ni Ore wa Tatteiru 2nd Season',
-			'',
+			'100万の命の上に俺は立っている',
 			'I’m Standing on a Million Lives Season 2'
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy',
+			'tIsekai',
+			'tShounen'
 		]
 	},
 	{
 		img: '1506/117717',
 		name: [
 			'100-man no Inochi no Ue ni Ore wa Tatteiru',
-			'',
+			'100万の命の上に俺は立っている',
 			"I'm Standing on a Million Lives"
 		],
 		studio: [
-			sNone
+			sMahoFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tDrama',
+			'tFantasy',
+			'tIsekai',
+			'tShounen'
 		]
 	},
 	{
@@ -11202,78 +11612,90 @@ const anime = [
 			'tAdventure',
 			'tComedy',
 			'tFantasy',
+			'tRomance',
 			'tHarem',
 			'tIsekai',
-			'tReincarnation',
-			'tRomance'
+			'tReincarnation'
 		]
 	},
 	{
 		img: '7/86794',
 		name: [
 			'Isekai wa Smartphone to Tomo ni',
-			'',
+			'異世界はスマートフォンとともに。',
 			'In Another World With My Smartphone'
 		],
 		studio: [
-			sNone
+			sProductionReed
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1561/125302',
 		name: [
 			'Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu',
-			'',
+			'金装のヴェルメイユ ～崖っぷち魔術師は最強の厄災と魔法世界を突き進む～',
 			'Vermeil in Gold'
 		],
 		studio: [
-			sNone
+			sStapleEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tEcchi',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1824/125048',
 		name: [
 			'Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita',
-			'',
+			'転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～',
 			'My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World'
 		],
 		studio: [
-			sNone
+			sRevoroot
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1549/125495',
 		name: [
-			'Engage Kiss',
-			'',
-			''
+			'Engage Kiss'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
@@ -11343,119 +11765,133 @@ const anime = [
 		img: '1022/123845',
 		name: [
 			'Saikin Yatotta Maid ga Ayashii',
-			'',
+			'最近雇ったメイドが怪しい',
 			'The Maid I Hired Recently Is Mysterious'
 		],
 		studio: [
-			sNone
+			sSILVERLINK,
+			sBlade
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1120/124644',
 		name: [
 			'Isekai Yakkyoku',
-			'',
+			'異世界薬局',
 			'Parallel World Pharmacy'
 		],
 		studio: [
-			sNone
+			sDiomedéa
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tFantasy',
+			'tIsekai',
+			'tMedical',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1392/124401',
 		name: [
 			'Lycoris Recoil',
-			'',
-			''
+			'リコリス・リコイル'
 		],
 		studio: [
-			sNone
+			sA1Pictures
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction'
 		]
 	},
 	{
 		img: '1132/120388',
 		name: [
 			'Shikkakumon no Saikyou Kenja',
-			'',
+			'失格紋の最強賢者',
 			'The Strongest Sage with the Weakest Crest'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tReincarnation'
 		]
 	},
 	{
 		img: '1988/115708',
 		name: [
 			'Ore dake Haireru Kakushi Dungeon',
-			'',
+			'俺だけ入れる隠しダンジョン',
 			'The Hidden Dungeon Only I Can Enter'
 		],
 		studio: [
-			sNone
+			sOkurutoNoboru
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tEcchi',
+			'tHarem'
 		]
 	},
 	{
 		img: '1109/118948',
 		name: [
 			'Rikei ga Koi ni Ochita no de Shoumei shitemita. Heart',
-			'',
+			'理系が恋に落ちたので証明してみた。r=1-sinθ（ハート）',
 			'Science Fell in Love, So I Tried to Prove It r=1-sinθ'
 		],
 		studio: [
-			sNone
+			sZeroG
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '1432/103533',
 		name: [
 			'Rikei ga Koi ni Ochita no de Shoumei shitemita',
-			'',
+			'理系が恋に落ちたので証明してみた。',
 			'Science Fell in Love, So I Tried to Prove It'
 		],
 		studio: [
-			sNone
+			sZeroG
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
@@ -11481,68 +11917,75 @@ const anime = [
 		img: '1070/124592',
 		name: [
 			'Kanojo, Okarishimasu 2nd Season',
-			'',
+			'彼女、お借りします',
 			'Rent-a-Girlfriend Season 2'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1902/128382',
 		name: [
 			'Kanojo, Okarishimasu',
-			'',
+			'彼女、お借りします',
 			'Rent-a-Girlfriend'
 		],
 		studio: [
-			sNone
+			sTMSEntertainment
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tShounen'
 		]
 	},
 	{
 		img: '1396/109465',
 		name: [
 			'Kamisama ni Natta Hi',
-			'',
+			'神様になった日',
 			'The Day I Became a God'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tFantasy'
 		]
 	},
 	{
 		img: '1871/118309',
 		name: [
 			'Bokutachi no Remake',
-			'',
+			'ぼくたちのリメイク',
 			'Remake Our Life!'
 		],
 		studio: [
-			sNone
+			sFeel
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tTimeTravel'
 		]
 	},
 	{
@@ -11568,306 +12011,343 @@ const anime = [
 		img: '1695/111486',
 		name: [
 			'Horimiya',
-			'',
-			''
+			'ホリミヤ'
 		],
 		studio: [
-			sNone
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1146/113477',
 		name: [
-			'Hige wo Soru. Soshite Joshikousei wo Hirou',
-			'',
+			'Hige wo Soru. Soshite Joshikousei wo Hirou.',
+			'ひげを剃る。そして女子高生を拾う。',
 			'Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance'
 		]
 	},
 	{
 		img: '1892/114853',
 		name: [
 			'Jaku-Chara Tomozaki-kun Specials',
-			'',
+			'弱キャラ友崎くん',
 			'Bottom-Tier Character Tomozaki Specials'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1120/109232',
 		name: [
 			'Jaku-Chara Tomozaki-kun',
-			'',
+			'弱キャラ友崎くん',
 			'Bottom-Tier Character Tomozaki'
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1430/102439',
 		name: [
 			'Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?',
-			'',
+			'可愛ければ変態でも好きになってくれますか？',
 			"Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?"
 		],
 		studio: [
-			sNone
+			sGeekToys
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1155/106799',
 		name: [
 			'Ore wo Suki nano wa Omae dake ka yo: Oretachi no Game Set',
-			'',
-			''
+			'俺を好きなのはお前だけかよ ～俺たちのゲームセット～',
+			'ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game'
 		],
 		studio: [
-			sNone
+			sConnect
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1348/102797',
 		name: [
 			'Ore wo Suki nano wa Omae dake ka yo',
-			'',
+			'俺を好きなのはお前だけかよ',
 			'ORESUKI Are you the only one who loves me?'
 		],
 		studio: [
-			sNone
+			sConnect
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '9/66871',
 		name: [
 			'Gekkan Shoujo Nozaki-kun Specials',
-			'',
+			'月刊少女野崎くん ミニOVA',
 			"Monthly Girls' Nozaki-kun Specials"
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/66083',
 		name: [
 			'Gekkan Shoujo Nozaki-kun',
-			'',
+			'月刊少女野崎くん',
 			"Monthly Girls' Nozaki-kun"
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2014',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '1111/113327',
 		name: [
 			'Osananajimi ga Zettai ni Makenai Love Comedy',
-			'',
+			'幼なじみが絶対に負けないラブコメ',
 			"Osamake: Romcom Where The Childhood Friend Won't Lose"
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '1995/121695',
 		name: [
 			'Kawaii dake ja Nai Shikimori-san',
-			'',
+			'可愛いだけじゃない式守さん',
 			"Shikimori's Not Just a Cutie"
 		],
 		studio: [
-			sNone
+			sDogaKobo
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool'
 		]
 	},
 	{
 		img: '4/86828',
 		name: [
 			'Gamers!',
-			'',
-			''
+			'ゲーマーズ！'
 		],
 		studio: [
-			sNone
+			sPINEJAM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tGame'
 		]
 	},
 	{
 		img: '1285/120529',
 		name: [
 			'Kakkou no Iinazuke',
-			'',
+			'カッコウの許嫁',
 			'A Couple of Cuckoos'
 		],
 		studio: [
-			sNone
+			sSynergySP,
+			sShinEiAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1045/123711',
 		name: [
 			'Yofukashi no Uta',
-			'',
+			'よふかしのうた',
 			'Call of the Night'
 		],
 		studio: [
-			sNone
+			sLIDENFILMS
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1010/124180',
 		name: [
 			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season',
-			'',
+			'ようこそ実力至上主義の教室へ 2期',
 			'Classroom of the Elite II'
 		],
 		studio: [
-			sNone
+			sLerche
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tPsychological',
+			'tSchool'
 		]
 	},
 	{
 		img: '5/86830',
 		name: [
 			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e',
-			'',
+			'ようこそ実力至上主義の教室へ',
 			'Classroom of the Elite'
 		],
 		studio: [
-			sNone
+			sLerche
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tDrama',
+			'tPsychological',
+			'tSchool'
 		]
 	},
 	{
 		img: '2/76368',
 		name: [
 			'Danchigai: Juusan Goutou Sentou Ikitai!!',
-			'',
-			''
+			'だんちがい 十三号棟 銭湯行きたいー!!'
 		],
 		studio: [
-			sNone
+			sCreatorsinPack
 		],
-		type: 'TV',
-		season: '',
+		type: 'Special',
+		season: 'Summer 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '7/74879',
 		name: [
 			'Danchigai',
-			'',
-			''
+			'だんちがい'
 		],
 		studio: [
-			sNone
+			sCreatorsinPack
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2015',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSliceOfLife',
+			'tIyashikei'
 		]
 	},
 	{
@@ -11885,8 +12365,8 @@ const anime = [
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tHarem',
 			'tRomance',
+			'tHarem',
 			'tSchool',
 			'tShounen'
 		]
@@ -11895,34 +12375,42 @@ const anime = [
 		img: '1348/92408',
 		name: [
 			'Masamune-kun no Revenge: Uchi no Mama ni Kagitte/Tsunade Shima, Futatabi./12-Ji wo Sugita Cinderella',
-			'',
+			'政宗くんのリベンジ OVA',
 			"Masamune-kun's Revenge OVA"
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '12/83709',
 		name: [
 			'Masamune-kun no Revenge',
-			'',
+			'政宗くんのリベンジ',
 			"Masamune-kun's Revenge"
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
@@ -11973,7 +12461,7 @@ const anime = [
 		studio: [
 			sSevenArcs
 		],
-		type: 'TV',
+		type: 'Special',
 		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
@@ -11992,7 +12480,7 @@ const anime = [
 		studio: [
 			sSevenArcs
 		],
-		type: 'TV',
+		type: 'OVA',
 		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
@@ -12024,850 +12512,975 @@ const anime = [
 		img: '1751/98216',
 		name: [
 			'Senryuu Shoujo',
-			'',
+			'川柳少女',
 			'Senryu Girl'
 		],
 		studio: [
-			sNone
+			sConnect
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSliceOfLife',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1506/113668',
 		name: [
 			'5-toubun no Hanayome Movie',
-			'',
+			'映画 五等分の花嫁',
 			'The Quintessential Quintuplets Movie'
 		],
 		studio: [
-			sNone
+			sBiburyAnimationStudios
 		],
-		type: 'TV',
-		season: '',
+		type: 'Movie',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1775/109514',
 		name: [
 			'5-toubun no Hanayome ∬',
-			'',
+			'五等分の花嫁∬',
 			'The Quintessential Quintuplets 2'
 		],
 		studio: [
-			sNone
+			sBiburyAnimationStudios
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1819/97947',
 		name: [
 			'5-toubun no Hanayome',
-			'',
+			'五等分の花嫁',
 			'The Quintessential Quintuplets'
 		],
 		studio: [
-			sNone
+			sTezukaProductions
 		],
 		type: 'TV',
-		season: '',
+		season: 'Winter 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1917/108615',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai! Chapel no Kane wa [X] wo Shukufuku Suru',
-			'',
-			''
+			'ぼくたちは勉強ができない！「チャペルの鐘は[X]を祝福する」'
 		],
 		studio: [
-			sNone
+			sSilver,
+			sArvoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Spring 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tShounen'
 		]
 	},
 	{
 		img: '1530/102782',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai: Nagisa ni Usemono Arite Senjin wa Enzen to [X] Suru',
-			'',
-			''
+			'ぼくたちは勉強ができない「渚に失せものありて先人は艶然と[X]する」'
 		],
 		studio: [
-			sNone
+			sSilver,
+			sArvoAnimation
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1974/102960',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai!',
-			'',
+			'ぼくたちは勉強ができない！',
 			'We Never Learn!: BOKUBEN Season 2'
 		],
 		studio: [
-			sNone
+			sSilver,
+			sArvoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1602/100510',
 		name: [
 			'Bokutachi wa Benkyou ga Dekinai',
-			'',
+			'ぼくたちは勉強ができない',
 			'We Never Learn: BOKUBEN'
 		],
 		studio: [
-			sNone
+			sSilver,
+			sArvoAnimation
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1108/121157',
 		name: [
 			'Komi-san wa, Comyushou desu. 2nd Season',
-			'',
+			'古見さんは、コミュ症です。 2',
 			"Komi Can't Communicate Season 2"
 		],
 		studio: [
-			sNone
+			sOLM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1899/117237',
 		name: [
-			'Komi-san wa, Comyushou desu',
-			'',
+			'Komi-san wa, Comyushou desu.',
+			'古見さんは、コミュ症です。',
 			"Komi Can't Communicate"
 		],
 		studio: [
-			sNone
+			sOLM
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1612/120636',
 		name: [
 			'Aharen-san wa Hakarenai',
-			'',
-			''
+			'阿波連さんははかれない'
 		],
 		studio: [
-			sNone
+			sFelixFilm
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1454/122063',
 		name: [
 			'Kumichou Musume to Sewagakari',
-			'',
+			'組長娘と世話係',
 			"The Yakuza's Guide to Babysitting"
 		],
 		studio: [
-			sNone
+			sFeel,
+			sGaina
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tSliceOfLife'
 		]
 	},
 	{
 		img: '1708/123281',
 		name: [
 			'Mamahaha no Tsurego ga Motokano datta',
-			'',
+			'継母の連れ子が元カノだった',
 			"My Stepmom's Daughter Is My Ex"
 		],
 		studio: [
-			sNone
+			sProjectNo9
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance'
 		]
 	},
 	{
 		img: '1945/126130',
 		name: [
 			'Soredemo Ayumu wa Yosetekuru',
-			'',
+			'それでも歩は寄せてくる',
 			'When Will Ayumu Make His Move?'
 		],
 		studio: [
-			sNone
+			sSILVERLINK
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
 		img: '1530/120110',
 		name: [
 			'Overlord IV',
-			'',
-			''
+			'オーバーロード IV'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1511/93473',
 		name: [
 			'Overlord III',
-			'',
-			''
+			'オーバーロードⅢ'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2018',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1212/113415',
 		name: [
 			'Overlord II',
-			'',
-			''
+			'オーバーロードⅡ'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2018',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '5/87758',
 		name: [
 			'Overlord Movie 2: Shikkoku no Eiyuu',
-			'',
+			'【後編】劇場版総集編 オーバーロード 漆黒の英雄',
 			'Overlord: The Dark Hero'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Winter 2017',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tGame'
 		]
 	},
 	{
 		img: '1495/121641',
 		name: [
 			'Overlord Movie 1: Fushisha no Ou',
-			'',
+			'【前編】劇場版総集編 オーバーロード 不死者の王',
 			'Overlord: The Undead King'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Winter 2017',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tGame'
 		]
 	},
 	{
 		img: '7/88019',
 		name: [
 			'Overlord',
-			'',
-			''
+			'オーバーロード'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Summer 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1111/127508',
 		name: [
-			'Spy x Family Part 2',
-			'',
-			''
+			'Spy x Family Part 2'
 		],
 		studio: [
-			sNone
+			sWitStudio,
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Fall 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tShounen'
 		]
 	},
 	{
 		img: '1441/122795',
 		name: [
-			'Spy x Family',
-			'',
-			''
+			'Spy x Family'
 		],
 		studio: [
-			sNone
+			sWitStudio,
+			sCloverWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tShounen'
 		]
 	},
 	{
 		img: '1368/121281',
 		name: [
 			'Date A Live IV',
-			'',
-			''
+			'デート・ア・ライブⅣ'
 		],
 		studio: [
-			sNone
+			sGeekToys
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tHarem',
+			'tMecha',
+			'tSchool'
 		]
 	},
 	{
 		img: '1002/108424',
 		name: [
 			'Date A Bullet: Nightmare or Queen',
-			'',
-			''
+			'デート・ア・バレット ナイトメア・オア・クイーン'
 		],
 		studio: [
-			sNone
+			sGeekToys
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Fall 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tSciFi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1984/108425',
 		name: [
 			'Date A Bullet: Dead or Bullet',
-			'',
-			''
+			'デート・ア・バレット デッド・オア・バレット'
 		],
 		studio: [
-			sNone
+			sGeekToys
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Summer 2020',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tSciFi',
+			'tIsekai'
 		]
 	},
 	{
 		img: '1055/100468',
 		name: [
 			'Date A Live III',
-			'',
-			''
+			'デート・ア・ライブⅢ'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2019',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tHarem',
+			'tMecha',
+			'tSchool'
 		]
 	},
 	{
 		img: '9/75466',
 		name: [
 			'Date A Live Movie: Mayuri Judgment',
-			'',
+			'劇場版 デート・ア・ライブ 万由里ジャッジメント',
 			'Date A Live Movie: Mayuri Judgement'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'Movie',
+		season: 'Summer 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tHarem'
 		]
 	},
 	{
 		img: '1759/131412',
 		name: [
 			'Date A Live II: Kurumi Star Festival',
-			'',
-			''
+			'デート・ア・ライブII 狂三スターフェスティバル'
 		],
 		studio: [
-			sNone
+			sProductionIMS
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2014',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tRomance'
 		]
 	},
 	{
 		img: '5/76003',
 		name: [
 			'Date A Live II',
-			'',
-			''
+			'デート・ア・ライブⅡ'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2014',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tRomance',
+			'tSciFi',
+			'tHarem',
+			'tMecha',
+			'tSchool'
 		]
 	},
 	{
 		img: '1629/112503',
 		name: [
 			'Date A Live: Date to Date',
-			'',
-			''
+			'デート・ア・ライブ DATE TO DATE'
 		],
 		studio: [
-			sNone
+			sAICPLUS
 		],
-		type: 'TV',
-		season: '',
+		type: 'OVA',
+		season: 'Fall 2013',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tRomance',
+			'tSciFi',
+			'tHarem',
+			'tSchool'
 		]
 	},
 	{
 		img: '13/44844',
 		name: [
 			'Date A Live',
-			'',
-			''
+			'デート・ア・ライブ'
 		],
 		studio: [
-			sNone
+			sAICPLUS
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2013',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tRomance',
+			'tSciFi',
+			'tHarem',
+			'tMecha',
+			'tSchool'
 		]
 	},
 	{
 		img: '1970/122297',
 		name: [
 			'Paripi Koumei',
-			'',
+			'パリピ孔明',
 			'Ya Boy Kongming!'
 		],
 		studio: [
-			sNone
+			sPAWorks
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tMusic'
 		]
 	},
 	{
 		img: '1321/132900',
 		name: [
 			'Aggressive Retsuko 5th Season',
-			'',
+			'グレッシブ烈子第5期',
 			'Aggretsuko 5th Season'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
 		type: 'ONA',
-		season: '',
+		season: 'Winter 2023',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1228/118066',
 		name: [
 			'Aggressive Retsuko 4th Season',
-			'',
+			'アグレッシブ烈子第4期',
 			'Aggretsuko 4th Season'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
 		type: 'ONA',
-		season: '',
+		season: 'Fall 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1049/108692',
 		name: [
 			'Aggressive Retsuko 3rd Season',
-			'',
+			'アグレッシブ烈子第3期',
 			'Aggretsuko 3rd Season'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
 		type: 'ONA',
-		season: '',
+		season: 'Summer 2020',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1739/101117',
 		name: [
 			'Aggressive Retsuko 2nd Season',
-			'',
+			'アグレッシブ烈子第2期',
 			'Aggretsuko 2nd Season'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
 		type: 'ONA',
-		season: '',
+		season: 'Spring 2019',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1435/97291',
 		name: [
 			'Aggressive Retsuko: We Wish You a Metal Christmas',
-			'',
+			'アグレッシブ烈子: We Wish You a Metal Christmas',
 			'Aggretsuko: We Wish You a Metal Christmas'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
-		type: 'Special',
-		season: '',
+		type: 'ONA',
+		season: 'Fall 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy'
 		]
 	},
 	{
 		img: '1566/129181',
 		name: [
 			'Aggressive Retsuko',
-			'',
+			'アグレッシブ烈子',
 			'Aggretsuko'
 		],
 		studio: [
-			sNone
+			sFanworks
 		],
 		type: 'ONA',
-		season: '',
+		season: 'Spring 2018',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tWorkplace'
 		]
 	},
 	{
 		img: '1247/122044',
 		name: [
 			'One Punch Man 2nd Season',
-			'',
+			'ワンパンマン',
 			'One Punch Man Season 2'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2019',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tParody',
+			'tSuperPower',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1802/124744',
 		name: [
 			'One Punch Man: Road to Hero',
-			'',
-			''
+			'ワンパンマン OVA「ロード・トゥ・ヒーロー」'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Fall 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tParody',
+			'tSuperPower',
+			'tSeinen'
 		]
 	},
 	{
 		img: '12/76049',
 		name: [
 			'One Punch Man',
-			'',
-			''
+			'ワンパンマン'
 		],
 		studio: [
-			sNone
+			sMadhouse
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tComedy',
+			'tParody',
+			'tSuperPower',
+			'tSeinen'
 		]
 	},
 	{
 		img: '1233/128920',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 3',
-			'',
+			'ジョジョの奇妙な冒険 ストーンオーシャン',
 			"JoJo's Bizarre Adventure: Stone Ocean Part 3"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'ONA',
+		season: 'Fall 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1051/121959',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean Part 2',
-			'',
+			'ジョジョの奇妙な冒険 ストーンオーシャン',
 			"JoJo's Bizarre Adventure: Stone Ocean Part 2"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'ONA',
+		season: 'Summer 2022',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1896/119844',
 		name: [
 			'JoJo no Kimyou na Bouken Part 6: Stone Ocean',
-			'',
+			'ジョジョの奇妙な冒険 ストーンオーシャン',
 			"JoJo's Bizarre Adventure: Stone Ocean"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'ONA',
+		season: 'Fall 2021',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1249/99809',
 		name: [
 			'JoJo no Kimyou na Bouken Part 5: Ougon no Kaze',
-			'',
+			'ジョジョの奇妙な冒険 黄金の風',
 			"JoJo's Bizarre Adventure: Golden Wind"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2018',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '1716/103072',
 		name: [
 			'Kishibe Rohan wa Ugokanai',
-			'',
+			'岸辺露伴は動かない',
 			'Thus Spoke Kishibe Rohan'
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
-		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		type: 'OVA',
+		season: 'Summer 2017',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tMystery',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '3/79156',
 		name: [
 			'JoJo no Kimyou na Bouken Part 4: Diamond wa Kudakenai',
-			'',
+			'ジョジョの奇妙な冒険 ダイヤモンドは砕けない',
 			"JoJo's Bizarre Adventure: Diamond is Unbreakable"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2016',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '11/75045',
 		name: [
 			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders 2nd Season',
-			'',
+			'ジョジョの奇妙な冒険 スターダストクルセイダース エジプト編',
 			"JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Winter 2015',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '11/55267',
 		name: [
 			'JoJo no Kimyou na Bouken Part 3: Stardust Crusaders',
-			'',
+			'ジョジョの奇妙な冒険 スターダストクルセイダース',
 			"JoJo's Bizarre Adventure: Stardust Crusaders"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Spring 2014',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
 		img: '3/40409',
 		name: [
 			'JoJo no Kimyou na Bouken',
-			'',
+			'ジョジョの奇妙な冒険',
 			"JoJo's Bizarre Adventure"
 		],
 		studio: [
-			sNone
+			sDavidProduction
 		],
 		type: 'TV',
-		season: '',
-		rating: 'PG-13',
+		season: 'Fall 2012',
+		rating: 'R-17+',
 		tag: [
-			''
+			'tAction',
+			'tAdventure',
+			'tSupernatural',
+			'tShounen'
 		]
 	},
 	{
@@ -12885,41 +13498,47 @@ const anime = [
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tSupernatural'
+			'tSupernatural',
+			'tRomance'
 		]
 	},
 	{
 		img: '1471/115593',
 		name: [
 			'Shinigami Bocchan to Kuro Maid',
-			'',
+			'死神坊ちゃんと黒メイド',
 			'The Duke of Death and His Maid'
 		],
 		studio: [
-			sNone
+			sJCStaff
 		],
 		type: 'TV',
-		season: '',
+		season: 'Summer 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tSupernatural',
+			'tRomance'
 		]
 	},
 	{
 		img: '1888/133089',
 		name: [
 			'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita',
-			'',
+			'スライム倒して300年、知らないうちにレベルMAXになってました',
 			"I've Been Killing Slimes for 300 Years and Maxed Out My Level"
 		],
 		studio: [
-			sNone
+			sRevoroot
 		],
 		type: 'TV',
-		season: '',
+		season: 'Spring 2021',
 		rating: 'PG-13',
 		tag: [
-			''
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	}
 ]

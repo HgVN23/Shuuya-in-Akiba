@@ -1,6 +1,7 @@
 let studiosTemp = ``;
-for(var i = 0; i < studioList.length; i++){
-	studiosTemp += `<div><input type="checkbox" id="studio${i}" value="${studioList[i].id}"><label for="studio${i}">${studioList[i].name}</label></div>`
+const studioListTemp = sortList(studioList);
+for(var i = 0; i < studioListTemp.length; i++){
+	studiosTemp += `<div><input type="checkbox" id="studio${i}" value="${studioListTemp[i].id}"><label for="studio${i}">${studioListTemp[i].name}</label></div>`
 }
 
 const typeList = [
@@ -43,8 +44,9 @@ for(var i = yearNow; i >= 2007; i--){
 }
 
 let tagTemp = ``;
-for(var i = 0; i < tagList.length; i++){
-	tagTemp += `<div><input type="checkbox" id="tag${i}" value="${tagList[i].id}"><label for="tag${i}">${tagList[i].name}</label></div>`
+const tagListTemp = sortList(tagList);
+for(var i = 0; i < tagListTemp.length; i++){
+	tagTemp += `<div><input type="checkbox" id="tag${i}" value="${tagListTemp[i].id}"><label for="tag${i}">${tagListTemp[i].name}</label></div>`
 }
 
 filter();
@@ -200,3 +202,18 @@ function apply() {
 // 		}
 // 	return get;
 // }
+
+function sortList(list) {
+	var sort = [];
+	for(var i = 0; i < list.length; i++){
+		sort[i] = list[i]
+	}
+	for(var i = 0; i < sort.length - 1; i++)
+		for(var j = i + 1; j < sort.length; j++)
+			if(sort[i].name > sort[j].name) {
+				var temp = sort[i]
+				sort[i] = sort[j];
+				sort[j] = temp;
+			}
+	return sort;
+}

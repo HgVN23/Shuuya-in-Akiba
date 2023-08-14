@@ -108,7 +108,7 @@ const sStudioBind = {
 };
 const sCloudHearts = {
 	name: 'Cloud Hearts',
-	id: sNone.id
+	id: 2600
 };
 const sLayduce = {
 	name: 'Lay-duce',
@@ -116,11 +116,11 @@ const sLayduce = {
 };
 const sQuad = {
 	name: 'Quad',
-	id: sNone.id
+	id: 2314
 };
 const sLiber = {
 	name: 'Liber',
-	id: sNone.id
+	id: 2527
 };
 const sGeekToys = {
 	name: 'Geek Toys',
@@ -156,7 +156,7 @@ const sBarnumStudio = {
 };
 const sAICBuild = {
 	name: 'AIC Build',
-	id: sNone.id
+	id: 436
 };
 const sLerche = {
 	name: 'Lerche',
@@ -216,7 +216,7 @@ const sSevenArcs = {
 };
 const sGekkou = {
 	name: 'Gekkou',
-	id: sNone.id
+	id: 2554
 };
 const sStudioLings = {
 	name: 'Studio Lings',
@@ -244,7 +244,7 @@ const sSunrise = {
 };
 const sStapleEntertainment = {
 	name: 'Staple Entertainment',
-	id: sNone.id
+	id: 2405
 };
 const sCloverWorks = {
 	name: 'CloverWorks',
@@ -276,7 +276,7 @@ const sLapinTrack = {
 };
 const sOLMTeamYoshioka = {
 	name: 'OLM Team Yoshiokas',
-	id: sNone.id
+	id: 2326
 };
 const sYokohamaAnimationLab = {
 	name: 'Yokohama Animation Lab',
@@ -328,7 +328,7 @@ const sXebec = {
 };
 const sBUGFILMS = {
 	name: 'BUG FILMS',
-	id: sNone.id
+	id: 2674
 };
 const sActas = {
 	name: 'Actas',
@@ -344,7 +344,7 @@ const sStudio3Hz = {
 };
 const sAICSpirits = {
 	name: 'AIC Spirits',
-	id: sNone.id
+	id: 83
 };
 const sStudioDeen = {
 	name: 'Studio Deen',
@@ -356,7 +356,7 @@ const sAIC = {
 };
 const sAtelierPontdarc = {
 	name: 'AtelierPontdarc',
-	id: sNone.id
+	id: 2298
 };
 const sPierrot = {
 	name: 'Pierrot',
@@ -368,7 +368,7 @@ const sBiburyAnimationStudios = {
 };
 const sProductionIMS = {
 	name: 'Production IMS',
-	id: sNone.id
+	id: 1053
 };
 const sNexus = {
 	name: 'Nexus',
@@ -404,7 +404,7 @@ const sNAZ = {
 };
 const sQualiaAnimation = {
 	name: 'Qualia Animation',
-	id: sNone.id
+	id: 1304
 };
 const sBridge = {
 	name: 'Bridge',
@@ -416,11 +416,11 @@ const sSignalMD = {
 };
 const sMagiaDoraglier = {
 	name: 'Magia Doraglier',
-	id: sNone.id
+	id: 1860
 };
 const sArms = {
 	name: 'Arms',
-	id: sNone.id
+	id: 38
 };
 const sHalFilmMaker = {
 	name: 'Hal Film Maker',
@@ -428,7 +428,7 @@ const sHalFilmMaker = {
 };
 const sAICClassic = {
 	name: 'AIC Classic',
-	id: sNone.id
+	id: 1306
 };
 const sAsread = {
 	name: 'asread.',
@@ -444,7 +444,7 @@ const sTNK = {
 };
 const sDomerica = {
 	name: 'domerica',
-	id: sNone.id
+	id: 1380
 };
 const sShaft = {
 	name: 'Shaft',
@@ -462,9 +462,89 @@ const sChildrensPlaygroundEntertainment = {
 	name: "Children's Playground Entertainment",
 	id: 1407
 };
+const sDRMovie = {
+	name: 'DR Movie',
+	id: 1575
+};
+const sSunriseBeyond = {
+	name: 'Sunrise Beyond',
+	id: 2004
+};
+const sWolfsbane = {
+	name: 'Wolfsbane',
+	id: 2052
+};
+const sStudioMOTHER = {
+	name: 'studio MOTHER',
+	id: 2246
+};
+const sEKACHIEPILKA = {
+	name: 'EKACHI EPILKA',
+	id: 1794
+};
+const sTROYCA = {
+	name: 'TROYCA',
+	id: 1103
+};
+const sTelecomAnimationFilm = {
+	name: 'Telecom Animation Film',
+	id: 94
+};
+const sStudioACAT = {
+	name: 'Studio A-CAT',
+	id: 1209
+};
+const sHotline = {
+	name: 'Hotline',
+	id: 723
+};
+const sStudioKai = {
+	name: 'Studio Kai',
+	id: 1997
+};
+const sHORNETS = {
+	name: 'HORNETS',
+	id: 2097
+};
+const sCygamesPictures = {
+	name: 'CygamesPictures',
+	id: 1893
+};
+const sOkurutoNoboru = {
+	name: 'Okuruto Noboru',
+	id: 2037
+};
+const sProductionReed = {
+	name: 'ProductionReed',
+	id: 196
+};
+const sRevoroot = {
+	name: 'Revoroot',
+	id: 1692
+};
+const sSilver = {
+	name: 'Silver',
+	id: 1873
+};
+const sArvoAnimation = {
+	name: 'Arvo Animation',
+	id: 1874
+};
+const sGaina = {
+	name: 'Gaina',
+	id: 1314
+};
+const sAICPLUS = {
+	name: 'AIC PLUS+',
+	id: 292
+};
+const sFanworks = {
+	name: 'Fanworks',
+	id: 866
+};
 
 const studioList = [
-	sNone,
+	// sNone,
 	sFeel,
 	s8bit,
 	sPAWorks,
@@ -579,5 +659,26 @@ const studioList = [
 	sShaft,
 	sSeven,
 	sCreatorsinPack,
-	sChildrensPlaygroundEntertainment
+	sChildrensPlaygroundEntertainment,
+	sDRMovie,
+	sSunriseBeyond,
+	sWolfsbane,
+	sStudioMOTHER,
+	sEKACHIEPILKA,
+	sTROYCA,
+	sTelecomAnimationFilm,
+	sStudioACAT,
+	sHotline,
+	sStudioKai,
+	sHORNETS,
+	sCygamesPictures,
+	sOkurutoNoboru,
+	sProductionReed,
+	sRevoroot,
+	sSilver,
+	sArvoAnimation,
+	sGaina,
+	sProductionIMS,
+	sAICPLUS,
+	sFanworks
 ]
