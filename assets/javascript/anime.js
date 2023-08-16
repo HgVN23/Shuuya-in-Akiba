@@ -104,7 +104,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
-		rating: 'PG-13',
+		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1272,7 +1272,7 @@ const anime = [
 			sCoMixWaveFilms
 		],
 		type: 'Movie',
-		season: 'Spring 2019',
+		season: 'Summer 2019',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1702,7 +1702,8 @@ const anime = [
 		tag: [
 			'tComedy',
 			'tGenben',
-			'tSchool'
+			'tSchool',
+			'tShounen'
 		]
 	},
 	{
@@ -3057,8 +3058,9 @@ const anime = [
 	{
 		img: '1053/98838',
 		name: [
-			"Devil's Line",
-			'デビルズライン'
+			'Devils Line',
+			'デビルズライン',
+			"Devils' Line"
 		],
 		studio: [
 			sPlatinumVision
@@ -5166,7 +5168,7 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'Movie',
-		season: 'Winter 2022',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -8454,7 +8456,7 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 'Summer 2020',
+		season: 'Summer 2016',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8522,7 +8524,7 @@ const anime = [
 	{
 		img: '1448/108514',
 		name: [
-			'Maou-jou de Oyasumi',
+			'Maoujou de Oyasumi',
 			'魔王城でおやすみ',
 			'Sleepy Princess in the Demon Castle'
 		],
@@ -9482,7 +9484,7 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'Special',
-		season: 'Winter 2022',
+		season: 'Spring 2022',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10481,7 +10483,7 @@ const anime = [
 	{
 		img: '1782/128859',
 		name: [
-			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2',
+			'Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu. 2',
 			'痛いのは嫌なので防御力に極振りしたいと思います。2',
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2"
 		],
@@ -10502,7 +10504,7 @@ const anime = [
 	{
 		img: '1579/113812',
 		name: [
-			'Itai no wa Iya nano de Bougyoryoku ni Kyokufuri Shitai to Omoimasu.',
+			'Itai no wa Iya nanode Bougyoryoku ni Kyokufuri Shitai to Omoimasu.',
 			'痛いのは嫌なので防御力に極振りしたいと思います。',
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense."
 		],
