@@ -26,15 +26,15 @@ body {
 	width: 10px;
 }
 ::-webkit-scrollbar-thumb {
-	background-color: var(--bg);
-	border: var(--border);
+	background-color: #525252;
 }
 ::-webkit-scrollbar-thumb:hover {
-	border: 2px solid var(--hover-color);
+	background-color: var(--hover-color);
 }
 header {
 	background-color: var(--bg);
 	border-bottom: var(--border);
+	border-color: var(--hover-color);
 	display: flex;
 	align-items: center;
 	justify-content: center;
@@ -85,11 +85,13 @@ header {
 
 
 .toolBox {
-	border-left: .5rem solid aqua;
 	margin: 1rem 3rem 0;
+	display: flex;
+	align-items: center;
 }
 .search {
 	border-bottom: var(--border);
+	width: 100%;
 	margin-left: .5rem;
 	display: flex;
 	align-items: center;
@@ -101,14 +103,14 @@ header {
 	content: 'Search:';
 }
 .searchIcon {
-	content: url(../media/icon/search_icon.png);
+	content: url(../media/icon/search.png);
 	width: 16px;
 	height: 16px;
 	filter: brightness(100);
 	margin: 5px;
 	cursor: pointer;
 }
-.searchIcon:hover {
+.search:hover .searchIcon {
 	filter: brightness(1);
 }
 .searchInput {
@@ -138,8 +140,38 @@ header {
 .dropdownHide {
 	display: none!important;
 }
-.filter {
-	margin-left: .5rem;
+.filterButton {
+	background-color: #36363a;
+	width: fit-content;
+	height: fit-content;
+	border: 2px solid #36363a;
+	border-radius: 1.5rem;
+	margin-left: 1rem;
+	padding: .3rem .6rem;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+.filterIcon {
+	content: url(../media/icon/filter.png);
+	width: 16px;
+	height: 16px;
+	filter: brightness(100);
+	margin: 5px;
+	cursor: pointer;
+}
+.filterButton:hover,
+.fOption:hover {
+	filter: brightness(1.3);
+}
+.filterPanel {
+	border: var(--border);
+	background-color: var(--bg-main);
+	width: calc(21rem + 750px);
+	height: 30rem;
+	margin: auto;
+	overflow: auto;
+	z-index: 2;
 }
 .fStudios,
 .fType,
@@ -147,7 +179,26 @@ header {
 .fRating,
 .fYear,
 .fTag {
-	margin: 0 0 0 1rem !important;
+	border-left: .2rem solid aqua;
+	margin: .5rem 1rem 1rem 1rem;
+	padding-left: 1rem;
+	display: flex;
+	flex-wrap: wrap;
+	gap: .3rem;
+}
+.fOption {
+	background-color: #36363a;
+	width: fit-content;
+	height: fit-content;
+	border: 2px solid #36363a;
+	border-radius: 1.5rem;
+	padding: .3rem 1rem;
+	display: flex;
+	align-items: center;
+	cursor: pointer;
+}
+.fSelected {
+	border-color: yellow !important;
 }
 .flexSpace {
 	display: flex;
@@ -259,9 +310,6 @@ header {
 
 
 
-.fStudios,
-.fYear,
-.fTag,
 .gallery {
 	margin: 10px 0 50px 0;
 	display: grid;
@@ -411,7 +459,6 @@ h3::after {
 }
 .toolBox::before,
 .search::before,
-.filter,
 .studios::before,
 .type::before,
 .season::before,
@@ -561,7 +608,7 @@ p {
 	overflow-x: auto;
 }
 #toastClose {
-	content: url(../media/icon/icon_close.png);
+	content: url(../media/icon/close.png);
 	filter: brightness(100);
 	width: 12px;
 	height: 12px;

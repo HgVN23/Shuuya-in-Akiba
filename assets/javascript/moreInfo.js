@@ -1,4 +1,6 @@
 const stopScroll = document.querySelector('body').classList
+document.querySelector('.filterButton').addEventListener('click', showInfo);
+document.querySelector('.filter .clickHide').addEventListener('click', hideInfo);
 
 function moreInfoCreate() {
 	var animeInfo = document.getElementsByClassName('anime');

@@ -1,7 +1,7 @@
 let studiosTemp = ``;
 const studioListTemp = sortList(studioList);
 for(var i = 0; i < studioListTemp.length; i++){
-	studiosTemp += `<div><input type="checkbox" id="studio${i}" value="${studioListTemp[i].id}"><label for="studio${i}">${studioListTemp[i].name}</label></div>`
+	studiosTemp += `<div class="fOption" id="${studioListTemp[i].id}">${studioListTemp[i].name}</div>`
 }
 
 const typeList = [
@@ -13,7 +13,7 @@ const typeList = [
 ]
 let typeTemp = ``;
 for(var i = 0; i < typeList.length; i++){
-	typeTemp += `<div><input type="checkbox" id="type${i}" value="${typeList[i]}"><label for="type${i}">${typeList[i]}</label></div>`
+	typeTemp += `<div class="fOption" id="${typeList[i]}">${typeList[i]}</div>`
 }
 
 const seasonList = [
@@ -24,7 +24,7 @@ const seasonList = [
 ]
 let seasonTemp = ``;
 for(var i = 0; i < seasonList.length; i++){
-	seasonTemp += `<div><input type="checkbox" id="season${i}" value="${seasonList[i]}"><label for="season${i}">${seasonList[i]}</label></div>`
+	seasonTemp += `<div class="fOption" id="${seasonList[i]}">${seasonList[i]}</div>`
 }
 
 const ratingList = [
@@ -34,23 +34,22 @@ const ratingList = [
 ]
 let ratingTemp = ``;
 for(var i = 0; i < ratingList.length; i++){
-	ratingTemp += `<div><input type="checkbox" id="rating${i}" value="${ratingList[i]}"><label for="rating${i}">${ratingList[i]}</label></div>`
+	ratingTemp += `<div class="fOption" id="${ratingList[i]}">${ratingList[i]}</div>`
 }
 
 const yearNow = new Date().getFullYear()
 let yearTemp = ``;
-for(var i = yearNow; i >= 2007; i--){
-	yearTemp += `<div><input type="checkbox" id="year${i}" value="${i}"><label for="year${i}">${i}</label></div>`
+for(var i = yearNow; i >= 2006; i--){
+	yearTemp += `<div class="fOption" id="${i}">${i}</div>`
 }
 
 let tagTemp = ``;
 const tagListTemp = sortList(tagList);
 for(var i = 0; i < tagListTemp.length; i++){
-	tagTemp += `<div><input type="checkbox" id="tag${i}" value="${tagListTemp[i].id}"><label for="tag${i}">${tagListTemp[i].name}</label></div>`
+	tagTemp += `<div class="fOption" id="${tagListTemp[i].id}">${tagListTemp[i].name}</div>`
 }
 
 filter();
-
 function filter() {
 	document.querySelector('.fStudios').innerHTML = studiosTemp;
 	document.querySelector('.fType').innerHTML = typeTemp;
@@ -58,10 +57,16 @@ function filter() {
 	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
 	document.querySelector('.fTag').innerHTML = tagTemp;
+	const fOption = document.querySelectorAll('.fOption');
+	for(var i = 0; i < fOption.length; i++)
+		fOption[i].addEventListener('click', fSelected);
+}
+function fSelected() {
+	this.classList.toggle('fSelected');
 }
 
 function apply() {
-	let studiosGet = document.querySelector('.fStudios').querySelectorAll('input');
+	let studiosGet = document.querySelector('.fStudios').querySelectorAll('.fOption');
 	let filterByStudios = [];
 	let fN = 1;
 	let checkBreak = false;
@@ -69,8 +74,8 @@ function apply() {
 	for(var i = 1; i < anime.length; i++)
 		for(var j = 0; j < anime[i].studio.length; j++) {
 			for(var k = 0; k < studiosGet.length; k++)
-				if(studiosGet[k].checked) {
-					if(anime[i].studio[j].id == studiosGet[k].value) {
+				if(studiosGet[k].classList.contains('fSelected')) {
+					if(anime[i].studio[j].id == studiosGet[k].id) {
 						filterByStudios[fN] = anime[i];
 						fN++;
 						checkBreak = true;
@@ -87,14 +92,14 @@ function apply() {
 		for(var i = 1; i < anime.length; i++)
 			filterByStudios[i] = anime[i];
 
-	let typeGet = document.querySelector('.fType').querySelectorAll('input');
+	let typeGet = document.querySelector('.fType').querySelectorAll('.fOption');
 	let filterByType = [];
 	fN = 1;
 	check = false;
 	for(var i = 1; i < filterByStudios.length; i++)
 		for(var j = 0; j < typeGet.length; j++)
-			if(typeGet[j].checked) {
-				if(filterByStudios[i].type.includes(typeGet[j].value)) {
+			if(typeGet[j].classList.contains('fSelected')) {
+				if(filterByStudios[i].type.includes(typeGet[j].id)) {
 					filterByType[fN] = filterByStudios[i];
 					fN++;
 					break;
@@ -105,14 +110,14 @@ function apply() {
 		for(var i = 1; i < filterByStudios.length; i++)
 			filterByType[i] = filterByStudios[i];
 
-	let seasonGet = document.querySelector('.fSeason').querySelectorAll('input');
+	let seasonGet = document.querySelector('.fSeason').querySelectorAll('.fOption');
 	let filterBySeason = [];
 	fN = 1;
 	check = false;
 	for(var i = 1; i < filterByType.length; i++)
 		for(var j = 0; j < seasonGet.length; j++)
-			if(seasonGet[j].checked) {
-				if(filterByType[i].season.includes(seasonGet[j].value)) {
+			if(seasonGet[j].classList.contains('fSelected')) {
+				if(filterByType[i].season.includes(seasonGet[j].id)) {
 					filterBySeason[fN] = filterByType[i];
 					fN++;
 					break;
@@ -123,14 +128,14 @@ function apply() {
 		for(var i = 1; i < filterByType.length; i++)
 			filterBySeason[i] = filterByType[i];
 
-	let ratingGet = document.querySelector('.fRating').querySelectorAll('input');
+	let ratingGet = document.querySelector('.fRating').querySelectorAll('.fOption');
 	let filterByRating = [];
 	fN = 1;
 	check = false;
 	for(var i = 1; i < filterBySeason.length; i++)
 		for(var j = 0; j < ratingGet.length; j++)
-			if(ratingGet[j].checked) {
-				if(filterBySeason[i].rating.includes(ratingGet[j].value)) {
+			if(ratingGet[j].classList.contains('fSelected')) {
+				if(filterBySeason[i].rating.includes(ratingGet[j].id)) {
 					filterByRating[fN] = filterBySeason[i];
 					fN++;
 					break;
@@ -141,14 +146,14 @@ function apply() {
 		for(var i = 1; i < filterBySeason.length; i++)
 			filterByRating[i] = filterBySeason[i];
 
-	let yearGet = document.querySelector('.fYear').querySelectorAll('input');
+	let yearGet = document.querySelector('.fYear').querySelectorAll('.fOption');
 	let filterByYear = [];
 	fN = 1;
 	check = false;
 	for(var i = 1; i < filterByRating.length; i++)
 		for(var j = 0; j < yearGet.length; j++)
-			if(yearGet[j].checked) {
-				if(filterByRating[i].season.includes(yearGet[j].value)) {
+			if(yearGet[j].classList.contains('fSelected')) {
+				if(filterByRating[i].season.includes(yearGet[j].id)) {
 					filterByYear[fN] = filterByRating[i];
 					fN++;
 					break;
@@ -159,7 +164,7 @@ function apply() {
 		for(var i = 1; i < filterByRating.length; i++)
 			filterByYear[i] = filterByRating[i];
 
-	let tagGet = document.querySelector('.fTag').querySelectorAll('input');
+	let tagGet = document.querySelector('.fTag').querySelectorAll('.fOption');
 	let filterByTag = [];
 	fN = 1;
 	checkBreak = false;
@@ -167,8 +172,8 @@ function apply() {
 	for(var i = 1; i < filterByYear.length; i++)
 		for(var j = 0; j < filterByYear[i].tag.length; j++) {
 			for(var k = 0; k < tagGet.length; k++)
-				if(tagGet[k].checked) {
-					if(filterByYear[i].tag[j].includes(tagGet[k].value)) {
+				if(tagGet[k].classList.contains('fSelected')) {
+					if(filterByYear[i].tag[j].includes(tagGet[k].id)) {
 						filterByTag[fN] = filterByYear[i];
 						fN++;
 						checkBreak = true;

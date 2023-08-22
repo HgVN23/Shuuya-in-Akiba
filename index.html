@@ -6,7 +6,7 @@
 
 	<!-- Primary Meta Tags -->
 	<title>Hg in Akiba</title>
-	<meta name="description" content="Bộ sưu tầm Anime/Manga mà Hg đã xem/đọc">
+	<meta name="description" content="Bộ sưu tầm Anime mà Hg đã xem">
 
 	<!-- CSS/Script -->
 	<link rel="stylesheet" href="assets/css/main.css">
@@ -32,38 +32,49 @@
 			<div class="searchIcon"></div>
 			<input class="searchInput" placeholder="Lọc theo..." type="text">
 		</div>
-		<div class="dropdown filter">Filter:</div>
-		<div class="dropdownThis dropdownHide">
-			<div>
-				<div class="dropdown">Studios</div>
-				<div class="fStudios dropdownThis dropdownHide"></div>
+		<div class="filter">
+			<div class="filterButton">
+				<div class="filterIcon"></div>
+				<div>Filter</div>
 			</div>
-			<div class="flexSpace">
-				<div>
-					<div class="dropdown dropdownActive">Type</div>
-					<div class="fType dropdownThis"></div>
+			<div class="moreInfo hideInfo">
+				<div class="filterPanel">
+					<div class="flexSpace">
+						<div class="button buttonGreen" onclick="apply()">Apply</div>
+						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
+						<a class="button buttonRed" href="">Reset Page</a>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Type</div>
+						<div class="fType dropdownThis"></div>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Season</div>
+						<div class="fSeason dropdownThis"></div>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Year</div>
+						<div class="fYear dropdownThis"></div>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Rating</div>
+						<div class="fRating dropdownThis"></div>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Tag</div>
+						<div class="fTag dropdownThis"></div>
+					</div>
+					<div>
+						<div class="dropdown dropdownActive">Studios</div>
+						<div class="fStudios dropdownThis"></div>
+					</div>
+					<div class="flexSpace">
+						<div class="button buttonGreen" onclick="apply()">Apply</div>
+						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
+						<a class="button buttonRed" href="">Reset Page</a>
+					</div>
 				</div>
-				<div>
-					<div class="dropdown dropdownActive">Season</div>
-					<div class="fSeason dropdownThis"></div>
-				</div>
-				<div>
-					<div class="dropdown dropdownActive">Rating</div>
-					<div class="fRating dropdownThis"></div>
-				</div>
-			</div>
-			<div>
-				<div class="dropdown">Year</div>
-				<div class="fYear dropdownThis dropdownHide"></div>
-			</div>
-			<div>
-				<div class="dropdown">Tag</div>
-				<div class="fTag dropdownThis dropdownHide"></div>
-			</div>
-			<div class="flexSpace">
-				<div class="button buttonGreen" onclick="apply()">Apply</div>
-				<div class="button buttonRed" onclick="filter()">Reset Filter</div>
-				<a class="button buttonRed" href="">Reset Page</a>
+				<div class="clickHide"></div>
 			</div>
 		</div>
 	</div>
