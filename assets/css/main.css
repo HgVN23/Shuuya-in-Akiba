@@ -161,7 +161,7 @@ header {
 	cursor: pointer;
 }
 .filterButton:hover,
-.fOption:hover {
+.tag:hover {
 	filter: brightness(1.3);
 }
 .filterPanel {
@@ -186,16 +186,20 @@ header {
 	flex-wrap: wrap;
 	gap: .3rem;
 }
-.fOption {
-	background-color: #36363a;
-	width: fit-content;
-	height: fit-content;
-	border: 2px solid #36363a;
-	border-radius: 1.5rem;
-	padding: .3rem 1rem;
-	display: flex;
-	align-items: center;
+.filterPanel .tag {
 	cursor: pointer;
+}
+.fImgStudio {
+	display: none;
+}
+.tag:hover .fImgStudio {
+	display: block;
+	width: 6rem;
+	height: 6rem;
+	position: absolute;
+	left: 50%;
+	top: -6.5rem;
+	transform: translateX(-50%);
 }
 .fSelected {
 	border-color: yellow !important;
@@ -518,12 +522,16 @@ p {
 	content: 'Tags:';
 }
 .tag {
+	background-color: #36363a;
 	width: fit-content;
 	height: fit-content;
-	border: var(--border);
+	border: 2px solid #36363a;
 	border-radius: 1.5rem;
-	padding: 10px;
-	position: relative;
+	padding: .3rem 1rem;
+	display: flex;
+	align-items: center;
+	gap: .2rem;
+	cursor: default;
 }
 .characterBox::before {
 	content: 'Characters:';

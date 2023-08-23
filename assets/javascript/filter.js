@@ -1,7 +1,12 @@
 let studiosTemp = ``;
 const studioListTemp = sortList(studioList);
 for(var i = 0; i < studioListTemp.length; i++){
-	studiosTemp += `<div class="fOption" id="${studioListTemp[i].id}">${studioListTemp[i].name}</div>`
+	studiosTemp += `
+		<div class="tag" id="${studioListTemp[i].id}">
+			<div>${studioListTemp[i].name}</div>
+			<img class="fImgStudio" src="https://cdn.myanimelist.net/images/company/${studioListTemp[i].id}.png" alt="${studioListTemp[i].name}">
+		</div>
+	`
 }
 
 const typeList = [
@@ -13,7 +18,7 @@ const typeList = [
 ]
 let typeTemp = ``;
 for(var i = 0; i < typeList.length; i++){
-	typeTemp += `<div class="fOption" id="${typeList[i]}">${typeList[i]}</div>`
+	typeTemp += `<div class="tag" id="${typeList[i]}">${typeList[i]}</div>`
 }
 
 const seasonList = [
@@ -24,7 +29,7 @@ const seasonList = [
 ]
 let seasonTemp = ``;
 for(var i = 0; i < seasonList.length; i++){
-	seasonTemp += `<div class="fOption" id="${seasonList[i]}">${seasonList[i]}</div>`
+	seasonTemp += `<div class="tag" id="${seasonList[i]}">${seasonList[i]}</div>`
 }
 
 const ratingList = [
@@ -34,19 +39,19 @@ const ratingList = [
 ]
 let ratingTemp = ``;
 for(var i = 0; i < ratingList.length; i++){
-	ratingTemp += `<div class="fOption" id="${ratingList[i]}">${ratingList[i]}</div>`
+	ratingTemp += `<div class="tag" id="${ratingList[i]}">${ratingList[i]}</div>`
 }
 
 const yearNow = new Date().getFullYear()
 let yearTemp = ``;
 for(var i = yearNow; i >= 2006; i--){
-	yearTemp += `<div class="fOption" id="${i}">${i}</div>`
+	yearTemp += `<div class="tag" id="${i}">${i}</div>`
 }
 
 let tagTemp = ``;
 const tagListTemp = sortList(tagList);
 for(var i = 0; i < tagListTemp.length; i++){
-	tagTemp += `<div class="fOption" id="${tagListTemp[i].id}">${tagListTemp[i].name}</div>`
+	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}"></div>`
 }
 
 filter();
@@ -57,16 +62,16 @@ function filter() {
 	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
 	document.querySelector('.fTag').innerHTML = tagTemp;
-	const fOption = document.querySelectorAll('.fOption');
-	for(var i = 0; i < fOption.length; i++)
-		fOption[i].addEventListener('click', fSelected);
+	const tag = document.querySelectorAll('.tag');
+	for(var i = 0; i < tag.length; i++)
+		tag[i].addEventListener('click', fSelected);
 }
 function fSelected() {
 	this.classList.toggle('fSelected');
 }
 
 function apply() {
-	let studiosGet = document.querySelector('.fStudios').querySelectorAll('.fOption');
+	let studiosGet = document.querySelector('.fStudios').querySelectorAll('.tag');
 	let filterByStudios = [];
 	let fN = 1;
 	let checkBreak = false;
@@ -92,7 +97,7 @@ function apply() {
 		for(var i = 1; i < anime.length; i++)
 			filterByStudios[i] = anime[i];
 
-	let typeGet = document.querySelector('.fType').querySelectorAll('.fOption');
+	let typeGet = document.querySelector('.fType').querySelectorAll('.tag');
 	let filterByType = [];
 	fN = 1;
 	check = false;
@@ -110,7 +115,7 @@ function apply() {
 		for(var i = 1; i < filterByStudios.length; i++)
 			filterByType[i] = filterByStudios[i];
 
-	let seasonGet = document.querySelector('.fSeason').querySelectorAll('.fOption');
+	let seasonGet = document.querySelector('.fSeason').querySelectorAll('.tag');
 	let filterBySeason = [];
 	fN = 1;
 	check = false;
@@ -128,7 +133,7 @@ function apply() {
 		for(var i = 1; i < filterByType.length; i++)
 			filterBySeason[i] = filterByType[i];
 
-	let ratingGet = document.querySelector('.fRating').querySelectorAll('.fOption');
+	let ratingGet = document.querySelector('.fRating').querySelectorAll('.tag');
 	let filterByRating = [];
 	fN = 1;
 	check = false;
@@ -146,7 +151,7 @@ function apply() {
 		for(var i = 1; i < filterBySeason.length; i++)
 			filterByRating[i] = filterBySeason[i];
 
-	let yearGet = document.querySelector('.fYear').querySelectorAll('.fOption');
+	let yearGet = document.querySelector('.fYear').querySelectorAll('.tag');
 	let filterByYear = [];
 	fN = 1;
 	check = false;
@@ -164,7 +169,7 @@ function apply() {
 		for(var i = 1; i < filterByRating.length; i++)
 			filterByYear[i] = filterByRating[i];
 
-	let tagGet = document.querySelector('.fTag').querySelectorAll('.fOption');
+	let tagGet = document.querySelector('.fTag').querySelectorAll('.tag');
 	let filterByTag = [];
 	fN = 1;
 	checkBreak = false;

@@ -58,10 +58,6 @@ const tIyashikei = {
 	name: 'Iyashikei',
 	id: 'tIyashikei'
 }
-const tMagic = {
-	name: 'Magic',
-	id: 'tMagic'
-}
 const tMartialArts = {
 	name: 'Martial Arts',
 	id: 'tMartialArts'
@@ -154,6 +150,10 @@ const tYuri = {
 	name: 'Yuri',
 	id: 'tYuri'
 }
+const tSports = {
+	name: 'Sports',
+	id: 'tSports'
+}
 
 const tagList = [
 	tAction,
@@ -171,7 +171,6 @@ const tagList = [
 	tHorror,
 	tIsekai,
 	tIyashikei,
-	tMagic,
 	tMartialArts,
 	tMecha,
 	tMedical,
@@ -194,5 +193,6 @@ const tagList = [
 	tSuperPower,
 	tTimeTravel,
 	tWorkplace,
-	tYuri
+	tYuri,
+	tSports
 ]
