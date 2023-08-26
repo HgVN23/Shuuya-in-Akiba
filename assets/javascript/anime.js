@@ -211,7 +211,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1821/135926',
+		img: '1490/137816',
 		name: [
 			'Seija Musou: Salaryman, Isekai de Ikinokoru Tame ni Ayumu Michi',
 			'聖者無双',
@@ -1629,7 +1629,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1399/136114',
+		img: '1693/138042',
 		name: [
 			'Sugar Apple Fairy Tale Part 2',
 			'シュガーアップル・フェアリーテイル'
