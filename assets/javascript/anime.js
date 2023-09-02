@@ -12531,6 +12531,27 @@ const anime = [
 		]
 	},
 	{
+		img: '1567/135752',
+		name: [
+			'5-toubun no Hanayome∽',
+			'五等分の花嫁∽',
+			'The Quintessential Quintuplets~'
+		],
+		studio: [
+			sShaft
+		],
+		type: 'Special',
+		season: 'Summer 2023',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen'
+		]
+	},
+	{
 		img: '1506/113668',
 		name: [
 			'5-toubun no Hanayome Movie',
