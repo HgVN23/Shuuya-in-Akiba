@@ -9155,7 +9155,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1394/132755',
+		img: '1475/137152',
 		name: [
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II',
 			'魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ II',
