@@ -9783,7 +9783,7 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2016',
+		season: 'Winter 2017',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11804,7 +11804,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1392/124401',
+		img: '1261/127311',
 		name: [
 			'Lycoris Recoil',
 			'リコリス・リコイル'
