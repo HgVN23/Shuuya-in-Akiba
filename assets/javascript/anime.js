@@ -11319,7 +11319,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1180/120373',
+		img: '1318/126474',
 		name: [
 			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Meikyuu-hen',
 			'ダンジョンに出会いを求めるのは間違っているだろうかⅣ 新章 迷宮篇',
@@ -11664,7 +11664,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1824/125048',
+		img: '1436/124788',
 		name: [
 			'Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita',
 			'転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～',
