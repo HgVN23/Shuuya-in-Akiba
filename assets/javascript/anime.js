@@ -391,7 +391,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1069/135852',
+		img: '1079/136949',
 		name: [
 			'Ryza no Atelier: Tokoyami no Joou to Himitsu no Kakurega',
 			'ライザのアトリエ ~常闇の女王と秘密の隠れ家~',
