@@ -95,7 +95,7 @@ function addAnime(list) {
 		}
 		let studio = ``;
 		for(var j = 0; j < temp.studio.length; j++) {
-			studio += `<img class="sImg" src="https://cdn.myanimelist.net/images/company/${temp.studio[j].id}.png" alt="${temp.studio[j].name}">\n`
+			studio += `<a href="https://myanimelist.net/anime/producer/${temp.studio[j].id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${temp.studio[j].img}" alt="${temp.studio[j].name}"></a>\n`
 		}
 		let type = temp.type;
 		let season = temp.season;
@@ -152,9 +152,10 @@ function addAnime(list) {
 							<a class="rImg rAnimeVietsub" href="https://animevietsub.im/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
 							<a class="rImg rMangaQQ" href="https://truyenqqq.vn/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
-							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="Manga Nelo"></a>
-							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="Manga Dex"></a>
-							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="My Anime List"></a>
+							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="MangaNelo"></a>
+							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="MangaDex"></a>
+							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="MyAnimeList"></a>
+							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
 						</div>
 					</div>
 				</div>

@@ -4,7 +4,7 @@ for(var i = 0; i < studioListTemp.length; i++){
 	studiosTemp += `
 		<div class="tag" id="${studioListTemp[i].id}">
 			<div>${studioListTemp[i].name}</div>
-			<img class="fImgStudio" src="https://cdn.myanimelist.net/images/company/${studioListTemp[i].id}.png" alt="${studioListTemp[i].name}">
+			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
 		</div>
 	`
 }

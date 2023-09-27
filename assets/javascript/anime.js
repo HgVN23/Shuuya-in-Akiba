@@ -54,7 +54,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1748/136736',
+		img: '1346/138731',
 		name: [
 			'Dark Gathering',
 			'ダークギャザリング'
@@ -846,7 +846,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1355/133785',
+		img: '1518/138730',
 		name: [
 			'Skip to Loafer',
 			'スキップとローファー',
@@ -3853,7 +3853,8 @@ const anime = [
 		season: 'Winter 2019',
 		rating: 'R-17+',
 		tag: [
-			't'
+			'tAction',
+			'tSchool'
 		]
 	},
 	{

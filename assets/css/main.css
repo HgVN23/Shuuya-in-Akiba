@@ -583,6 +583,9 @@ p {
 .rMAL {
 	content: url(../media/icon/mal.png);
 }
+.rAniPlayList {
+	content: url(../media/icon/aniPlayList.png);
+}
 /*.textLink {
 	width: fit-content;
 }
