@@ -54,6 +54,21 @@ for(var i = 0; i < tagListTemp.length; i++){
 	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}"></div>`
 }
 
+const sourceList = [
+	'Original',
+	'Manga',
+	'4-koma manga',
+	'Web manga',
+	'Novel',
+	'Light novel',
+	'Web novel',
+	'Game'
+]
+let sourceTemp = ``;
+for(var i = 0; i < sourceList.length; i++){
+	sourceTemp += `<div class="tag" id="${sourceList[i]}">${sourceList[i]}</div>`
+}
+
 filter();
 function filter() {
 	document.querySelector('.fStudios').innerHTML = studiosTemp;
@@ -62,6 +77,7 @@ function filter() {
 	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
 	document.querySelector('.fTag').innerHTML = tagTemp;
+	document.querySelector('.fSource').innerHTML = sourceTemp;
 	const tag = document.querySelectorAll('.tag');
 	for(var i = 0; i < tag.length; i++)
 		tag[i].addEventListener('click', fSelected);
@@ -89,7 +105,7 @@ function apply() {
 					check = true;
 				}
 			if(checkBreak) {
-				checkBreak = false
+				checkBreak = false;
 				break;
 			}
 		}
@@ -187,7 +203,7 @@ function apply() {
 					check = true;
 				}
 			if(checkBreak) {
-				checkBreak = false
+				checkBreak = false;
 				break;
 			}
 		}
@@ -195,10 +211,27 @@ function apply() {
 		for(var i = 1; i < filterByYear.length; i++)
 			filterByTag[i] = filterByYear[i];
 
+	let sourceGet = document.querySelector('.fSource').querySelectorAll('.tag');
+	let filterBySource = [];
+	fN = 1;
+	check = false;
+	for(var i = 1; i < filterByTag.length; i++)
+		for(var j = 0; j < sourceGet.length; j++)
+			if(sourceGet[j].classList.contains('fSelected')) {
+				if(filterByTag[i].source.includes(sourceGet[j].id)) {
+					filterBySource[fN] = filterByTag[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 1; i < filterByTag.length; i++)
+			filterBySource[i] = filterByTag[i];
 
 	page = 0;
-	getMax(filterByTag);
-	run(filterByTag);
+	getMax(filterBySource);
+	run(filterBySource);
 	numberInput.value = 1;
 }
 

@@ -154,6 +154,38 @@ const tSports = {
 	name: 'Sports',
 	id: 'tSports'
 }
+const tAdultCast = {
+	name: 'Adult Cast',
+	id: 'tAdultCast'
+}
+const tSurvival = {
+	name: 'Survival',
+	id: 'tSurvival'
+}
+const tSuspense = {
+	name: 'Suspense',
+	id: 'tSuspense'
+}
+const tStrategyGame = {
+	name: 'Strategy Game',
+	id: 'tStrategyGame'
+}
+const tAnthropomorphic = {
+	name: 'Anthropomorphic',
+	id: 'tAnthropomorphic'
+}
+const tDetective = {
+	name: 'Detective',
+	id: 'tDetective'
+}
+const tVampire = {
+	name: 'Vampire',
+	id: 'tVampire'
+}
+const tRomanticSubtext = {
+	name: 'Romantic Subtext',
+	id: 'tRomanticSubtext'
+}
 
 const tagList = [
 	tAction,
@@ -194,5 +226,13 @@ const tagList = [
 	tTimeTravel,
 	tWorkplace,
 	tYuri,
-	tSports
+	tSports,
+	tAdultCast,
+	tSurvival,
+	tSuspense,
+	tStrategyGame,
+	tAnthropomorphic,
+	tDetective,
+	tVampire,
+	tRomanticSubtext
 ]

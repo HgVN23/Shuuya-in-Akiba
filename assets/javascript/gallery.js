@@ -99,9 +99,10 @@ function addAnime(list) {
 		}
 		let type = temp.type;
 		let season = temp.season;
-		let aired = temp.aired;
+		// let aired = temp.aired;
+		let source = temp.source;
 		let rating = temp.rating;
-		let synopsis = temp.synopsis;
+		// let synopsis = temp.synopsis;
 		let tag = ``;
 		for(var j = 0; j < temp.tag.length; j++) {
 			tag += `<div class="tag ${temp.tag[j]}"></div>\n`
@@ -142,6 +143,7 @@ function addAnime(list) {
 							<div class="smallInfo">
 								<p class="type">${type}</p>
 								<p class="season">${season}</p>
+								<p class="source">${source}</p>
 								<p class="rating">${rating}</p>
 							</div>
 						</div>

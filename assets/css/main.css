@@ -176,6 +176,7 @@ header {
 .fStudios,
 .fType,
 .fSeason,
+.fSource,
 .fRating,
 .fYear,
 .fTag {
@@ -466,18 +467,19 @@ h3::after {
 .studios::before,
 .type::before,
 .season::before,
-.aired::before,
+.source::before,
+/*.aired::before,*/
 .rating::before,
-.synopsis::before,
+/*.synopsis::before,*/
 .tagBox::before,
-.characterBox::before,
+/*.characterBox::before,*/
 .relatedBox::before {
 	font-size: 1.3rem;
 	font-weight: bolder;
 	color: aqua;
 }
 .studios::before {
-	content: 'Studios: ';
+	content: 'Studios:';
 }
 .type::before {
 	content: 'Type: ';
@@ -485,9 +487,12 @@ h3::after {
 .season::before {
 	content: 'Season: ';
 }
-.aired::before {
-	content: 'Aired: ';
+.source::before {
+	content: 'Source: ';
 }
+/*.aired::before {
+	content: 'Aired:';
+}*/
 .rating::before {
 	content: 'Rating: ';
 }
@@ -497,20 +502,20 @@ p {
 	cursor: default;
 }
 .studios::before,
-.synopsis::before,
+/*.synopsis::before,*/
 .tagBox::before,
-.characterBox::before,
-.cRoleM::after,
-.cRoleS::after,
+/*.characterBox::before,*/
+/*.cRoleM::after,*/
+/*.cRoleS::after,*/
 .relatedBox::before {
 	display: block;
 	width: 100%;
 }
-.synopsis::before {
+/*.synopsis::before {
 	content: 'Synopsis:';
-}
+}*/
 .tagBox,
-.characterBox,
+/*.characterBox,*/
 .relatedBox {
 	display: flex;
 	flex-wrap: wrap;
@@ -533,7 +538,7 @@ p {
 	gap: .2rem;
 	cursor: default;
 }
-.characterBox::before {
+/*.characterBox::before {
 	content: 'Characters:';
 }
 .cContainer {
@@ -554,7 +559,7 @@ p {
 .cRoleS::after {
 	content: '[ Support ]';
 	text-align: center;
-}
+}*/
 .relatedBox {
 	margin-bottom: 1rem;
 }

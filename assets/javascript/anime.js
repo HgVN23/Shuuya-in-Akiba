@@ -10,7 +10,8 @@ const anime = [
 			sNone
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Fall 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			't'
@@ -28,6 +29,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '4-koma manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -47,6 +49,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -64,6 +67,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tHorror',
@@ -83,6 +87,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -104,12 +109,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tHorror',
 			'tSupernatural',
+			'tAdultCast',
+			'tSurvival',
 			'tSeinen'
 		]
 	},
@@ -125,6 +133,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -144,12 +153,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
-			'tEcchi',
+			'tSuspense',
+			'tPsychological',
 			'tSchool',
-			'tGame',
-			'tStrategy'
+			'tStrategyGame'
 		]
 	},
 	{
@@ -164,6 +174,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -184,10 +195,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tSupernatural'
+			'tSupernatural',
+			'tAdultCast',
+			'tAnthropomorphic'
 		]
 	},
 	{
@@ -202,11 +216,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
-			'tPsychological',
 			'tSciFi',
+			'tSuspense',
+			'tPsychological',
 			'tShounen'
 		]
 	},
@@ -223,8 +239,10 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
+			'tComedy',
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation'
@@ -242,13 +260,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
-			'tJosei',
 			'tIsekai',
 			'tReincarnation',
-			'tRomance'
+			'tJosei'
 		]
 	},
 	{
@@ -263,11 +281,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Novel',
 		rating: 'R-17+',
 		tag: [
+			'tFantasy',
 			'tMystery',
+			'tDetective',
 			'tHistorical',
-			'tSupernatural'
+			'tVampire'
 		]
 	},
 	{
@@ -283,6 +304,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -303,11 +325,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Novel',
 		rating: 'PG-13',
 		tag: [
+			'tDrama',
 			'tFantasy',
-			'tHistorical',
-			'tRomance'
+			'tRomance',
+			'tAdultCast',
+			'tHistorical'
 		]
 	},
 	{
@@ -322,10 +347,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tRomance',
+			'tRomanticSubtext',
 			'tSchool',
 			'tShounen'
 		]
@@ -343,6 +369,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -362,13 +389,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
 			'tIsekai',
-			'tGourmet',
-			'tReincarnation',
-			'tSliceOfLife'
+			'tReincarnation'
 		]
 	},
 	{
@@ -384,6 +410,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -402,6 +429,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Game',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -420,10 +448,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tRomance',
+			'tAdultCast',
 			'tWorkplace'
 		]
 	},
@@ -439,6 +469,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -457,6 +488,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -477,6 +509,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy'
@@ -493,6 +526,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -512,6 +546,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -532,6 +567,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -551,6 +587,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -569,6 +606,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -589,6 +627,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -610,6 +649,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -630,6 +670,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -649,6 +690,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -671,6 +713,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -691,6 +734,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -710,6 +754,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -731,6 +776,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -751,6 +797,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -770,6 +817,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -790,6 +838,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -812,6 +861,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -834,6 +884,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -857,6 +908,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -878,6 +930,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -899,6 +952,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -919,6 +973,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -941,6 +996,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -960,6 +1016,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -979,6 +1036,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tGame',
@@ -998,6 +1056,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tGame',
@@ -1017,6 +1076,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -1036,6 +1096,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1055,6 +1116,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1075,6 +1137,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1094,6 +1157,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1112,6 +1176,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1131,6 +1196,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -1152,6 +1218,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -1173,6 +1240,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1192,6 +1260,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1210,6 +1279,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -1231,6 +1301,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1251,6 +1322,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1273,6 +1345,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1291,6 +1364,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -1315,6 +1389,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1335,6 +1410,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -1355,6 +1431,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1375,6 +1452,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1395,6 +1473,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1414,6 +1493,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1434,6 +1514,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -1452,6 +1533,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1470,6 +1552,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -1490,6 +1573,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1508,6 +1592,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1528,6 +1613,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1548,6 +1634,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1565,6 +1652,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1583,6 +1671,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1602,6 +1691,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1621,6 +1711,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -1639,6 +1730,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -1658,6 +1750,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -1678,6 +1771,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1698,6 +1792,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1718,6 +1813,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1737,6 +1833,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1756,6 +1853,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1775,6 +1873,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1794,6 +1893,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tIyashikei',
@@ -1812,6 +1912,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -1830,6 +1931,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -1849,6 +1951,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1869,6 +1972,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1889,6 +1993,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1907,6 +2012,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1924,6 +2030,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1941,6 +2048,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1958,6 +2066,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1977,6 +2086,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1996,6 +2106,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2015,6 +2126,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2033,6 +2145,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tMusic',
@@ -2051,6 +2164,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2071,6 +2185,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2091,6 +2206,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2112,6 +2228,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2131,6 +2248,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2149,6 +2267,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2168,6 +2287,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2188,6 +2308,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSchool'
@@ -2205,6 +2326,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSchool'
@@ -2221,6 +2343,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2241,6 +2364,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2261,6 +2385,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2281,6 +2406,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2301,6 +2427,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2321,6 +2448,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2341,6 +2469,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2359,6 +2488,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2009',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2378,6 +2508,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2008',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2396,6 +2527,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2415,6 +2547,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2009',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2432,6 +2565,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2008',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2451,6 +2585,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2470,6 +2605,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2491,6 +2627,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -2510,6 +2647,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2530,6 +2668,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2550,6 +2689,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2571,6 +2711,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2591,6 +2732,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2611,6 +2753,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2631,6 +2774,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2651,6 +2795,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2673,6 +2818,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2016',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2696,6 +2842,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2717,6 +2864,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2738,6 +2886,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2756,6 +2905,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2778,6 +2928,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2796,6 +2947,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: '',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2817,6 +2969,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2842,6 +2995,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2862,6 +3016,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -2881,6 +3036,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAdventure',
@@ -2902,6 +3058,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -2923,6 +3080,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -2945,6 +3103,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2968,6 +3127,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2988,6 +3148,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3011,6 +3172,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -3028,6 +3190,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -3046,6 +3209,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3067,6 +3231,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3087,6 +3252,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tEcchi'
@@ -3103,6 +3269,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -3124,6 +3291,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3144,6 +3312,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tEcchi',
@@ -3161,6 +3330,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3183,6 +3353,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3205,6 +3376,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tSports',
@@ -3223,6 +3395,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3246,6 +3419,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3267,6 +3441,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2012',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3288,6 +3463,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3309,6 +3485,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3329,6 +3506,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3349,6 +3527,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3369,6 +3548,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2009',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3389,6 +3569,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3408,6 +3589,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3429,6 +3611,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3447,6 +3630,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3468,6 +3652,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3489,6 +3674,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3510,6 +3696,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3532,6 +3719,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3554,6 +3742,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tMusic',
@@ -3572,6 +3761,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3591,6 +3781,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3611,6 +3802,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3630,6 +3822,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance'
@@ -3646,6 +3839,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSupernatural',
@@ -3663,6 +3857,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3681,6 +3876,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3700,6 +3896,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -3721,6 +3918,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2008',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3742,6 +3940,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2008',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3767,6 +3966,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2007',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3792,6 +3992,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2006',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3816,6 +4017,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -3834,6 +4036,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3851,6 +4054,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -3868,6 +4072,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tEcchi'
@@ -3885,6 +4090,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -3905,6 +4111,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama'
@@ -3921,6 +4128,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tEcchi'
@@ -3938,6 +4146,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -3959,6 +4168,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3976,6 +4186,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3998,6 +4209,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4016,6 +4228,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4033,6 +4246,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4054,6 +4268,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -4076,6 +4291,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4097,6 +4313,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4114,6 +4331,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4133,6 +4351,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4155,6 +4374,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4175,6 +4395,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4196,6 +4417,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4217,6 +4439,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4237,6 +4460,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4256,6 +4480,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4276,6 +4501,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4296,6 +4522,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4318,6 +4545,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4340,6 +4568,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4362,6 +4591,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -4382,6 +4612,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4404,6 +4635,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4423,6 +4655,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4442,6 +4675,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4462,6 +4696,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -4482,6 +4717,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4500,6 +4736,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4519,6 +4756,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4538,6 +4776,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4558,6 +4797,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4576,6 +4816,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -4595,6 +4836,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4614,6 +4856,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4633,6 +4876,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4653,6 +4897,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4674,6 +4919,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4693,6 +4939,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4711,6 +4958,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4728,6 +4976,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4749,6 +4998,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4767,6 +5017,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4785,6 +5036,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4804,6 +5056,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4825,6 +5078,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4845,6 +5099,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4865,6 +5120,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4884,6 +5140,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4903,6 +5160,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4921,6 +5179,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4939,6 +5198,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4957,6 +5217,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4976,6 +5237,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4996,6 +5258,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5018,6 +5281,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5038,6 +5302,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5057,6 +5322,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5074,6 +5340,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSliceOfLife',
@@ -5092,6 +5359,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5111,6 +5379,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -5130,6 +5399,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -5148,6 +5418,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -5170,6 +5441,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -5189,6 +5461,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5209,6 +5482,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5229,6 +5503,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5248,6 +5523,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5268,6 +5544,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5287,6 +5564,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5306,6 +5584,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5325,6 +5604,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5344,6 +5624,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5363,6 +5644,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5383,6 +5665,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5403,6 +5686,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5423,6 +5707,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5444,6 +5729,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5466,6 +5752,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5488,6 +5775,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5508,6 +5796,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5528,6 +5817,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -5546,6 +5836,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5565,6 +5856,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5583,6 +5875,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5600,6 +5893,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5617,6 +5911,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5634,6 +5929,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5651,6 +5947,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -5667,6 +5964,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5685,6 +5983,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tSupernatural',
@@ -5705,6 +6004,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5725,6 +6025,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5749,6 +6050,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -5773,6 +6075,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5792,6 +6095,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5811,6 +6115,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -5831,6 +6136,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -5849,6 +6155,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -5869,6 +6176,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -5892,6 +6200,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -5912,6 +6221,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -5932,6 +6242,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5954,6 +6265,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5975,6 +6287,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -5996,6 +6309,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6017,6 +6331,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6038,6 +6353,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6059,6 +6375,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6078,6 +6395,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -6095,6 +6413,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6113,6 +6432,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6131,6 +6451,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6150,6 +6471,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6169,6 +6491,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6189,6 +6512,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6209,6 +6533,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -6229,6 +6554,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -6248,6 +6574,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAdventure',
@@ -6269,6 +6596,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6289,6 +6617,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6310,6 +6639,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -6327,6 +6657,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6347,6 +6678,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6365,6 +6697,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6383,6 +6716,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6402,6 +6736,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6424,6 +6759,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6445,6 +6781,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6465,6 +6802,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6484,6 +6822,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6504,6 +6843,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6525,6 +6865,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6544,6 +6885,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6563,6 +6905,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6580,6 +6923,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6598,6 +6942,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6615,6 +6960,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6634,6 +6980,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6652,6 +6999,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6673,6 +7021,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6695,6 +7044,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6713,6 +7063,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -6734,6 +7085,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6753,6 +7105,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6773,6 +7126,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -6793,6 +7147,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tMusic',
@@ -6811,6 +7166,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6832,6 +7188,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6853,6 +7210,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6873,6 +7231,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6894,6 +7253,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6914,6 +7274,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6932,6 +7293,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6952,6 +7314,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6973,6 +7336,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -6993,6 +7357,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7011,6 +7376,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7029,6 +7395,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Winter 2011',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7047,6 +7414,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2010',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -7064,6 +7432,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -7083,6 +7452,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -7102,6 +7472,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -7120,6 +7491,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7141,6 +7513,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -7161,6 +7534,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -7181,6 +7555,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7205,6 +7580,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7229,6 +7605,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7252,6 +7629,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7275,6 +7653,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7296,6 +7675,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7317,6 +7697,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7337,6 +7718,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7357,6 +7739,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7376,6 +7759,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7393,6 +7777,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7411,6 +7796,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7431,6 +7817,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7451,6 +7838,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7471,6 +7859,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -7488,6 +7877,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7507,6 +7897,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7526,6 +7917,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7544,6 +7936,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7563,6 +7956,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7580,6 +7974,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -7600,6 +7995,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -7620,6 +8016,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -7640,6 +8037,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tMystery',
@@ -7661,6 +8059,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tMystery',
@@ -7681,6 +8080,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7702,6 +8102,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -7725,6 +8126,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7743,6 +8145,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7762,6 +8165,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7784,6 +8188,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7805,6 +8210,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7825,6 +8231,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7846,6 +8253,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7867,6 +8275,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7888,6 +8297,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7908,6 +8318,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7930,6 +8341,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7950,6 +8362,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7970,6 +8383,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -7990,6 +8404,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8011,6 +8426,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8031,6 +8447,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8050,6 +8467,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8070,6 +8488,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -8089,6 +8508,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -8110,6 +8530,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2016',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -8131,6 +8552,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -8151,6 +8573,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -8171,6 +8594,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -8194,6 +8618,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -8217,6 +8642,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8238,6 +8664,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8257,6 +8684,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8276,6 +8704,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8296,6 +8725,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8316,6 +8746,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -8338,6 +8769,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -8360,6 +8792,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -8380,6 +8813,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tComedy',
@@ -8402,6 +8836,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8420,6 +8855,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8439,6 +8875,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8458,6 +8895,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8477,6 +8915,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8496,6 +8935,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8515,6 +8955,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8534,6 +8975,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8554,6 +8996,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8573,6 +9016,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8594,6 +9038,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8613,6 +9058,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8637,6 +9083,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8661,6 +9108,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8685,6 +9133,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8703,6 +9152,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -8724,6 +9174,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8745,6 +9196,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8765,6 +9217,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8786,6 +9239,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8807,6 +9261,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -8828,6 +9283,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSliceOfLife',
@@ -8847,6 +9303,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -8865,6 +9322,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -8883,6 +9341,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -8901,6 +9360,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -8918,6 +9378,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -8936,6 +9397,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -8955,6 +9417,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -8974,6 +9437,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -8992,6 +9456,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9011,6 +9476,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9034,6 +9500,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9055,6 +9522,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9076,6 +9544,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -9093,6 +9562,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy'
@@ -9110,6 +9580,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9129,6 +9600,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9148,6 +9620,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9167,6 +9640,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9188,6 +9662,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9209,6 +9684,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9229,6 +9705,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9248,6 +9725,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9267,6 +9745,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -9286,6 +9765,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9307,6 +9787,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9326,6 +9807,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9347,6 +9829,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -9369,6 +9852,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9388,6 +9872,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9407,6 +9892,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9429,6 +9915,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9448,6 +9935,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9468,6 +9956,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9486,6 +9975,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9506,6 +9996,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9526,6 +10017,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -9545,6 +10037,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9564,6 +10057,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9584,6 +10078,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9604,6 +10099,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2012',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9625,6 +10121,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9645,6 +10142,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9664,6 +10162,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9685,6 +10184,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -9702,6 +10202,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9723,6 +10224,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9741,6 +10243,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9763,6 +10266,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9785,6 +10289,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9807,6 +10312,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9828,6 +10334,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9850,6 +10357,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9871,6 +10379,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -9891,6 +10400,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -9911,6 +10421,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -9933,6 +10444,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -9951,6 +10463,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -9971,6 +10484,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -9991,6 +10505,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10010,6 +10525,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10030,6 +10546,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10048,6 +10565,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -10068,6 +10586,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10088,6 +10607,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -10110,6 +10630,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10131,6 +10652,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10150,6 +10672,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10169,6 +10692,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10188,6 +10712,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10206,6 +10731,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10225,6 +10751,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10247,6 +10774,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10269,6 +10797,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10291,6 +10820,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10313,6 +10843,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10334,6 +10865,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10355,6 +10887,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -10375,6 +10908,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10394,6 +10928,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -10413,6 +10948,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -10432,6 +10968,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10451,6 +10988,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10472,6 +11010,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10493,6 +11032,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10514,6 +11054,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10535,6 +11076,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10554,6 +11096,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10577,6 +11120,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -10598,6 +11142,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10620,6 +11165,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10642,6 +11188,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10664,6 +11211,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10686,6 +11234,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10705,6 +11254,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10727,6 +11277,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10750,6 +11301,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -10771,6 +11323,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -10792,6 +11345,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10815,6 +11369,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10838,6 +11393,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10860,6 +11416,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -10882,6 +11439,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -10902,6 +11460,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -10922,6 +11481,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -10943,6 +11503,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -10964,6 +11525,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -10985,6 +11547,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -11006,6 +11569,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11026,6 +11590,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11045,6 +11610,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11065,6 +11631,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11087,6 +11654,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11109,6 +11677,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11129,6 +11698,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11149,6 +11719,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -11171,6 +11742,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -11190,6 +11762,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11210,6 +11783,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11230,6 +11804,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11251,6 +11826,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11270,6 +11846,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11291,6 +11868,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11312,6 +11890,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -11331,6 +11910,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -11350,6 +11930,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11370,6 +11951,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11389,6 +11971,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11409,6 +11992,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11428,6 +12012,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11447,6 +12032,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11466,6 +12052,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2016',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11486,6 +12073,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11506,6 +12094,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11527,6 +12116,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11548,6 +12138,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -11569,6 +12160,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -11589,6 +12181,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11610,6 +12203,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11633,6 +12227,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -11656,6 +12251,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -11676,6 +12272,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11694,6 +12291,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11713,6 +12311,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11734,6 +12333,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11755,6 +12355,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11777,6 +12378,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11796,6 +12398,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -11815,6 +12418,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction'
@@ -11832,6 +12436,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11852,6 +12457,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -11873,6 +12479,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11891,6 +12498,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11909,6 +12517,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11928,6 +12537,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11947,6 +12557,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -11966,6 +12577,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -11984,6 +12596,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12003,6 +12616,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -12021,6 +12635,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -12040,6 +12655,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12058,6 +12674,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12077,6 +12694,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12096,6 +12714,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12117,6 +12736,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12136,6 +12756,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12156,6 +12777,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12175,6 +12797,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12194,6 +12817,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12214,6 +12838,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12232,6 +12857,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12253,6 +12879,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12273,6 +12900,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -12292,6 +12920,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12311,6 +12940,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -12329,6 +12959,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12346,6 +12977,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12365,6 +12997,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12386,6 +13019,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12407,6 +13041,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12428,6 +13063,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12447,6 +13083,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12466,6 +13103,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12485,6 +13123,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12504,6 +13143,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12523,6 +13163,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12543,6 +13184,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12564,6 +13206,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12585,6 +13228,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12606,6 +13250,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12627,6 +13272,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12647,6 +13293,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12669,6 +13316,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12691,6 +13339,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12712,6 +13361,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12732,6 +13382,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12751,6 +13402,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12772,6 +13424,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tSliceOfLife'
@@ -12789,6 +13442,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12807,6 +13461,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -12826,6 +13481,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12845,6 +13501,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12864,6 +13521,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12884,6 +13542,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12904,6 +13563,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12923,6 +13583,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12942,6 +13603,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -12960,6 +13622,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -12978,6 +13641,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -12999,6 +13663,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13017,6 +13682,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13035,6 +13701,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13057,6 +13724,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13076,6 +13744,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tRomance'
@@ -13092,6 +13761,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13113,6 +13783,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2013',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -13132,6 +13803,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2013',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tRomance',
@@ -13153,6 +13825,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13171,6 +13844,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Winter 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13189,6 +13863,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13207,6 +13882,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2020',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13225,6 +13901,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13243,6 +13920,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy'
@@ -13260,6 +13938,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Spring 2018',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13278,6 +13957,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13298,6 +13978,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13318,6 +13999,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13339,6 +14021,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13359,6 +14042,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2022',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13379,6 +14063,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2021',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13399,6 +14084,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13419,6 +14105,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2017',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13439,6 +14126,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13459,6 +14147,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13479,6 +14168,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13499,6 +14189,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2012',
+		source: '',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -13519,6 +14210,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13538,6 +14230,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -13557,6 +14250,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2021',
+		source: '',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
