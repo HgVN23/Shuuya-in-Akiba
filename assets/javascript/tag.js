@@ -186,6 +186,46 @@ const tRomanticSubtext = {
 	name: 'Romantic Subtext',
 	id: 'tRomanticSubtext'
 }
+const tPerformingArts = {
+	name: 'Performing Arts',
+	id: 'tPerformingArts'
+}
+const tShowbiz = {
+	name: 'Showbiz',
+	id: 'tShowbiz'
+}
+const tChildcare = {
+	name: 'Childcare',
+	id: 'tChildcare'
+}
+const tOtakuCulture = {
+	name: 'Otaku Culture',
+	id: 'tOtakuCulture'
+}
+const tPets = {
+	name: 'Pets',
+	id: 'tPets'
+}
+const tGagHumor = {
+	name: 'Gag Humor',
+	id: 'tGagHumor'
+}
+const tVideoGame = {
+	name: 'Video Game',
+	id: 'tVideoGame'
+}
+const tHighStakesGame = {
+	name: 'High Stakes Game',
+	id: 'tHighStakesGame'
+}
+const tStrategyGame = {
+	name: 'Strategy Game',
+	id: 'tStrategyGame'
+}
+const tGore = {
+	name: 'Gore',
+	id: 'tGore'
+}
 
 const tagList = [
 	tAction,
@@ -234,5 +274,15 @@ const tagList = [
 	tAnthropomorphic,
 	tDetective,
 	tVampire,
-	tRomanticSubtext
+	tRomanticSubtext,
+	tPerformingArts,
+	tShowbiz,
+	tChildcare,
+	tOtakuCulture,
+	tPets,
+	tGagHumor,
+	tVideoGame,
+	tHighStakesGame,
+	tStrategyGame,
+	tGore
 ]

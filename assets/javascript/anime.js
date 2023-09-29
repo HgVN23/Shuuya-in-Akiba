@@ -18,6 +18,46 @@ const anime = [
 		]
 	},
 	{
+		img: '1833/138479',
+		name: [
+			'Ojou to Banken-kun',
+			'お嬢と番犬くん',
+			'A Girl & Her Guard Dog'
+		],
+		studio: [
+			sProjectNo9
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Manga',
+		rating: 'PG-13',
+		tag: [
+			'tRomance',
+			'tSchool',
+			'tShoujo'
+		]
+	},
+	{
+		img: '1271/137727',
+		name: [
+			'Boukensha ni Naritai to Miyako ni Deteitta Musume ga S-Rank ni Natteta',
+			'冒険者になりたいと都に出て行った娘がSランクになってた',
+			'My Daughter Left the Nest and Returned an S-Rank Adventurer'
+		],
+		studio: [
+			sTyphoonGraphics
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Light novel',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tAdventure',
+			'tFantasy'
+		]
+	},
+	{
 		img: '1329/135096',
 		name: [
 			'Shiro Seijo to Kuro Bokushi',
@@ -546,7 +586,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -567,11 +607,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
 			'tRomance',
+			'tAnthropomorphic',
 			'tShoujo'
 		]
 	},
@@ -587,11 +628,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tMusic',
+			'tPerformingArts',
 			'tSchool'
 		]
 	},
@@ -606,14 +648,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
-			'tMusic',
+			'tSupernatural',
 			'tReincarnation',
-			'tSeinen',
-			'tSupernatural'
+			'tShowbiz',
+			'tSeinen'
 		]
 	},
 	{
@@ -627,7 +669,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -649,7 +691,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -670,7 +712,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -690,7 +732,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -713,13 +755,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
-			'tComedy',
 			'tRomance',
-			'tSeinen',
-			'tSupernatural'
+			'tSupernatural',
+			'tChildcare',
+			'tOtakuCulture',
+			'tSeinen'
 		]
 	},
 	{
@@ -734,11 +777,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tSciFi',
+			'tPets',
 			'tShounen'
 		]
 	},
@@ -754,7 +798,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -776,7 +820,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -797,7 +841,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -817,7 +861,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -838,12 +882,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tFantasy',
+			'tGagHumor',
 			'tParody',
 			'tSchool',
 			'tShounen'
@@ -861,7 +906,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -884,7 +929,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -908,12 +953,10 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
-			'tComedy',
 			'tDrama',
-			'tRomance',
 			'tSchool',
 			'tSeinen'
 		]
@@ -930,7 +973,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -952,10 +995,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tRomanticSubtext',
 			'tSchool',
 			'tShounen'
 		]
@@ -973,7 +1017,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -996,11 +1040,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
+			'tMystery',
 			'tSciFi',
+			'tSurvival',
 			'tSeinen'
 		]
 	},
@@ -1016,10 +1062,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tRomance',
 			'tSchool',
 			'tShounen'
 		]
@@ -1036,11 +1083,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
-			'tGame',
-			'tRomance'
+			'tRomance',
+			'tVideoGame'
 		]
 	},
 	{
@@ -1056,13 +1103,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2021',
-		source: '',
+		source: 'Web manga',
 		rating: 'R-17+',
 		tag: [
-			'tGame',
-			'tStrategy',
 			'tSupernatural',
-			'tSuperPower'
+			'tSuspense',
+			'tHighStakesGame',
+			'tStrategyGame',
+			'tSuperPower',
+			'tSurvival'
 		]
 	},
 	{
@@ -1076,13 +1125,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
-		source: '',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tShounen',
-			'tSuperPower'
+			'tSuperPower',
+			'tGore'
 		]
 	},
 	{
@@ -1096,7 +1146,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
-		source: '',
+		source: '4-koma manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1116,7 +1166,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1137,11 +1187,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
+			'tRomance',
 			'tSciFi',
+			'tHarem',
 			'tTimeTravel'
 		]
 	},
@@ -1157,7 +1209,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1176,7 +1228,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1196,11 +1248,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2021',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
 			'tFantasy',
+			'tSuspense',
 			'tIsekai',
 			'tPsychological',
 			'tTimeTravel'
@@ -1218,11 +1271,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2020',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
 			'tFantasy',
+			'tSuspense',
 			'tIsekai',
 			'tPsychological',
 			'tTimeTravel'
@@ -1240,11 +1294,12 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2019',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tFantasy',
+			'tSuspense',
 			'tPsychological'
 		]
 	},
@@ -1260,7 +1315,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1279,11 +1334,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
 			'tFantasy',
+			'tSuspense',
 			'tIsekai',
 			'tPsychological',
 			'tTimeTravel'
@@ -1301,7 +1357,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1322,12 +1378,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
 			'tComedy',
-			'tEcchi',
+			'tMartialArts',
 			'tHarem',
 			'tSchool',
 			'tShounen'
@@ -1345,7 +1401,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2019',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -1364,7 +1420,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -1389,7 +1445,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1410,7 +1466,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
@@ -1431,13 +1487,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
+			'tFantasy',
+			'tAdultCast',
 			'tMythology',
-			'tSeinen',
-			'tSupernatural'
+			'tSeinen'
 		]
 	},
 	{
@@ -1452,13 +1509,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
+			'tFantasy',
+			'tAdultCast',
 			'tMythology',
-			'tSeinen',
-			'tSupernatural'
+			'tSeinen'
 		]
 	},
 	{
@@ -1473,10 +1531,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
+			'tAction',
 			'tFantasy',
+			'tAnthropomorphic',
 			'tHistorical',
 			'tShounen'
 		]
@@ -1493,7 +1553,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1514,10 +1574,11 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Summer 2016',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
-			'tRomance',
+			'tDrama',
+			'tRomanticSubtext',
 			'tShounen'
 		]
 	},
@@ -1533,7 +1594,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2017',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',

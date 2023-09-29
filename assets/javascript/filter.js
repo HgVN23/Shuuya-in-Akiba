@@ -62,6 +62,7 @@ const sourceList = [
 	'Novel',
 	'Light novel',
 	'Web novel',
+	'Visual novel',
 	'Game'
 ]
 let sourceTemp = ``;
