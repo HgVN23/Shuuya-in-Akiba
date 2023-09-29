@@ -110,7 +110,7 @@
 	content: 'Military';
 }
 .tMilitary::after {
-	content: 'Vũ trang';
+	content: 'Quân đội';
 }
 .tMusic::before {
 	content: 'Music';
@@ -328,76 +328,56 @@
 .tHighStakesGame::after {
 	content: 'Trò chơi cược cao';
 }
-.tStrategyGame::before {
-	content: 'Strategy Game';
-}
-.tStrategyGame::after {
-	content: 'Trò chơi chiến lược';
-}
 .tGore::before {
 	content: 'Gore';
 }
 .tGore::after {
 	content: 'Máu me';
 }
+.tOrganizedCrime::before {
+	content: 'Organized Crime';
+}
+.tOrganizedCrime::after {
+	content: 'Tổ chức tội phạm';
+}
+.tSamurai::before {
+	content: 'Samurai';
+}
+.tSamurai::after {
+	content: 'Samurai';
+}
+.tVisualArts::before {
+	content: 'Visual Arts';
+}
+.tVisualArts::after {
+	content: 'Nghệ thuật thị giác';
+}
+.tCGDCT::before {
+	content: 'CGDCT';
+}
+.tCGDCT::after {
+	content: 'Gái đáng yêu làm điều dễ thương';
+}
+.tLovePolygon::before {
+	content: 'Love Polygon';
+}
+.tLovePolygon::after {
+	content: 'Tình yêu đa giác';
+}
+.tErotica::before {
+	content: 'Erotica';
+}
+.tErotica::after {
+	content: 'Khiêu dâm';
+}
+.tIdol::before {
+	content: 'Idol';
+}
+.tIdol::after {
+	content: 'Thần tượng';
+}
 
-.tAction::after,
-.tAdventure::after,
-.tComedy::after,
-.tDrama::after,
-.tEcchi::after,
-.tFantasy::after,
-.tJosei::after,
-.tGame::after,
-.tGenben::after,
-.tGourmet::after,
-.tHarem::after,
-.tHistorical::after,
-.tHorror::after,
-.tIsekai::after,
-.tIyashikei::after,
-.tMartialArts::after,
-.tMecha::after,
-.tMedical::after,
-.tMilitary::after,
-.tMusic::after,
-.tMystery::after,
-.tMythology::after,
-.tParody::after,
-.tPsychological::after,
-.tReincarnation::after,
-.tRomance::after,
-.tSchool::after,
-.tSciFi::after,
-.tSeinen::after,
-.tSliceOfLife::after,
-.tShoujo::after,
-.tShounen::after,
-.tStrategy::after,
-.tSupernatural::after,
-.tSuperPower::after,
-.tTimeTravel::after,
-.tWorkplace::after,
-.tYuri::after,
-.tSports::after,
-.tAdultCast::after,
-.tSurvival::after,
-.tSuspense::after,
-.tStrategyGame::after,
-.tAnthropomorphic::after,
-.tDetective::after,
-.tVampire::after,
-.tRomanticSubtext::after,
-.tPerformingArts::after,
-.tShowbiz::after,
-.tChildcare::after,
-.tOtakuCulture::after,
-.tPets::after,
-.tGagHumor::after,
-.tVideoGame::after,
-.tHighStakesGame::after,
-.tStrategyGame::after,
-.tGore::after {
+.tag::after {
 	background-color: var(--bg);
 	border-radius: 7px;
 	padding: 5px 10px;
@@ -410,63 +390,7 @@
 	white-space: nowrap;
 }
 
-.tag:hover.tAction::after,
-.tag:hover.tAdventure::after,
-.tag:hover.tComedy::after,
-.tag:hover.tDrama::after,
-.tag:hover.tEcchi::after,
-.tag:hover.tFantasy::after,
-.tag:hover.tJosei::after,
-.tag:hover.tGame::after,
-.tag:hover.tGenben::after,
-.tag:hover.tGourmet::after,
-.tag:hover.tHarem::after,
-.tag:hover.tHistorical::after,
-.tag:hover.tHorror::after,
-.tag:hover.tIsekai::after,
-.tag:hover.tIyashikei::after,
-.tag:hover.tMartialArts::after,
-.tag:hover.tMecha::after,
-.tag:hover.tMedical::after,
-.tag:hover.tMilitary::after,
-.tag:hover.tMusic::after,
-.tag:hover.tMystery::after,
-.tag:hover.tMythology::after,
-.tag:hover.tParody::after,
-.tag:hover.tPsychological::after,
-.tag:hover.tReincarnation::after,
-.tag:hover.tRomance::after,
-.tag:hover.tSchool::after,
-.tag:hover.tSciFi::after,
-.tag:hover.tSeinen::after,
-.tag:hover.tSliceOfLife::after,
-.tag:hover.tShoujo::after,
-.tag:hover.tShounen::after,
-.tag:hover.tStrategy::after,
-.tag:hover.tSupernatural::after,
-.tag:hover.tSuperPower::after,
-.tag:hover.tTimeTravel::after,
-.tag:hover.tWorkplace::after,
-.tag:hover.tYuri::after,
-.tag:hover.tSports::after,
-.tag:hover.tAdultCast::after,
-.tag:hover.tSurvival::after,
-.tag:hover.tSuspense::after,
-.tag:hover.tStrategyGame::after,
-.tag:hover.tAnthropomorphic::after,
-.tag:hover.tDetective::after,
-.tag:hover.tVampire::after,
-.tag:hover.tRomanticSubtext::after,
-.tag:hover.tPerformingArts::after,
-.tag:hover.tShowbiz::after,
-.tag:hover.tChildcare::after,
-.tag:hover.tOtakuCulture::after,
-.tag:hover.tPets::after,
-.tag:hover.tGagHumor::after,
-.tag:hover.tVideoGame::after,
-.tag:hover.tHighStakesGame::after,
-.tag:hover.tStrategyGame::after,
-.tag:hover.tGore::after {
+.tag:hover::after {
 	top: -2.5rem;
 	display: block;
 }

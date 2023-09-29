@@ -1613,8 +1613,8 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
-		rating: 'PG-13',
+		source: 'Web manga',
+		rating: 'R-17+',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -1634,7 +1634,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -1653,7 +1653,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1674,7 +1674,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1695,10 +1695,9 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
-			'tComedy',
 			'tRomance',
 			'tSchool'
 		]
@@ -1713,11 +1712,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
-			'tComedy'
+			'tComedy',
+			'tChildcare',
+			'tOrganizedCrime'
 		]
 	},
 	{
@@ -1732,7 +1733,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1752,12 +1753,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tFantasy',
-			'tGame',
+			'tVideoGame',
 			'tRomance'
 		]
 	},
@@ -1772,12 +1773,16 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Original',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
+			'tDrama',
+			'tMystery',
+			'tAdultCast',
 			'tHistorical',
-			'tMystery'
+			'tOrganizedCrime',
+			'tSamurai'
 		]
 	},
 	{
@@ -1791,13 +1796,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
+			'tDrama',
 			'tFantasy',
-			'tShoujo',
-			'tRomance'
+			'tRomance',
+			'tVisualArts',
+			'tShoujo'
 		]
 	},
 	{
@@ -1811,13 +1818,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAdventure',
+			'tDrama',
 			'tFantasy',
-			'tShoujo',
-			'tRomance'
+			'tRomance',
+			'tVisualArts',
+			'tShoujo'
 		]
 	},
 	{
@@ -1832,13 +1841,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
-			'tHarem',
 			'tIsekai',
-			'tReincarnation'
+			'tSliceOfLife'
 		]
 	},
 	{
@@ -1853,10 +1861,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tCGDCT',
 			'tGenben',
 			'tSchool',
 			'tShounen'
@@ -1874,7 +1883,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1894,7 +1903,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1914,7 +1923,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -1934,7 +1943,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -1954,7 +1963,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tIyashikei',
@@ -1973,7 +1982,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -1992,7 +2001,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -2012,12 +2021,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tFantasy',
 			'tRomance',
+			'tAdultCast',
+			'tMythology',
 			'tWorkplace'
 		]
 	},
@@ -2033,7 +2044,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -2054,7 +2065,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2023',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2073,10 +2084,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tOtakuCulture',
+			'tSchool',
 			'tSeinen'
 		]
 	},
@@ -2091,10 +2104,12 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2015',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tOtakuCulture',
+			'tSchool',
 			'tSeinen'
 		]
 	},
@@ -2109,10 +2124,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2015',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tOtakuCulture',
+			'tSchool',
 			'tSeinen'
 		]
 	},
@@ -2127,7 +2144,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Spring 2022',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2147,7 +2164,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2020',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2167,7 +2184,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2187,11 +2204,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		source: '',
+		source: '4-koma	manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tSliceOfLife'
+			'tSliceOfLife',
+			'tCGDCT',
+			'tPerformingArts'
 		]
 	},
 	{
@@ -2206,7 +2225,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tMusic',
@@ -2225,12 +2244,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
-			'tMusic',
 			'tRomance',
+			'tLovePolygon',
+			'tMusic',
 			'tSchool',
 			'tShounen'
 		]
@@ -2246,14 +2266,15 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tSupernatural',
+			'tCGDCT',
 			'tMythology',
 			'tSchool',
-			'tShounen',
-			'tSupernatural'
+			'tShounen'
 		]
 	},
 	{
@@ -2267,14 +2288,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tSupernatural',
+			'tCGDCT',
 			'tMythology',
 			'tSchool',
-			'tShounen',
-			'tSupernatural'
+			'tShounen'
 		]
 	},
 	{
@@ -2289,11 +2311,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
-		source: '',
+		source: '4-koma manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tRomance',
+			'tOtakuCulture',
+			'tRomanticSubtext',
 			'tWorkplace'
 		]
 	},
@@ -2309,10 +2332,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
+			'tAdultCast',
 			'tSeinen'
 		]
 	},
@@ -2328,7 +2352,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2348,13 +2372,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tRomance',
 			'tSchool',
-			'tSupernatural'
+			'tSupernatural',
+			'tLovePolygon'
 		]
 	},
 	{
@@ -2369,10 +2394,11 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2016',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
-			'tSchool'
+			'tSchool',
+			'tOtakuCulture'
 		]
 	},
 	{
@@ -2387,10 +2413,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
-			'tSchool'
+			'tSchool',
+			'tOtakuCulture'
 		]
 	},
 	{
@@ -2404,7 +2431,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2425,7 +2452,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2446,7 +2473,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2467,7 +2494,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2488,7 +2515,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2014',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2509,7 +2536,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2521,16 +2548,16 @@ const anime = [
 	{
 		img: '12/74014',
 		name: [
-			'Nogizaka Haruka no Himitsu: Finale',
+			'Nogizaka Haruka no Himitsu Finale ♪',
 			'乃木坂春香の秘密 ふぃな～れ♪',
-			"Haruka Nogizaka's Secret: Finale"
+			"Haruka Nogizaka's Secret Finale"
 		],
 		studio: [
 			sDiomedéa
 		],
 		type: 'OVA',
 		season: 'Summer 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2540,20 +2567,19 @@ const anime = [
 	{
 		img: '10/74013',
 		name: [
-			'Nogizaka Haruka no Himitsu: Purezza',
-			'乃木坂春香の秘密ぴゃあれっつぁ',
-			"Haruka Nogizaka's Secret: Purezza"
+			'Nogizaka Haruka no Himitsu Purezza ♪',
+			'乃木坂春香の秘密ぴゃあれっつぁ♪',
+			"Haruka Nogizaka's Secret Purezza"
 		],
 		studio: [
 			sDiomedéa
 		],
 		type: 'TV',
 		season: 'Fall 2009',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tEcchi',
 			'tSchool'
 		]
 	},
@@ -2569,7 +2595,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2008',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2588,7 +2614,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2608,7 +2634,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2009',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2626,12 +2652,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2008',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tRomance',
-			'tSchool'
+			'tSchool',
+			'tLovePolygon'
 		]
 	},
 	{
@@ -2646,12 +2673,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tRomance',
-			'tSchool'
+			'tSchool',
+			'tVisualArts'
 		]
 	},
 	{
@@ -2666,14 +2694,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tSchool',
 			'tShounen',
 			'tSupernatural',
-			'tSuperPower'
+			'tSuperPower',
+			'tGagHumor'
 		]
 	},
 	{
@@ -2688,7 +2717,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -2708,7 +2737,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
-		source: '',
+		source: '4-koma manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2729,7 +2758,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2014',
-		source: '',
+		source: '4-koma manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -2750,7 +2779,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2022',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -2772,7 +2801,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -2793,14 +2822,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2022',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2814,14 +2844,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2020',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2835,14 +2866,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2020',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2856,14 +2888,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2879,14 +2912,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2016',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2903,14 +2937,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -2925,7 +2960,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2933,7 +2968,8 @@ const anime = [
 			'tSupernatural',
 			'tEcchi',
 			'tHarem',
-			'tSchool'
+			'tSchool',
+			'tVampire'
 		]
 	},
 	{
@@ -2947,12 +2983,15 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
 			'tComedy',
-			'tEcchi'
+			'tSciFi',
+			'tEcchi',
+			'tHarem',
+			'tMilitary'
 		]
 	},
 	{
@@ -2966,7 +3005,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -2974,7 +3013,9 @@ const anime = [
 			'tRomance',
 			'tSciFi',
 			'tEcchi',
+			'tHarem',
 			'tMilitary',
+			'tSuperPower',
 			'tSeinen'
 		]
 	},
@@ -2989,7 +3030,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2011',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3007,8 +3048,8 @@ const anime = [
 			sACGT
 		],
 		type: 'TV',
-		season: '',
-		source: '',
+		season: 'Winter 2011',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3016,6 +3057,9 @@ const anime = [
 			'tRomance',
 			'tSciFi',
 			'tEcchi',
+			'tHarem',
+			'tMilitary',
+			'tSuperPower',
 			'tSeinen'
 		]
 	},
@@ -3030,7 +3074,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2010',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3056,7 +3100,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -3077,12 +3121,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2010',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R+',
 		tag: [
 			'tDrama',
 			'tRomance',
-			'tHarem'
+			'tHarem',
+			'tErotica'
 		]
 	},
 	{
@@ -3097,14 +3142,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
+			'tAction',
 			'tAdventure',
 			'tFantasy',
-			'tRomance',
-			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tMilitary'
 		]
 	},
 	{
@@ -3119,13 +3164,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tRomance',
 			'tHarem',
+			'tReincarnation',
 			'tSchool'
 		]
 	},
@@ -3141,13 +3187,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tFantasy',
 			'tRomance',
-			'tEcchi',
 			'tHarem',
 			'tMilitary'
 		]
@@ -3164,7 +3209,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2016',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3188,7 +3233,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2019',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3209,7 +3254,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
-		source: '',
+		source: 'Game',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3233,7 +3278,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -3251,12 +3296,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2017',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tRomance',
-			'tSchool'
+			'tSchool',
+			'tLovePolygon'
 		]
 	},
 	{
@@ -3270,13 +3316,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2018',
-		source: '',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tDrama',
 			'tRomance',
 			'tSupernatural',
+			'tAdultCast',
+			'tVampire',
 			'tSeinen'
 		]
 	},
@@ -3292,13 +3340,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
-		source: '',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tDrama',
 			'tRomance',
 			'tSupernatural',
+			'tAdultCast',
+			'tVampire',
 			'tSeinen'
 		]
 	},
@@ -3313,7 +3363,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2010',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tEcchi'
@@ -3330,7 +3380,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2010',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -3352,14 +3402,16 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
+			'tAction',
 			'tComedy',
 			'tFantasy',
 			'tRomance',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tMythology'
 		]
 	},
 	{
@@ -3373,7 +3425,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2014',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tEcchi',
@@ -3391,7 +3443,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2014',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3414,7 +3466,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2012',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3437,7 +3489,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tSports',
@@ -3456,7 +3508,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3480,14 +3532,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -3502,14 +3555,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -3524,14 +3578,15 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -3546,14 +3601,15 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tComedy',
 			'tSupernatural',
 			'tEcchi',
-			'tHarem'
+			'tHarem',
+			'tVampire'
 		]
 	},
 	{
@@ -3567,7 +3623,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Summer 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3588,7 +3644,7 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Fall 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3609,7 +3665,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2009',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3630,7 +3686,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2014',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3650,12 +3706,12 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tRomance',
-			'tEcchi',
+			'tErotica',
 			'tHarem',
 			'tSchool',
 			'tSeinen'
@@ -3672,7 +3728,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2016',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3691,7 +3747,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2014',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3713,7 +3769,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3735,7 +3791,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2013',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3757,7 +3813,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Fall 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -3780,7 +3836,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2011',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -3803,10 +3859,10 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2022',
-		source: '',
+		source: 'Music',
 		rating: 'PG-13',
 		tag: [
-			'tMusic',
+			'tIdol',
 			'tSchool'
 		]
 	},
@@ -3822,12 +3878,13 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2021',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tEcchi',
-			'tRomance',
+			'tAdultCast',
+			'tRomanticSubtext',
 			'tWorkplace'
 		]
 	},
@@ -3842,12 +3899,13 @@ const anime = [
 		],
 		type: 'ONA',
 		season: 'Summer 2021',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tEcchi',
-			'tRomance',
+			'tAdultCast',
+			'tRomanticSubtext',
 			'tWorkplace'
 		]
 	},
@@ -3863,11 +3921,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2022',
-		source: '',
+		source: 'Manga',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
 			'tRomance',
+			'tAdultCast',
+			'tOrganizedCrime',
 			'tJosei'
 		]
 	},
@@ -3883,7 +3943,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2017',
-		source: '',
+		source: 'Mixed media',
 		rating: 'PG-13',
 		tag: [
 			'tRomance'
@@ -3900,7 +3960,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2010',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tSupernatural',
@@ -3918,7 +3978,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2010',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -3937,10 +3997,10 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2010',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
-			'tComedy',
+			'tDrama',
 			'tSupernatural',
 			'tSchool'
 		]
@@ -3957,14 +4017,18 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2012',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
+			'tAction',
 			'tAdventure',
+			'tComedy',
 			'tFantasy',
 			'tRomance',
 			'tEcchi',
-			'tIsekai'
+			'tHarem',
+			'tIsekai',
+			'tSchool'
 		]
 	},
 	{
@@ -3979,7 +4043,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2008',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4001,7 +4065,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2008',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4027,7 +4091,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2007',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4053,7 +4117,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2006',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4078,7 +4142,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4097,7 +4161,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Fall 2020',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -4115,7 +4179,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 'Winter 2019',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R-17+',
 		tag: [
 			'tAction',
@@ -4133,8 +4197,8 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2015',
-		source: '',
-		rating: 'R-17+',
+		source: 'Visual novel',
+		rating: 'R+',
 		tag: [
 			'tEcchi'
 		]
@@ -4151,7 +4215,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2015',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R-17+',
 		tag: [
 			'tDrama',
@@ -4172,7 +4236,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Spring 2015',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R+',
 		tag: [
 			'tDrama'
@@ -4189,7 +4253,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Fall 2014',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R+',
 		tag: [
 			'tEcchi'
@@ -4207,7 +4271,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2014',
-		source: '',
+		source: 'Visual novel',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -4229,11 +4293,11 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tGame'
+			'tStrategyGame'
 		]
 	},
 	{
@@ -4247,7 +4311,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2016',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4270,7 +4334,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Summer 2017',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
@@ -4289,7 +4353,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4307,7 +4371,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2019',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
 			'tRomance',
@@ -4315,7 +4379,7 @@ const anime = [
 			'tHistorical',
 			'tHarem',
 			'tTimeTravel',
-			'tShoujo'
+			'tJosei'
 		]
 	},
 	{
@@ -4329,7 +4393,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2017',
-		source: '',
+		source: 'Manga',
 		rating: 'R+',
 		tag: [
 			'tDrama',
@@ -4337,7 +4401,8 @@ const anime = [
 			'tEcchi',
 			'tMusic',
 			'tSchool',
-			'tShounen'
+			'tShounen',
+			'tLovePolygon'
 		]
 	},
 	{
@@ -4352,14 +4417,16 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2018',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
 			'tFantasy',
 			'tRomance',
 			'tSchool',
-			'tTimeTravel'
+			'tTimeTravel',
+			'tLovePolygon',
+			'tVisualArts'
 		]
 	},
 	{
@@ -4374,7 +4441,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4392,7 +4459,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2016',
-		source: '',
+		source: 'Web manga',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4412,7 +4479,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
-		source: '',
+		source: 'Visual novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
@@ -4435,7 +4502,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2017',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tDrama',
@@ -4456,13 +4523,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2019',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tRomance',
+			'tLovePolygon',
+			'tRomanticSubtext',
 			'tSchool',
-			'tGame',
+			'tVideoGame',
 			'tSeinen'
 		]
 	},
@@ -4478,13 +4546,14 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2019',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tRomance',
+			'tLovePolygon',
+			'tRomanticSubtext',
 			'tSchool',
-			'tGame',
+			'tVideoGame',
 			'tSeinen'
 		]
 	},
@@ -4500,13 +4569,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		source: '',
+		source: 'Manga',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
-			'tRomance',
+			'tLovePolygon',
+			'tRomanticSubtext',
 			'tSchool',
-			'tGame',
+			'tVideoGame',
 			'tSeinen'
 		]
 	},
@@ -4521,7 +4591,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Summer 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4541,7 +4611,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tAction',
@@ -4562,13 +4632,14 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'PG-13',
 		tag: [
 			'tFantasy',
 			'tRomance',
 			'tHarem',
-			'tSchool'
+			'tSchool',
+			'tAction'
 		]
 	},
 	{
@@ -4583,7 +4654,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Winter 2018',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4606,7 +4677,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Fall 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4629,7 +4700,7 @@ const anime = [
 		],
 		type: 'OVA',
 		season: 'Spring 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4652,7 +4723,7 @@ const anime = [
 		],
 		type: 'Special',
 		season: 'Winter 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tComedy',
@@ -4673,7 +4744,7 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Winter 2015',
-		source: '',
+		source: 'Light novel',
 		rating: 'R+',
 		tag: [
 			'tAction',
@@ -4696,12 +4767,13 @@ const anime = [
 		],
 		type: 'TV',
 		season: 'Spring 2018',
-		source: '',
+		source: 'Original',
 		rating: 'PG-13',
 		tag: [
 			'tComedy',
 			'tRomance',
-			'tSchool'
+			'tSchool',
+			'tVisualArts'
 		]
 	},
 	{
@@ -5103,6 +5175,30 @@ const anime = [
 			'tComedy',
 			'tRomance',
 			'tSchool'
+		]
+	},
+	{
+		img: '1490/126919',
+		name: [
+			'Isekai Meikyuu de Harem wo',
+			'異世界迷宮でハーレムを',
+			'Harem in the Labyrinth of Another World'
+		],
+		studio: [
+			sPassione
+		],
+		type: 'TV',
+		season: 'Summer 2022',
+		source: 'Light novel',
+		rating: 'R+',
+		tag: [
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tErotica',
+			'tHarem',
+			'tIsekai'
 		]
 	},
 	{

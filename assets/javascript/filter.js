@@ -55,7 +55,6 @@ for(var i = 0; i < tagListTemp.length; i++){
 }
 
 const sourceList = [
-	'Original',
 	'Manga',
 	'4-koma manga',
 	'Web manga',
@@ -63,7 +62,10 @@ const sourceList = [
 	'Light novel',
 	'Web novel',
 	'Visual novel',
-	'Game'
+	'Original',
+	'Game',
+	'Music',
+	'Mixed media'
 ]
 let sourceTemp = ``;
 for(var i = 0; i < sourceList.length; i++){

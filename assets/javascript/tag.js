@@ -218,13 +218,37 @@ const tHighStakesGame = {
 	name: 'High Stakes Game',
 	id: 'tHighStakesGame'
 }
-const tStrategyGame = {
-	name: 'Strategy Game',
-	id: 'tStrategyGame'
-}
 const tGore = {
 	name: 'Gore',
 	id: 'tGore'
+}
+const tOrganizedCrime = {
+	name: 'Organized Crime',
+	id: 'tOrganizedCrime'
+}
+const tSamurai = {
+	name: 'Samurai',
+	id: 'tSamurai'
+}
+const tVisualArts = {
+	name: 'Visual Arts',
+	id: 'tVisualArts'
+}
+const tCGDCT = {
+	name: 'CGDCT',
+	id: 'tCGDCT'
+}
+const tLovePolygon = {
+	name: 'Love Polygon',
+	id: 'tLovePolygon'
+}
+const tErotica = {
+	name: 'Erotica',
+	id: 'tErotica'
+}
+const tIdol = {
+	name: 'Idol',
+	id: 'tIdol'
 }
 
 const tagList = [
@@ -283,6 +307,12 @@ const tagList = [
 	tGagHumor,
 	tVideoGame,
 	tHighStakesGame,
-	tStrategyGame,
-	tGore
+	tGore,
+	tOrganizedCrime,
+	tSamurai,
+	tVisualArts,
+	tCGDCT,
+	tLovePolygon,
+	tErotica,
+	tIdol
 ]
