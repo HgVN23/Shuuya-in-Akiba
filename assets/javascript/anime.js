@@ -18,6 +18,107 @@ const anime = [
 		]
 	},
 	{
+		img: '1951/138462',
+		name: [
+			'Boushoku no Berserk',
+			'暴食のベルセルク',
+			'Berserk of Gluttony'
+		],
+		studio: [
+			sACGT
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Light novel',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tFantasy'
+		]
+	},
+	{
+		img: '1918/138185',
+		name: [
+			'Dekoboko Majo no Oyako Jijou',
+			'でこぼこ魔女の親子事情',
+			'The Family Circumstances of the Irregular Witch'
+		],
+		studio: [
+			sAReal
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: '4-koma manga',
+		rating: 'PG-13',
+		tag: [
+			'tComedy',
+			'tFantasy',
+			'tGagHumor'
+		]
+	},
+	{
+		img: '1591/137973',
+		name: [
+			'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su',
+			'シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～',
+			'Shangri-La Frontier'
+		],
+		studio: [
+			sC2C
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Manga',
+		rating: 'PG-13',
+		tag: [
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tVideoGame',
+			'tShounen'
+		]
+	},
+	{
+		img: '1661/137709',
+		name: [
+			'Ragna Crimson',
+			'ラグナクリムゾン'
+		],
+		studio: [
+			sSILVERLINK
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Manga',
+		rating: '',
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tShounen'
+		]
+	},
+	{
+		img: '1015/138006',
+		name: [
+			'Sousou no Frieren',
+			'葬送のフリーレン',
+			"Frieren: Beyond Journey's End"
+		],
+		studio: [
+			sMadhouse
+		],
+		type: 'TV',
+		season: 'Fall 2023',
+		source: 'Manga',
+		rating: 'PG-13',
+		tag: [
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tShounen'
+		]
+	},
+	{
 		img: '1833/138479',
 		name: [
 			'Ojou to Banken-kun',

@@ -677,6 +677,11 @@ const sFanworks = {
 	id: 866,
 	img: 'afd0a3de-886b-494d-9ce5-32c19bcb8a95_600x600_i?s=2743dca08b7a60419cfcc942282cb28b'
 };
+const sAReal = {
+	name: 'A-Real',
+	id: 1257,
+	img: ''
+};
 
 const studioList = [
 	// sNone,
@@ -815,5 +820,6 @@ const studioList = [
 	sGaina,
 	sProductionIMS,
 	sAICPLUS,
-	sFanworks
+	sFanworks,
+	sAReal
 ]
