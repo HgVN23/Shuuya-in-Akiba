@@ -376,6 +376,18 @@
 .tIdol::after {
 	content: 'Thần tượng';
 }
+.tMahouShoujo::before {
+	content: 'Mahou Shoujo';
+}
+.tMahouShoujo::after {
+	content: 'Thiếu nữ ma pháp';
+}
+.tCrossdressing::before {
+	content: 'Crossdressing';
+}
+.tCrossdressing::after {
+	content: 'Hóa trang khác giới';
+}
 
 .tag::after {
 	background-color: var(--bg);

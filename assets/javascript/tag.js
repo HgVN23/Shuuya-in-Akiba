@@ -250,6 +250,14 @@ const tIdol = {
 	name: 'Idol',
 	id: 'tIdol'
 }
+const tMahouShoujo = {
+	name: 'Mahou Shoujo',
+	id: 'tMahouShoujo'
+}
+const tCrossdressing = {
+	name: 'Crossdressing',
+	id: 'tCrossdressing'
+}
 
 const tagList = [
 	tAction,
@@ -314,5 +322,7 @@ const tagList = [
 	tCGDCT,
 	tLovePolygon,
 	tErotica,
-	tIdol
+	tIdol,
+	tMahouShoujo,
+	tCrossdressing
 ]
