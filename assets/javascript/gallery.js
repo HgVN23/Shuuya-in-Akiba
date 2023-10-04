@@ -107,7 +107,7 @@ function addAnime(list) {
 		// let synopsis = temp.synopsis;
 		let tag = ``;
 		for(var j = 0; j < temp.tag.length; j++) {
-			tag += `<div class="tag ${temp.tag[j]}"></div>\n`
+			tag += `<div class="tag ${sortList(temp.tag)[j].id}"></div>\n`
 		}
 		// let character = ``;
 		// for(var j = 0; j < temp.character.main.length; j++) {
@@ -129,7 +129,7 @@ function addAnime(list) {
 
 		const format = `
 			<div class="anime">
-				<div class="status sMin s${status}">
+				<div class="status sMin s${statusList[status]}">
 					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
 					<!-- <img class="min" src="assets/media/test.png" alt="${name}"> -->
 					<div class="name">${name}</div>
@@ -150,9 +150,9 @@ function addAnime(list) {
 							</div>
 							<div class="smallInfo">
 								<p class="type">${type}</p>
-								<p class="season">${season} ${year}</p>
+								<p class="season">${seasonList[season]} ${year}</p>
 								<p class="source">${source}</p>
-								<p class="rating">${rating}</p>
+								<p class="rating">${ratingList[rating]}</p>
 							</div>
 						</div>
 						<div class="tagBox">

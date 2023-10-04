@@ -40,12 +40,6 @@
 .tJosei::after {
 	content: 'Cho độc giả nữ 18+';
 }
-.tGame::before {
-	content: 'Game';
-}
-.tGame::after {
-	content: 'Video/Board Game';
-}
 .tGenben::before {
 	content: 'Genben';
 }
@@ -189,12 +183,6 @@
 }
 .tShounen::after {
 	content: 'Cho độc giả nam < 18';
-}
-.tStrategy::before {
-	content: 'Strategy';
-}
-.tStrategy::after {
-	content: 'Chiến lược';
 }
 .tSupernatural::before {
 	content: 'Supernatural';

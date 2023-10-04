@@ -26,10 +26,6 @@ const tJosei = {
 	name: 'Josei',
 	id: 'tJosei'
 }
-const tGame = {
-	name: 'Game',
-	id: 'tGame'
-}
 const tGenben = {
 	name: 'Genben',
 	id: 'tGenben'
@@ -125,10 +121,6 @@ const tShoujo = {
 const tShounen = {
 	name: 'Shounen',
 	id: 'tShounen'
-}
-const tStrategy = {
-	name: 'Strategy',
-	id: 'tStrategy'
 }
 const tSupernatural = {
 	name: 'Supernatural',
@@ -267,7 +259,6 @@ const tagList = [
 	tEcchi,
 	tFantasy,
 	tJosei,
-	tGame,
 	tGenben,
 	tGourmet,
 	tHarem,
@@ -292,7 +283,6 @@ const tagList = [
 	tSliceOfLife,
 	tShoujo,
 	tShounen,
-	tStrategy,
 	tSupernatural,
 	tSuperPower,
 	tTimeTravel,

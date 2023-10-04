@@ -27,9 +27,10 @@ const seasonList = [
 	'Summer',
 	'Fall'
 ]
+
 let seasonTemp = ``;
 for(var i = 0; i < seasonList.length; i++){
-	seasonTemp += `<div class="tag" id="${seasonList[i]}">${seasonList[i]}</div>`
+	seasonTemp += `<div class="tag" id="${seasonList.indexOf(seasonList[i])}">${seasonList[i]}</div>`
 }
 
 const ratingList = [
@@ -39,7 +40,7 @@ const ratingList = [
 ]
 let ratingTemp = ``;
 for(var i = 0; i < ratingList.length; i++){
-	ratingTemp += `<div class="tag" id="${ratingList[i]}">${ratingList[i]}</div>`
+	ratingTemp += `<div class="tag" id="${ratingList.indexOf(ratingList[i])}">${ratingList[i]}</div>`
 }
 
 const yearNow = new Date().getFullYear()
@@ -78,7 +79,7 @@ const statusList = [
 ]
 let statusTemp = ``;
 for(var i = 0; i < statusList.length; i++){
-	statusTemp += `<div class="tag" id="${statusList[i]}">${statusList[i]}</div>`
+	statusTemp += `<div class="tag" id="${ratingList.indexOf(statusList[i])}">${statusList[i]}</div>`
 }
 
 filter();
@@ -147,7 +148,7 @@ function filterMulti(get, from) {
 		for(var j = 0; j < from[i][data].length; j++) {
 			for(var k = 0; k < tagGet.length; k++)
 				if(tagGet[k].classList.contains('fSelected')) {
-					if(from[i][data[j]].id == tagGet[k].id) {
+					if(from[i][data][j].id == tagGet[k].id) {
 						temp[fN] = from[i];
 						fN++;
 						checkBreak = true; 

@@ -1,7 +1,3 @@
-const sNone = {
-	name: 'None',
-	id: 'placeholder'
-};
 const sFeel = {
 	name: 'feel.',
 	id: 91,
@@ -689,7 +685,6 @@ const sDigitalNetworkAnimation = {
 };
 
 const studioList = [
-	// sNone,
 	sFeel,
 	s8bit,
 	sPAWorks,
