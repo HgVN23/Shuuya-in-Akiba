@@ -173,12 +173,13 @@ header {
 	overflow: auto;
 	z-index: 2;
 }
-.fStudios,
+.fStudio,
 .fType,
 .fSeason,
 .fSource,
 .fRating,
 .fYear,
+.fStatus,
 .fTag {
 	border-left: .2rem solid aqua;
 	margin: .5rem 1rem 1rem 1rem;
@@ -451,7 +452,7 @@ h3::after {
 .split2 {
 	display: flex;
 }
-.studios {
+.studio {
 	margin: 1rem 1rem 0 1rem;
 }
 .sImg {
@@ -464,7 +465,7 @@ h3::after {
 }
 .toolBox::before,
 .search::before,
-.studios::before,
+.studio::before,
 .type::before,
 .season::before,
 .source::before,
@@ -478,7 +479,7 @@ h3::after {
 	font-weight: bolder;
 	color: aqua;
 }
-.studios::before {
+.studio::before {
 	content: 'Studios:';
 }
 .type::before {
@@ -501,7 +502,7 @@ p {
 	word-break: break-word;
 	cursor: default;
 }
-.studios::before,
+.studio::before,
 /*.synopsis::before,*/
 .tagBox::before,
 /*.characterBox::before,*/
@@ -591,6 +592,35 @@ p {
 .rAniPlayList {
 	content: url(../media/icon/aniPlayList.png);
 }
+.status {
+	position: relative;
+}
+.status::after {
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.sMin::after {
+	width: 3rem;
+	height: 3rem;
+}
+.sMax::after {
+	width: 5rem;
+	height: 5rem;
+}
+.sOngoing::after {
+	content: '';
+	background: url(../media/icon/status_ongoing.png);
+	background-size: contain;
+}
+.sCompleted::after {
+	content: '';
+	background: url(../media/icon/status_completed.png);
+	background-size: contain;
+}
+
+
+
 /*.textLink {
 	width: fit-content;
 }

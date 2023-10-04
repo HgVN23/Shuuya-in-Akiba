@@ -1,21 +1,45 @@
 const anime = [
+	// {
+	// 	img: '',
+	// 	name: [
+	// 		'',
+	// 		'',
+	// 		''
+	// 	],
+	// 	studio: [
+	// 		sNone
+	// 	],
+	// 	type: 'TV',
+	// 	season: 'Fall',
+	// 	year: 2023,
+	// 	source: '',
+	// 	rating: 'PG-13',
+	// 	status: 'Ongoing',
+	// 	tag: [
+	// 		't'
+	// 	]
+	// },
 	{
-		img: '',
+		img: '1142/137572',
 		name: [
-			'',
-			'',
-			''
+			'Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu',
+			'婚約破棄された令嬢を拾った俺が、イケナイことを教え込む',
+			"I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness"
 		],
 		studio: [
-			sNone
+			sZeroG,
+			sDigitalNetworkAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2023',
-		source: '',
+		season: 'Fall',
+		year: 2023,
+		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
-			't'
+			'tComedy',
+			'tFantasy',
+			'tRomance'
 		]
 	},
 	{
@@ -29,10 +53,11 @@ const anime = [
 			sPlatinumVision
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -52,10 +77,11 @@ const anime = [
 			sPassione
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -75,10 +101,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -97,10 +124,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -119,10 +147,11 @@ const anime = [
 			sACGT
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tFantasy'
@@ -139,10 +168,11 @@ const anime = [
 			sAReal
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -160,10 +190,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -182,10 +213,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -203,10 +235,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAdventure',
 			'tDrama',
@@ -225,10 +258,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -246,10 +280,11 @@ const anime = [
 			sTyphoonGraphics
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -267,10 +302,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -288,10 +324,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tFantasy'
@@ -307,10 +344,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tHorror',
 			'tSupernatural',
@@ -328,10 +366,11 @@ const anime = [
 			sActas
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -351,10 +390,11 @@ const anime = [
 			sBUGFILMS
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -376,10 +416,11 @@ const anime = [
 			sGekkou
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -397,10 +438,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSuspense',
 			'tPsychological',
@@ -419,10 +461,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tHarem',
@@ -441,10 +484,11 @@ const anime = [
 			sGoHands
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -463,16 +507,39 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSciFi',
 			'tSuspense',
 			'tPsychological',
 			'tShounen'
+		]
+	},
+	{
+		img: '1396/136273',
+		name: [
+			'Nanatsu no Maken ga Shihai suru',
+			'七つの魔剣が支配する',
+			'Reign of the Seven Spellblades'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 'Summer',
+		year: 2023,
+		source: 'Light novel',
+		rating: 'PG-13',
+		status: 'Ongoing',
+		tag: [
+			'tAction',
+			'tFantasy',
+			'tSchool'
 		]
 	},
 	{
@@ -487,10 +554,11 @@ const anime = [
 			sCloudHearts
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -509,10 +577,11 @@ const anime = [
 			sOLMTeamYoshioka
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -531,10 +600,11 @@ const anime = [
 			sLapinTrack
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tMystery',
@@ -555,10 +625,11 @@ const anime = [
 			sAXsiZ
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -577,10 +648,11 @@ const anime = [
 			sKinemaCitrus
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -600,10 +672,11 @@ const anime = [
 			sGoHands
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -623,10 +696,11 @@ const anime = [
 			sAXsiZ
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -644,10 +718,11 @@ const anime = [
 			sSynergySP
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -666,10 +741,11 @@ const anime = [
 			sBlade
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy'
@@ -686,10 +762,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Game',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy'
@@ -706,10 +783,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -728,10 +806,11 @@ const anime = [
 			sStudioBlanc
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tMythology'
@@ -748,10 +827,11 @@ const anime = [
 			sStapleEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -770,10 +850,11 @@ const anime = [
 			sSunrise
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy'
 		]
@@ -788,10 +869,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -809,10 +891,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'TV',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tHarem',
@@ -831,10 +914,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -853,10 +937,11 @@ const anime = [
 			sNipponAnimation
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'ongoing',
+		status: 'Ongoing',
 		tag: [
 			'tDrama',
 			'tMusic',
@@ -874,10 +959,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSupernatural',
@@ -896,10 +982,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -919,10 +1006,11 @@ const anime = [
 			sTyphoonGraphics
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -941,10 +1029,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -962,10 +1051,11 @@ const anime = [
 			sStudioElle
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -986,10 +1076,11 @@ const anime = [
 			sAsahiProduction
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSupernatural',
@@ -1009,10 +1100,11 @@ const anime = [
 			sSynergySP
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSciFi',
@@ -1031,10 +1123,11 @@ const anime = [
 			sTezukaProductions
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -1054,10 +1147,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tShounen',
@@ -1076,10 +1170,11 @@ const anime = [
 			sStudioLings
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace',
@@ -1097,10 +1192,11 @@ const anime = [
 			sGekkou
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -1119,10 +1215,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1144,10 +1241,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1168,10 +1266,11 @@ const anime = [
 			sStudioPalette
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1193,10 +1292,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSchool',
@@ -1214,10 +1314,11 @@ const anime = [
 			sMillepensee
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -1237,10 +1338,11 @@ const anime = [
 			sStudioSignpost
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -1260,10 +1362,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1284,10 +1387,11 @@ const anime = [
 			sProductionIG
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tMystery',
@@ -1307,10 +1411,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -1329,10 +1434,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tVideoGame'
@@ -1350,10 +1456,11 @@ const anime = [
 			sVegaEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSupernatural',
 			'tSuspense',
@@ -1373,10 +1480,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1395,10 +1503,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -1416,10 +1525,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1438,10 +1548,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -1461,10 +1572,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'Special',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSchool',
@@ -1481,10 +1593,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSchool',
@@ -1502,10 +1615,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -1526,10 +1640,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -1550,10 +1665,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'Movie',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -1572,10 +1688,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'Movie',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai'
@@ -1592,10 +1709,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -1616,10 +1734,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSchool',
@@ -1638,10 +1757,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1662,10 +1782,11 @@ const anime = [
 			sCoMixWaveFilms
 		],
 		type: 'Movie',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -1682,10 +1803,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1708,10 +1830,11 @@ const anime = [
 			sPINEJAM
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -1730,10 +1853,11 @@ const anime = [
 			sMappa
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -1752,10 +1876,11 @@ const anime = [
 			sBandaiNamcoPictures
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1775,10 +1900,11 @@ const anime = [
 			sBandaiNamcoPictures
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1798,10 +1924,11 @@ const anime = [
 			sAshiProductions
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1821,10 +1948,11 @@ const anime = [
 			sStudioComet
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -1843,10 +1971,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Movie',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomanticSubtext',
@@ -1864,10 +1993,11 @@ const anime = [
 			sCoMixWaveFilms
 		],
 		type: 'Movie',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance'
@@ -1884,10 +2014,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -1906,10 +2037,11 @@ const anime = [
 			sFelixFilm
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai'
@@ -1926,10 +2058,11 @@ const anime = [
 			sStudioBlanc
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -1948,10 +2081,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -1970,10 +2104,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool'
@@ -1988,10 +2123,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -2010,10 +2146,11 @@ const anime = [
 			sAsahiProduction
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -2031,10 +2168,11 @@ const anime = [
 			sTezukaProductions
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -2052,10 +2190,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Original',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -2076,10 +2215,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tDrama',
@@ -2099,10 +2239,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tDrama',
@@ -2123,10 +2264,11 @@ const anime = [
 			sZeroG
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -2144,10 +2286,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tCGDCT',
@@ -2167,10 +2310,11 @@ const anime = [
 			sCloudHearts
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -2188,10 +2332,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -2209,10 +2354,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -2230,10 +2376,11 @@ const anime = [
 			sLayduce
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -2251,10 +2398,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tIyashikei',
 			'tSchool',
@@ -2271,10 +2419,11 @@ const anime = [
 			sQuad
 		],
 		type: 'Special',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi'
@@ -2291,10 +2440,11 @@ const anime = [
 			sQuad
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi'
@@ -2312,10 +2462,11 @@ const anime = [
 			sLiber
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -2336,10 +2487,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -2358,10 +2510,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -2378,10 +2531,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tOtakuCulture',
@@ -2399,10 +2553,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'OVA',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tOtakuCulture',
@@ -2420,10 +2575,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tOtakuCulture',
@@ -2441,10 +2597,11 @@ const anime = [
 			sStudioPuYUKAI
 		],
 		type: 'Movie',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -2462,10 +2619,11 @@ const anime = [
 			sStudioPuYUKAI
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -2483,10 +2641,11 @@ const anime = [
 			sStudioPuYUKAI
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -2504,10 +2663,11 @@ const anime = [
 			sPassione
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: '4-koma	manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSliceOfLife',
@@ -2526,10 +2686,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'OVA',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tMusic',
 			'tShounen'
@@ -2546,10 +2707,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -2569,10 +2731,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'Special',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -2592,10 +2755,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -2616,10 +2780,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tOtakuCulture',
@@ -2638,10 +2803,11 @@ const anime = [
 			sZeroG
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tAdultCast',
@@ -2659,10 +2825,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'Special',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -2680,10 +2847,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -2703,10 +2871,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'OVA',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSchool',
 			'tOtakuCulture'
@@ -2723,10 +2892,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSchool',
 			'tOtakuCulture'
@@ -2742,10 +2912,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'Special',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tHarem',
@@ -2764,10 +2935,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'TV',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tHarem',
@@ -2786,10 +2958,11 @@ const anime = [
 			sLerche
 		],
 		type: 'Special',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -2808,10 +2981,11 @@ const anime = [
 			sLerche
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -2830,10 +3004,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'OVA',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tHarem',
@@ -2852,10 +3027,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tHarem',
@@ -2874,10 +3050,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'OVA',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -2894,10 +3071,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Fall 2009',
+		season: 'Fall',
+		year: 2009,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -2914,10 +3092,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Summer 2008',
+		season: 'Summer',
+		year: 2008,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -2934,10 +3113,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Special',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tGourmet',
@@ -2955,10 +3135,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Special',
-		season: 'Winter 2009',
+		season: 'Winter',
+		year: 2009,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tGourmet'
@@ -2974,10 +3155,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Fall 2008',
+		season: 'Fall',
+		year: 2008,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -2996,10 +3178,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -3018,10 +3201,11 @@ const anime = [
 			sStudioFlad
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool',
@@ -3042,10 +3226,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -3063,10 +3248,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -3085,10 +3271,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -3107,10 +3294,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -3130,10 +3318,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -3152,10 +3341,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3175,10 +3365,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3198,10 +3389,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3221,10 +3413,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3246,10 +3439,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Fall 2016',
+		season: 'Fall',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3272,10 +3466,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3296,10 +3491,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3320,10 +3516,11 @@ const anime = [
 			sACGT
 		],
 		type: 'Special',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3343,10 +3540,11 @@ const anime = [
 			sACGT
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -3369,10 +3567,11 @@ const anime = [
 			sACGT
 		],
 		type: 'Special',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3389,10 +3588,11 @@ const anime = [
 			sACGT
 		],
 		type: 'TV',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -3415,10 +3615,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'TV',
-		season: 'Winter 2010',
+		season: 'Winter',
+		year: 2010,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3442,10 +3643,11 @@ const anime = [
 			sWitStudio
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -3464,10 +3666,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -3486,10 +3689,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -3509,10 +3713,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3533,10 +3738,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3556,10 +3762,11 @@ const anime = [
 			sLerche
 		],
 		type: 'TV',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -3581,10 +3788,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -3603,10 +3811,11 @@ const anime = [
 			sGonzo
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Game',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3628,10 +3837,11 @@ const anime = [
 			sAXsiZ
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tHarem',
@@ -3647,10 +3857,11 @@ const anime = [
 			sPINEJAM
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -3668,10 +3879,11 @@ const anime = [
 			sPlatinumVision
 		],
 		type: 'OVA',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -3693,10 +3905,11 @@ const anime = [
 			sPlatinumVision
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -3717,10 +3930,11 @@ const anime = [
 			sXebec
 		],
 		type: 'Special',
-		season: 'Winter 2010',
+		season: 'Winter',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tEcchi'
 		]
@@ -3735,10 +3949,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Winter 2010',
+		season: 'Winter',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -3758,10 +3973,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3782,10 +3998,11 @@ const anime = [
 			sXebec
 		],
 		type: 'Special',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tEcchi',
 			'tShounen'
@@ -3801,10 +4018,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tEcchi',
@@ -3825,10 +4043,11 @@ const anime = [
 			sAICSpirits
 		],
 		type: 'OVA',
-		season: 'Winter 2012',
+		season: 'Winter',
+		year: 2012,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tEcchi',
@@ -3849,10 +4068,11 @@ const anime = [
 			sAICSpirits
 		],
 		type: 'Special',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSports',
 			'tEcchi',
@@ -3869,10 +4089,11 @@ const anime = [
 			sAICSpirits
 		],
 		type: 'TV',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tEcchi',
@@ -3894,10 +4115,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'OVA',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3918,10 +4140,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Spring 2012',
+		season: 'Spring',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3942,10 +4165,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'OVA',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3966,10 +4190,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -3989,10 +4214,11 @@ const anime = [
 			sAIC
 		],
 		type: 'OVA',
-		season: 'Summer 2013',
+		season: 'Summer',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tHarem',
@@ -4011,10 +4237,11 @@ const anime = [
 			sAIC
 		],
 		type: 'ONA',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tHarem',
@@ -4033,10 +4260,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Fall 2009',
+		season: 'Fall',
+		year: 2009,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tHarem',
@@ -4055,10 +4283,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -4076,10 +4305,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -4099,10 +4329,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -4119,10 +4350,11 @@ const anime = [
 			s8bit
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -4142,10 +4374,11 @@ const anime = [
 			s8bit
 		],
 		type: 'OVA',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -4165,10 +4398,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -4188,10 +4422,11 @@ const anime = [
 			s8bit
 		],
 		type: 'OVA',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -4212,10 +4447,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -4236,10 +4472,11 @@ const anime = [
 			sLayduce
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Music',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tIdol',
 			'tSchool'
@@ -4256,10 +4493,11 @@ const anime = [
 			sAtelierPontdarc
 		],
 		type: 'Special',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -4278,10 +4516,11 @@ const anime = [
 			sAtelierPontdarc
 		],
 		type: 'ONA',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -4301,10 +4540,11 @@ const anime = [
 			sPlatinumVision
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -4324,10 +4564,11 @@ const anime = [
 			sPierrot
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Mixed media',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance'
 		]
@@ -4342,10 +4583,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'Special',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSupernatural',
 			'tSchool'
@@ -4361,10 +4603,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'Special',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -4381,10 +4624,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tSupernatural',
@@ -4402,10 +4646,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2012',
+		season: 'Winter',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -4429,10 +4674,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Special',
-		season: 'Fall 2008',
+		season: 'Fall',
+		year: 2008,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -4452,10 +4698,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2008',
+		season: 'Summer',
+		year: 2008,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -4479,10 +4726,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2007',
+		season: 'Summer',
+		year: 2007,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -4506,10 +4754,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2006',
+		season: 'Summer',
+		year: 2006,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -4532,10 +4781,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4552,10 +4802,11 @@ const anime = [
 			sBiburyAnimationStudios
 		],
 		type: 'Movie',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Visual novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSchool'
@@ -4571,10 +4822,11 @@ const anime = [
 			sBiburyAnimationStudios
 		],
 		type: 'Movie',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Visual novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSchool'
@@ -4590,10 +4842,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tEcchi'
 		]
@@ -4609,10 +4862,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Visual novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4631,10 +4885,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama'
 		]
@@ -4649,10 +4904,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tEcchi'
 		]
@@ -4668,10 +4924,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4691,10 +4948,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tStrategyGame'
@@ -4710,10 +4968,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -4734,10 +4993,11 @@ const anime = [
 			sFeel
 		],
 		type: 'Special',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -4754,10 +5014,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool'
@@ -4773,10 +5034,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSupernatural',
@@ -4796,10 +5058,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4821,10 +5084,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -4846,10 +5110,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'Special',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4865,10 +5130,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -4886,10 +5152,11 @@ const anime = [
 			sZeroG
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -4910,10 +5177,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -4932,10 +5200,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tLovePolygon',
@@ -4956,10 +5225,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'OVA',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tLovePolygon',
@@ -4980,10 +5250,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tLovePolygon',
@@ -5003,10 +5274,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -5024,10 +5296,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -5046,10 +5319,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -5069,10 +5343,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'OVA',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5093,10 +5368,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5117,10 +5393,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'OVA',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5141,10 +5418,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'Special',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -5163,10 +5441,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5187,10 +5466,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Original',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -5209,10 +5489,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'OVA',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5230,10 +5511,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5253,10 +5535,11 @@ const anime = [
 			sNexus
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5275,10 +5558,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tHistorical',
@@ -5296,10 +5580,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'ONA',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5317,10 +5602,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5340,10 +5626,11 @@ const anime = [
 			sLesprit
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -5362,10 +5649,11 @@ const anime = [
 			sBones
 		],
 		type: 'Movie',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5384,10 +5672,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5406,10 +5695,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5427,10 +5717,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5448,10 +5739,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5470,10 +5762,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -5494,10 +5787,11 @@ const anime = [
 			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -5516,10 +5810,11 @@ const anime = [
 			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -5537,10 +5832,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'OVA',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSeinen'
@@ -5556,10 +5852,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool',
@@ -5579,10 +5876,11 @@ const anime = [
 			sLapinTrack
 		],
 		type: 'OVA',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tWorkplace',
@@ -5601,10 +5899,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tWorkplace',
@@ -5623,10 +5922,11 @@ const anime = [
 			sNomad
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -5644,10 +5944,11 @@ const anime = [
 			sPassione
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -5669,10 +5970,11 @@ const anime = [
 			sGraphinica
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -5693,10 +5995,11 @@ const anime = [
 			sGraphinica
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -5716,10 +6019,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Fall 2023',
+		season: 'Fall',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Ongoing',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -5738,10 +6042,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tRomance',
@@ -5760,10 +6065,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -5782,10 +6088,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -5804,10 +6111,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -5825,10 +6133,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -5846,10 +6155,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace',
@@ -5867,10 +6177,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'Movie',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -5888,10 +6199,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'Special',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -5910,10 +6222,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -5933,10 +6246,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Movie',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5955,10 +6269,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Movie',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -5976,10 +6291,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy'
@@ -5995,10 +6311,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSliceOfLife',
 			'tSupernatural'
@@ -6015,10 +6332,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -6036,10 +6354,11 @@ const anime = [
 			sProductionIG
 		],
 		type: 'OVA',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -6058,10 +6377,11 @@ const anime = [
 			sProductionIG
 		],
 		type: 'TV',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -6079,10 +6399,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -6103,10 +6424,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'Movie',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomanticSubtext',
 			'tSchool',
@@ -6124,10 +6446,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6146,10 +6469,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6168,10 +6492,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'OVA',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6189,10 +6514,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6211,10 +6537,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6233,10 +6560,11 @@ const anime = [
 			sXebec
 		],
 		type: 'OVA',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6254,10 +6582,11 @@ const anime = [
 			sXebec
 		],
 		type: 'OVA',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -6275,10 +6604,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSciFi',
@@ -6296,10 +6626,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Spring 2012',
+		season: 'Spring',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSciFi',
@@ -6317,10 +6648,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -6339,10 +6671,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -6361,10 +6694,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -6383,10 +6717,11 @@ const anime = [
 			sTrigger
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -6406,10 +6741,11 @@ const anime = [
 			sNAZ
 		],
 		type: 'OVA',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6430,10 +6766,11 @@ const anime = [
 			sNAZ
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6454,10 +6791,11 @@ const anime = [
 			sLayduce
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Music',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -6476,10 +6814,11 @@ const anime = [
 			sQualiaAnimation
 		],
 		type: 'Movie',
-		season: 'Fall 2016',
+		season: 'Fall',
+		year: 2016,
 		source: 'Music',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -6498,10 +6837,11 @@ const anime = [
 			sQualiaAnimation
 		],
 		type: 'Movie',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Music',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool'
@@ -6518,10 +6858,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6539,10 +6880,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomanticSubtext',
@@ -6559,10 +6901,11 @@ const anime = [
 			sFelixFilm
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSliceOfLife',
@@ -6579,10 +6922,11 @@ const anime = [
 			sFelixFilm
 		],
 		type: 'ONA',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -6598,10 +6942,11 @@ const anime = [
 			sFelixFilm
 		],
 		type: 'OVA',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -6617,10 +6962,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tAdultCast',
@@ -6639,10 +6985,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'OVA',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tAdultCast',
@@ -6659,10 +7006,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tAdultCast',
@@ -6682,10 +7030,11 @@ const anime = [
 			sBridge
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSupernatural',
 			'tPsychological',
@@ -6705,10 +7054,11 @@ const anime = [
 			sStudioGokumi
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6727,10 +7077,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -6753,10 +7104,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -6779,10 +7131,11 @@ const anime = [
 			sSignalMD
 		],
 		type: 'Special',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6801,10 +7154,11 @@ const anime = [
 			sSignalMD
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6823,10 +7177,11 @@ const anime = [
 			sMagiaDoraglier
 		],
 		type: 'Special',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -6845,10 +7200,11 @@ const anime = [
 			sMagiaDoraglier
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6865,10 +7221,11 @@ const anime = [
 			sArms
 		],
 		type: 'OVA',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -6891,10 +7248,11 @@ const anime = [
 			sArms
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -6918,10 +7276,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'Movie',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -6940,10 +7299,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -6962,10 +7322,11 @@ const anime = [
 			sTezukaProductions
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -6986,10 +7347,11 @@ const anime = [
 			sStudioBlanc
 		],
 		type: 'OVA',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7009,10 +7371,11 @@ const anime = [
 			sStudioBlanc
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7032,10 +7395,11 @@ const anime = [
 			sLayduce
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -7055,10 +7419,11 @@ const anime = [
 			sHalFilmMaker
 		],
 		type: 'TV',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: '4-koma manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7078,10 +7443,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7101,10 +7467,11 @@ const anime = [
 			sYumetaCompany
 		],
 		type: 'TV',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7122,10 +7489,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'Special',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy'
 		]
@@ -7141,10 +7509,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7162,10 +7531,11 @@ const anime = [
 			sAIC
 		],
 		type: 'Special',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi'
@@ -7182,10 +7552,11 @@ const anime = [
 			sAIC
 		],
 		type: 'TV',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7203,10 +7574,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2010',
+		season: 'Summer',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7224,10 +7596,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'OVA',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -7247,10 +7620,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'TV',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7270,10 +7644,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Special',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -7292,10 +7667,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2011',
+		season: 'Spring',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -7314,10 +7690,11 @@ const anime = [
 			sAIC
 		],
 		type: 'OVA',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -7337,10 +7714,11 @@ const anime = [
 			sAIC
 		],
 		type: 'TV',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7359,10 +7737,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7383,10 +7762,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'Special',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy'
 		]
@@ -7402,10 +7782,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7425,10 +7806,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'OVA',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool',
@@ -7445,10 +7827,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'Special',
-		season: 'Spring 2010',
+		season: 'Spring',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -7465,10 +7848,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2010',
+		season: 'Winter',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7487,10 +7871,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'OVA',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -7510,10 +7895,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Spring 2011',
+		season: 'Spring',
+		year: 2011,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -7534,10 +7920,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'OVA',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -7559,10 +7946,11 @@ const anime = [
 			sZexcs
 		],
 		type: 'TV',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -7583,10 +7971,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'Special',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7605,10 +7994,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2011',
+		season: 'Spring',
+		year: 2011,
 		source: 'Visual novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7628,10 +8018,11 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7649,10 +8040,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7670,10 +8062,11 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -7689,10 +8082,11 @@ const anime = [
 			sFeel
 		],
 		type: 'Special',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7710,10 +8104,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Winter 2012',
+		season: 'Winter',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7730,10 +8125,11 @@ const anime = [
 			sAIC
 		],
 		type: 'Special',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7752,10 +8148,11 @@ const anime = [
 			sAIC
 		],
 		type: 'TV',
-		season: 'Spring 2012',
+		season: 'Spring',
+		year: 2012,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7773,10 +8170,11 @@ const anime = [
 			sStudioGokumi
 		],
 		type: 'OVA',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7796,10 +8194,11 @@ const anime = [
 			sStudioGokumi
 		],
 		type: 'TV',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tMystery',
@@ -7820,10 +8219,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'Special',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi'
@@ -7840,10 +8240,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7863,10 +8264,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'Special',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -7884,10 +8286,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Winter 2012',
+		season: 'Winter',
+		year: 2012,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7906,10 +8309,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -7928,10 +8332,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'OVA',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tMusic',
 			'tShounen',
@@ -7949,10 +8354,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'TV',
-		season: 'Summer 2013',
+		season: 'Summer',
+		year: 2013,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7973,10 +8379,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'OVA',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -7996,10 +8403,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'OVA',
-		season: 'Summer 2011',
+		season: 'Summer',
+		year: 2011,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -8018,10 +8426,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'TV',
-		season: 'Spring 2011',
+		season: 'Spring',
+		year: 2011,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8042,10 +8451,11 @@ const anime = [
 			sManglobe
 		],
 		type: 'TV',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8065,10 +8475,11 @@ const anime = [
 			sAICClassic
 		],
 		type: 'ONA',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -8085,10 +8496,11 @@ const anime = [
 			sAICClassic
 		],
 		type: 'TV',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -8107,10 +8519,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8130,10 +8543,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8152,10 +8566,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'ONA',
-		season: 'Summer 2013',
+		season: 'Summer',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -8172,10 +8587,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8193,10 +8609,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'ONA',
-		season: 'Winter 2011',
+		season: 'Winter',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8214,10 +8631,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'TV',
-		season: 'Fall 2010',
+		season: 'Fall',
+		year: 2010,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tOtakuCulture'
@@ -8234,10 +8652,11 @@ const anime = [
 			sAsread
 		],
 		type: 'OVA',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -8255,10 +8674,11 @@ const anime = [
 			sAsread
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -8276,10 +8696,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -8298,10 +8719,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'TV',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8321,10 +8743,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'OVA',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8344,10 +8767,11 @@ const anime = [
 			sAICBuild
 		],
 		type: 'TV',
-		season: 'Fall 2011',
+		season: 'Fall',
+		year: 2011,
 		source: 'Light novel',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8366,10 +8790,11 @@ const anime = [
 			sSevenArcsPictures
 		],
 		type: 'Movie',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8392,10 +8817,11 @@ const anime = [
 			sSevenArcsPictures
 		],
 		type: 'Movie',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8418,10 +8844,11 @@ const anime = [
 			sSevenArcsPictures
 		],
 		type: 'OVA',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8443,10 +8870,11 @@ const anime = [
 			sSevenArcsPictures
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8468,10 +8896,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'OVA',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8491,10 +8920,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8514,10 +8944,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8536,10 +8967,11 @@ const anime = [
 			sHoodsEntertainment
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8558,10 +8990,11 @@ const anime = [
 			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8579,10 +9012,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'OVA',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: '4-koma	manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -8598,10 +9032,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'Special',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: '4-koma	manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -8618,10 +9053,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: '4-koma	manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8640,10 +9076,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Movie',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -8662,10 +9099,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -8684,10 +9122,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy'
 		]
@@ -8703,10 +9142,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8724,10 +9164,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8745,10 +9186,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tMecha'
@@ -8765,10 +9207,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -8786,10 +9229,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'ONA',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSchool'
@@ -8805,10 +9249,11 @@ const anime = [
 			sBones
 		],
 		type: 'OVA',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -8827,10 +9272,11 @@ const anime = [
 			sBones
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -8849,10 +9295,11 @@ const anime = [
 			sBones
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -8871,10 +9318,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tMystery',
 			'tRomance',
@@ -8895,10 +9343,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tMystery',
 			'tRomance',
@@ -8918,10 +9367,11 @@ const anime = [
 			sTNK
 		],
 		type: 'Special',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8941,10 +9391,11 @@ const anime = [
 			sTNK
 		],
 		type: 'TV',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -8966,10 +9417,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'OVA',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSeinen'
@@ -8986,10 +9438,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9007,10 +9460,11 @@ const anime = [
 			sDomerica
 		],
 		type: 'ONA',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9031,10 +9485,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9054,10 +9509,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'Movie',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9077,10 +9533,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9101,10 +9558,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'Special',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9124,10 +9582,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9148,10 +9607,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'Special',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9170,10 +9630,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tMystery',
@@ -9194,10 +9655,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9216,10 +9678,11 @@ const anime = [
 			sShaft
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9238,10 +9701,11 @@ const anime = [
 			sShaft
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9260,10 +9724,11 @@ const anime = [
 			sShaft
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9283,10 +9748,11 @@ const anime = [
 			sShaft
 		],
 		type: 'TV',
-		season: 'Winter 2014',
+		season: 'Winter',
+		year: 2014,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9305,10 +9771,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'ONA',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9326,10 +9793,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9349,10 +9817,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -9370,10 +9839,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Visual novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -9393,10 +9863,11 @@ const anime = [
 			sSeven
 		],
 		type: 'TV',
-		season: 'Fall 2016',
+		season: 'Fall',
+		year: 2016,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9416,10 +9887,11 @@ const anime = [
 			sSeven
 		],
 		type: 'OVA',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9438,10 +9910,11 @@ const anime = [
 			sSeven
 		],
 		type: 'TV',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9460,10 +9933,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'OVA',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -9485,10 +9959,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -9511,10 +9986,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9533,10 +10009,11 @@ const anime = [
 			sCreatorsinPack
 		],
 		type: 'ONA',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tGourmet',
@@ -9555,10 +10032,11 @@ const anime = [
 			sCreatorsinPack
 		],
 		type: 'TV',
-		season: 'Fall 2017',
+		season: 'Fall',
+		year: 2017,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tGourmet',
@@ -9577,10 +10055,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'OVA',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -9600,10 +10079,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -9623,10 +10103,11 @@ const anime = [
 			sSignalMD
 		],
 		type: 'OVA',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9647,10 +10128,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Manga',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9671,10 +10153,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -9693,10 +10176,11 @@ const anime = [
 			sHoodsEntertainment
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -9717,10 +10201,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tMusic',
@@ -9738,10 +10223,11 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9760,10 +10246,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9782,10 +10269,11 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9804,10 +10292,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9826,10 +10315,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'OVA',
-		season: 'Summer 2013',
+		season: 'Summer',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9848,10 +10338,11 @@ const anime = [
 			sBrainsBase
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9870,10 +10361,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -9892,10 +10384,11 @@ const anime = [
 			sChildrensPlaygroundEntertainment
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -9913,10 +10406,11 @@ const anime = [
 			sSynergySP
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -9936,10 +10430,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tMystery',
@@ -9957,10 +10452,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'OVA',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -9984,10 +10480,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -10010,10 +10507,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -10036,10 +10534,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -10057,10 +10556,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -10080,10 +10580,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'Movie',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tDrama',
@@ -10103,10 +10604,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -10125,10 +10627,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'OVA',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tEcchi',
@@ -10148,10 +10651,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tPsychological',
@@ -10171,10 +10675,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tPsychological',
@@ -10194,10 +10699,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Web manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSliceOfLife',
 			'tSupernatural',
@@ -10215,10 +10721,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife'
@@ -10235,10 +10742,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife'
@@ -10255,10 +10763,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'Special',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife'
@@ -10275,10 +10784,11 @@ const anime = [
 			sKyotoAnimation
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife'
@@ -10294,10 +10804,11 @@ const anime = [
 			sXebec
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSciFi',	
@@ -10314,10 +10825,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10335,10 +10847,11 @@ const anime = [
 			sLerche
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -10356,10 +10869,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'Movie',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10377,10 +10891,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10399,10 +10914,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: '4-koma manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -10424,10 +10940,11 @@ const anime = [
 			sDRMovie
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10447,10 +10964,11 @@ const anime = [
 			sKinemaCitrus
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10470,10 +10988,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife',
@@ -10490,10 +11009,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy'
 		]
@@ -10509,10 +11029,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Manga',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10530,10 +11051,11 @@ const anime = [
 			sShaft
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Mixed media',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy'
@@ -10551,10 +11073,11 @@ const anime = [
 			sSunriseBeyond
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Game',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10572,10 +11095,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10595,10 +11119,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10618,10 +11143,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10640,10 +11166,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: 'Game',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10661,10 +11188,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10682,10 +11210,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSciFi',
@@ -10703,10 +11232,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10726,10 +11256,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Movie',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10747,10 +11278,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -10770,10 +11302,11 @@ const anime = [
 			sPassione
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Original',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -10794,10 +11327,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy'
@@ -10815,10 +11349,11 @@ const anime = [
 			sDomerica
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Game',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10836,10 +11371,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -10860,10 +11396,11 @@ const anime = [
 			sWolfsbane
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -10881,10 +11418,11 @@ const anime = [
 			sTezukaProductions
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10904,10 +11442,11 @@ const anime = [
 			sYokohamaAnimationLab
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy'
@@ -10924,10 +11463,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'Special',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10946,10 +11486,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -10968,10 +11509,11 @@ const anime = [
 			sStudioMOTHER
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -10990,10 +11532,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -11011,10 +11554,11 @@ const anime = [
 			sSunrise
 		],
 		type: 'Movie',
-		season: 'Summer 2016',
+		season: 'Summer',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -11033,10 +11577,11 @@ const anime = [
 			sSunrise
 		],
 		type: 'OVA',
-		season: 'Summer 2012',
+		season: 'Summer',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -11055,10 +11600,11 @@ const anime = [
 			sSunrise
 		],
 		type: 'TV',
-		season: 'Spring 2012',
+		season: 'Spring',
+		year: 2012,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -11078,10 +11624,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'OVA',
-		season: 'Summer 2013',
+		season: 'Summer',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11100,10 +11647,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Winter 2013',
+		season: 'Winter',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11121,10 +11669,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11145,10 +11694,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'Special',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy'
 		]
@@ -11164,10 +11714,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11187,10 +11738,11 @@ const anime = [
 			sDrive
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy'
@@ -11207,10 +11759,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Movie',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11231,10 +11784,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11255,10 +11809,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11279,10 +11834,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'OVA',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11302,10 +11858,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2016',
+		season: 'Winter',
+		year: 2016,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11326,10 +11883,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11350,10 +11908,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11376,10 +11935,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -11398,10 +11958,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: 'Light novel',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -11422,10 +11983,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: 'Original',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -11443,10 +12005,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: 'Manga',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11465,10 +12028,11 @@ const anime = [
 			sTNK
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11487,10 +12051,11 @@ const anime = [
 			sEncourageFilms
 		],
 		type: 'Special',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11508,10 +12073,11 @@ const anime = [
 			sEncourageFilms
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11530,10 +12096,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai'
@@ -11550,10 +12117,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -11572,10 +12140,11 @@ const anime = [
 			sEKACHIEPILKA
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11594,10 +12163,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11605,6 +12175,30 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody'
+		]
+	},
+	{
+		img: '1938/138295',
+		name: [
+			'Kage no Jitsuryokusha ni Naritakute! 2nd Season',
+			'の実力者になりたくて！ 2nd Season',
+			'The Eminence in Shadow Season 2'
+		],
+		studio: [
+			sNexus
+		],
+		type: 'TV',
+		season: 'Fall',
+		year: 2023,
+		source: 'Light novel',
+		rating: 'R-17+',
+		status: 'Ongoing',
+		tag: [
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation'
 		]
 	},
 	{
@@ -11618,10 +12212,11 @@ const anime = [
 			sNexus
 		],
 		type: 'TV',
-		season: 'Fall 2022',
-		source: '',
-		rating: 'PG-13',
-		status: 'completed',
+		season: 'Fall',
+		year: 2022,
+		source: 'Light novel',
+		rating: 'R-17+',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -11641,10 +12236,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -11662,10 +12258,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -11683,10 +12280,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'OVA',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -11704,10 +12302,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -11724,10 +12323,11 @@ const anime = [
 			sTROYCA
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSchool'
@@ -11745,10 +12345,11 @@ const anime = [
 			sStudioMOTHER
 		],
 		type: 'Movie',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11769,10 +12370,11 @@ const anime = [
 			sStudioMOTHER
 		],
 		type: 'Special',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11793,10 +12395,11 @@ const anime = [
 			sStudioMOTHER
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11817,10 +12420,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'Special',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11841,10 +12445,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11864,10 +12469,11 @@ const anime = [
 			sTelecomAnimationFilm
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -11887,10 +12493,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -11909,10 +12516,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -11930,10 +12538,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11951,10 +12560,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -11972,10 +12582,11 @@ const anime = [
 			sNAZ
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -11993,10 +12604,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife',
@@ -12016,10 +12628,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tSliceOfLife',
@@ -12039,10 +12652,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12062,10 +12676,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12085,10 +12700,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12106,10 +12722,11 @@ const anime = [
 			s8bit
 		],
 		type: 'Movie',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12131,10 +12748,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -12154,10 +12772,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12178,10 +12797,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12202,10 +12822,11 @@ const anime = [
 			s8bit
 		],
 		type: 'OVA',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12226,10 +12847,11 @@ const anime = [
 			s8bit
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12250,10 +12872,11 @@ const anime = [
 			sStudioACAT
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12271,10 +12894,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12295,10 +12919,11 @@ const anime = [
 			sStudioPalette
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -12320,10 +12945,11 @@ const anime = [
 			sHotline
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -12343,10 +12969,11 @@ const anime = [
 			sHotline
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -12366,10 +12993,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12391,10 +13019,11 @@ const anime = [
 			sMillepensee
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12416,10 +13045,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tGourmet',
@@ -12440,10 +13070,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tGourmet',
@@ -12464,10 +13095,11 @@ const anime = [
 			sC2C
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12486,10 +13118,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -12508,10 +13141,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'Special',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -12531,10 +13165,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'Special',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -12554,10 +13189,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -12577,10 +13213,11 @@ const anime = [
 			sStudioBind
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -12600,10 +13237,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12622,10 +13260,11 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12643,10 +13282,11 @@ const anime = [
 			sSatelight
 		],
 		type: 'TV',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12665,10 +13305,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12689,10 +13330,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12713,10 +13355,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -12735,10 +13378,11 @@ const anime = [
 			sEMTSquared
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -12757,10 +13401,11 @@ const anime = [
 			sENGI
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -12781,10 +13426,11 @@ const anime = [
 			sHORNETS
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12802,10 +13448,11 @@ const anime = [
 			sAtelierPontdarc
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -12824,10 +13471,11 @@ const anime = [
 			sStudioACAT
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tFantasy',
@@ -12846,10 +13494,11 @@ const anime = [
 			sOLMTeamYoshioka
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -12869,10 +13518,11 @@ const anime = [
 			sCygamesPictures
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -12890,10 +13540,11 @@ const anime = [
 			sCygamesPictures
 		],
 		type: 'TV',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -12913,10 +13564,11 @@ const anime = [
 			sBlade
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -12936,10 +13588,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12957,10 +13610,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -12978,10 +13632,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'OVA',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -13000,10 +13655,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13021,10 +13677,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'OVA',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -13043,10 +13700,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13064,10 +13722,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Movie',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13085,10 +13744,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2017',
+		season: 'Spring',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13106,10 +13766,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'OVA',
-		season: 'Fall 2016',
+		season: 'Fall',
+		year: 2016,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -13128,10 +13789,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2015',
+		season: 'Spring',
+		year: 2015,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13150,10 +13812,11 @@ const anime = [
 			sOkurutoNoboru
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -13173,10 +13836,11 @@ const anime = [
 			sAjiado
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -13196,10 +13860,11 @@ const anime = [
 			sAsread
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'R+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13219,10 +13884,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy',
@@ -13241,10 +13907,11 @@ const anime = [
 			sMahoFilm
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tDrama',
@@ -13264,10 +13931,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -13289,10 +13957,11 @@ const anime = [
 			sProductionReed
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAdventure',
 			'tComedy',
@@ -13314,10 +13983,11 @@ const anime = [
 			sStapleEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tEcchi',
@@ -13336,10 +14006,11 @@ const anime = [
 			sRevoroot
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13356,10 +14027,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -13377,10 +14049,11 @@ const anime = [
 			sStudio3Hz
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -13400,10 +14073,11 @@ const anime = [
 			sStudio3Hz
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -13423,10 +14097,11 @@ const anime = [
 			sWhiteFox
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',
@@ -13447,10 +14122,11 @@ const anime = [
 			sBlade
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13468,10 +14144,11 @@ const anime = [
 			sDiomedéa
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tFantasy',
 			'tIsekai',
@@ -13489,10 +14166,11 @@ const anime = [
 			sA1Pictures
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction'
 		]
@@ -13508,10 +14186,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2022',
+		season: 'Winter',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13530,10 +14209,11 @@ const anime = [
 			sOkurutoNoboru
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -13553,10 +14233,11 @@ const anime = [
 			sZeroG
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -13573,10 +14254,11 @@ const anime = [
 			sZeroG
 		],
 		type: 'TV',
-		season: 'Winter 2020',
+		season: 'Winter',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -13593,10 +14275,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13614,10 +14297,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13635,10 +14319,11 @@ const anime = [
 			sTMSEntertainment
 		],
 		type: 'TV',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13656,10 +14341,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tFantasy'
@@ -13676,10 +14362,11 @@ const anime = [
 			sFeel
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -13697,10 +14384,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -13717,10 +14405,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSchool',
@@ -13738,10 +14427,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance'
@@ -13758,10 +14448,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'Special',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -13779,10 +14470,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tRomance',
@@ -13800,10 +14492,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'TV',
-		season: 'Summer 2019',
+		season: 'Summer',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13823,10 +14516,11 @@ const anime = [
 			sConnect
 		],
 		type: 'OVA',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13844,10 +14538,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13866,10 +14561,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'Special',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13887,10 +14583,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Summer 2014',
+		season: 'Summer',
+		year: 2014,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13908,10 +14605,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13930,10 +14628,11 @@ const anime = [
 			sDogaKobo
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13950,10 +14649,11 @@ const anime = [
 			sPINEJAM
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13973,10 +14673,11 @@ const anime = [
 			sShinEiAnimation
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -13995,10 +14696,11 @@ const anime = [
 			sLIDENFILMS
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSupernatural',
@@ -14016,10 +14718,11 @@ const anime = [
 			sLerche
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tPsychological',
@@ -14037,10 +14740,11 @@ const anime = [
 			sLerche
 		],
 		type: 'TV',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tDrama',
 			'tPsychological',
@@ -14057,10 +14761,11 @@ const anime = [
 			sCreatorsinPack
 		],
 		type: 'Special',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSliceOfLife'
@@ -14076,10 +14781,11 @@ const anime = [
 			sCreatorsinPack
 		],
 		type: 'TV',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSliceOfLife',
@@ -14097,10 +14803,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14120,10 +14827,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14143,10 +14851,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14166,10 +14875,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'ONA',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14187,10 +14897,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'TV',
-		season: 'Spring 2023',
+		season: 'Spring',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14208,10 +14919,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'Special',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14229,10 +14941,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'OVA',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14250,10 +14963,11 @@ const anime = [
 			sSevenArcs
 		],
 		type: 'TV',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14271,10 +14985,11 @@ const anime = [
 			sConnect
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSliceOfLife',
@@ -14293,10 +15008,11 @@ const anime = [
 			sShaft
 		],
 		type: 'Special',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14316,10 +15032,11 @@ const anime = [
 			sBiburyAnimationStudios
 		],
 		type: 'Movie',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14339,10 +15056,11 @@ const anime = [
 			sBiburyAnimationStudios
 		],
 		type: 'TV',
-		season: 'Winter 2021',
+		season: 'Winter',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14362,10 +15080,11 @@ const anime = [
 			sTezukaProductions
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14385,10 +15104,11 @@ const anime = [
 			sArvoAnimation
 		],
 		type: 'OVA',
-		season: 'Spring 2020',
+		season: 'Spring',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14407,10 +15127,11 @@ const anime = [
 			sArvoAnimation
 		],
 		type: 'OVA',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14431,10 +15152,11 @@ const anime = [
 			sArvoAnimation
 		],
 		type: 'TV',
-		season: 'Fall 2019',
+		season: 'Fall',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14455,10 +15177,11 @@ const anime = [
 			sArvoAnimation
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14478,10 +15201,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14500,10 +15224,11 @@ const anime = [
 			sOLM
 		],
 		type: 'TV',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14521,10 +15246,11 @@ const anime = [
 			sFelixFilm
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14544,10 +15270,11 @@ const anime = [
 			sGaina
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tSliceOfLife'
 		]
@@ -14563,10 +15290,11 @@ const anime = [
 			sProjectNo9
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance'
@@ -14583,10 +15311,11 @@ const anime = [
 			sSILVERLINK
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tRomance',
@@ -14604,10 +15333,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -14625,10 +15355,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Summer 2018',
+		season: 'Summer',
+		year: 2018,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -14646,10 +15377,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Winter 2018',
+		season: 'Winter',
+		year: 2018,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -14668,10 +15400,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'Movie',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -14690,10 +15423,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'Movie',
-		season: 'Winter 2017',
+		season: 'Winter',
+		year: 2017,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tFantasy',
@@ -14711,10 +15445,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -14732,10 +15467,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -14752,10 +15488,11 @@ const anime = [
 			sCloverWorks
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -14772,10 +15509,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -14795,10 +15533,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'Movie',
-		season: 'Fall 2020',
+		season: 'Fall',
+		year: 2020,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSciFi',
@@ -14815,10 +15554,11 @@ const anime = [
 			sGeekToys
 		],
 		type: 'Movie',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tSciFi',
@@ -14835,10 +15575,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Winter 2019',
+		season: 'Winter',
+		year: 2019,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -14859,10 +15600,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'Movie',
-		season: 'Summer 2015',
+		season: 'Summer',
+		year: 2015,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -14880,10 +15622,11 @@ const anime = [
 			sProductionIMS
 		],
 		type: 'OVA',
-		season: 'Fall 2014',
+		season: 'Fall',
+		year: 2014,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance'
 		]
@@ -14898,10 +15641,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tRomance',
@@ -14921,10 +15665,11 @@ const anime = [
 			sAICPLUS
 		],
 		type: 'OVA',
-		season: 'Fall 2013',
+		season: 'Fall',
+		year: 2013,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSciFi',
@@ -14942,10 +15687,11 @@ const anime = [
 			sAICPLUS
 		],
 		type: 'TV',
-		season: 'Spring 2013',
+		season: 'Spring',
+		year: 2013,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tRomance',
 			'tSciFi',
@@ -14965,10 +15711,11 @@ const anime = [
 			sPAWorks
 		],
 		type: 'TV',
-		season: 'Spring 2022',
+		season: 'Spring',
+		year: 2022,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tMusic'
@@ -14985,10 +15732,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Winter 2023',
+		season: 'Winter',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Ongoing',
 		tag: [
 			'tComedy',
 			'tWorkplace'
@@ -15005,10 +15753,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace'
@@ -15025,10 +15774,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Summer 2020',
+		season: 'Summer',
+		year: 2020,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace'
@@ -15045,10 +15795,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace'
@@ -15065,10 +15816,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy'
 		]
@@ -15084,10 +15836,11 @@ const anime = [
 			sFanworks
 		],
 		type: 'ONA',
-		season: 'Spring 2018',
+		season: 'Spring',
+		year: 2018,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tWorkplace'
@@ -15104,10 +15857,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Spring 2019',
+		season: 'Spring',
+		year: 2019,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -15126,10 +15880,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'OVA',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -15148,10 +15903,11 @@ const anime = [
 			sMadhouse
 		],
 		type: 'TV',
-		season: 'Fall 2015',
+		season: 'Fall',
+		year: 2015,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tComedy',
@@ -15171,10 +15927,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'ONA',
-		season: 'Fall 2022',
+		season: 'Fall',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15193,10 +15950,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'ONA',
-		season: 'Summer 2022',
+		season: 'Summer',
+		year: 2022,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15215,10 +15973,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'ONA',
-		season: 'Fall 2021',
+		season: 'Fall',
+		year: 2021,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15237,10 +15996,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Fall 2018',
+		season: 'Fall',
+		year: 2018,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15259,10 +16019,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'OVA',
-		season: 'Summer 2017',
+		season: 'Summer',
+		year: 2017,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tMystery',
@@ -15281,10 +16042,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Spring 2016',
+		season: 'Spring',
+		year: 2016,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15303,10 +16065,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Winter 2015',
+		season: 'Winter',
+		year: 2015,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15325,10 +16088,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Spring 2014',
+		season: 'Spring',
+		year: 2014,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15347,10 +16111,11 @@ const anime = [
 			sDavidProduction
 		],
 		type: 'TV',
-		season: 'Fall 2012',
+		season: 'Fall',
+		year: 2012,
 		source: '',
 		rating: 'R-17+',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tAction',
 			'tAdventure',
@@ -15369,10 +16134,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2023',
+		season: 'Summer',
+		year: 2023,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -15390,10 +16156,11 @@ const anime = [
 			sJCStaff
 		],
 		type: 'TV',
-		season: 'Summer 2021',
+		season: 'Summer',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tSupernatural',
@@ -15411,10 +16178,11 @@ const anime = [
 			sRevoroot
 		],
 		type: 'TV',
-		season: 'Spring 2021',
+		season: 'Spring',
+		year: 2021,
 		source: '',
 		rating: 'PG-13',
-		status: 'completed',
+		status: 'Completed',
 		tag: [
 			'tComedy',
 			'tFantasy',

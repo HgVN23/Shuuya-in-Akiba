@@ -350,7 +350,7 @@ const sOLMTeamYoshioka = {
 const sYokohamaAnimationLab = {
 	name: 'Yokohama Animation Lab',
 	id: 1687,
-	img: ''
+	img: '5bee6ffd-6785-4794-8886-497c5c66b31d_600x600_i?s=c36c88eaf49435a17024f58d52a3e04e'
 };
 const sTMSEntertainment = {
 	name: 'TMS Entertainment',
@@ -682,6 +682,11 @@ const sAReal = {
 	id: 1257,
 	img: ''
 };
+const sDigitalNetworkAnimation = {
+	name: 'Digital Network Animation',
+	id: 1796,
+	img: ''
+};
 
 const studioList = [
 	// sNone,
@@ -821,5 +826,6 @@ const studioList = [
 	sProductionIMS,
 	sAICPLUS,
 	sFanworks,
-	sAReal
+	sAReal,
+	sDigitalNetworkAnimation
 ]

@@ -1,7 +1,7 @@
-let studiosTemp = ``;
+let studioTemp = ``;
 const studioListTemp = sortList(studioList);
 for(var i = 0; i < studioListTemp.length; i++){
-	studiosTemp += `
+	studioTemp += `
 		<div class="tag" id="${studioListTemp[i].id}">
 			<div>${studioListTemp[i].name}</div>
 			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
@@ -72,15 +72,25 @@ for(var i = 0; i < sourceList.length; i++){
 	sourceTemp += `<div class="tag" id="${sourceList[i]}">${sourceList[i]}</div>`
 }
 
+const statusList = [
+	'Ongoing',
+	'Completed'
+]
+let statusTemp = ``;
+for(var i = 0; i < statusList.length; i++){
+	statusTemp += `<div class="tag" id="${statusList[i]}">${statusList[i]}</div>`
+}
+
 filter();
 function filter() {
-	document.querySelector('.fStudios').innerHTML = studiosTemp;
 	document.querySelector('.fType').innerHTML = typeTemp;
 	document.querySelector('.fSeason').innerHTML = seasonTemp;
-	document.querySelector('.fRating').innerHTML = ratingTemp;
 	document.querySelector('.fYear').innerHTML = yearTemp;
-	document.querySelector('.fTag').innerHTML = tagTemp;
 	document.querySelector('.fSource').innerHTML = sourceTemp;
+	document.querySelector('.fRating').innerHTML = ratingTemp;
+	document.querySelector('.fStatus').innerHTML = statusTemp;
+	document.querySelector('.fTag').innerHTML = tagTemp;
+	document.querySelector('.fStudio').innerHTML = studioTemp;
 	const tag = document.querySelectorAll('.tag');
 	for(var i = 0; i < tag.length; i++)
 		tag[i].addEventListener('click', fSelected);
@@ -90,152 +100,70 @@ function fSelected() {
 }
 
 function apply() {
-	let studiosGet = document.querySelector('.fStudios').querySelectorAll('.tag');
-	let filterByStudios = [];
-	let fN = 1;
-	let checkBreak = false;
-	let check = false;
-	for(var i = 1; i < anime.length; i++)
-		for(var j = 0; j < anime[i].studio.length; j++) {
-			for(var k = 0; k < studiosGet.length; k++)
-				if(studiosGet[k].classList.contains('fSelected')) {
-					if(anime[i].studio[j].id == studiosGet[k].id) {
-						filterByStudios[fN] = anime[i];
-						fN++;
-						checkBreak = true;
-						break;
-					}
-					check = true;
-				}
-			if(checkBreak) {
-				checkBreak = false;
-				break;
-			}
-		}
-	if(!check)
-		for(var i = 1; i < anime.length; i++)
-			filterByStudios[i] = anime[i];
-
-	let typeGet = document.querySelector('.fType').querySelectorAll('.tag');
-	let filterByType = [];
-	fN = 1;
-	check = false;
-	for(var i = 1; i < filterByStudios.length; i++)
-		for(var j = 0; j < typeGet.length; j++)
-			if(typeGet[j].classList.contains('fSelected')) {
-				if(filterByStudios[i].type.includes(typeGet[j].id)) {
-					filterByType[fN] = filterByStudios[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 1; i < filterByStudios.length; i++)
-			filterByType[i] = filterByStudios[i];
-
-	let seasonGet = document.querySelector('.fSeason').querySelectorAll('.tag');
-	let filterBySeason = [];
-	fN = 1;
-	check = false;
-	for(var i = 1; i < filterByType.length; i++)
-		for(var j = 0; j < seasonGet.length; j++)
-			if(seasonGet[j].classList.contains('fSelected')) {
-				if(filterByType[i].season.includes(seasonGet[j].id)) {
-					filterBySeason[fN] = filterByType[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 1; i < filterByType.length; i++)
-			filterBySeason[i] = filterByType[i];
-
-	let ratingGet = document.querySelector('.fRating').querySelectorAll('.tag');
-	let filterByRating = [];
-	fN = 1;
-	check = false;
-	for(var i = 1; i < filterBySeason.length; i++)
-		for(var j = 0; j < ratingGet.length; j++)
-			if(ratingGet[j].classList.contains('fSelected')) {
-				if(filterBySeason[i].rating.includes(ratingGet[j].id)) {
-					filterByRating[fN] = filterBySeason[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 1; i < filterBySeason.length; i++)
-			filterByRating[i] = filterBySeason[i];
-
-	let yearGet = document.querySelector('.fYear').querySelectorAll('.tag');
-	let filterByYear = [];
-	fN = 1;
-	check = false;
-	for(var i = 1; i < filterByRating.length; i++)
-		for(var j = 0; j < yearGet.length; j++)
-			if(yearGet[j].classList.contains('fSelected')) {
-				if(filterByRating[i].season.includes(yearGet[j].id)) {
-					filterByYear[fN] = filterByRating[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 1; i < filterByRating.length; i++)
-			filterByYear[i] = filterByRating[i];
-
-	let tagGet = document.querySelector('.fTag').querySelectorAll('.tag');
-	let filterByTag = [];
-	fN = 1;
-	checkBreak = false;
-	check = false;
-	for(var i = 1; i < filterByYear.length; i++)
-		for(var j = 0; j < filterByYear[i].tag.length; j++) {
-			for(var k = 0; k < tagGet.length; k++)
-				if(tagGet[k].classList.contains('fSelected')) {
-					if(filterByYear[i].tag[j].includes(tagGet[k].id)) {
-						filterByTag[fN] = filterByYear[i];
-						fN++;
-						checkBreak = true;
-						break;
-					}
-					check = true;
-				}
-			if(checkBreak) {
-				checkBreak = false;
-				break;
-			}
-		}
-	if(!check)
-		for(var i = 1; i < filterByYear.length; i++)
-			filterByTag[i] = filterByYear[i];
-
-	let sourceGet = document.querySelector('.fSource').querySelectorAll('.tag');
-	let filterBySource = [];
-	fN = 1;
-	check = false;
-	for(var i = 1; i < filterByTag.length; i++)
-		for(var j = 0; j < sourceGet.length; j++)
-			if(sourceGet[j].classList.contains('fSelected')) {
-				if(filterByTag[i].source.includes(sourceGet[j].id)) {
-					filterBySource[fN] = filterByTag[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 1; i < filterByTag.length; i++)
-			filterBySource[i] = filterByTag[i];
+	let temp = anime;
+	temp = filterSingle('Type', temp);
+	temp = filterSingle('Season', temp);
+	temp = filterSingle('Year', temp);
+	temp = filterSingle('Source', temp);
+	temp = filterSingle('Rating', temp);
+	temp = filterSingle('Status', temp);
+	temp = filterMulti('Tag', temp);
+	temp = filterMulti('Studio', temp);
 
 	page = 0;
-	getMax(filterBySource);
-	run(filterBySource);
+	getMax(temp);
+	run(temp);
 	numberInput.value = 1;
+}
+function filterSingle(get, from) {
+	let tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	const data = get.toLowerCase();
+	let temp = [];
+	let fN = 0;
+	let check = false;
+	for(var i = 0; i < from.length; i++)
+		for(var j = 0; j < tagGet.length; j++)
+			if(tagGet[j].classList.contains('fSelected')) {
+				if(String(from[i][data]).match(tagGet[j].id)) {
+					temp[fN] = from[i];
+					fN++;
+					break;
+				}
+				check = true;
+			}
+	if(!check)
+		for(var i = 0; i < from.length; i++)
+			temp[i] = from[i];
+	return temp;
+}
+function filterMulti(get, from) {
+	let tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	const data = get.toLowerCase();
+	let temp = [];
+	let fN = 0;
+	let checkBreak = false;
+	let check = false;
+	for(var i = 0; i < from.length; i++)
+		for(var j = 0; j < from[i][data].length; j++) {
+			for(var k = 0; k < tagGet.length; k++)
+				if(tagGet[k].classList.contains('fSelected')) {
+					if(from[i][data[j]].id == tagGet[k].id) {
+						temp[fN] = from[i];
+						fN++;
+						checkBreak = true; 
+						break;
+					}
+					check = true;
+				}
+			if(checkBreak) {
+				checkBreak = false;
+				break;
+			}
+		}
+	if(!check)
+		for(var i = 0; i < from.length; i++)
+			temp[i] = from[i];
+	return temp;
 }
 
 // function checked(get) {

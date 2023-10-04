@@ -83,7 +83,7 @@ function removeAnime() {
 }
 
 function addAnime(list) {
-	for(var i = page * 25 + 1; i <= (page + 1) * 25; i++) {
+	for(var i = page * 25; i < (page + 1) * 25; i++) {
 		if(i > list.length - 1)
 			break;
 		var temp = list[i];
@@ -99,9 +99,11 @@ function addAnime(list) {
 		}
 		let type = temp.type;
 		let season = temp.season;
+		let year = temp.year;
 		// let aired = temp.aired;
 		let source = temp.source;
 		let rating = temp.rating;
+		let status = temp.status;
 		// let synopsis = temp.synopsis;
 		let tag = ``;
 		for(var j = 0; j < temp.tag.length; j++) {
@@ -127,22 +129,28 @@ function addAnime(list) {
 
 		const format = `
 			<div class="anime">
-				<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
-				<div class="name">${name}</div>
+				<div class="status sMin s${status}">
+					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
+					<!-- <img class="min" src="assets/media/test.png" alt="${name}"> -->
+					<div class="name">${name}</div>
+				</div>
 			</div>
 			<div class="moreInfo hideInfo">
 				<div class="split">
-					<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
+					<div class="status sMax s${status}">
+						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
+						<!-- <img class="max" src="assets/media/test.png" alt="${name}"> -->
+					</div>
 					<div class="limited">
 						<h1>${name}</h1>
 						${altName}
 						<div class="split2">
-							<div class="studios">
+							<div class="studio">
 								${studio}
 							</div>
 							<div class="smallInfo">
 								<p class="type">${type}</p>
-								<p class="season">${season}</p>
+								<p class="season">${season} ${year}</p>
 								<p class="source">${source}</p>
 								<p class="rating">${rating}</p>
 							</div>
@@ -161,7 +169,7 @@ function addAnime(list) {
 						</div>
 					</div>
 				</div>
-			</div>\n
+			</div>
 		`;
 
 		const animeCreate = document.createElement('section');
