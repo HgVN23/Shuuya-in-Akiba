@@ -52,7 +52,7 @@ for(var i = yearNow; i >= 2006; i--){
 let tagTemp = ``;
 const tagListTemp = sortList(tagList);
 for(var i = 0; i < tagListTemp.length; i++){
-	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}"></div>`
+	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}">${tagListTemp[i].name}</div>`
 }
 
 const sourceList = [
@@ -66,7 +66,8 @@ const sourceList = [
 	'Original',
 	'Game',
 	'Music',
-	'Mixed media'
+	'Mixed media',
+	'Other'
 ]
 let sourceTemp = ``;
 for(var i = 0; i < sourceList.length; i++){

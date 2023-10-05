@@ -1,396 +1,208 @@
 .tAction::before {
-	content: 'Action';
-}
-.tAction::after {
 	content: 'Hành động';
 }
 .tAdventure::before {
-	content: 'Adventure';
-}
-.tAdventure::after {
 	content: 'Phiêu lưu';
 }
 .tComedy::before {
-	content: 'Comedy';
-}
-.tComedy::after {
 	content: 'Hài hước';
 }
 .tDrama::before {
-	content: 'Drama';
-}
-.tDrama::after {
 	content: 'Kịch tính';
 }
 .tEcchi::before {
-	content: 'Ecchi';
-}
-.tEcchi::after {
 	content: 'Hở hang';
 }
 .tFantasy::before {
-	content: 'Fantasy';
-}
-.tFantasy::after {
 	content: 'Giả tưởng';
 }
 .tJosei::before {
-	content: 'Josei';
-}
-.tJosei::after {
-	content: 'Cho độc giả nữ 18+';
+	content: 'Cho độc giả nữ trên 18';
 }
 .tGenben::before {
-	content: 'Genben';
-}
-.tGenben::after {
 	content: 'Hoán đổi giới tính';
 }
 .tGourmet::before {
-	content: 'Gourmet';
-}
-.tGourmet::after {
 	content: 'Ẩm thực';
 }
 .tHarem::before {
-	content: 'Harem';
-}
-.tHarem::after {
 	content: 'Nhiều người yêu';
 }
 .tHistorical::before {
-	content: 'Historical';
-}
-.tHistorical::after {
 	content: 'Lịch sử';
 }
 .tHorror::before {
-	content: 'Horror';
-}
-.tHorror::after {
 	content: 'Kinh dị';
 }
 .tIsekai::before {
-	content: 'Isekai';
-}
-.tIsekai::after {
 	content: 'Dị giới';
 }
 .tIyashikei::before {
-	content: 'Iyashikei';
-}
-.tIyashikei::after {
 	content: 'Chữa lành tâm hồn';
 }
 .tMartialArts::before {
-	content: 'Martial Arts';
-}
-.tMartialArts::after {
 	content: 'Võ thuật';
 }
 .tMecha::before {
-	content: 'Mecha';
-}
-.tMecha::after {
 	content: 'Máy móc';
 }
 .tMedical::before {
-	content: 'Medical';
-}
-.tMedical::after {
 	content: 'Y học';
 }
 .tMilitary::before {
-	content: 'Military';
-}
-.tMilitary::after {
 	content: 'Quân đội';
 }
 .tMusic::before {
-	content: 'Music';
-}
-.tMusic::after {
 	content: 'Âm nhạc';
 }
 .tMystery::before {
-	content: 'Mystery';
-}
-.tMystery::after {
 	content: 'Bí ẩn';
 }
 .tMythology::before {
-	content: 'Mythology';
-}
-.tMythology::after {
 	content: 'Thần thoại';
 }
 .tParody::before {
-	content: 'Parody';
-}
-.tParody::after {
 	content: 'Chi tiết từ bộ khác';
 }
 .tPsychological::before {
-	content: 'Psychological';
-}
-.tPsychological::after {
 	content: 'Tâm lý';
 }
 .tReincarnation::before {
-	content: 'Reincarnation';
-}
-.tReincarnation::after {
 	content: 'Tái sinh';
 }
 .tRomance::before {
-	content: 'Romance';
-}
-.tRomance::after {
 	content: 'Lãng mạn';
 }
 .tSchool::before {
-	content: 'School';
-}
-.tSchool::after {
 	content: 'Học đường';
 }
 .tSciFi::before {
-	content: 'Sci-Fi';
-}
-.tSciFi::after {
 	content: 'Khoa học viễn tưởng';
 }
 .tSeinen::before {
-	content: 'Seinen';
-}
-.tSeinen::after {
-	content: 'Cho độc giả nam 18+';
+	content: 'Cho độc giả nam trên 18';
 }
 .tSliceOfLife::before {
-	content: 'Slice of life';
-}
-.tSliceOfLife::after {
 	content: 'Lát cắt cuộc sống';
 }
 .tShoujo::before {
-	content: 'Shoujo';
-}
-.tShoujo::after {
-	content: 'Cho độc giả nữ < 18';
+	content: 'Cho độc giả nữ dưới 18';
 }
 .tShounen::before {
-	content: 'Shounen';
-}
-.tShounen::after {
-	content: 'Cho độc giả nam < 18';
+	content: 'Cho độc giả nam dưới 18';
 }
 .tSupernatural::before {
-	content: 'Supernatural';
-}
-.tSupernatural::after {
 	content: 'Siêu nhiên';
 }
 .tSuperPower::before {
-	content: 'Super Power';
-}
-.tSuperPower::after {
 	content: 'Siêu sức mạnh';
 }
 .tTimeTravel::before {
-	content: 'Time Travel';
-}
-.tTimeTravel::after {
 	content: 'Xuyên thời gian';
 }
 .tWorkplace::before {
-	content: 'Workplace';
-}
-.tWorkplace::after {
 	content: 'Nơi làm việc';
 }
 .tYuri::before {
-	content: 'Yuri';
-}
-.tYuri::after {
 	content: 'Nữ x Nữ';
 }
 .tSports::before {
-	content: 'Sports';
-}
-.tSports::after {
 	content: 'Thể thao';
 }
 .tAdultCast::before {
-	content: 'Adult Cast';
-}
-.tAdultCast::after {
 	content: 'Diễn viên người lớn';
 }
 .tSurvival::before {
-	content: 'Survival';
-}
-.tSurvival::after {
 	content: 'Sinh tồn';
 }
 .tSuspense::before {
-	content: 'Suspense';
-}
-.tSuspense::after {
 	content: 'Hồi hộp';
 }
 .tStrategyGame::before {
-	content: 'Strategy Game';
-}
-.tStrategyGame::after {
 	content: 'Trò chơi chiến lược';
 }
 .tAnthropomorphic::before {
-	content: 'Anthropomorphic';
-}
-.tAnthropomorphic::after {
 	content: 'Nhân hóa';
 }
 .tDetective::before {
-	content: 'Detective';
-}
-.tDetective::after {
 	content: 'Trinh thám';
 }
 .tVampire::before {
-	content: 'Vampire';
-}
-.tVampire::after {
 	content: 'Ma cà rồng';
 }
 .tRomanticSubtext::before {
-	content: 'Romantic Subtext';
-}
-.tRomanticSubtext::after {
 	content: 'Nội dung lãng mạn';
 }
 .tPerformingArts::before {
-	content: 'Performing Arts';
-}
-.tPerformingArts::after {
 	content: 'Biểu diễn nghệ thuật';
 }
 .tShowbiz::before {
-	content: 'Showbiz';
-}
-.tShowbiz::after {
 	content: 'Giới giải trí';
 }
 .tChildcare::before {
-	content: 'Childcare';
-}
-.tChildcare::after {
 	content: 'Chăm sóc trẻ';
 }
 .tOtakuCulture::before {
-	content: 'Otaku Culture';
-}
-.tOtakuCulture::after {
 	content: 'Văn hóa Otaku';
 }
 .tPets::before {
-	content: 'Pets';
-}
-.tPets::after {
 	content: 'Thú nuôi';
 }
 .tGagHumor::before {
-	content: 'Gag Humor';
-}
-.tGagHumor::after {
 	content: 'Hài lặp';
 }
 .tVideoGame::before {
-	content: 'Video Game';
-}
-.tVideoGame::after {
 	content: 'Trò chơi điện tử';
 }
 .tHighStakesGame::before {
-	content: 'High Stakes Game';
-}
-.tHighStakesGame::after {
 	content: 'Trò chơi cược cao';
 }
 .tGore::before {
-	content: 'Gore';
-}
-.tGore::after {
 	content: 'Máu me';
 }
 .tOrganizedCrime::before {
-	content: 'Organized Crime';
-}
-.tOrganizedCrime::after {
 	content: 'Tổ chức tội phạm';
 }
 .tSamurai::before {
 	content: 'Samurai';
 }
-.tSamurai::after {
-	content: 'Samurai';
-}
 .tVisualArts::before {
-	content: 'Visual Arts';
-}
-.tVisualArts::after {
 	content: 'Nghệ thuật thị giác';
 }
 .tCGDCT::before {
-	content: 'CGDCT';
-}
-.tCGDCT::after {
 	content: 'Gái đáng yêu làm điều dễ thương';
 }
 .tLovePolygon::before {
-	content: 'Love Polygon';
-}
-.tLovePolygon::after {
 	content: 'Tình yêu đa giác';
 }
 .tErotica::before {
-	content: 'Erotica';
-}
-.tErotica::after {
 	content: 'Khiêu dâm';
 }
 .tIdol::before {
-	content: 'Idol';
-}
-.tIdol::after {
 	content: 'Thần tượng';
 }
 .tMahouShoujo::before {
-	content: 'Mahou Shoujo';
-}
-.tMahouShoujo::after {
 	content: 'Thiếu nữ ma pháp';
 }
 .tCrossdressing::before {
-	content: 'Crossdressing';
-}
-.tCrossdressing::after {
 	content: 'Hóa trang khác giới';
 }
 
-.tag::after {
+.tag::before {
 	background-color: var(--bg);
+	width: 6rem;
 	border-radius: 7px;
 	padding: 5px 10px;
 	display: none;
 	position: absolute;
-	top: 0;
-	left: 50%;
-	transform: translateX(-50%);
+	bottom: 0;
+	right: 50%;
+	transform: translateX(50%);
 	text-align: center;
-	white-space: nowrap;
+/*	white-space: nowrap;*/
 }
 
-.tag:hover::after {
-	top: -2.5rem;
+.tag:hover::before {
+	bottom: 2.5rem;
 	display: block;
 }

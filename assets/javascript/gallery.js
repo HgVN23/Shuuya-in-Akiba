@@ -107,7 +107,7 @@ function addAnime(list) {
 		// let synopsis = temp.synopsis;
 		let tag = ``;
 		for(var j = 0; j < temp.tag.length; j++) {
-			tag += `<div class="tag ${sortList(temp.tag)[j].id}"></div>\n`
+			tag += `<div class="tag ${sortList(temp.tag)[j].id}">${sortList(temp.tag)[j].name}</div>\n`
 		}
 		// let character = ``;
 		// for(var j = 0; j < temp.character.main.length; j++) {

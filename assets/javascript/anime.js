@@ -20,6 +20,29 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1588/138395',
+		name: [
+			'16bit Sensation: Another Layer',
+			'16bitセンセーション ANOTHER LAYER'
+		],
+		studio: [
+			sSilver
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tAdultCast,
+			tOtakuCulture,
+			tTimeTravel,
+			tWorkplace
+		]
+	},
+	{
 		img: '1142/137572',
 		name: [
 			'Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu',
@@ -12871,7 +12894,7 @@ const anime = [
 		name: [
 			'Noumin Kanren no Skill bakka Agetetara Nazeka Tsuyoku Natta.',
 			'農民関連のスキルばっか上げてたら何故か強くなった。',
-			"I've Somehow Gotten Stronger When I Improved My Farm-Relatedd Skills"
+			"I've Somehow Gotten Stronger When I Improved My Farm-Related Skills"
 		],
 		studio: [
 			sStudioACAT
@@ -12879,7 +12902,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -12901,7 +12924,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -12926,7 +12949,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -12952,7 +12975,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -12976,7 +12999,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13000,7 +13023,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13026,7 +13049,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13052,7 +13075,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13077,7 +13100,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13102,11 +13125,12 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
+			tAdventure,
 			tFantasy,
 			tIsekai,
 			tReincarnation
@@ -13125,10 +13149,11 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
+			tAdventure,
 			tDrama,
 			tFantasy,
 			tEcchi,
@@ -13148,10 +13173,11 @@ const anime = [
 		type: 'Special',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
+			tAdventure,
 			tDrama,
 			tFantasy,
 			tEcchi,
@@ -13172,7 +13198,7 @@ const anime = [
 		type: 'Special',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -13196,10 +13222,11 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
+			tAdventure,
 			tDrama,
 			tFantasy,
 			tEcchi,
@@ -13220,10 +13247,11 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
+			tAdventure,
 			tDrama,
 			tFantasy,
 			tEcchi,
@@ -13244,14 +13272,15 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tAdultCast
 		]
 	},
 	{
@@ -13267,14 +13296,15 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2014,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tAdultCast
 		]
 	},
 	{
@@ -13289,14 +13319,15 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2013,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tAdultCast
 		]
 	},
 	{
@@ -13312,7 +13343,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13337,7 +13368,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13362,7 +13393,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13385,7 +13416,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13408,11 +13439,14 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
+			tAction,
 			tFantasy,
+			tRomance,
+			tHarem,
 			tIsekai,
 			tMecha,
 			tReincarnation,
@@ -13433,7 +13467,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -13455,13 +13489,15 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
+			tAdultCast,
 			tIsekai,
+			tOtakuCulture,
 			tParody
 		]
 	},
@@ -13478,7 +13514,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13501,7 +13537,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13525,7 +13561,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Game',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13547,7 +13583,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2020,
-		source: '',
+		source: 'Game',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13571,7 +13607,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13595,7 +13631,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -13617,7 +13653,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -13639,7 +13675,7 @@ const anime = [
 		type: 'OVA',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13662,7 +13698,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2020,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13684,7 +13720,7 @@ const anime = [
 		type: 'OVA',
 		season: 0,
 		year: 2020,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13707,7 +13743,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2019,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13729,7 +13765,7 @@ const anime = [
 		type: 'Movie',
 		season: 0,
 		year: 2019,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13751,7 +13787,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13773,7 +13809,7 @@ const anime = [
 		type: 'OVA',
 		season: 3,
 		year: 2016,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13796,7 +13832,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2015,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13819,11 +13855,11 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy,
+			tAction,
 			tFantasy,
 			tEcchi,
 			tHarem,
@@ -13843,11 +13879,11 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2018,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy,
+			tAction,
 			tFantasy,
 			tEcchi,
 			tHarem,
@@ -13867,7 +13903,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 2,
 		status: 1,
 		tag: [
@@ -13891,13 +13927,15 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
+			tAction,
 			tDrama,
 			tFantasy,
 			tIsekai,
+			tSurvival,
 			tShounen
 		]
 	},
@@ -13914,7 +13952,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2020,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13922,6 +13960,7 @@ const anime = [
 			tDrama,
 			tFantasy,
 			tIsekai,
+			tSurvival,
 			tShounen
 		]
 	},
@@ -13938,7 +13977,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13964,7 +14003,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -13990,7 +14029,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14013,7 +14052,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14034,7 +14073,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Original',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14056,14 +14095,14 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
 			tMythology,
-			tRomance,
+			tRomanticSubtext,
 			tWorkplace
 		]
 	},
@@ -14080,14 +14119,14 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
 			tMythology,
-			tRomance,
+			tRomanticSubtext,
 			tWorkplace
 		]
 	},
@@ -14104,14 +14143,14 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2013,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
 			tMythology,
-			tRomance,
+			tRomanticSubtext,
 			tWorkplace
 		]
 	},
@@ -14129,12 +14168,12 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance,
+			tRomanticSubtext,
 			tShounen
 		]
 	},
@@ -14151,7 +14190,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14173,7 +14212,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Original',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14193,7 +14232,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14216,7 +14255,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14240,12 +14279,13 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tAdultCast
 		]
 	},
 	{
@@ -14261,12 +14301,13 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2020,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tAdultCast
 		]
 	},
 	{
@@ -14282,13 +14323,15 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
-			tShounen
+			tShounen,
+			tAdultCast,
+			tHarem
 		]
 	},
 	{
@@ -14304,13 +14347,15 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
-			tShounen
+			tShounen,
+			tAdultCast,
+			tHarem
 		]
 	},
 	{
@@ -14326,7 +14371,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2020,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14348,7 +14393,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2020,
-		source: '',
+		source: 'Original',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14369,13 +14414,14 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tDrama,
 			tRomance,
-			tTimeTravel
+			tTimeTravel,
+			tAdultCast
 		]
 	},
 	{
@@ -14391,7 +14437,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14412,7 +14458,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14434,7 +14480,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14455,7 +14501,7 @@ const anime = [
 		type: 'Special',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14477,7 +14523,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14499,7 +14545,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2019,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14523,7 +14569,7 @@ const anime = [
 		type: 'OVA',
 		season: 2,
 		year: 2020,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14545,7 +14591,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2019,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14568,7 +14614,7 @@ const anime = [
 		type: 'Special',
 		season: 2,
 		year: 2014,
-		source: '',
+		source: '4-koma manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14590,13 +14636,14 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2014,
-		source: '',
+		source: '4-koma manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tOtakuCulture
 		]
 	},
 	{
@@ -14612,7 +14659,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14635,7 +14682,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14656,14 +14703,15 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
 			tSchool,
-			tVideoGame
+			tVideoGame,
+			tOtakuCulture
 		]
 	},
 	{
@@ -14680,7 +14728,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14703,13 +14751,14 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tRomance,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tVampire
 		]
 	},
 	{
@@ -14725,7 +14774,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14747,7 +14796,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14768,7 +14817,7 @@ const anime = [
 		type: 'Special',
 		season: 2,
 		year: 2015,
-		source: '',
+		source: '4-koma manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14788,7 +14837,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2015,
-		source: '',
+		source: '4-koma manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14810,7 +14859,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14834,7 +14883,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2018,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14858,7 +14907,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2017,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14882,7 +14931,7 @@ const anime = [
 		type: 'ONA',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14904,7 +14953,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14926,7 +14975,7 @@ const anime = [
 		type: 'Special',
 		season: 3,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14948,7 +14997,7 @@ const anime = [
 		type: 'OVA',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14970,7 +15019,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2020,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -14992,7 +15041,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2019,
-		source: '',
+		source: '4-koma manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15015,7 +15064,7 @@ const anime = [
 		type: 'Special',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15039,7 +15088,7 @@ const anime = [
 		type: 'Movie',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15063,7 +15112,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15087,7 +15136,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2019,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15111,7 +15160,7 @@ const anime = [
 		type: 'OVA',
 		season: 1,
 		year: 2020,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15134,7 +15183,7 @@ const anime = [
 		type: 'OVA',
 		season: 3,
 		year: 2019,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15159,7 +15208,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2019,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15184,7 +15233,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2019,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15208,12 +15257,12 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance,
+			tRomanticSubtext,
 			tSchool,
 			tShounen
 		]
@@ -15231,12 +15280,12 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance,
+			tRomanticSubtext,
 			tSchool,
 			tShounen
 		]
@@ -15253,7 +15302,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15277,11 +15326,13 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
-			tSliceOfLife
+			tSliceOfLife,
+			tChildcare,
+			tOrganizedCrime
 		]
 	},
 	{
@@ -15297,7 +15348,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15318,7 +15369,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15340,12 +15391,12 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
 			tAction,
-			tAdventure,
+				,
 			tFantasy,
 			tIsekai
 		]
@@ -15362,7 +15413,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2018,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15384,7 +15435,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2018,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15407,7 +15458,7 @@ const anime = [
 		type: 'Movie',
 		season: 0,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15430,7 +15481,7 @@ const anime = [
 		type: 'Movie',
 		season: 0,
 		year: 2017,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15452,7 +15503,7 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2015,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15474,13 +15525,14 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
 			tComedy,
-			tShounen
+			tShounen,
+			tChildcare
 		]
 	},
 	{
@@ -15495,13 +15547,14 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tAction,
 			tComedy,
-			tShounen
+			tShounen,
+			tChildcare
 		]
 	},
 	{
@@ -15516,7 +15569,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15540,7 +15593,7 @@ const anime = [
 		type: 'Movie',
 		season: 3,
 		year: 2020,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15561,7 +15614,7 @@ const anime = [
 		type: 'Movie',
 		season: 2,
 		year: 2020,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15582,7 +15635,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2019,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15607,7 +15660,7 @@ const anime = [
 		type: 'Movie',
 		season: 2,
 		year: 2015,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15629,7 +15682,7 @@ const anime = [
 		type: 'OVA',
 		season: 3,
 		year: 2014,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15648,7 +15701,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2014,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15672,7 +15725,7 @@ const anime = [
 		type: 'OVA',
 		season: 3,
 		year: 2013,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
@@ -15694,10 +15747,11 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2013,
-		source: '',
+		source: 'Light novel',
 		rating: 1,
 		status: 1,
 		tag: [
+			tAction,
 			tRomance,
 			tSciFi,
 			tHarem,
@@ -15718,12 +15772,15 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2022,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tMusic
+			tAdultCast,
+			tMusic,
+			tReincarnation,
+			tShowbiz
 		]
 	},
 	{
@@ -15739,12 +15796,13 @@ const anime = [
 		type: 'ONA',
 		season: 0,
 		year: 2023,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 0,
 		tag: [
 			tComedy,
-			tWorkplace
+			tWorkplace,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15760,12 +15818,13 @@ const anime = [
 		type: 'ONA',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tWorkplace
+			tWorkplace,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15781,12 +15840,13 @@ const anime = [
 		type: 'ONA',
 		season: 2,
 		year: 2020,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tWorkplace
+			tWorkplace,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15802,12 +15862,13 @@ const anime = [
 		type: 'ONA',
 		season: 1,
 		year: 2019,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tWorkplace
+			tWorkplace,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15823,11 +15884,12 @@ const anime = [
 		type: 'ONA',
 		season: 3,
 		year: 2018,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy
+			tComedy,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15843,12 +15905,13 @@ const anime = [
 		type: 'ONA',
 		season: 1,
 		year: 2018,
-		source: '',
+		source: 'Other',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
-			tWorkplace
+			tWorkplace,
+			tAnthropomorphic
 		]
 	},
 	{
@@ -15864,7 +15927,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2019,
-		source: '',
+		source: 'Web manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15872,7 +15935,8 @@ const anime = [
 			tComedy,
 			tParody,
 			tSuperPower,
-			tSeinen
+			tSeinen,
+			tAdultCast
 		]
 	},
 	{
@@ -15887,7 +15951,7 @@ const anime = [
 		type: 'OVA',
 		season: 3,
 		year: 2015,
-		source: '',
+		source: 'Web manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15910,7 +15974,7 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2015,
-		source: '',
+		source: 'Web manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15918,7 +15982,8 @@ const anime = [
 			tComedy,
 			tParody,
 			tSuperPower,
-			tSeinen
+			tSeinen,
+			tAdultCast
 		]
 	},
 	{
@@ -15934,7 +15999,7 @@ const anime = [
 		type: 'ONA',
 		season: 3,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15957,7 +16022,7 @@ const anime = [
 		type: 'ONA',
 		season: 2,
 		year: 2022,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -15980,7 +16045,7 @@ const anime = [
 		type: 'ONA',
 		season: 3,
 		year: 2021,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -16003,14 +16068,15 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2018,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tOrganizedCrime
 		]
 	},
 	{
@@ -16026,7 +16092,7 @@ const anime = [
 		type: 'OVA',
 		season: 2,
 		year: 2017,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -16049,7 +16115,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2016,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -16072,7 +16138,7 @@ const anime = [
 		type: 'TV',
 		season: 0,
 		year: 2015,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -16095,7 +16161,7 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2014,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
@@ -16118,14 +16184,16 @@ const anime = [
 		type: 'TV',
 		season: 3,
 		year: 2012,
-		source: '',
+		source: 'Manga',
 		rating: 1,
 		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tHistorical,
+			tVampire
 		]
 	},
 	{
@@ -16141,13 +16209,13 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2023,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tSupernatural,
-			tRomance
+			tRomanticSubtext
 		]
 	},
 	{
@@ -16163,13 +16231,13 @@ const anime = [
 		type: 'TV',
 		season: 2,
 		year: 2021,
-		source: '',
+		source: 'Web manga',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tSupernatural,
-			tRomance
+			tRomanticSubtext
 		]
 	},
 	{
@@ -16185,14 +16253,15 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2021,
-		source: '',
+		source: 'Light novel',
 		rating: 0,
 		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tCGDCT
 		]
 	}
 ]
