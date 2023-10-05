@@ -20,6 +20,28 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1194/138253',
+		name: [
+			'Yuzuki-san Chi no Yonkyoudai.',
+			'柚木さんちの四兄弟。',
+			"The Yuzuki Family's Four Sons"
+		],
+		studio: [
+			sShuka
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tSliceOfLife,
+			tSchool,
+			tShoujo
+		]
+	},
+	{
 		img: '1588/138395',
 		name: [
 			'16bit Sensation: Another Layer',

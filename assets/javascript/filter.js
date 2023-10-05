@@ -80,7 +80,7 @@ const statusList = [
 ]
 let statusTemp = ``;
 for(var i = 0; i < statusList.length; i++){
-	statusTemp += `<div class="tag" id="${ratingList.indexOf(statusList[i])}">${statusList[i]}</div>`
+	statusTemp += `<div class="tag" id="${statusList.indexOf(statusList[i])}">${statusList[i]}</div>`
 }
 
 filter();

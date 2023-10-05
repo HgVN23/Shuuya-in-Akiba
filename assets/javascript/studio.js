@@ -683,6 +683,11 @@ const sDigitalNetworkAnimation = {
 	id: 1796,
 	img: ''
 };
+const sShuka = {
+	name: 'Shuka',
+	id: 1119,
+	img: '9116fb75-b878-41d9-9b2a-e64c00ff25ba'
+};
 
 const studioList = [
 	sFeel,
