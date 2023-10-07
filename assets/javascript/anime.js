@@ -20,6 +20,74 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1032/137893',
+		name: [
+			'Hikikomari Kyuuketsuki no Monmon',
+			'ひきこまり吸血姫の悶々',
+			'The Vexations of a Shut-In Vampire Princess'
+		],
+		studio: [
+			sProjectNo9
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tVampire,
+			tYuri
+		]
+	},
+	{
+		img: '1610/138189',
+		name: [
+			'Hametsu no Oukoku',
+			'はめつのおうこく',
+			'The Kingdoms of Ruin'
+		],
+		studio: [
+			sYokohamaAnimationLab
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tDrama,
+			tFantasy,
+			tGore,
+			tShounen
+		]
+	},
+	{
+		img: '1219/138503',
+		name: [
+			'Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.',
+			'経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。',
+			'Our Dating Story: The Experienced You and The Inexperienced Me'
+		],
+		studio: [
+			sENGI
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tRomance,
+			tSchool
+		]
+	},
+	{
 		img: '1194/138253',
 		name: [
 			'Yuzuki-san Chi no Yonkyoudai.',
@@ -7357,6 +7425,30 @@ const anime = [
 		]
 	},
 	{
+		img: '1063/137100',
+		name: [
+			'Kanojo mo Kanojo Season 2',
+			'カノジョも彼女 Season 2',
+			'Girlfriend, Girlfriend Season 2'
+		],
+		studio: [
+			sSynergySP
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tRomance,
+			tHarem,
+			tSchool,
+			tShounen
+		]
+	},
+	{
 		img: '1713/117119',
 		name: [
 			'Kanojo mo Kanojo',
@@ -10905,6 +10997,28 @@ const anime = [
 		]
 	},
 	{
+		img: '1100/138338',
+		name: [
+			'Goblin Slayer II',
+			'ゴブリンスレイヤーⅡ'
+		],
+		studio: [
+			sLIDENFILMS
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 1,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy,
+			tGore
+		]
+	},
+	{
 		img: '1129/111477',
 		name: [
 			"Goblin Slayer: Goblin's Crown",
@@ -10971,6 +11085,30 @@ const anime = [
 			tMythology,
 			tWorkplace,
 			tShounen
+		]
+	},
+	{
+		img: '1188/136926',
+		name: [
+			'Tate no Yuusha no Nariagari Season 3',
+			'盾の勇者の成り上がり Season 3',
+			'The Rising of the Shield Hero Season 3'
+		],
+		studio: [
+			sKinemaCitrus
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tDrama,
+			tFantasy,
+			tIsekai
 		]
 	},
 	{
@@ -15533,6 +15671,28 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tIsekai
+		]
+	},
+	{
+		img: '1975/138482',
+		name: [
+			'Spy x Family Season 2'
+		],
+		studio: [
+			sWitStudio,
+			sCloverWorks
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tComedy,
+			tShounen,
+			tChildcare
 		]
 	},
 	{
