@@ -688,6 +688,11 @@ const sShuka = {
 	id: 1119,
 	img: '9116fb75-b878-41d9-9b2a-e64c00ff25ba'
 };
+const sJumondo = {
+	name: 'Jumondo',
+	id: 1119,
+	img: '06fe7c43-a114-4378-acac-99c66213da12'
+};
 
 const studioList = [
 	sFeel,
@@ -826,5 +831,7 @@ const studioList = [
 	sAICPLUS,
 	sFanworks,
 	sAReal,
-	sDigitalNetworkAnimation
+	sDigitalNetworkAnimation,
+	sShuka,
+	sJumondo
 ]

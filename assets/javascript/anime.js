@@ -20,6 +20,116 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1160/138465',
+		name: [
+			'Bokura no Ameiro Protocol',
+			'僕らの雨いろプロトコル',
+			'Protocol: Rain'
+		],
+		studio: [
+			sQuad
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Original',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tVideoGame
+		]
+	},
+	{
+		img: '1182/138184',
+		name: [
+			'Potion-danomi de Ikinobimasu!',
+			'ポーション頼みで生き延びます!',
+			'I Shall Survive Using Potions!'
+		],
+		studio: [
+			sJumondo
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tFantasy,
+			tIsekai,
+			tReincarnation
+		]
+	},
+	{
+		img: '1051/136302',
+		name: [
+			'Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story',
+			'ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～',
+			'Tearmoon Empire'
+		],
+		studio: [
+			sSILVERLINK
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tTimeTravel
+		]
+	},
+	{
+		img: '1818/138383',
+		name: [
+			'Buta no Liver wa Kanetsu Shiro',
+			'豚のレバーは加熱しろ',
+			'Butareba -The Story of a Man Who Turned into a Pig-'
+		],
+		studio: [
+			sProjectNo9
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tIsekai
+		]
+	},
+	{
+		img: '1816/138532',
+		name: [
+			'Kikansha no Mahou wa Tokubetsu desu',
+			'帰還者の魔法は特別です',
+			"A Returner's Magic Should Be Special"
+		],
+		studio: [
+			sArvoAnimation
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tFantasy,
+			tSchool,
+			tTimeTravel
+		]
+	},
+	{
 		img: '1032/137893',
 		name: [
 			'Hikikomari Kyuuketsuki no Monmon',
