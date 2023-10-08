@@ -108,7 +108,12 @@ function addAnime(list) {
 		let tag = ``;
 		for(var j = 0; j < temp.tag.length; j++) {
 			tag += `<div class="tag ${sortList(temp.tag)[j].id}">${sortList(temp.tag)[j].name}</div>\n`
-		}
+		};
+		let song;
+		if(temp.name.length > 1)
+			song = temp.name[1];
+		else
+			song = name;
 		// let character = ``;
 		// for(var j = 0; j < temp.character.main.length; j++) {
 		// 	character += `
@@ -159,6 +164,8 @@ function addAnime(list) {
 							${tag}
 						</div>
 						<div class="relatedBox">
+							<a class="rImg rOP" href="https://www.youtube.com/results?search_query=${song}+OP" target="_blank" alt="Visual Opening"></a>
+							<a class="rImg rED" href="https://www.youtube.com/results?search_query=${song}+ED" target="_blank" alt="Visual Ending"></a>
 							<a class="rImg rAnimeVietsub" href="https://animevietsub.im/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
 							<a class="rImg rMangaQQ" href="https://truyenqqq.vn/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>

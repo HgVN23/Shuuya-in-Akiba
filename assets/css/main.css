@@ -571,6 +571,12 @@ p {
 	width: 5rem;
 	height: 5rem;
 }
+.rOP {
+	content: url(../media/icon/op.png);
+}
+.rED {
+	content: url(../media/icon/ed.png);
+}
 .rAnimeVietsub {
 	content: url(../media/icon/animeVietsub.png);
 }
