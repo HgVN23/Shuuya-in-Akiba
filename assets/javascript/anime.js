@@ -20,6 +20,31 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1812/136764',
+		name: [
+			'Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo',
+			'君のことが大大大大大好きな100人の彼女',
+			'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You'
+		],
+		studio: [
+			sBiburyAnimationStudios
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tRomance,
+			tHarem,
+			tParody,
+			tSchool,
+			tSeinen
+		]
+	},
+	{
 		img: '1160/138465',
 		name: [
 			'Bokura no Ameiro Protocol',
