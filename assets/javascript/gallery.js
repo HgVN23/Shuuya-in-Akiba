@@ -142,7 +142,7 @@ function addAnime(list) {
 			</div>
 			<div class="moreInfo hideInfo">
 				<div class="split">
-					<div class="status sMax s${status}">
+					<div class="status sMax s${statusList[status]}">
 						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
 						<!-- <img class="max" src="assets/media/test.png" alt="${name}"> -->
 					</div>

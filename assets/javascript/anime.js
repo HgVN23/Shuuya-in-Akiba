@@ -1189,7 +1189,7 @@ const anime = [
 		year: 2023,
 		source: 'Web manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tDrama,
 			tMusic,
