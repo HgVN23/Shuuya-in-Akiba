@@ -187,6 +187,42 @@
 .tCrossdressing::before {
 	content: 'Hóa trang khác giới';
 }
+.tFavoriteOPVisual::before {
+	content: 'Hình ảnh mở đầu ưa thích';
+}
+.tFavoriteEDVisual::before {
+	content: 'Hình ảnh kết thúc ưa thích';
+}
+.tFavoriteOPSong::before {
+	content: 'Bài nhạc mở đầu ưa thích';
+}
+.tFavoriteEDSong::before {
+	content: 'Bài nhạc kết thúc ưa thích';
+}
+.tFavoriteOPVisual,
+.tFavoriteEDVisual,
+.tFavoriteOPSong,
+.tFavoriteEDSong {
+	color: lime;
+}
+.tMeaningfulOPVisual::before {
+	content: 'Hình ảnh mở đầu ý nghĩa';
+}
+.tMeaningfulEDVisual::before {
+	content: 'Hình ảnh kết thúc ý nghĩa';
+}
+.tMeaningfulOPSong::before {
+	content: 'Bài nhạc mở đầu ý nghĩa';
+}
+.tMeaningfulEDSong::before {
+	content: 'Bài nhạc kết thúc ý nghĩa';
+}
+.tMeaningfulOPVisual,
+.tMeaningfulEDVisual,
+.tMeaningfulOPSong,
+.tMeaningfulEDSong {
+	color: yellow;
+}
 
 .tag::before {
 	background-color: var(--bg);

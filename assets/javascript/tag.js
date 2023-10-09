@@ -250,6 +250,38 @@ const tCrossdressing = {
 	name: 'Crossdressing',
 	id: 'tCrossdressing'
 }
+const tFavoriteOPVisual = {
+	name: 'Favorite OP Visual',
+	id: 'tFavoriteOPVisual'
+}
+const tFavoriteEDVisual = {
+	name: 'Favorite ED Visual',
+	id: 'tFavoriteEDVisual'
+}
+const tFavoriteOPSong = {
+	name: 'Favorite OP Song',
+	id: 'tFavoriteOPSong'
+}
+const tFavoriteEDSong = {
+	name: 'Favorite ED Song',
+	id: 'tFavoriteEDSong'
+}
+const tMeaningfulOPVisual = {
+	name: 'Meaningful OP Visual',
+	id: 'tMeaningfulOPVisual'
+}
+const tMeaningfulEDVisual = {
+	name: 'Meaningful ED Visual',
+	id: 'tMeaningfulEDVisual'
+}
+const tMeaningfulOPSong = {
+	name: 'Meaningful OP Song',
+	id: 'tMeaningfulOPSong'
+}
+const tMeaningfulEDSong = {
+	name: 'Meaningful ED Song',
+	id: 'tMeaningfulEDSong'
+}
 
 const tagList = [
 	tAction,
@@ -314,5 +346,13 @@ const tagList = [
 	tErotica,
 	tIdol,
 	tMahouShoujo,
-	tCrossdressing
+	tCrossdressing,
+	tFavoriteOPVisual,
+	tFavoriteEDVisual,
+	tFavoriteOPSong,
+	tFavoriteEDSong,
+	tMeaningfulOPVisual,
+	tMeaningfulEDVisual,
+	tMeaningfulOPSong,
+	tMeaningfulEDSong
 ]
