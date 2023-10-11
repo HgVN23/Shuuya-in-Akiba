@@ -206,6 +206,10 @@ header {
 .fSelected {
 	border-color: yellow !important;
 }
+.countTag {
+	font-size: .8rem;
+	font-style: italic;
+}
 .flexSpace {
 	display: flex;
 	justify-content: space-around;

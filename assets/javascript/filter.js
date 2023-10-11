@@ -1,14 +1,3 @@
-let studioTemp = ``;
-const studioListTemp = sortList(studioList);
-for(var i = 0; i < studioListTemp.length; i++){
-	studioTemp += `
-		<div class="tag" id="${studioListTemp[i].id}">
-			<div>${studioListTemp[i].name}</div>
-			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
-		</div>
-	`
-}
-
 const typeList = [
 	'TV',
 	'OVA',
@@ -18,7 +7,7 @@ const typeList = [
 ]
 let typeTemp = ``;
 for(var i = 0; i < typeList.length; i++){
-	typeTemp += `<div class="tag" id="${typeList[i]}">${typeList[i]}</div>`
+	typeTemp += `<div class="tag" id="${typeList[i]}">${typeList[i]} ${countTag('str', 'type', typeList, i)}</div>`
 }
 
 const seasonList = [
@@ -30,29 +19,13 @@ const seasonList = [
 
 let seasonTemp = ``;
 for(var i = 0; i < seasonList.length; i++){
-	seasonTemp += `<div class="tag" id="${seasonList.indexOf(seasonList[i])}">${seasonList[i]}</div>`
-}
-
-const ratingList = [
-	'PG-13',
-	'R-17+',
-	'R+'
-]
-let ratingTemp = ``;
-for(var i = 0; i < ratingList.length; i++){
-	ratingTemp += `<div class="tag" id="${ratingList.indexOf(ratingList[i])}">${ratingList[i]}</div>`
+	seasonTemp += `<div class="tag" id="${seasonList.indexOf(seasonList[i])}">${seasonList[i]} ${countTag('int', 'season', seasonList, i)}</div>`
 }
 
 const yearNow = new Date().getFullYear()
 let yearTemp = ``;
 for(var i = yearNow; i >= 2006; i--){
-	yearTemp += `<div class="tag" id="${i}">${i}</div>`
-}
-
-let tagTemp = ``;
-const tagListTemp = sortList(tagList);
-for(var i = 0; i < tagListTemp.length; i++){
-	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}">${tagListTemp[i].name}</div>`
+	yearTemp += `<div class="tag" id="${i}">${i} ${countTag('int', 'year', '', i)}</div>`
 }
 
 const sourceList = [
@@ -71,7 +44,17 @@ const sourceList = [
 ]
 let sourceTemp = ``;
 for(var i = 0; i < sourceList.length; i++){
-	sourceTemp += `<div class="tag" id="${sourceList[i]}">${sourceList[i]}</div>`
+	sourceTemp += `<div class="tag" id="${sourceList[i]}">${sourceList[i]} ${countTag('str', 'source', sourceList, i)}</div>`
+}
+
+const ratingList = [
+	'PG-13',
+	'R-17+',
+	'R+'
+]
+let ratingTemp = ``;
+for(var i = 0; i < ratingList.length; i++){
+	ratingTemp += `<div class="tag" id="${ratingList.indexOf(ratingList[i])}">${ratingList[i]} ${countTag('int', 'rating', ratingList, i)}</div>`
 }
 
 const statusList = [
@@ -80,7 +63,24 @@ const statusList = [
 ]
 let statusTemp = ``;
 for(var i = 0; i < statusList.length; i++){
-	statusTemp += `<div class="tag" id="${statusList.indexOf(statusList[i])}">${statusList[i]}</div>`
+	statusTemp += `<div class="tag" id="${statusList.indexOf(statusList[i])}">${statusList[i]} ${countTag('int', 'status', statusList, i)}</div>`
+}
+
+let tagTemp = ``;
+const tagListTemp = sortList(tagList);
+for(var i = 0; i < tagListTemp.length; i++){
+	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}">${tagListTemp[i].name} ${countTag('arr', 'tag', tagListTemp, i)}</div>`
+}
+
+let studioTemp = ``;
+const studioListTemp = sortList(studioList);
+for(var i = 0; i < studioListTemp.length; i++){
+	studioTemp += `
+		<div class="tag" id="${studioListTemp[i].id}">
+			<div>${studioListTemp[i].name} ${countTag('arr', 'studio', studioListTemp, i)}</div>
+			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
+		</div>
+	`
 }
 
 filter();
@@ -192,4 +192,21 @@ function sortList(list) {
 				sort[j] = temp;
 			}
 	return sort;
+}
+
+function countTag(type, data, dataList, index) {
+	let tag = 0;
+	if(type == 'str')
+		for(var i = 0; i < anime.length; i++)
+			if(anime[i][data] == dataList[index])
+				tag++;
+	if(type == 'int')
+		for(var i = 0; i < anime.length; i++)
+			if(anime[i][data] == index)
+				tag++;
+	if(type == 'arr')
+		for(var i = 0; i < anime.length; i++)
+			if(anime[i][data].includes(dataList[index]))
+				tag++;
+	return `<span class="countTag">(${tag})</span>`;
 }

@@ -20,6 +20,29 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1136/138410',
+		name: [
+			'Undead Unluck',
+			'アンデッドアンラック'
+		],
+		studio: [
+			sDavidProduction
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 1,
+		status: 0,
+		tag: [
+			tAction,
+			tComedy,
+			tSupernatural,
+			tSuperPower,
+			tShounen
+		]
+	},
+	{
 		img: '1897/137894',
 		name: [
 			'Hoshikuzu Telepath',
@@ -614,7 +637,9 @@ const anime = [
 		status: 0,
 		tag: [
 			tAction,
-			tFantasy
+			tFantasy,
+			tMeaningfulEDSong,
+			tMeaningfulEDVisual
 		]
 	},
 	{
@@ -635,7 +660,9 @@ const anime = [
 		tag: [
 			tHorror,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tMeaningfulEDSong,
+			tMeaningfulEDVisual
 		]
 	},
 	{
@@ -808,7 +835,8 @@ const anime = [
 			tPsychological,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tMeaningfulEDSong
 		]
 	},
 	{
@@ -903,7 +931,9 @@ const anime = [
 			tHistorical,
 			tVampire,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tMeaningfulEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -951,7 +981,11 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tAdultCast,
-			tHistorical
+			tHistorical,
+			tMeaningfulOPSong,
+			tMeaningfulOPVisual,
+			tMeaningfulEDSong,
+			tMeaningfulEDVisual
 		]
 	},
 	{
@@ -1152,7 +1186,9 @@ const anime = [
 		tag: [
 			tFantasy,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tMeaningfulEDSong,
+			tMeaningfulEDVisual
 		]
 	},
 	{
@@ -2685,7 +2721,11 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tMystery
+			tMystery,
+			tMeaningfulOPSong,
+			tMeaningfulOPVisual,
+			tMeaningfulEDSong,
+			tMeaningfulEDVisual
 		]
 	},
 	{
@@ -7665,7 +7705,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tMeaningfulEDSong
 		]
 	},
 	{
