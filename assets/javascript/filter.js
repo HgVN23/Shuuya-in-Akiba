@@ -77,7 +77,7 @@ const studioListTemp = sortList(studioList);
 for(var i = 0; i < studioListTemp.length; i++){
 	studioTemp += `
 		<div class="tag" id="${studioListTemp[i].id}">
-			<div>${studioListTemp[i].name} ${countTag('arr', 'studio', studioListTemp, i)}</div>
+			<div>${studioListTemp[i].name}</div>${countTag('arr', 'studio', studioListTemp, i)}
 			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
 		</div>
 	`

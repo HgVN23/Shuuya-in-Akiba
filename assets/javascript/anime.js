@@ -62,7 +62,10 @@ const anime = [
 			tComedy,
 			tYuri,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tMeaningfulEDSong
 		]
 	},
 	{
@@ -337,7 +340,9 @@ const anime = [
 		tag: [
 			tComedy,
 			tFantasy,
-			tRomance
+			tRomance,
+			tMeaningfulOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
