@@ -859,7 +859,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
