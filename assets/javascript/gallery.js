@@ -172,7 +172,7 @@ function addAnime(list) {
 							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="MangaNelo"></a>
 							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="MangaDex"></a>
 							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="MyAnimeList"></a>
-							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending&seasons=${seasonList[season]}%20${year}&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
 						</div>
 					</div>
 				</div>
