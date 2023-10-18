@@ -2,7 +2,7 @@ function copyCreate()	 {
 	let copy1 = document.querySelectorAll('h1');
 	let copy2 = document.querySelectorAll('h2');
 	let copy3 = document.querySelectorAll('h3');
-	let copy4 = document.querySelectorAll('.cName');
+	// let copy4 = document.querySelectorAll('.cName');
 
 	for (var iC = 0; iC < copy1.length; iC++) {
 		copy1[iC].addEventListener('click', copyClick);
@@ -13,9 +13,9 @@ function copyCreate()	 {
 	for (var iC = 0; iC < copy3.length; iC++) {
 		copy3[iC].addEventListener('click', copyClick);
 	}
-	for (var iC = 0; iC < copy4.length; iC++) {
-		copy4[iC].addEventListener('click', copyClick);
-	}
+	// for (var iC = 0; iC < copy4.length; iC++) {
+	// 	copy4[iC].addEventListener('click', copyClick);
+	// }
 }
 
 const toastStyle = document.querySelector('.toast');

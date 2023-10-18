@@ -136,7 +136,7 @@ function addAnime(list) {
 			<div class="anime">
 				<div class="status sMin s${statusList[status]}">
 					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
-					<!-- <img class="min" src="assets/media/test.png" alt="${name}"> -->
+					<!-- <img class="min" src="assets/media/test.png"> -->
 					<div class="name">${name}</div>
 				</div>
 			</div>
