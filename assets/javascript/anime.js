@@ -253,7 +253,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1219/138503',
+		img: '1594/139137',
 		name: [
 			'Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.',
 			'経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。',
