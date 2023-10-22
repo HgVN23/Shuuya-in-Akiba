@@ -693,6 +693,11 @@ const sJumondo = {
 	id: 1119,
 	img: '06fe7c43-a114-4378-acac-99c66213da12'
 };
+const sTOHOanimationSTUDIO = {
+	name: 'TOHO animation STUDIO',
+	id: 2705,
+	img: 'd951115c-6e20-47fb-adeb-20c0318fdc49'
+};
 
 const studioList = [
 	sFeel,
@@ -833,5 +838,6 @@ const studioList = [
 	sAReal,
 	sDigitalNetworkAnimation,
 	sShuka,
-	sJumondo
+	sJumondo,
+	sTOHOanimationSTUDIO
 ]

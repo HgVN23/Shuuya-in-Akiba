@@ -20,6 +20,52 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1330/137476',
+		name: [
+			'Good Night World',
+			'グッド・ナイト・ワールド'
+		],
+		studio: [
+			sNAZ
+		],
+		type: 'ONA',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 1,
+		status: 1,
+		tag: [
+			tDrama,
+			tFantasy,
+			tPsychological,
+			tVideoGame
+		]
+	},
+	{
+		img: '1708/138033',
+		name: [
+			'Kusuriya no Hitorigoto',
+			'薬屋のひとりごと',
+			'The Apothecary Diaries'
+		],
+		studio: [
+			sOLM,
+			sTOHOanimationSTUDIO
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tDrama,
+			tMystery,
+			tHistorical,
+			tMedical
+		]
+	},
+	{
 		img: '1136/138410',
 		name: [
 			'Undead Unluck',
