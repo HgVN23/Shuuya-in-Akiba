@@ -367,7 +367,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1142/137572',
+		img: '1720/139131',
 		name: [
 			'Konyaku Haki sareta Reijou wo Hirotta Ore ga, Ikenai Koto wo Oshiekomu',
 			'婚約破棄された令嬢を拾った俺が、イケナイことを教え込む',
@@ -2419,7 +2419,7 @@ const anime = [
 		],
 		type: 'Movie',
 		season: 0,
-		year: 2017,
+		year: 2007,
 		source: 'Original',
 		rating: 0,
 		status: 1,
@@ -4775,7 +4775,7 @@ const anime = [
 			s8bit
 		],
 		type: 'Special',
-		season: 0,
+		season: 1,
 		year: 2016,
 		source: 'Light novel',
 		rating: 0,
@@ -7426,7 +7426,7 @@ const anime = [
 	{
 		img: '10/86507',
 		name: [
-			'New Game! Watashi, Shain Ryokou tte Hajimete nano de...',
+			'New Game! Watashi, Shain Ryokou tte Hajimete nanode...',
 			'NEW GAME! 私、社員旅行って初めてなので…'
 		],
 		studio: [
@@ -9119,7 +9119,7 @@ const anime = [
 	{
 		img: '1624/112109',
 		name: [
-			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita OVA',
+			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. OVA',
 			'勇者になれなかった俺はしぶしぶ就職を決意しました。OVA',
 			"Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA"
 		],
@@ -10176,8 +10176,8 @@ const anime = [
 			sShaft
 		],
 		type: 'OVA',
-		season: 3,
-		year: 2014,
+		season: 0,
+		year: 2016,
 		source: 'Manga',
 		rating: 0,
 		status: 1,
@@ -10744,7 +10744,7 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 2,
+		season: 3,
 		year: 2016,
 		source: 'Light novel',
 		rating: 0,
@@ -12324,7 +12324,7 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'TV',
-		season: 0,
+		season: 2,
 		year: 2017,
 		source: 'Light novel',
 		rating: 0,

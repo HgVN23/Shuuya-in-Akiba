@@ -631,22 +631,14 @@ p {
 
 
 
-/*.textLink {
-	width: fit-content;
-}
-.textLink:link,
-.textLink:visited {
-	color: #3b82f6;
-	text-decoration: none;
-}
+
+
 .textLink:hover {
 	color: var(--hover-color);
-	text-decoration: underline;
 }
 .textLink:active {
 	color: yellow;
-	text-decoration: underline;
-}*/
+}
 .toast {
 	background-color: #3a3b3c;
 	border: var(--border);

@@ -114,6 +114,12 @@ function addAnime(list) {
 			song = temp.name[1];
 		else
 			song = name;
+
+		let fSeason = ``;
+		if(year > 2017)
+			fSeason = `&seasons=${seasonList[season]}%20${year}`;
+		else
+			fSeason = `&seasons=${year}`;
 		// let character = ``;
 		// for(var j = 0; j < temp.character.main.length; j++) {
 		// 	character += `
@@ -155,7 +161,7 @@ function addAnime(list) {
 							</div>
 							<div class="smallInfo">
 								<p class="type">${type}</p>
-								<p class="season">${seasonList[season]} ${year}</p>
+								<p class="season"><a class="textLink" href="https://myanimelist.net/anime/season/${year}/${seasonList[season].toLowerCase()}" target="_blank">${seasonList[season]} ${year}</a></p>
 								<p class="source">${source}</p>
 								<p class="rating">${ratingList[rating]}</p>
 							</div>
@@ -172,7 +178,7 @@ function addAnime(list) {
 							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="MangaNelo"></a>
 							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="MangaDex"></a>
 							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="MyAnimeList"></a>
-							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending&seasons=${seasonList[season]}%20${year}&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending${fSeason}&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
 						</div>
 					</div>
 				</div>
