@@ -20,6 +20,27 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1802/108501',
+		name: [
+			'Majo no Tabitabi',
+			'魔女の旅々',
+			'Wandering Witch: The Journey of Elaina'
+		],
+		studio: [
+			sC2C
+		],
+		type: 'TV',
+		season: 3,
+		year: 2020,
+		source: 'Light novel',
+		rating: 1,
+		status: 1,
+		tag: [
+			tAdventure,
+			tFantasy
+		]
+	},
+	{
 		img: '1330/137476',
 		name: [
 			'Good Night World',
