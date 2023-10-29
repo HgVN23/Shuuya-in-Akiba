@@ -292,7 +292,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tVampire,
-			tYuri
+			tYuri,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -11476,7 +11477,9 @@ const anime = [
 			tAdventure,
 			tDrama,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
