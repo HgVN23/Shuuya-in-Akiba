@@ -13348,6 +13348,32 @@ const anime = [
 		]
 	},
 	{
+		img: '1570/135813',
+		name: [
+			'Tensei shitara Slime Datta Ken: Coleus no Yume',
+			'転生したらスライムだった件 コリウスの夢',
+			'That Time I Got Reincarnated as a Slime: Visions of Coleus'
+		],
+		studio: [
+			s8bit
+		],
+		type: 'OVA',
+		season: 3,
+		year: 2023,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai,
+			tShounen,
+			tReincarnation
+		]
+	},
+	{
 		img: '1745/128238',
 		name: [
 			'Tensei shitara Slime Datta Ken Movie: Guren no Kizuna-hen',
