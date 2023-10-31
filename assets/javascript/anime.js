@@ -20,6 +20,75 @@ const anime = [
 	// 	]
 	// },
 	{
+		img: '1985/132227',
+		name: [
+			'Gokushufudou Season 2',
+			'極主夫道',
+			'The Way of the Househusband Season 2'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'ONA',
+		season: 0,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tAdultCast,
+			tGagHumor,
+			tOrganizedCrime
+		]
+	},
+	{
+		img: '1942/120785',
+		name: [
+			'Gokushufudou Part 2',
+			'極主夫道',
+			'The Way of the Househusband Part 2'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'ONA',
+		season: 3,
+		year: 2021,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tAdultCast,
+			tGagHumor,
+			tOrganizedCrime
+		]
+	},
+	{
+		img: '1535/117726',
+		name: [
+			'Gokushufudou',
+			'極主夫道',
+			'The Way of the Househusband'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'ONA',
+		season: 1,
+		year: 2021,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tAdultCast,
+			tGagHumor,
+			tOrganizedCrime
+		]
+	},
+	{
 		img: '1802/108501',
 		name: [
 			'Majo no Tabitabi',
