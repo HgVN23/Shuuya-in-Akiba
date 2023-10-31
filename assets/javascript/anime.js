@@ -13362,7 +13362,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
