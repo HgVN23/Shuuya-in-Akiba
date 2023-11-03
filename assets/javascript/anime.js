@@ -3495,7 +3495,7 @@ const anime = [
 			sLerche
 		],
 		type: 'Special',
-		season: 0,
+		season: 3,
 		year: 2013,
 		source: 'Light novel',
 		rating: 2,
@@ -8626,7 +8626,7 @@ const anime = [
 			sFeel
 		],
 		type: 'OVA',
-		season: 0,
+		season: 1,
 		year: 2013,
 		source: 'Light novel',
 		rating: 0,
@@ -8896,7 +8896,7 @@ const anime = [
 			sManglobe
 		],
 		type: 'OVA',
-		season: 0,
+		season: 1,
 		year: 2013,
 		source: 'Manga',
 		rating: 0,
