@@ -698,6 +698,11 @@ const sTOHOanimationSTUDIO = {
 	id: 2705,
 	img: 'd951115c-6e20-47fb-adeb-20c0318fdc49'
 };
+// const s = {
+// 	name: '',
+// 	id: ,
+// 	img: ''
+// };
 
 const studioList = [
 	sFeel,

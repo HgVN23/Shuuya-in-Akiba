@@ -201,7 +201,7 @@ const anime = [
 			tSchool,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{
@@ -478,7 +478,7 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tRomance,
-			tMeaningfulOPSong,
+			tInterestingOPSong,
 			tFavoriteOPVisual
 		]
 	},
@@ -688,8 +688,8 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -780,8 +780,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -803,8 +803,8 @@ const anime = [
 			tHorror,
 			tSupernatural,
 			tShounen,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -978,7 +978,7 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{
@@ -1074,7 +1074,7 @@ const anime = [
 			tVampire,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong,
+			tInterestingEDSong,
 			tFavoriteEDVisual
 		]
 	},
@@ -1124,10 +1124,10 @@ const anime = [
 			tRomance,
 			tAdultCast,
 			tHistorical,
-			tMeaningfulOPSong,
-			tMeaningfulOPVisual,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingOPSong,
+			tInterestingOPVisual,
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -1329,8 +1329,8 @@ const anime = [
 			tFantasy,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -1726,7 +1726,7 @@ const anime = [
 			tAction,
 			tComedy,
 			tFantasy,
-			'tGagHumor',
+			tGagHumor,
 			tParody,
 			tSchool,
 			tShounen
@@ -2864,10 +2864,10 @@ const anime = [
 			tAction,
 			tFantasy,
 			tMystery,
-			tMeaningfulOPSong,
-			tMeaningfulOPVisual,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingOPSong,
+			tInterestingOPVisual,
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -3527,7 +3527,9 @@ const anime = [
 			tAction,
 			tFantasy,
 			tEcchi,
-			tSchool
+			tSchool,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -3749,7 +3751,7 @@ const anime = [
 			tShounen,
 			tSupernatural,
 			tSuperPower,
-			'tGagHumor'
+			tGagHumor
 		]
 	},
 	{
@@ -4702,7 +4704,7 @@ const anime = [
 			sStudioDeen
 		],
 		type: 'OVA',
-		season: 0,
+		season: 1,
 		year: 2011,
 		source: 'Light novel',
 		rating: 0,
@@ -7848,7 +7850,7 @@ const anime = [
 			tRomance,
 			tSupernatural,
 			tSchool,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{
@@ -8360,7 +8362,7 @@ const anime = [
 		]
 	},
 	{
-		img: '8/27463',
+		img: '3/67303',
 		name: [
 			'Baka to Test to Shoukanjuu: Matsuri',
 			'バカとテストと召喚獣 ～祭～',
@@ -8676,7 +8678,9 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tChildcare
+			tChildcare,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -8698,7 +8702,7 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			'tGagHumor'
+			tGagHumor
 		]
 	},
 	{
@@ -8721,7 +8725,7 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			'tGagHumor'
+			tGagHumor
 		]
 	},
 	{
@@ -11641,8 +11645,8 @@ const anime = [
 			tFantasy,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong,
-			tMeaningfulEDVisual
+			tInterestingEDSong,
+			tInterestingEDVisual
 		]
 	},
 	{
@@ -15593,7 +15597,7 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{
@@ -15618,7 +15622,7 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{
@@ -15687,7 +15691,7 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tMeaningfulEDSong
+			tInterestingEDSong
 		]
 	},
 	{

@@ -160,6 +160,9 @@
 .tGore::before {
 	content: 'Máu me';
 }
+.tGore {
+	color: red;
+}
 .tOrganizedCrime::before {
 	content: 'Tổ chức tội phạm';
 }
@@ -177,6 +180,9 @@
 }
 .tErotica::before {
 	content: 'Khiêu dâm';
+}
+.tErotica {
+	color: magenta;
 }
 .tIdol::before {
 	content: 'Thần tượng';
@@ -205,22 +211,22 @@
 .tFavoriteEDSong {
 	color: lime;
 }
-.tMeaningfulOPVisual::before {
-	content: 'Hình ảnh mở đầu ý nghĩa';
+.tInterestingOPVisual::before {
+	content: 'Hình ảnh mở đầu hứng thú';
 }
-.tMeaningfulEDVisual::before {
-	content: 'Hình ảnh kết thúc ý nghĩa';
+.tInterestingEDVisual::before {
+	content: 'Hình ảnh kết thúc hứng thú';
 }
-.tMeaningfulOPSong::before {
-	content: 'Bài nhạc mở đầu ý nghĩa';
+.tInterestingOPSong::before {
+	content: 'Bài nhạc mở đầu hứng thú';
 }
-.tMeaningfulEDSong::before {
-	content: 'Bài nhạc kết thúc ý nghĩa';
+.tInterestingEDSong::before {
+	content: 'Bài nhạc kết thúc hứng thú';
 }
-.tMeaningfulOPVisual,
-.tMeaningfulEDVisual,
-.tMeaningfulOPSong,
-.tMeaningfulEDSong {
+.tInterestingOPVisual,
+.tInterestingEDVisual,
+.tInterestingOPSong,
+.tInterestingEDSong {
 	color: yellow;
 }
 

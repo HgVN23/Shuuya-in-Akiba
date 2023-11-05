@@ -266,21 +266,21 @@ const tFavoriteEDSong = {
 	name: 'Favorite ED Song',
 	id: 'tFavoriteEDSong'
 }
-const tMeaningfulOPVisual = {
-	name: 'Meaningful OP Visual',
-	id: 'tMeaningfulOPVisual'
+const tInterestingOPVisual = {
+	name: 'Interesting OP Visual',
+	id: 'tInterestingOPVisual'
 }
-const tMeaningfulEDVisual = {
-	name: 'Meaningful ED Visual',
-	id: 'tMeaningfulEDVisual'
+const tInterestingEDVisual = {
+	name: 'Interesting ED Visual',
+	id: 'tInterestingEDVisual'
 }
-const tMeaningfulOPSong = {
-	name: 'Meaningful OP Song',
-	id: 'tMeaningfulOPSong'
+const tInterestingOPSong = {
+	name: 'Interesting OP Song',
+	id: 'tInterestingOPSong'
 }
-const tMeaningfulEDSong = {
-	name: 'Meaningful ED Song',
-	id: 'tMeaningfulEDSong'
+const tInterestingEDSong = {
+	name: 'Interesting ED Song',
+	id: 'tInterestingEDSong'
 }
 
 const tagList = [
@@ -351,8 +351,8 @@ const tagList = [
 	tFavoriteEDVisual,
 	tFavoriteOPSong,
 	tFavoriteEDSong,
-	tMeaningfulOPVisual,
-	tMeaningfulEDVisual,
-	tMeaningfulOPSong,
-	tMeaningfulEDSong
+	tInterestingOPVisual,
+	tInterestingEDVisual,
+	tInterestingOPSong,
+	tInterestingEDSong
 ]
