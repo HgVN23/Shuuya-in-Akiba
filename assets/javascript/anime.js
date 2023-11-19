@@ -12817,7 +12817,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1938/138295',
+		img: '1622/139331',
 		name: [
 			'Kage no Jitsuryokusha ni Naritakute! 2nd Season',
 			'の実力者になりたくて！ 2nd Season',
