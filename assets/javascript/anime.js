@@ -860,6 +860,29 @@ const anime = [
 		]
 	},
 	{
+		img: '1927/138733',
+		name: [
+			'Temple Specials',
+			'てんぷる',
+			'TenPuru: No One Can Live on Loneliness Specials'
+		],
+		studio: [
+			sGekkou
+		],
+		type: 'TV',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tRomance,
+			tEcchi,
+			tHarem
+		]
+	},
+	{
 		img: '1879/136896',
 		name: [
 			'Temple',
