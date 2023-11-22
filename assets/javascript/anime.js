@@ -16505,7 +16505,7 @@ const anime = [
 		year: 2023,
 		source: 'Other',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tWorkplace,
