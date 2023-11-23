@@ -16208,7 +16208,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1975/138482',
+		img: '1506/138982',
 		name: [
 			'Spy x Family Season 2'
 		],
