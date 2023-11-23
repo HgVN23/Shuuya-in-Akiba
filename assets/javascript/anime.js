@@ -16645,6 +16645,31 @@ const anime = [
 		]
 	},
 	{
+		img: '1618/103829',
+		name: [
+			'One Punch Man 2nd Season Specials',
+			'ワンパンマン SEASON 2 OVA 2',
+			'One Punch Man Season 2 Specials'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'Special',
+		season: 3,
+		year: 2019,
+		source: 'Web manga',
+		rating: 1,
+		status: 1,
+		tag: [
+			tAction,
+			tComedy,
+			tParody,
+			tSuperPower,
+			tSeinen,
+			tAdultCast
+		]
+	},
+	{
 		img: '1247/122044',
 		name: [
 			'One Punch Man 2nd Season',
@@ -16657,6 +16682,30 @@ const anime = [
 		type: 'TV',
 		season: 1,
 		year: 2019,
+		source: 'Web manga',
+		rating: 1,
+		status: 1,
+		tag: [
+			tAction,
+			tComedy,
+			tParody,
+			tSuperPower,
+			tSeinen,
+			tAdultCast
+		]
+	},
+	{
+		img: '1452/97840',
+		name: [
+			'One Punch Man Specials',
+			'ワンパンマン'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'Special',
+		season: 3,
+		year: 2015,
 		source: 'Web manga',
 		rating: 1,
 		status: 1,
