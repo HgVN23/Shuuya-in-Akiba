@@ -266,22 +266,6 @@ const tFavoriteEDSong = {
 	name: 'Favorite ED Song',
 	id: 'tFavoriteEDSong'
 }
-const tInterestingOPVisual = {
-	name: 'Interesting OP Visual',
-	id: 'tInterestingOPVisual'
-}
-const tInterestingEDVisual = {
-	name: 'Interesting ED Visual',
-	id: 'tInterestingEDVisual'
-}
-const tInterestingOPSong = {
-	name: 'Interesting OP Song',
-	id: 'tInterestingOPSong'
-}
-const tInterestingEDSong = {
-	name: 'Interesting ED Song',
-	id: 'tInterestingEDSong'
-}
 
 const tagList = [
 	tAction,
@@ -350,9 +334,5 @@ const tagList = [
 	tFavoriteOPVisual,
 	tFavoriteEDVisual,
 	tFavoriteOPSong,
-	tFavoriteEDSong,
-	tInterestingOPVisual,
-	tInterestingEDVisual,
-	tInterestingOPSong,
-	tInterestingEDSong
+	tFavoriteEDSong
 ]

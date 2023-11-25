@@ -209,24 +209,6 @@
 .tFavoriteEDVisual,
 .tFavoriteOPSong,
 .tFavoriteEDSong {
-	color: lime;
-}
-.tInterestingOPVisual::before {
-	content: 'Hình ảnh mở đầu hứng thú';
-}
-.tInterestingEDVisual::before {
-	content: 'Hình ảnh kết thúc hứng thú';
-}
-.tInterestingOPSong::before {
-	content: 'Bài nhạc mở đầu hứng thú';
-}
-.tInterestingEDSong::before {
-	content: 'Bài nhạc kết thúc hứng thú';
-}
-.tInterestingOPVisual,
-.tInterestingEDVisual,
-.tInterestingOPSong,
-.tInterestingEDSong {
 	color: yellow;
 }
 

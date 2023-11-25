@@ -200,8 +200,7 @@ const anime = [
 			tSupernatural,
 			tSchool,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -478,7 +477,6 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tRomance,
-			tInterestingOPSong,
 			tFavoriteOPVisual
 		]
 	},
@@ -687,9 +685,7 @@ const anime = [
 			tFantasy,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -779,9 +775,7 @@ const anime = [
 		status: 0,
 		tag: [
 			tAction,
-			tFantasy,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tFantasy
 		]
 	},
 	{
@@ -802,9 +796,7 @@ const anime = [
 		tag: [
 			tHorror,
 			tSupernatural,
-			tShounen,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tShounen
 		]
 	},
 	{
@@ -1000,8 +992,7 @@ const anime = [
 			tPsychological,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -1097,7 +1088,6 @@ const anime = [
 			tVampire,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tInterestingEDSong,
 			tFavoriteEDVisual
 		]
 	},
@@ -1146,11 +1136,7 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tAdultCast,
-			tHistorical,
-			tInterestingOPSong,
-			tInterestingOPVisual,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tHistorical
 		]
 	},
 	{
@@ -1351,9 +1337,7 @@ const anime = [
 		tag: [
 			tFantasy,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -2886,11 +2870,7 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tMystery,
-			tInterestingOPSong,
-			tInterestingOPVisual,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tMystery
 		]
 	},
 	{
@@ -7872,8 +7852,7 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSupernatural,
-			tSchool,
-			tInterestingEDSong
+			tSchool
 		]
 	},
 	{
@@ -11667,9 +11646,7 @@ const anime = [
 		tag: [
 			tFantasy,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong,
-			tInterestingEDVisual
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -15619,8 +15596,7 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -15644,8 +15620,7 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -15713,8 +15688,7 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tInterestingEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -16071,7 +16045,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -16306,7 +16281,9 @@ const anime = [
 			tSciFi,
 			tHarem,
 			tMecha,
-			tSchool
+			tSchool,
+			tFavoriteOPSong,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -16372,7 +16349,8 @@ const anime = [
 			tSciFi,
 			tHarem,
 			tMecha,
-			tSchool
+			tSchool,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -16418,7 +16396,7 @@ const anime = [
 		]
 	},
 	{
-		img: '5/76003',
+		img: '1703/135124',
 		name: [
 			'Date A Live II',
 			'デート・ア・ライブⅡ'
@@ -16438,7 +16416,8 @@ const anime = [
 			tSciFi,
 			tHarem,
 			tMecha,
-			tSchool
+			tSchool,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -16484,7 +16463,8 @@ const anime = [
 			tSciFi,
 			tHarem,
 			tMecha,
-			tSchool
+			tSchool,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -16785,7 +16765,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16808,7 +16790,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16831,7 +16815,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16855,7 +16841,9 @@ const anime = [
 			tAdventure,
 			tSupernatural,
 			tShounen,
-			tOrganizedCrime
+			tOrganizedCrime,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16901,7 +16889,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16924,7 +16914,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16947,7 +16939,9 @@ const anime = [
 			tAction,
 			tAdventure,
 			tSupernatural,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16972,7 +16966,9 @@ const anime = [
 			tSupernatural,
 			tShounen,
 			tHistorical,
-			tVampire
+			tVampire,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -16994,7 +16990,9 @@ const anime = [
 		tag: [
 			tComedy,
 			tSupernatural,
-			tRomanticSubtext
+			tRomanticSubtext,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -17016,7 +17014,9 @@ const anime = [
 		tag: [
 			tComedy,
 			tSupernatural,
-			tRomanticSubtext
+			tRomanticSubtext,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
