@@ -179,7 +179,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1897/137894',
+		img: '1020/139134',
 		name: [
 			'Hoshikuzu Telepath',
 			'星屑テレパス',
@@ -200,7 +200,9 @@ const anime = [
 			tSupernatural,
 			tSchool,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -296,7 +298,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1818/138383',
+		img: '1953/139911',
 		name: [
 			'Buta no Liver wa Kanetsu Shiro',
 			'豚のレバーは加熱しろ',
@@ -318,7 +320,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1816/138532',
+		img: '1363/139744',
 		name: [
 			'Kikansha no Mahou wa Tokubetsu desu',
 			'帰還者の魔法は特別です',
@@ -389,7 +391,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1594/139137',
+		img: '1848/140019',
 		name: [
 			'Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi.',
 			'経験済みなキミと、 経験ゼロなオレが、 お付き合いする話。',
@@ -619,7 +621,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1591/137973',
+		img: '1500/139931',
 		name: [
 			'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su',
 			'シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～',
@@ -1458,7 +1460,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1929/138438',
+		img: '1005/139809',
 		name: [
 			'Dead Mount Death Play Part 2',
 			'デッドマウント・デスプレイ'
@@ -2965,7 +2967,7 @@ const anime = [
 	{
 		img: '1832/132333',
 		name: [
-			'Inu ni Nattara Suki na Hito ni Hirowareta',
+			'Inu ni Nattara Suki na Hito ni Hirowareta.',
 			'犬になったら好きな人に拾われた。',
 			"My Life as Inukai-san's Dog"
 		],
@@ -7955,7 +7957,7 @@ const anime = [
 	{
 		img: '1622/111483',
 		name: [
-			'Araburu Kisetsu no Otome-domo yo',
+			'Araburu Kisetsu no Otome-domo yo.',
 			'荒ぶる季節の乙女どもよ。',
 			'O Maidens in Your Savage Season'
 		],
@@ -8069,7 +8071,7 @@ const anime = [
 	{
 		img: '10/88472',
 		name: [
-			'Imouto sae Ireba Ii',
+			'Imouto sae Ireba Ii.',
 			'妹さえいればいい。',
 			"A Sister's All You Need"
 		],
@@ -9083,7 +9085,7 @@ const anime = [
 	{
 		img: '3/75788',
 		name: [
-			'Hentai Ouji to Warawanai Neko',
+			'Hentai Ouji to Warawanai Neko.',
 			'変態王子と笑わない猫。',
 			'The "Hentai" Prince and the Stony Cat'
 		],
@@ -9238,7 +9240,7 @@ const anime = [
 	{
 		img: '13/54389',
 		name: [
-			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita',
+			'Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.',
 			'勇者になれなかった俺はしぶしぶ就職を決意しました。',
 			'I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job'
 		],
@@ -9484,7 +9486,7 @@ const anime = [
 	{
 		img: '3/56589',
 		name: [
-			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga',
+			'Saikin, Imouto no Yousu ga Chotto Okashiinda ga.',
 			'最近、妹のようすがちょっとおかしいんだが。',
 			'Recently, my sister is unusual'
 		],
@@ -9577,7 +9579,7 @@ const anime = [
 	{
 		img: '7/60095',
 		name: [
-			'Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne',
+			'Mikakunin de Shinkoukei: Kamoniku tte Midori-ppoi Aji ga Suru no ne.',
 			'未確認で進行形 「鴨肉って緑っぽい味がするのね。」'
 		],
 		studio: [
@@ -9597,7 +9599,7 @@ const anime = [
 	{
 		img: '3/64481',
 		name: [
-			'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo',
+			'Mikakunin de Shinkoukei: Mite. Are ga Watashitachi no Tomatteiru Ryokan yo.',
 			'未確認で進行形 「見て。あれが私たちの泊まっている旅館よ。」'
 		],
 		studio: [
@@ -10994,7 +10996,7 @@ const anime = [
 	{
 		img: '1843/115815',
 		name: [
-			'Tantei wa Mou, Shindeiru',
+			'Tantei wa Mou, Shindeiru.',
 			'探偵はもう、死んでいる。',
 			'The Detective Is Already Dead'
 		],
@@ -11459,7 +11461,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tGore
+			tGore,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -11503,7 +11506,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tGore
+			tGore,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -11532,7 +11536,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1188/136926',
+		img: '1317/139802',
 		name: [
 			'Tate no Yuusha no Nariagari Season 3',
 			'盾の勇者の成り上がり Season 3',
@@ -11646,7 +11650,9 @@ const anime = [
 		tag: [
 			tFantasy,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -13758,7 +13764,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1498/121952',
+		img: '1191/127909',
 		name: [
 			'Tensei shitara Ken deshita',
 			'転生したら剣でした',
@@ -14583,7 +14589,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tSurvival,
-			tShounen
+			tShounen,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -14640,7 +14647,7 @@ const anime = [
 	{
 		img: '7/86794',
 		name: [
-			'Isekai wa Smartphone to Tomo ni',
+			'Isekai wa Smartphone to Tomo ni.',
 			'異世界はスマートフォンとともに。',
 			'In Another World With My Smartphone'
 		],
@@ -14936,13 +14943,15 @@ const anime = [
 			tRomance,
 			tAdultCast,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
 		img: '1432/103533',
 		name: [
-			'Rikei ga Koi ni Ochita no de Shoumei shitemita',
+			'Rikei ga Koi ni Ochita no de Shoumei shitemita.',
 			'理系が恋に落ちたので証明してみた。',
 			'Science Fell in Love, So I Tried to Prove It'
 		],
@@ -15390,7 +15399,9 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteOPSong,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -15437,7 +15448,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tPsychological,
-			tSchool
+			tSchool,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -15537,7 +15549,7 @@ const anime = [
 		studio: [
 			sSILVERLINK
 		],
-		type: 'TV',
+		type: 'OVA',
 		season: 2,
 		year: 2018,
 		source: 'Manga',
@@ -15596,7 +15608,8 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -15711,7 +15724,8 @@ const anime = [
 			tComedy,
 			tSliceOfLife,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -15785,7 +15799,9 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -15809,7 +15825,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -15961,7 +15978,8 @@ const anime = [
 		img: '1612/120636',
 		name: [
 			'Aharen-san wa Hakarenai',
-			'阿波連さんははかれない'
+			'阿波連さんははかれない',
+			'Aharen Is Indecipherable'
 		],
 		studio: [
 			sFelixFilm
@@ -15977,8 +15995,7 @@ const anime = [
 			tRomance,
 			tSchool,
 			tShounen,
-			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -16045,8 +16062,7 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen,
-			tFavoriteOPVisual
+			tShounen
 		]
 	},
 	{

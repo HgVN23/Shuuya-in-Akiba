@@ -91,7 +91,7 @@ function addAnime(list) {
 		let name = temp.name[0];
 		let altName = ``;
 		for(var j = 1; j < temp.name.length; j++) {
-			altName += `<h${j+1}>${temp.name[j]}</h${j+1}>\n`
+			altName += `<h${j+1} class="copyable">${temp.name[j]}</h${j+1}>\n`
 		}
 		let studio = ``;
 		for(var j = 0; j < temp.studio.length; j++) {
@@ -153,7 +153,7 @@ function addAnime(list) {
 						<!-- <img class="max" src="assets/media/test.png" alt="${name}"> -->
 					</div>
 					<div class="limited">
-						<h1>${name}</h1>
+						<h1 class="copyable">${name}</h1>
 						${altName}
 						<div class="split2">
 							<div class="studio">
