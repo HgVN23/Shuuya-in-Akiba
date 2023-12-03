@@ -7812,6 +7812,29 @@ const anime = [
 		]
 	},
 	{
+		img: '1374/131616',
+		name: [
+			'Seishun Buta Yarou wa Odekake Sister no Yume wo Minai',
+			'青春ブタ野郎はおでかけシスターの夢を見ない',
+			'Rascal Does Not Dream of a Sister Venturing Out'
+		],
+		studio: [
+			sCloverWorks
+		],
+		type: 'Movie',
+		season: 1,
+		year: 2023,
+		source: 'Light novel',
+		rating: 0,
+		status: 1,
+		tag: [
+			tDrama,
+			tRomance,
+			tSupernatural,
+			tSchool
+		]
+	},
+	{
 		img: '1774/111679',
 		name: [
 			'Seishun Buta Yarou wa Yumemiru Shoujo no Yume wo Minai',
