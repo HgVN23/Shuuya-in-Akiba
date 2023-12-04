@@ -13633,7 +13633,9 @@ const anime = [
 			tIsekai,
 			tReincarnation,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -13707,7 +13709,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13758,7 +13761,9 @@ const anime = [
 			tSliceOfLife,
 			tIsekai,
 			tIyashikei,
-			tWorkplace
+			tWorkplace,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -13832,7 +13837,9 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -14001,7 +14008,9 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tVideoGame,
-			tAdultCast
+			tAdultCast,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -14244,7 +14253,9 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tGourmet
+			tGourmet,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -14266,7 +14277,9 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tGourmet
+			tGourmet,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -14638,7 +14651,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tSurvival,
-			tShounen
+			tShounen,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -15216,7 +15230,9 @@ const anime = [
 			tRomance,
 			tSchool,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -15330,7 +15346,10 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -15353,7 +15372,9 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -16085,7 +16106,9 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
