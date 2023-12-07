@@ -199,6 +199,7 @@ const anime = [
 			tYuri,
 			tSupernatural,
 			tSchool,
+			tCGDCT,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
@@ -272,7 +273,8 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tAdventure
 		]
 	},
 	{
@@ -380,14 +382,15 @@ const anime = [
 		season: 3,
 		year: 2023,
 		source: 'Manga',
-		rating: 0,
+		rating: 1,
 		status: 0,
 		tag: [
 			tAction,
 			tDrama,
 			tFantasy,
 			tGore,
-			tShounen
+			tShounen,
+			tSciFi
 		]
 	},
 	{
@@ -454,6 +457,7 @@ const anime = [
 			tOtakuCulture,
 			tTimeTravel,
 			tWorkplace,
+			tSupernatural,
 			tFavoriteOPSong,
 			tFavoriteOPVisual
 		]
@@ -551,7 +555,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -657,7 +662,7 @@ const anime = [
 		season: 3,
 		year: 2023,
 		source: 'Manga',
-		rating: 0,
+		rating: 1,
 		status: 0,
 		tag: [
 			tAction,
