@@ -13607,9 +13607,7 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai,
-			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tIsekai
 		]
 	},
 	{
