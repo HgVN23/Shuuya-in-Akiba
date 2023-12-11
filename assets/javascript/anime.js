@@ -692,7 +692,9 @@ const anime = [
 			tFantasy,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -12854,7 +12856,7 @@ const anime = [
 		img: '1622/139331',
 		name: [
 			'Kage no Jitsuryokusha ni Naritakute! 2nd Season',
-			'の実力者になりたくて！ 2nd Season',
+			'陰の実力者になりたくて！ 2nd Season',
 			'The Eminence in Shadow Season 2'
 		],
 		studio: [
@@ -12878,7 +12880,7 @@ const anime = [
 		img: '1091/128729',
 		name: [
 			'Kage no Jitsuryokusha ni Naritakute!',
-			'の実力者になりたくて！',
+			'陰の実力者になりたくて！',
 			'The Eminence in Shadow'
 		],
 		studio: [
@@ -13017,7 +13019,7 @@ const anime = [
 			sAsread,
 			sStudioMOTHER
 		],
-		type: 'Movie',
+		type: 'OVA',
 		season: 2,
 		year: 2022,
 		source: 'Light novel',
@@ -13438,30 +13440,6 @@ const anime = [
 		]
 	},
 	{
-		img: '1458/117607',
-		name: [
-			'Tensura Nikki: Tensei shitara Slime Datta Ken',
-			'転スラ日記 転生したらスライムだった件',
-			'The Slime Diaries'
-		],
-		studio: [
-			s8bit
-		],
-		type: 'TV',
-		season: 1,
-		year: 2021,
-		source: 'Manga',
-		rating: 0,
-		status: 1,
-		tag: [
-			tComedy,
-			tFantasy,
-			tIsekai,
-			tReincarnation,
-			tShounen
-		]
-	},
-	{
 		img: '1033/118296',
 		name: [
 			'Tensei shitara Slime Datta Ken 2nd Season Part 2',
@@ -13480,6 +13458,30 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai,
+			tReincarnation,
+			tShounen
+		]
+	},
+	{
+		img: '1458/117607',
+		name: [
+			'Tensura Nikki: Tensei shitara Slime Datta Ken',
+			'転スラ日記 転生したらスライムだった件',
+			'The Slime Diaries'
+		],
+		studio: [
+			s8bit
+		],
+		type: 'TV',
+		season: 1,
+		year: 2021,
+		source: 'Manga',
+		rating: 0,
+		status: 1,
+		tag: [
 			tComedy,
 			tFantasy,
 			tIsekai,
