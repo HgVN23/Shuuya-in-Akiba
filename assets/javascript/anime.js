@@ -221,7 +221,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
@@ -248,7 +248,7 @@ const anime = [
 		year: 2023,
 		source: 'Original',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tVideoGame
@@ -269,7 +269,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tFantasy,
 			tIsekai,
@@ -292,7 +292,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -336,7 +336,7 @@ const anime = [
 		year: 2023,
 		source: 'Web manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
@@ -383,7 +383,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tDrama,
@@ -408,7 +408,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tRomance,
 			tSchool
@@ -429,7 +429,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tSliceOfLife,
 			tSchool,
@@ -459,7 +459,9 @@ const anime = [
 			tWorkplace,
 			tSupernatural,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -478,7 +480,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -501,7 +503,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -525,7 +527,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
@@ -549,7 +551,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -573,7 +575,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tDrama,
@@ -597,7 +599,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy
@@ -618,7 +620,7 @@ const anime = [
 		year: 2023,
 		source: '4-koma manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -650,7 +652,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1661/137709',
+		img: '1763/140359',
 		name: [
 			'Ragna Crimson',
 			'ラグナクリムゾン'
@@ -671,7 +673,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1015/138006',
+		img: '1036/140549',
 		name: [
 			'Sousou no Frieren',
 			'葬送のフリーレン',
@@ -712,7 +714,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tRomance,
 			tSchool,
@@ -734,7 +736,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -781,7 +783,7 @@ const anime = [
 		year: 2023,
 		source: 'Web manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy
@@ -801,7 +803,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tHorror,
 			tSupernatural,
@@ -6576,7 +6578,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tFantasy,
 			tRomance,
@@ -7902,7 +7904,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tRomance,
@@ -11486,7 +11488,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -11580,7 +11582,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -12195,7 +12197,7 @@ const anime = [
 		img: '1387/127598',
 		name: [
 			'Kuro no Shoukanshi',
-			' 黒の召喚士',
+			'黒の召喚士',
 			'Black Summoner'
 		],
 		studio: [
@@ -12456,7 +12458,7 @@ const anime = [
 		studio: [
 			sStudioDeen
 		],
-		type: 'TV',
+		type: 'OVA',
 		season: 2,
 		year: 2017,
 		source: 'Light novel',
@@ -12867,7 +12869,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tComedy,
@@ -16263,7 +16265,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tComedy,

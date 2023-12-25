@@ -112,6 +112,8 @@ function apply() {
 	temp = filterMulti('Tag', temp);
 	temp = filterMulti('Studio', temp);
 
+	if(document.querySelector('#sortSeason').classList.contains('fSelected'))
+		temp = sortSeason(temp)
 	page = 0;
 	getMax(temp);
 	run(temp);
@@ -167,8 +169,17 @@ function filterMulti(get, from) {
 			temp[i] = from[i];
 	return temp;
 }
-function sortSeason() {
-	
+function sortSeason(from) {
+	let temp = [];
+	let fN = 0;
+	for(var yN = yearNow; yN >= 2006; yN--)
+		for(var sN = 3; sN >= 0; sN--)
+			for(var i = 0; i < from.length; i++)
+				if(from[i].year == yN && from[i].season == sN) {
+					temp[fN] = from[i];
+					fN++;
+				}
+	return temp;
 }
 // function checked(get) {
 // 	let n = get.length;
