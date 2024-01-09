@@ -698,6 +698,16 @@ const sTOHOanimationSTUDIO = {
 	id: 2705,
 	img: 'd951115c-6e20-47fb-adeb-20c0318fdc49'
 };
+const sStudioAdd = {
+	name: 'Studio Add',
+	id: 2760,
+	img: ''
+};
+const sStudioPolon = {
+	name: 'Studio Polon',
+	id: 2828,
+	img: ''
+};
 // const s = {
 // 	name: '',
 // 	id: ,
@@ -844,5 +854,5 @@ const studioList = [
 	sDigitalNetworkAnimation,
 	sShuka,
 	sJumondo,
-	sTOHOanimationSTUDIO
+	sStudioPolon
 ]

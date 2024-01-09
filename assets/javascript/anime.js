@@ -1,24 +1,444 @@
 const anime = [
 	// {
-	// 	img: '',
-	// 	name: [
-	// 		'',
-	// 		'',
-	// 		''
-	// 	],
-	// 	studio: [
-	// 		s
-	// 	],
-	// 	type: 'TV',
-	// 	season: 3,
-	// 	year: 2023,
-	// 	source: '',
-	// 	rating: 0,
-	// 	status: 0,
-	// 	tag: [
-	// 		t
-	// 	]
+		// img: '',
+		// name: [
+		// 	'',
+		// 	'',
+		// 	''
+		// ],
+		// studio: [
+		// 	s
+		// ],
+		// type: 'TV',
+		// season: 0,
+		// year: 2024,
+		// source: '',
+		// rating: 0,
+		// status: 0,
+		// tag: [
+		// 	t
+		// ]
 	// },
+	{
+		img: '1937/136906',
+		name: [
+			'Dosanko Gal wa Namara Menkoi',
+			'道産子ギャルはなまらめんこい',
+			'Hokkaido Gals Are Super Adorable!'
+		],
+		studio: [
+			sSILVERLINK,
+			sBlade
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tRomanticSubtext,
+			tSchool,
+			tShounen
+		]
+	},
+	{
+		img: '1056/139398',
+		name: [
+			'Himesama "Goumon" no Jikan desu',
+			'姫様“拷問”の時間です',
+			`'Tis Time for "Torture," Princess`
+		],
+		studio: [
+			sPINEJAM
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tGourmet,
+			tMythology,
+			tShounen
+		]
+	},
+	{
+		img: '1902/139271',
+		name: [
+			'Oroka na Tenshi wa Akuma to Odoru',
+			'愚かな天使は悪魔と踊る',
+			'The Foolish Angel Dances with the Devil'
+		],
+		studio: [
+			sChildrensPlaygroundEntertainment
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tSupernatural,
+			tMythology,
+			tRomanticSubtext,
+			tSchool,
+			tSeinen
+		]
+	},
+	{
+		img: '1124/138750',
+		name: [
+			'Kyuujitsu no Warumono-san',
+			'休日のわるものさん',
+			"Mr. Villain's Day Off"
+		],
+		studio: [
+			sSynergySP,
+			sShinEiAnimation
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Web manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy
+		]
+	},
+	{
+		img: '1533/140617',
+		name: [
+			'Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru',
+			'ループ7回目の悪役令嬢は、元敵国で自由気ままな花嫁生活を満喫する',
+			'7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!'
+		],
+		studio: [
+			sStudioKai,
+			sHORNETS
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tFantasy,
+			tRomance,
+			tReincarnation
+		]
+	},
+	{
+		img: '1319/140093',
+		name: [
+			'Saikyou Tank no Meikyuu Kouryaku: Tairyoku 9999 no Rare Skill-mochi Tank, Yuusha Party wo Tsuihou sareru',
+			'最強タンクの迷宮攻略 ～体力9999のレアスキル持ちタンク、勇者パーティーを追放される～',
+			"The Strongest Tank's Labyrinth Raids"
+		],
+		studio: [
+			sStudioPolon
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy
+		]
+	},
+	{
+		img: '1841/138405',
+		name: [
+			'Ore dake Level Up na Ken',
+			'俺だけレベルアップな件',
+			'Solo Leveling'
+		],
+		studio: [
+			sA1Pictures
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Web manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy
+		]
+	},
+	{
+		img: '1188/139825',
+		name: [
+			'Yubisaki to Renren',
+			'ゆびさきと恋々',
+			'A Sign of Affection'
+		],
+		studio: [
+			sAjiado
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tRomance,
+			tAdultCast,
+			tShoujo
+		]
+	},
+	{
+		img: '1452/139991',
+		name: [
+			'Kekkon Yubiwa Monogatari',
+			'結婚指輪物語',
+			'Tales of Wedding Rings'
+		],
+		studio: [
+			sStapleEntertainment
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tFantasy,
+			tRomance,
+			tEcchi,
+			tHarem,
+			tIsekai,
+			tSeinen
+		]
+	},
+	{
+		img: '1619/139441',
+		name: [
+			'Momochi-san Chi no Ayakashi Ouji',
+			'百千さん家のあやかし王子',
+			'The Demon Prince of Momochi House'
+		],
+		studio: [
+			sDrive
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tFantasy,
+			tRomance,
+			tMythology,
+			tShoujo
+		]
+	},
+	{
+		img: '1451/140235',
+		name: [
+			'Chiyu Mahou no Machigatta Tsukaikata',
+			'治癒魔法の間違った使い方',
+			'The Wrong Way to Use Healing Magic'
+		],
+		studio: [
+			sShinEiAnimation,
+			sStudioAdd
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tFantasy,
+			tIsekai
+		]
+	},
+	{
+		img: '1008/140287',
+		name: [
+			'Nozomanu Fushi no Boukensha',
+			'望まぬ不死の冒険者',
+			'The Unwanted Undead Adventurer'
+		],
+		studio: [
+			sConnect
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy
+		]
+	},
+	{
+		img: '1624/139672',
+		name: [
+			'Sasaki to Pii-chan',
+			'佐々木とピーちゃん',
+			'Sasaki and Peeps'
+		],
+		studio: [
+			sSILVERLINK
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai,
+			tFavoriteOPSong
+		]
+	},
+	{
+		img: '1734/139673',
+		name: [
+			'Sokushi Cheat ga Saikyou sugite, Isekai no Yatsura ga Marude Aite ni Naranai n desu ga.',
+			'即死チートが最強すぎて、異世界のやつらがまるで相手にならないんですが。',
+			'My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!'
+		],
+		studio: [
+			sOkurutoNoboru
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy,
+			tIsekai
+		]
+	},
+	{
+		img: '1519/138908',
+		name: [
+			'Mato Seihei no Slave',
+			'魔都精兵のスレイブ',
+			'Chained Soldier'
+		],
+		studio: [
+			sSevenArcs
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tFantasy,
+			tEcchi,
+			tHarem,
+			tShounen
+		]
+	},
+	{
+		img: '1938/140374',
+		name: [
+			'Dungeon Meshi',
+			'ダンジョン飯',
+			'Delicious in Dungeon'
+		],
+		studio: [
+			sTrigger
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tGourmet,
+			tSeinen,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
+		]
+	},
+	{
+		img: '1426/140122',
+		name: [
+			'Ishura',
+			'異修羅'
+		],
+		studio: [
+			sPassione
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 1,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tFantasy,
+			tGore,
+			tIsekai
+		]
+	},
+	{
+		img: '1925/139564',
+		name: [
+			'Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu.',
+			'異世界でもふもふなでなでするためにがんばってます。',
+			'Fluffy Paradise'
+		],
+		studio: [
+			sEMTSquared
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAdventure,
+			tFantasy,
+			tSliceOfLife,
+			tIsekai,
+			tReincarnation
+		]
+	},
 	{
 		img: '1985/132227',
 		name: [
@@ -193,7 +613,7 @@ const anime = [
 		year: 2023,
 		source: '4-koma manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tYuri,
@@ -236,7 +656,7 @@ const anime = [
 	{
 		img: '1160/138465',
 		name: [
-			'Bokura no Ameiro Protocol',
+			'Bokura no Ame-iro Protocol',
 			'僕らの雨いろプロトコル',
 			'Protocol: Rain'
 		],
@@ -359,7 +779,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -450,7 +870,7 @@ const anime = [
 		year: 2023,
 		source: 'Web manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tAdultCast,
@@ -458,6 +878,7 @@ const anime = [
 			tTimeTravel,
 			tWorkplace,
 			tSupernatural,
+			tSciFi,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
@@ -648,7 +1069,9 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tVideoGame,
-			tShounen
+			tShounen,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -849,7 +1272,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tComedy,
@@ -1482,7 +1905,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
@@ -1725,6 +2148,34 @@ const anime = [
 		]
 	},
 	{
+		img: '1846/140458',
+		name: [
+			'Mashle 2nd Season',
+			'マッシュル-MASHLE- 第2期',
+			'Mashle: Magic and Muscles Season 2'
+		],
+		studio: [
+			sA1Pictures
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tComedy,
+			tFantasy,
+			tGagHumor,
+			tParody,
+			tSchool,
+			tShounen,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
+		]
+	},
+	{
 		img: '1218/135107',
 		name: [
 			'Mashle',
@@ -1924,6 +2375,51 @@ const anime = [
 			tSciFi,
 			tSurvival,
 			tSeinen
+		]
+	},
+	{
+		img: '1710/135998',
+		name: [
+			'Boku no Kokoro no Yabai Yatsu: Twi-Yaba',
+			'僕の心のヤバイやつ ツイヤバ'
+		],
+		studio: [
+			sShinEiAnimation
+		],
+		type: 'ONA',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tRomance,
+			tSchool,
+			tShounen
+		]
+	},
+	{
+		img: '1643/138581',
+		name: [
+			'Boku no Kokoro no Yabai Yatsu Season 2',
+			'僕の心のヤバイやつ 第2期',
+			'The Dangers in My Heart Season 2'
+		],
+		studio: [
+			sShinEiAnimation
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tRomance,
+			tSchool,
+			tShounen
 		]
 	},
 	{
@@ -6566,7 +7062,7 @@ const anime = [
 	{
 		img: '1077/136855',
 		name: [
-			'Seijo no Maryoku wa Bannou desu 2nd Season',
+			'Seijo no Maryoku wa Bannou desu Season 2',
 			'聖女の魔力は万能です Season2',
 			"The Saint's Magic Power is Omnipotent Season 2"
 		],
@@ -12055,6 +12551,28 @@ const anime = [
 		]
 	},
 	{
+		img: '1873/139792',
+		name: [
+			'Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita 2nd',
+			'真の仲間じゃないと勇者のパーティーを追い出されたので、辺境でスローライフすることにしました 2nd',
+			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2"
+		],
+		studio: [
+			sStudioFlad
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAdventure,
+			tFantasy,
+			tRomance
+		]
+	},
+	{
 		img: '1723/117854',
 		name: [
 			'Shin no Nakama ja Nai to Yuusha no Party wo Oidasareta node, Henkyou de Slow Life suru Koto ni Shimashita',
@@ -12644,7 +13162,8 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -12987,7 +13506,8 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13082,7 +13602,9 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteOPSong,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13132,7 +13654,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -13156,7 +13679,9 @@ const anime = [
 			tAdventure,
 			tDrama,
 			tFantasy,
-			tMystery
+			tMystery,
+			tFavoriteOPSong,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13340,7 +13865,10 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13386,7 +13914,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tHarem
+			tHarem,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -13412,7 +13941,10 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tShounen,
-			tReincarnation
+			tReincarnation,
+			tFavoriteOPSong,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
 		]
 	},
 	{
@@ -13514,7 +14046,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tShounen
+			tShounen,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -13588,6 +14121,30 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy
+		]
+	},
+	{
+		img: '1752/139314',
+		name: [
+			'Tsuki ga Michibiku Isekai Douchuu 2nd Season',
+			'月が導く異世界道中 第二幕',
+			'Tsukimichi -Moonlit Fantasy- Season 2'
+		],
+		studio: [
+			sJCStaff
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai
 		]
 	},
 	{
@@ -15195,6 +15752,29 @@ const anime = [
 		]
 	},
 	{
+		img: '1198/139378',
+		name: [
+			'Jaku-Chara Tomozaki-kun 2nd Stage',
+			'弱キャラ友崎くん 2nd STAGE',
+			'Bottom-Tier Character Tomozaki 2nd Stage'
+		],
+		studio: [
+			sProjectNo9
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tDrama,
+			tRomance,
+			tSchool,
+			tFavoriteOPSong
+		]
+	},
+	{
 		img: '1892/114853',
 		name: [
 			'Jaku-Chara Tomozaki-kun Specials',
@@ -15481,10 +16061,33 @@ const anime = [
 		]
 	},
 	{
+		img: '1332/139318',
+		name: [
+			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season',
+			'ようこそ実力至上主義の教室へ 3rd Season',
+			'Classroom of the Elite III'
+		],
+		studio: [
+			sLerche
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tDrama,
+			tPsychological,
+			tSchool,
+			tSuspense
+		]
+	},
+	{
 		img: '1010/124180',
 		name: [
 			'Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 2nd Season',
-			'ようこそ実力至上主義の教室へ 2期',
+			'ようこそ実力至上主義の教室へ 2nd Season',
 			'Classroom of the Elite II'
 		],
 		studio: [
@@ -15500,6 +16103,7 @@ const anime = [
 			tDrama,
 			tPsychological,
 			tSchool,
+			tSuspense,
 			tFavoriteEDSong
 		]
 	},
@@ -15522,7 +16126,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tPsychological,
-			tSchool
+			tSchool,
+			tSuspense
 		]
 	},
 	{

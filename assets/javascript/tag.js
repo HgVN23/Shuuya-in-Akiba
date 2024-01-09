@@ -103,7 +103,7 @@ const tSchool = {
 	id: 'tSchool'
 }
 const tSciFi = {
-	name: 'SciFi',
+	name: 'Sci-Fi',
 	id: 'tSciFi'
 }
 const tSeinen = {
