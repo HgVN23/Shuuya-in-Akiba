@@ -20,6 +20,75 @@ const anime = [
 		// ]
 	// },
 	{
+		img: '1645/140627',
+		name: [
+			'Sengoku Youko',
+			'戦国妖狐'
+		],
+		studio: [
+			sWhiteFox
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAction,
+			tAdventure,
+			tDrama,
+			tFantasy,
+			tMythology,
+			tShounen
+		]
+	},
+	{
+		img: '1150/140028',
+		name: [
+			'Akuyaku Reijou Level 99: Watashi wa Ura-Boss desu ga Maou dewa Arimasen',
+			'悪役令嬢レベル99 ～私は裏ボスですが魔王ではありません～',
+			"Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord"
+		],
+		studio: [
+			sJumondo
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tFantasy,
+			tIsekai,
+			tReincarnation
+		]
+	},
+	{
+		img: '1671/120628',
+		name: [
+			'Leadale no Daichi nite',
+			'リアデイルの大地にて',
+			'In the Land of Leadale'
+		],
+		studio: [
+			sMahoFilm
+		],
+		type: 'TV',
+		season: 3,
+		year: 2022,
+		source: 'Light novel',
+		rating: 0,
+		status: 1,
+		tag: [
+			tAdventure,
+			tFantasy,
+			tIsekai,
+			tReincarnation
+		]
+	},
+	{
 		img: '1937/136906',
 		name: [
 			'Dosanko Gal wa Namara Menkoi',
@@ -229,7 +298,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1619/139441',
+		img: '1207/140800',
 		name: [
 			'Momochi-san Chi no Ayakashi Ouji',
 			'百千さん家のあやかし王子',
@@ -252,7 +321,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1451/140235',
+		img: '1733/140802',
 		name: [
 			'Chiyu Mahou no Machigatta Tsukaikata',
 			'治癒魔法の間違った使い方',
@@ -344,7 +413,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1519/138908',
+		img: '1114/140805',
 		name: [
 			'Mato Seihei no Slave',
 			'魔都精兵のスレイブ',
@@ -15752,7 +15821,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1198/139378',
+		img: '1143/140807',
 		name: [
 			'Jaku-Chara Tomozaki-kun 2nd Stage',
 			'弱キャラ友崎くん 2nd STAGE',
