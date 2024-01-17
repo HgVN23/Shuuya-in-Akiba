@@ -708,6 +708,16 @@ const sStudioPolon = {
 	id: 2828,
 	img: ''
 };
+const sStudioMassket = {
+	name: 'Studio Massket',
+	id: 2411,
+	img: ''
+};
+const sBloomZ = {
+	name: 'BloomZ',
+	id: 2144,
+	img: 'bd57073f-b6f9-4cff-bed7-b3f733c6bafc'
+};
 // const s = {
 // 	name: '',
 // 	id: ,
@@ -854,5 +864,6 @@ const studioList = [
 	sDigitalNetworkAnimation,
 	sShuka,
 	sJumondo,
-	sStudioPolon
+	sStudioPolon,
+	sStudioMassket
 ]

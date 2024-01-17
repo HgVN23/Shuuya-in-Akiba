@@ -20,6 +20,77 @@ const anime = [
 		// ]
 	// },
 	{
+		img: '1502/139926',
+		name: [
+			'Meitou "Isekai no Yu" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita',
+			'名湯『異世界の湯』開拓記 ～アラフォー温泉マニアの転生先は、のんびり温泉天国でした～',
+			'Isekai Onsen Paradise'
+		],
+		studio: [
+			sWolfsbane,
+			sBloomZ
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 2,
+		status: 0,
+		tag: [
+			tFantasy,
+			tIsekai,
+			tEcchi
+		]
+	},
+	{
+		img: '1280/138474',
+		name: [
+			'Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.',
+			'最弱テイマーはゴミ拾いの旅を始めました。',
+			'The Weakest Tamer Began a Journey to Pick Up Trash'
+		],
+		studio: [
+			sStudioMassket	
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Light novel',
+		rating: 0,
+		status: 0,
+		tag: [
+			tAdventure,
+			tFantasy,
+			tIsekai,
+			tReincarnation,
+			tFavoriteOPSong
+		]
+	},
+	{
+		img: '1449/140344',
+		name: [
+			'Gekai Elise',
+			'外科医エリーゼ',
+			'Doctor Elise: The Royal Lady with the Lamp'
+		],
+		studio: [
+			sMahoFilm
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Web manga',
+		rating: 0,
+		status: 0,
+		tag: [
+			tComedy,
+			tFantasy,
+			tRomance,
+			tMedical,
+			tReincarnation
+		]
+	},
+	{
 		img: '1645/140627',
 		name: [
 			'Sengoku Youko',
@@ -241,7 +312,7 @@ const anime = [
 		season: 0,
 		year: 2024,
 		source: 'Web manga',
-		rating: 0,
+		rating: 1,
 		status: 0,
 		tag: [
 			tAction,
@@ -285,7 +356,7 @@ const anime = [
 		season: 0,
 		year: 2024,
 		source: 'Manga',
-		rating: 0,
+		rating: 2,
 		status: 0,
 		tag: [
 			tAction,
@@ -386,7 +457,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
@@ -426,7 +498,7 @@ const anime = [
 		season: 0,
 		year: 2024,
 		source: 'Manga',
-		rating: 0,
+		rating: 2,
 		status: 0,
 		tag: [
 			tAction,
@@ -16004,8 +16076,7 @@ const anime = [
 			tSchool,
 			tOtakuCulture,
 			tFavoriteOPSong,
-			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteOPVisual
 		]
 	},
 	{
