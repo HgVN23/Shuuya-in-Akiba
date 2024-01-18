@@ -20,6 +20,31 @@ const anime = [
 		// ]
 	// },
 	{
+		img: '1525/139345',
+		name: [
+			'Mahou Shoujo ni Akogarete',
+			'魔法少女にあこがれて',
+			'Gushing over Magical Girls'
+		],
+		studio: [
+			sAsahiProduction
+		],
+		type: 'TV',
+		season: 0,
+		year: 2024,
+		source: 'Web manga',
+		rating: 2,
+		status: 0,
+		tag: [
+			tAction,
+			tComedy,
+			tFantasy,
+			tYuri,
+			tEcchi,
+			tMahouShoujo
+		]
+	},
+	{
 		img: '1502/139926',
 		name: [
 			'Meitou "Isekai no Yu" Kaitakuki: Around 40 Onsen Mania no Tensei Saki wa, Nonbiri Onsen Tengoku deshita',
