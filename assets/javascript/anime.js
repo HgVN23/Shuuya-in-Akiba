@@ -88,7 +88,11 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -158,7 +162,10 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -205,7 +212,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -229,7 +237,8 @@ const anime = [
 			tFantasy,
 			tGourmet,
 			tMythology,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -254,7 +263,8 @@ const anime = [
 			tMythology,
 			tRomanticSubtext,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -342,7 +352,10 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -458,7 +471,10 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteOPSong,
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -483,7 +499,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -555,7 +572,8 @@ const anime = [
 			tGourmet,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -625,7 +643,8 @@ const anime = [
 			tComedy,
 			tAdultCast,
 			tGagHumor,
-			tOrganizedCrime
+			tOrganizedCrime,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -648,7 +667,8 @@ const anime = [
 			tComedy,
 			tAdultCast,
 			tGagHumor,
-			tOrganizedCrime
+			tOrganizedCrime,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -671,7 +691,8 @@ const anime = [
 			tComedy,
 			tAdultCast,
 			tGagHumor,
-			tOrganizedCrime
+			tOrganizedCrime,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -692,7 +713,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -738,7 +760,10 @@ const anime = [
 			tDrama,
 			tMystery,
 			tHistorical,
-			tMedical
+			tMedical,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -761,7 +786,8 @@ const anime = [
 			tComedy,
 			tSupernatural,
 			tSuperPower,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -789,7 +815,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -816,7 +843,8 @@ const anime = [
 			tSchool,
 			tSeinen,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -882,7 +910,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tFantasy,
-			tTimeTravel
+			tTimeTravel,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -951,7 +980,8 @@ const anime = [
 			tFantasy,
 			tVampire,
 			tYuri,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1048,7 +1078,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1072,7 +1103,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tRomance,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1096,7 +1128,8 @@ const anime = [
 			tFantasy,
 			tYuri,
 			tIsekai,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1145,7 +1178,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tVideoGame,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1168,7 +1202,8 @@ const anime = [
 			tDrama,
 			tSuperPower,
 			tShounen,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1211,7 +1246,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tFantasy,
-			tGagHumor
+			tGagHumor,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1236,8 +1272,11 @@ const anime = [
 			tFantasy,
 			tVideoGame,
 			tShounen,
+			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDVisual
+			tFavoriteEDSong,
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1285,7 +1324,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1307,7 +1347,8 @@ const anime = [
 		tag: [
 			tRomance,
 			tSchool,
-			tShoujo
+			tShoujo,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -1355,7 +1396,8 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1420,7 +1462,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1448,7 +1491,8 @@ const anime = [
 			tSurvival,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1471,7 +1515,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tEcchi,
-			tHarem
+			tHarem,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1494,7 +1539,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tEcchi,
-			tHarem
+			tHarem,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1543,7 +1589,8 @@ const anime = [
 			tFantasy,
 			tHarem,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1566,7 +1613,8 @@ const anime = [
 			tComedy,
 			tSupernatural,
 			tAdultCast,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1638,7 +1686,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1759,7 +1808,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -1871,7 +1921,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tAdultCast,
-			tWorkplace
+			tWorkplace,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2054,7 +2105,8 @@ const anime = [
 			tShowbiz,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2145,7 +2197,8 @@ const anime = [
 		tag: [
 			tRomance,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2194,7 +2247,8 @@ const anime = [
 			tSupernatural,
 			tChildcare,
 			tOtakuCulture,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2264,7 +2318,8 @@ const anime = [
 			tComedy,
 			tShounen,
 			tSupernatural,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2338,7 +2393,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2364,7 +2420,8 @@ const anime = [
 			tGagHumor,
 			tParody,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2490,7 +2547,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2544,28 +2602,6 @@ const anime = [
 		]
 	},
 	{
-		img: '1710/135998',
-		name: [
-			'Boku no Kokoro no Yabai Yatsu: Twi-Yaba',
-			'僕の心のヤバイやつ ツイヤバ'
-		],
-		studio: [
-			sShinEiAnimation
-		],
-		type: 'ONA',
-		season: 3,
-		year: 2023,
-		source: 'Web manga',
-		rating: 0,
-		status: 1,
-		tag: [
-			tComedy,
-			tRomance,
-			tSchool,
-			tShounen
-		]
-	},
-	{
 		img: '1643/138581',
 		name: [
 			'Boku no Kokoro no Yabai Yatsu Season 2',
@@ -2585,7 +2621,31 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
+		]
+	},
+	{
+		img: '1710/135998',
+		name: [
+			'Boku no Kokoro no Yabai Yatsu: Twi-Yaba',
+			'僕の心のヤバイやつ ツイヤバ'
+		],
+		studio: [
+			sShinEiAnimation
+		],
+		type: 'ONA',
+		season: 3,
+		year: 2023,
+		source: 'Web manga',
+		rating: 0,
+		status: 1,
+		tag: [
+			tComedy,
+			tRomance,
+			tSchool,
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2608,7 +2668,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2629,7 +2690,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tRomance,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2655,7 +2717,8 @@ const anime = [
 			tHighStakesGame,
 			tStrategyGame,
 			tSuperPower,
-			tSurvival
+			tSurvival,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2746,7 +2809,8 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tTimeTravel
+			tTimeTravel,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2768,7 +2832,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tSchool,
-			tSuperPower
+			tSuperPower,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2789,7 +2854,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tSchool,
-			tSuperPower
+			tSuperPower,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2816,7 +2882,8 @@ const anime = [
 			tPsychological,
 			tTimeTravel,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2841,7 +2908,8 @@ const anime = [
 			tSuspense,
 			tIsekai,
 			tPsychological,
-			tTimeTravel
+			tTimeTravel,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2864,7 +2932,8 @@ const anime = [
 			tDrama,
 			tFantasy,
 			tSuspense,
-			tPsychological
+			tPsychological,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2885,7 +2954,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2910,7 +2980,8 @@ const anime = [
 			tSuspense,
 			tIsekai,
 			tPsychological,
-			tTimeTravel
+			tTimeTravel,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -2980,7 +3051,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tFantasy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3010,7 +3082,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3033,7 +3106,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3057,7 +3131,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tGourmet,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3080,7 +3155,8 @@ const anime = [
 			tFantasy,
 			tAdultCast,
 			tMythology,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3106,7 +3182,8 @@ const anime = [
 			tMythology,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3175,7 +3252,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tRomanticSubtext,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3219,7 +3297,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3308,7 +3387,8 @@ const anime = [
 		tag: [
 			tRomance,
 			tSchool,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3331,7 +3411,8 @@ const anime = [
 			tChildcare,
 			tOrganizedCrime,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3475,7 +3556,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3543,7 +3625,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tMystery
+			tMystery,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3568,7 +3651,8 @@ const anime = [
 			tMystery,
 			tFavoriteOPSong,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3590,7 +3674,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3612,7 +3697,8 @@ const anime = [
 		tag: [
 			tIyashikei,
 			tSchool,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3682,7 +3768,8 @@ const anime = [
 			tWorkplace,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3707,7 +3794,8 @@ const anime = [
 			tReincarnation,
 			tYuri,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3731,7 +3819,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3753,7 +3842,8 @@ const anime = [
 			tComedy,
 			tOtakuCulture,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3775,7 +3865,8 @@ const anime = [
 			tComedy,
 			tOtakuCulture,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3797,7 +3888,8 @@ const anime = [
 			tComedy,
 			tOtakuCulture,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3819,7 +3911,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tParody
+			tParody,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3841,7 +3934,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tParody
+			tParody,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3863,7 +3957,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tParody
+			tParody,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3906,7 +4001,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tMusic,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3931,7 +4027,8 @@ const anime = [
 			tLovePolygon,
 			tMusic,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3955,7 +4052,8 @@ const anime = [
 			tCGDCT,
 			tMythology,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -3979,7 +4077,8 @@ const anime = [
 			tCGDCT,
 			tMythology,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4002,7 +4101,8 @@ const anime = [
 			tComedy,
 			tOtakuCulture,
 			tRomanticSubtext,
-			tWorkplace
+			tWorkplace,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4024,7 +4124,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tAdultCast,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4047,7 +4148,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSchool,
-			tSupernatural
+			tSupernatural,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4070,7 +4172,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tSupernatural,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4180,7 +4283,8 @@ const anime = [
 			tAction,
 			tFantasy,
 			tEcchi,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4205,7 +4309,8 @@ const anime = [
 			tEcchi,
 			tSchool,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4336,7 +4441,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tGourmet,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4357,7 +4463,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tGourmet
+			tGourmet,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4379,7 +4486,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4402,7 +4510,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSchool,
-			tVisualArts
+			tVisualArts,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -4543,7 +4652,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSciFi,
-			tMecha
+			tMecha,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5805,7 +5915,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5826,7 +5937,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5847,7 +5959,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5875,7 +5988,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tIsekai,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5899,7 +6013,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5927,7 +6042,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tIsekai,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5955,7 +6071,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tIsekai,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -5983,7 +6100,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tIsekai,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6004,7 +6122,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tRomance,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6311,7 +6430,8 @@ const anime = [
 			tSchool,
 			tTimeTravel,
 			tLovePolygon,
-			tVisualArts
+			tVisualArts,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6333,7 +6453,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6353,7 +6474,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6401,7 +6523,8 @@ const anime = [
 			tDrama,
 			tFantasy,
 			tRomance,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6426,7 +6549,8 @@ const anime = [
 			tRomanticSubtext,
 			tSchool,
 			tVideoGame,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6451,7 +6575,8 @@ const anime = [
 			tRomanticSubtext,
 			tSchool,
 			tVideoGame,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6476,7 +6601,8 @@ const anime = [
 			tRomanticSubtext,
 			tSchool,
 			tVideoGame,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6498,7 +6624,8 @@ const anime = [
 			tAction,
 			tDrama,
 			tRomance,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -6520,7 +6647,8 @@ const anime = [
 			tAction,
 			tDrama,
 			tRomance,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7054,7 +7182,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7076,7 +7205,8 @@ const anime = [
 			tComedy,
 			tSchool,
 			tStrategyGame,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7100,7 +7230,8 @@ const anime = [
 			tRomance,
 			tWorkplace,
 			tOtakuCulture,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7125,7 +7256,8 @@ const anime = [
 			tOtakuCulture,
 			tAdultCast,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7245,7 +7377,8 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tIsekai,
-			tMedical
+			tMedical,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7268,7 +7401,8 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tIsekai,
-			tMedical
+			tMedical,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7291,7 +7425,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tWorkplace,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7314,7 +7449,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tSeinen,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7425,7 +7561,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tEcchi,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7449,7 +7586,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tStrategyGame
+			tStrategyGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7472,7 +7610,8 @@ const anime = [
 			tAction,
 			tFantasy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7494,7 +7633,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7515,7 +7655,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tAction,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7535,7 +7676,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tSliceOfLife,
-			tSupernatural
+			tSupernatural,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7557,7 +7699,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7649,7 +7792,8 @@ const anime = [
 		tag: [
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7672,7 +7816,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7695,7 +7840,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7717,7 +7863,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomanticSubtext,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7740,7 +7887,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -7764,7 +7912,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tShounen,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8126,7 +8275,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tSliceOfLife,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8146,7 +8296,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8166,7 +8317,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8189,7 +8341,8 @@ const anime = [
 			tAdultCast,
 			tCGDCT,
 			tOtakuCulture,
-			tWorkplace
+			tWorkplace,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8210,7 +8363,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tAdultCast,
-			tCGDCT
+			tCGDCT,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8233,7 +8387,8 @@ const anime = [
 			tAdultCast,
 			tCGDCT,
 			tOtakuCulture,
-			tWorkplace
+			tWorkplace,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8257,7 +8412,8 @@ const anime = [
 			tPsychological,
 			tSuperPower,
 			tShounen,
-			tSuspense
+			tSuspense,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8280,7 +8436,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8357,7 +8514,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tVideoGame,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8380,7 +8538,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tVideoGame,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8502,7 +8661,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8525,7 +8685,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8548,7 +8709,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8717,7 +8879,8 @@ const anime = [
 			tRomance,
 			tEcchi,
 			tSchool,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8740,7 +8903,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tJosei
+			tJosei,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8759,7 +8923,8 @@ const anime = [
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy
+			tComedy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8782,7 +8947,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tEcchi,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8802,7 +8968,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tEcchi
+			tEcchi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -8824,7 +8991,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tHarem
+			tHarem,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9032,7 +9200,8 @@ const anime = [
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy
+			tComedy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9056,7 +9225,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tSuperPower,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9078,7 +9248,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tSchool,
-			tSuperPower
+			tSuperPower,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9098,7 +9269,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9121,7 +9293,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9400,7 +9573,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tGagHumor
+			tGagHumor,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9423,7 +9597,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tGagHumor
+			tGagHumor,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9606,7 +9781,8 @@ const anime = [
 		tag: [
 			tMusic,
 			tShounen,
-			tMahouShoujo
+			tMahouShoujo,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9631,7 +9807,8 @@ const anime = [
 			tSupernatural,
 			tHarem,
 			tShounen,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9655,7 +9832,8 @@ const anime = [
 			tRomance,
 			tSupernatural,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9678,7 +9856,8 @@ const anime = [
 			tComedy,
 			tSupernatural,
 			tMusic,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9703,7 +9882,8 @@ const anime = [
 			tSupernatural,
 			tHarem,
 			tShounen,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9730,7 +9910,8 @@ const anime = [
 			tShounen,
 			tOtakuCulture,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9820,7 +10001,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9841,7 +10023,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9863,7 +10046,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9885,7 +10069,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9906,7 +10091,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -9973,7 +10159,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tAdultCast,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10244,7 +10431,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10267,7 +10455,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10287,7 +10476,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10307,7 +10497,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10330,7 +10521,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10353,7 +10545,8 @@ const anime = [
 			tComedy,
 			tDrama,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10376,7 +10569,8 @@ const anime = [
 			tComedy,
 			tDrama,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10396,7 +10590,8 @@ const anime = [
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy
+			tComedy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10418,7 +10613,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10440,7 +10636,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10461,7 +10658,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tAction,
-			tMecha
+			tMecha,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10483,7 +10681,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10504,7 +10703,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10526,7 +10726,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10549,7 +10750,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10572,7 +10774,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10597,7 +10800,8 @@ const anime = [
 			tSupernatural,
 			tMythology,
 			tShounen,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10622,7 +10826,8 @@ const anime = [
 			tSupernatural,
 			tMythology,
 			tShounen,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10787,7 +10992,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10812,7 +11018,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tSchool,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10836,7 +11043,8 @@ const anime = [
 			tRomance,
 			tEcchi,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10861,7 +11069,8 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tSchool,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10884,7 +11093,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tEcchi,
-			tHarem
+			tHarem,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10910,7 +11120,8 @@ const anime = [
 			tSupernatural,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10932,7 +11143,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10956,7 +11168,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -10979,7 +11192,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11002,7 +11216,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11026,7 +11241,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11047,7 +11263,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11071,7 +11288,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tSeinen,
-			tVisualArts
+			tVisualArts,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11094,7 +11312,8 @@ const anime = [
 			tAction,
 			tComedy,
 			tRomance,
-			tSupernatural
+			tSupernatural,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11117,7 +11336,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSupernatural,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11286,7 +11506,8 @@ const anime = [
 			tComedy,
 			tGourmet,
 			tRomance,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11309,7 +11530,8 @@ const anime = [
 			tComedy,
 			tGourmet,
 			tRomance,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11333,7 +11555,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tEcchi,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11357,7 +11580,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tEcchi,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11382,7 +11606,8 @@ const anime = [
 			tSupernatural,
 			tEcchi,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11407,7 +11632,8 @@ const anime = [
 			tSupernatural,
 			tEcchi,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11431,7 +11657,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11477,7 +11704,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tMusic,
-			tCGDCT
+			tCGDCT,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11500,7 +11728,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11523,7 +11752,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11546,7 +11776,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11569,7 +11800,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11592,7 +11824,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11615,7 +11848,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
-			tLovePolygon
+			tLovePolygon,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11638,7 +11872,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tMythology,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11684,7 +11919,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tHistorical,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11734,7 +11970,8 @@ const anime = [
 			tReincarnation,
 			tHarem,
 			tSchool,
-			tShoujo
+			tShoujo,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11762,7 +11999,8 @@ const anime = [
 			tHarem,
 			tSchool,
 			tShoujo,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11789,7 +12027,8 @@ const anime = [
 			tReincarnation,
 			tHarem,
 			tSchool,
-			tShoujo
+			tShoujo,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11835,7 +12074,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tParody,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11861,7 +12101,8 @@ const anime = [
 			tSchool,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11886,7 +12127,8 @@ const anime = [
 			tSchool,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11910,7 +12152,8 @@ const anime = [
 			tEcchi,
 			tRomanticSubtext,
 			tSchool,
-			tSeinen
+			tSeinen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11936,7 +12179,8 @@ const anime = [
 			tSchool,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11962,7 +12206,8 @@ const anime = [
 			tSchool,
 			tSeinen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -11984,7 +12229,8 @@ const anime = [
 		tag: [
 			tSliceOfLife,
 			tSupernatural,
-			tIyashikei
+			tIyashikei,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12005,7 +12251,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12026,7 +12273,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12047,7 +12295,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12068,7 +12317,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12088,7 +12338,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tFantasy,
-			tSciFi,	
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12110,7 +12361,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12133,7 +12385,8 @@ const anime = [
 			tAction,
 			tDrama,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12156,7 +12409,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tGore,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12178,7 +12432,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tGore
+			tGore,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12201,7 +12456,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tGore,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12226,7 +12482,8 @@ const anime = [
 			tRomance,
 			tMythology,
 			tWorkplace,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12252,7 +12509,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12277,7 +12535,8 @@ const anime = [
 			tAdventure,
 			tDrama,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12301,7 +12560,8 @@ const anime = [
 			tAdventure,
 			tDrama,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12346,7 +12606,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12527,7 +12788,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12550,7 +12812,8 @@ const anime = [
 			tFantasy,
 			tSciFi,
 			tSchool,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12574,7 +12837,8 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tSciFi,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12596,7 +12860,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tSciFi
+			tSciFi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12620,7 +12885,8 @@ const anime = [
 			tFantasy,
 			tRomance,
 			tSciFi,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12900,7 +13166,8 @@ const anime = [
 			tReincarnation,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12923,7 +13190,8 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tSchool,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12946,7 +13214,8 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tSchool,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -12969,7 +13238,8 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tSchool,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13059,7 +13329,8 @@ const anime = [
 		rating: 0,
 		status: 1,
 		tag: [
-			tComedy
+			tComedy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13083,7 +13354,8 @@ const anime = [
 			tAdventure,
 			tDrama,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13104,7 +13376,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13129,7 +13402,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tParody,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13154,7 +13428,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tParody,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13179,7 +13454,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tParody,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13203,7 +13479,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tParody,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13228,7 +13505,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tParody,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13303,7 +13581,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13329,7 +13608,8 @@ const anime = [
 			tRomance,
 			tIsekai,
 			tReincarnation,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13398,7 +13678,8 @@ const anime = [
 			tFantasy,
 			tErotica,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13420,7 +13701,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13442,7 +13724,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13465,7 +13748,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tAction,
-			tAdventure
+			tAdventure,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13560,7 +13844,9 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13584,7 +13870,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13606,7 +13893,8 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13628,7 +13916,8 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13650,7 +13939,8 @@ const anime = [
 		tag: [
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13673,7 +13963,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13718,7 +14009,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13743,7 +14035,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13770,7 +14063,8 @@ const anime = [
 			tHarem,
 			tIsekai,
 			tFavoriteOPSong,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13795,7 +14089,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13821,7 +14116,8 @@ const anime = [
 			tFantasy,
 			tHarem,
 			tIsekai,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13847,7 +14143,8 @@ const anime = [
 			tFantasy,
 			tMystery,
 			tFavoriteOPSong,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13869,7 +14166,8 @@ const anime = [
 		tag: [
 			tAdventure,
 			tFantasy,
-			tSliceOfLife
+			tSliceOfLife,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13915,7 +14213,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13937,7 +14236,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13958,7 +14258,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -13983,7 +14284,8 @@ const anime = [
 			tIsekai,
 			tIyashikei,
 			tReincarnation,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14007,7 +14309,8 @@ const anime = [
 			tSliceOfLife,
 			tIsekai,
 			tIyashikei,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14034,7 +14337,8 @@ const anime = [
 			tVideoGame,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14058,7 +14362,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tVideoGame
+			tVideoGame,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14081,7 +14386,8 @@ const anime = [
 			tAction,
 			tFantasy,
 			tHarem,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14110,7 +14416,8 @@ const anime = [
 			tReincarnation,
 			tFavoriteOPSong,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14136,7 +14443,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tShounen,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14162,7 +14470,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14186,7 +14495,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14213,7 +14523,8 @@ const anime = [
 			tIsekai,
 			tReincarnation,
 			tShounen,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14238,7 +14549,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14264,7 +14576,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14310,7 +14623,9 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -14334,7 +14649,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14365,7 +14681,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14440,7 +14757,8 @@ const anime = [
 			tHarem,
 			tIsekai,
 			tReincarnation,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14466,7 +14784,8 @@ const anime = [
 			tFantasy,
 			tMystery,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14493,7 +14812,8 @@ const anime = [
 			tIyashikei,
 			tWorkplace,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14518,7 +14838,8 @@ const anime = [
 			tSliceOfLife,
 			tIsekai,
 			tIyashikei,
-			tWorkplace
+			tWorkplace,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14542,7 +14863,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14569,7 +14891,8 @@ const anime = [
 			tIsekai,
 			tReincarnation,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14593,7 +14916,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14617,7 +14941,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14642,7 +14967,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14667,7 +14993,8 @@ const anime = [
 			tFantasy,
 			tEcchi,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14691,7 +15018,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tVideoGame,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14715,7 +15043,8 @@ const anime = [
 			tAdventure,
 			tFantasy,
 			tVideoGame,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14740,7 +15069,8 @@ const anime = [
 			tVideoGame,
 			tAdultCast,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14836,7 +15166,8 @@ const anime = [
 			tComedy,
 			tFantasy,
 			tHarem,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14888,7 +15219,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14913,7 +15245,8 @@ const anime = [
 			tAdultCast,
 			tIsekai,
 			tOtakuCulture,
-			tParody
+			tParody,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14961,7 +15294,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tGenben,
-			tParody
+			tParody,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -14985,7 +15319,8 @@ const anime = [
 			tFantasy,
 			tGourmet,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15009,7 +15344,8 @@ const anime = [
 			tFantasy,
 			tGourmet,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15056,7 +15392,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15078,7 +15415,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15101,7 +15439,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tEcchi
+			tEcchi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15123,7 +15462,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15146,7 +15486,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tEcchi
+			tEcchi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15168,7 +15509,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15190,7 +15532,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15212,7 +15555,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15235,7 +15579,8 @@ const anime = [
 			tAdventure,
 			tComedy,
 			tFantasy,
-			tEcchi
+			tEcchi,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15257,7 +15602,8 @@ const anime = [
 		tag: [
 			tAction,
 			tAdventure,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15408,7 +15754,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15434,7 +15781,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tIsekai,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15480,7 +15828,8 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15618,7 +15967,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tMedical,
-			tReincarnation
+			tReincarnation,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15639,7 +15989,8 @@ const anime = [
 		tag: [
 			tAction,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15712,7 +16063,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15736,7 +16088,8 @@ const anime = [
 			tRomance,
 			tAdultCast,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15827,7 +16180,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tDrama,
-			tFantasy
+			tFantasy,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15850,7 +16204,8 @@ const anime = [
 			tDrama,
 			tRomance,
 			tTimeTravel,
-			tAdultCast
+			tAdultCast,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15872,7 +16227,8 @@ const anime = [
 		tag: [
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15893,7 +16249,8 @@ const anime = [
 		tag: [
 			tRomance,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15937,7 +16294,9 @@ const anime = [
 			tDrama,
 			tRomance,
 			tSchool,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15959,7 +16318,8 @@ const anime = [
 		tag: [
 			tDrama,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -15985,7 +16345,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16076,7 +16437,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16101,7 +16463,8 @@ const anime = [
 			tSchool,
 			tOtakuCulture,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16126,7 +16489,8 @@ const anime = [
 			tHarem,
 			tSchool,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16148,7 +16512,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16171,7 +16536,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tVideoGame,
-			tOtakuCulture
+			tOtakuCulture,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16245,7 +16611,8 @@ const anime = [
 			tDrama,
 			tPsychological,
 			tSchool,
-			tSuspense
+			tSuspense,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -16430,7 +16797,8 @@ const anime = [
 			tShounen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16454,7 +16822,8 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16476,7 +16845,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16498,7 +16868,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tRomance,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16522,7 +16893,8 @@ const anime = [
 			tRomance,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16546,7 +16918,8 @@ const anime = [
 			tSliceOfLife,
 			tSchool,
 			tShounen,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16572,7 +16945,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16596,7 +16970,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16622,7 +16997,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteOPVisual,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16647,7 +17023,8 @@ const anime = [
 			tHarem,
 			tSchool,
 			tShounen,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16670,7 +17047,8 @@ const anime = [
 			tComedy,
 			tRomance,
 			tHarem,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16694,7 +17072,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16719,7 +17098,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16744,7 +17124,8 @@ const anime = [
 			tRomance,
 			tHarem,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16767,7 +17148,8 @@ const anime = [
 			tComedy,
 			tRomanticSubtext,
 			tSchool,
-			tShounen
+			tShounen,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16792,7 +17174,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16816,7 +17199,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tShounen,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16839,7 +17223,8 @@ const anime = [
 		tag: [
 			tSliceOfLife,
 			tChildcare,
-			tOrganizedCrime
+			tOrganizedCrime,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -16885,7 +17270,8 @@ const anime = [
 			tSchool,
 			tShounen,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17044,7 +17430,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17070,7 +17457,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17096,7 +17484,8 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteEDSong,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17329,7 +17718,8 @@ const anime = [
 			tReincarnation,
 			tShowbiz,
 			tFavoriteOPSong,
-			tFavoriteOPVisual
+			tFavoriteOPVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17351,7 +17741,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tWorkplace,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17373,7 +17764,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tWorkplace,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17395,7 +17787,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tWorkplace,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17417,7 +17810,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tWorkplace,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17438,7 +17832,8 @@ const anime = [
 		status: 1,
 		tag: [
 			tComedy,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17460,7 +17855,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tWorkplace,
-			tAnthropomorphic
+			tAnthropomorphic,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17831,7 +18227,8 @@ const anime = [
 			tSupernatural,
 			tRomanticSubtext,
 			tFavoriteOPVisual,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17855,7 +18252,8 @@ const anime = [
 			tSupernatural,
 			tRomanticSubtext,
 			tFavoriteOPVisual,
-			tFavoriteEDVisual
+			tFavoriteEDVisual,
+			tFavoriteAnime
 		]
 	},
 	{
@@ -17879,7 +18277,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
-			tCGDCT
+			tCGDCT,
+			tFavoriteAnime
 		]
 	}
 ]

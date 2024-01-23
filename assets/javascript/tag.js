@@ -266,6 +266,10 @@ const tFavoriteEDSong = {
 	name: 'Favorite ED Song',
 	id: 'tFavoriteEDSong'
 }
+const tFavoriteAnime = {
+	name: 'Favorite Anime',
+	id: 'tFavoriteAnime'
+}
 
 const tagList = [
 	tAction,
@@ -334,5 +338,6 @@ const tagList = [
 	tFavoriteOPVisual,
 	tFavoriteEDVisual,
 	tFavoriteOPSong,
-	tFavoriteEDSong
+	tFavoriteEDSong,
+	tFavoriteAnime
 ]

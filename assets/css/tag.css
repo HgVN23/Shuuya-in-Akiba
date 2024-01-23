@@ -211,6 +211,12 @@
 .tFavoriteEDSong {
 	color: yellow;
 }
+.tFavoriteAnime::before {
+	content: 'Anime ưa thích';
+}
+.tFavoriteAnime {
+	color: lime;
+}
 
 .tag::before {
 	background-color: var(--bg);

@@ -170,15 +170,15 @@ function addAnime(list) {
 							${tag}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rOP" href="https://www.youtube.com/results?search_query=${song}+OP" target="_blank" alt="Visual Opening"></a>
-							<a class="rImg rED" href="https://www.youtube.com/results?search_query=${song}+ED" target="_blank" alt="Visual Ending"></a>
-							<a class="rImg rAnimeVietsub" href="https://animevietsub.im/tim-kiem/${name}/" target="_blank" alt="Anime Vietsub"></a>
-							<a class="rImg rAnimeNana" href="https://animenana.com/search/?key=${name}" target="_blank" alt="Anime Nana"></a>
-							<a class="rImg rMangaQQ" href="https://truyenqqq.vn/tim-kiem.html?q=${name}" target="_blank" alt="TruyenQQ"></a>
-							<a class="rImg rMangaNelo" href="https://ww5.manganelo.tv/search/${name}" target="_blank" alt="MangaNelo"></a>
-							<a class="rImg rMangaDex" href="https://mangadex.org/search?q=${name}" target="_blank" alt="MangaDex"></a>
-							<a class="rImg rMAL" href="https://myanimelist.net/search/all?q=${name}&cat=anime" target="_blank" alt="MyAnimeList"></a>
-							<a class="rImg rAniPlayList" href="https://aniplaylist.com/${name}?types=Opening~Ending${fSeason}&platforms=Spotify" target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAnimeVietsub" href='https://animevietsub.im/tim-kiem/${name}/' target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${name}' target="_blank" alt="MangaDex"></a>
+							<a class="rImg rMAL" href='https://myanimelist.net/search/all?q=${name}&cat=anime' target="_blank" alt="MyAnimeList"></a>
+							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${name}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${name}' target="_blank" alt="Anime Nana"></a>
+							<a class="rImg rMangaQQ" href='https://truyenqqvn.com/tim-kiem.html?q=${name}' target="_blank" alt="TruyenQQ"></a>
+							<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
+							<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
+							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${name}' target="_blank" alt="MangaNelo"></a>
 						</div>
 					</div>
 				</div>
