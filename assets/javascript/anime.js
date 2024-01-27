@@ -403,7 +403,9 @@ const anime = [
 			tEcchi,
 			tHarem,
 			tIsekai,
-			tSeinen
+			tSeinen,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	},
 	{
