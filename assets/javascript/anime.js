@@ -20,6 +20,56 @@ const anime = [
 		// ]
 	// },
 	{
+		img: '1390/120708',
+		name: [
+			'Odd Taxi Movie: In the Woods',
+			'映画 ODD TAXI イン・ザ・ウッズ'
+		],
+		studio: [
+			sOLM,
+			sPICS
+		],
+		type: 'Movie',
+		season: 1,
+		year: 2022,
+		source: 'Original',
+		rating: 0,
+		status: 1,
+		tag: [
+			tDrama,
+			tMystery,
+			tSuspense,
+			tAdultCast,
+			tAnthropomorphic,
+			tOrganizedCrime
+		]
+	},
+	{
+		img: '1981/113348',
+		name: [
+			'Odd Taxi',
+			'オッドタクシー'
+		],
+		studio: [
+			sOLM,
+			sPICS
+		],
+		type: 'TV',
+		season: 1,
+		year: 2021,
+		source: 'Original',
+		rating: 0,
+		status: 1,
+		tag: [
+			tDrama,
+			tMystery,
+			tSuspense,
+			tAdultCast,
+			tAnthropomorphic,
+			tOrganizedCrime
+		]
+	},
+	{
 		img: '1525/139345',
 		name: [
 			'Mahou Shoujo ni Akogarete',

@@ -718,6 +718,11 @@ const sBloomZ = {
 	id: 2144,
 	img: 'bd57073f-b6f9-4cff-bed7-b3f733c6bafc'
 };
+const sPICS = {
+	name: 'P.I.C.S.',
+	id: 1872,
+	img: '4360928a-2890-43fb-9282-fa5b4f0eb68e'
+};
 // const s = {
 // 	name: '',
 // 	id: ,
@@ -865,5 +870,6 @@ const studioList = [
 	sShuka,
 	sJumondo,
 	sStudioPolon,
-	sStudioMassket
+	sStudioMassket,
+	sPICS
 ]
