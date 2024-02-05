@@ -170,7 +170,7 @@ function addAnime(list) {
 							${tag}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href='https://animevietsub.im/tim-kiem/${name}/' target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rAnimeVietsub" href='https://animevietsub.io/tim-kiem/${name}/' target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${name}' target="_blank" alt="MangaDex"></a>
 							<a class="rImg rMAL" href='https://myanimelist.net/search/all?q=${name}&cat=anime' target="_blank" alt="MyAnimeList"></a>
 							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${name}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
