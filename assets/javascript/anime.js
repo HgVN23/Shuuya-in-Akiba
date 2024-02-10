@@ -967,7 +967,7 @@ const anime = [
 		]
 	},
 	{
-		img: '1953/139911',
+		img: '1319/140965',
 		name: [
 			'Buta no Liver wa Kanetsu Shiro',
 			'豚のレバーは加熱しろ',
@@ -981,7 +981,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -4563,6 +4563,7 @@ const anime = [
 			tRomance,
 			tSchool,
 			tVisualArts,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},
@@ -9626,6 +9627,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tGagHumor,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},
@@ -9650,6 +9653,8 @@ const anime = [
 			tRomance,
 			tSchool,
 			tGagHumor,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},
@@ -9935,6 +9940,8 @@ const anime = [
 			tHarem,
 			tShounen,
 			tOtakuCulture,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},
@@ -9964,26 +9971,6 @@ const anime = [
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteAnime
-		]
-	},
-	{
-		img: '10/45090',
-		name: [
-			'Kotoura-san: Haruka no Heya',
-			'琴浦さん 春香の部屋'
-		],
-		studio: [
-			sAICClassic
-		],
-		type: 'ONA',
-		season: 3,
-		year: 2012,
-		source: '4-koma manga',
-		rating: 0,
-		status: 1,
-		tag: [
-			tComedy,
-			tSchool
 		]
 	},
 	{
@@ -10144,6 +10131,7 @@ const anime = [
 		tag: [
 			tComedy,
 			tOtakuCulture,
+			tFavoriteOPSong,
 			tFavoriteAnime
 		]
 	},
@@ -10734,6 +10722,7 @@ const anime = [
 			tComedy,
 			tRomance,
 			tSchool,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},

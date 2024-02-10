@@ -575,6 +575,7 @@ p {
 .rImg {
 	width: 5rem;
 	height: 5rem;
+	border-radius: 30%;
 }
 .rOP {
 	content: url(../media/icon/op.png);
@@ -596,6 +597,9 @@ p {
 }
 .rMangaNelo {
 	content: url(../media/icon/mangaNelo.png);
+}
+.rMangaReader {
+	content: url(../media/icon/mangaReader.png);
 }
 .rMAL {
 	content: url(../media/icon/mal.png);

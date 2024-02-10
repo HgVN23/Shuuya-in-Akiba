@@ -179,6 +179,7 @@ function addAnime(list) {
 							<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
 							<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
 							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${name}' target="_blank" alt="MangaNelo"></a>
+							<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${name}' target="_blank" alt="MangaReader"></a>
 						</div>
 					</div>
 				</div>
