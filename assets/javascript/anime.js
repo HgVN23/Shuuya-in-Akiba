@@ -8031,7 +8031,8 @@ const anime = [
 		tag: [
 			tComedy,
 			tSciFi,
-			tParody
+			tParody,
+			tFavoriteEDSong
 		]
 	},
 	{
@@ -9865,6 +9866,8 @@ const anime = [
 			tHarem,
 			tShounen,
 			tOtakuCulture,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
 			tFavoriteAnime
 		]
 	},
@@ -10017,7 +10020,8 @@ const anime = [
 			tRomance,
 			tSupernatural,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteOPSong
 		]
 	},
 	{
@@ -10086,6 +10090,7 @@ const anime = [
 			tComedy,
 			tRomance,
 			tOtakuCulture,
+			tFavoriteOPSong,
 			tFavoriteAnime
 		]
 	},
@@ -11283,6 +11288,7 @@ const anime = [
 			tHarem,
 			tSchool,
 			tShounen,
+			tFavoriteOPSong,
 			tFavoriteAnime
 		]
 	},
@@ -14666,7 +14672,8 @@ const anime = [
 			tFantasy,
 			tIsekai,
 			tFavoriteAnime,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteEDSong
 		]
 	},
 	{
