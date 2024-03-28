@@ -84,7 +84,7 @@ const anime = [
 		year: 2024,
 		source: 'Web manga',
 		rating: 2,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tComedy,
@@ -208,11 +208,12 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tFantasy,
 			tIsekai,
 			tReincarnation,
+			tSchool,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteAnime
@@ -257,7 +258,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tRomanticSubtext,
@@ -281,7 +282,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tFantasy,
@@ -306,7 +307,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tComedy,
 			tSupernatural,
@@ -333,9 +334,11 @@ const anime = [
 		year: 2024,
 		source: 'Web manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
-			tComedy
+			tFantasy,
+			tSliceOfLife,
+			tIyashikei
 		]
 	},
 	{
@@ -354,11 +357,11 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tFantasy,
 			tRomance,
-			tReincarnation
+			tTimeTravel
 		]
 	},
 	{
@@ -376,7 +379,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -423,7 +426,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tRomance,
 			tAdultCast,
@@ -445,7 +448,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 2,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
@@ -473,7 +476,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tFantasy,
 			tRomance,
@@ -519,7 +522,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -544,7 +547,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAdventure,
 			tComedy,
@@ -570,12 +573,14 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
+			tComedy,
 			tFantasy,
-			tIsekai
+			tIsekai,
+			tParody
 		]
 	},
 	{
@@ -593,7 +598,7 @@ const anime = [
 		year: 2024,
 		source: 'Manga',
 		rating: 2,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tFantasy,
@@ -642,7 +647,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tAdventure,
@@ -666,11 +671,10 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAdventure,
 			tFantasy,
-			tSliceOfLife,
 			tIsekai,
 			tReincarnation
 		]
@@ -807,7 +811,7 @@ const anime = [
 		year: 2023,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tDrama,
 			tMystery,
@@ -832,11 +836,11 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 1,
-		status: 0,
+		status: 1,
 		tag: [
 			tAction,
 			tComedy,
-			tSupernatural,
+			tFantasy,
 			tSuperPower,
 			tShounen,
 			tFavoriteAnime
@@ -1367,7 +1371,7 @@ const anime = [
 		year: 2023,
 		source: 'Manga',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAdventure,
 			tDrama,
@@ -13044,7 +13048,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tAdventure,
 			tFantasy,
@@ -16337,7 +16341,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tDrama,
 			tRomance,
@@ -16654,7 +16658,7 @@ const anime = [
 		year: 2024,
 		source: 'Light novel',
 		rating: 0,
-		status: 0,
+		status: 1,
 		tag: [
 			tDrama,
 			tPsychological,
@@ -17643,7 +17647,7 @@ const anime = [
 		season: 2,
 		year: 2015,
 		source: 'Light novel',
-		rating: 1,
+		rating: 0,
 		status: 1,
 		tag: [
 			tAction,

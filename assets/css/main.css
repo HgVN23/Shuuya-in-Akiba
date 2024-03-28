@@ -458,6 +458,7 @@ h3::after {
 	display: flex;
 }
 .studio {
+	width: 100%;
 	margin: 1rem 1rem 0 1rem;
 }
 .sImg {
@@ -466,6 +467,7 @@ h3::after {
 	display: inline-block;
 }
 .smallInfo {
+	width: 100%;
 	margin: auto 0;
 }
 .toolBox::before,
