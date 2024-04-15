@@ -723,11 +723,36 @@ const sPICS = {
 	id: 1872,
 	img: '4360928a-2890-43fb-9282-fa5b4f0eb68e'
 };
-// const s = {
-// 	name: '',
-// 	id: ,
-// 	img: ''
-// };
+const sMarvyJack = {
+	name: 'Marvy Jack',
+	id: 553,
+	img: '27f5d351-6e3f-45dd-bdd1-1eab9470a6eb'
+};
+const sTsumugiAkitaAnimationLab = {
+	name: 'Tsumugi Akita Animation Lab',
+	id: 2212,
+	img: '36380625-bdb8-47bf-96ae-bd50dc0dfa17'
+};
+const sEastFishStudio = {
+	name: 'East Fish Studio',
+	id: 2455,
+	img: ''
+};
+const sYostarPictures = {
+	name: 'Yostar Pictures',
+	id: 2009,
+	img: '02184d12-8c0d-422c-862d-6eaab2d25a2a'
+};
+const sStudioCANDYBOX	 = {
+	name: 'Studio CANDY BOX	',
+	id: 2134,
+	img: 'fe533e22-43b7-491a-9642-45a6696f138f'
+};
+/*const s = {
+	name: '',
+	id: ,
+	img: ''
+};*/
 
 const studioList = [
 	sFeel,
@@ -871,5 +896,10 @@ const studioList = [
 	sJumondo,
 	sStudioPolon,
 	sStudioMassket,
-	sPICS
+	sPICS,
+	sMarvyJack,
+	sTsumugiAkitaAnimationLab,
+	sEastFishStudio,
+	sYostarPictures,
+	sStudioCANDYBOX
 ]

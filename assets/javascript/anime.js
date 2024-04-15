@@ -30,6 +30,467 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1898/141857',
+		[
+			'The New Gate'
+		],
+		[
+			sYokohamaAnimationLab,
+			sCloudHearts
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAction,
+			tAdventure,
+			tFantasy,
+			tIsekai
+		]
+	),
+	new Anime(
+		'1670/141688',
+		[
+			'Kaii to Otome to Kamikakushi',
+			'怪異と乙女と神隠し',
+			'Mysterious Disappearances'
+		],
+		[
+			sZeroG
+		],
+		'TV', 1, 2024, 'Web manga', 0, 0,
+		[
+			tMystery,
+			tSupernatural
+		]
+	),
+	new Anime(
+		'1253/141796',
+		[
+			'Seiyuu Radio no Uraomote',
+			'声優ラジオのウラオモテ',
+			'The Many Sides of Voice Actor Radio'
+		],
+		[
+			sConnect
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tComedy,
+			tYuri,
+			tSchool
+		]
+	),
+	new Anime(
+		'1183/141489',
+		[
+			'Sentai Daishikkaku',
+			'戦隊大失格',
+			'Go! Go! Loser Ranger!'
+		],
+		[
+			sYostarPictures
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tAction,
+			tSciFi,
+			tShounen,
+			tFavoriteAnime,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
+		]
+	),
+	new Anime(
+		'1375/141863',
+		[
+			'Vampire Dormitory',
+			'ヴァンパイア男子寮'
+		],
+		[
+			sStudioBlanc
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tRomance,
+			tSupernatural,
+			tCrossdressing,
+			tVampire,
+			tShoujo
+		]
+	),
+	new Anime(
+		'1739/140995',
+		[
+			'Blue Archive the Animation',
+			'ブルーアーカイブ The Animation'
+		],
+		[
+			sYostarPictures,
+			sStudioCANDYBOX
+		],
+		'TV', 1, 2024, 'Game', 0, 0,
+		[
+			tAction,
+			tFantasy,
+			tSchool,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1676/141714',
+		[
+			'Jiisan Baasan Wakagaeru',
+			'じいさんばあさん若返る',
+			'Grandpa and Grandma Turn Young Again'
+		],
+		[
+			sGekkou
+		],
+		'TV', 1, 2024, 'Web manga', 0, 0,
+		[
+			tComedy,
+			tRomance,
+			tSupernatural,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1346/141783',
+		[
+			'Yozakura-san Chi no Daisakusen',
+			'夜桜さんちの大作戦',
+			'Mission: Yozakura Family'
+		],
+		[
+			sSILVERLINK
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tAction,
+			tComedy,
+			tShounen,
+			tFavoriteAnime,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDVisual
+		]
+	),
+	new Anime(
+		'1058/141559',
+		[
+			'Tonari no Youkai-san',
+			'となりの妖怪さん'
+		],
+		[
+			sLIDENFILMS
+		],
+		'TV', 1, 2024, 'Web manga', 0, 0,
+		[
+			tSliceOfLife,
+			tSupernatural,
+			tMythology
+		]
+	),
+	new Anime(
+		'1834/141827',
+		[
+			'Yoru no Kurage wa Oyogenai',
+			'夜のクラゲは泳げない',
+			"Jellyfish Can't Swim in the Night"
+		],
+		[
+			sDogaKobo
+		],
+		'TV', 1, 2024, 'Original', 0, 0,
+		[
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1646/141411',
+		[
+			'Hananoi-kun to Koi no Yamai',
+			'花野井くんと恋の病',
+			'A Condition Called Love'
+		],
+		[
+			sEastFishStudio
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tRomance,
+			tSchool,
+			tShoujo,
+			tFavoriteOPSong,
+			tFavoriteEDSong
+		]
+	),
+	new Anime(
+		'1861/141482',
+		[
+			'Henjin no Salad Bowl',
+			'変人のサラダボウル',
+			'A Salad Bowl of Eccentrics'
+		],
+		[
+			sSynergySP,
+			sStudioComet
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tComedy,
+			tFantasy,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1346/141203',
+		[
+			'Maou no Ore ga Dorei Elf wo Yome ni Shitanda ga, Dou Medereba Ii?',
+			'魔王の俺が奴隷エルフを嫁にしたんだが、どう愛でればいい？',
+			"An Archdemon's Dilemma: How to Love Your Elf Bride"
+		],
+		[
+			sBrainsBase
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAction,
+			tFantasy,
+			tRomance,
+			tFavoriteAnime,
+			tFavoriteEDSong
+		]
+	),
+	new Anime(
+		'1246/141999',
+		[
+			'Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life',
+			'Lv2からチートだった元勇者候補のまったり異世界ライフ',
+			"Chillin' in Another World with Level 2 Super Cheat Powers"
+		],
+		[
+			sJCStaff
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAdventure,
+			tFantasy,
+			tRomance,
+			tIsekai,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1143/142439',
+		[
+			'Unnamed Memory'
+		],
+		[
+			sENGI
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAdventure,
+			tFantasy,
+			tRomance,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1154/141872',
+		[
+			'Bartender: Kami no Glass',
+			'バーテンダー 神のグラス',
+			'Bartender: Glass of God'
+		],
+		[
+			sLiber
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tDrama,
+			tGourmet,
+			tAdultCast,
+			tWorkplace,
+			tSeinen,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1763/139538',
+		[
+			'Tensei Kizoku, Kantei Skill de Nariagaru',
+			'転生貴族、鑑定スキルで成り上がる',
+			"As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World"
+		],
+		[
+			sStudioMOTHER
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAdventure,
+			tFantasy,
+			tIsekai,
+			tReincarnation,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1372/141859',
+		[
+			'Astro Note',
+			'アストロノオト'
+		],
+		[
+			sTelecomAnimationFilm
+		],
+		'TV', 1, 2024, 'Original', 0, 0,
+		[
+			tComedy,
+			tRomance,
+			tSciFi
+		]
+	),
+	new Anime(
+		'1224/137451',
+		[
+			'Shuumatsu Train Doko e Iku?',
+			'終末トレインどこへいく？',
+			'Train to the End of the World'
+		],
+		[
+			sEMTSquared
+		],
+		'TV', 1, 2024, 'Original', 0, 0,
+		[
+			tAdventure,
+			tFavoriteAnime,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
+		]
+	),
+	new Anime(
+		'1580/141243',
+		[
+			'Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu',
+			'転生したら第七王子だったので、気ままに魔術を極めます',
+			'I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability'
+		],
+		[
+			sTsumugiAkitaAnimationLab
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAdventure,
+			tFantasy,
+			tReincarnation,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1059/142414',
+		[
+			'Ookami to Koushinryou: Merchant Meets the Wise Wolf',
+			'狼と香辛料 MERCHANT MEETS THE WISE WOLF',
+			'Spice and Wolf: Merchant Meets the Wise Wolf'
+		],
+		[
+			sPassione
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAdventure,
+			tDrama,
+			tFantasy,
+			tRomance,
+			tAdultCast,
+			tFavoriteAnime,
+			tFavoriteOPSong,
+			tFavoriteOPVisual,
+			tFavoriteEDSong,
+			tFavoriteEDVisual
+		]
+	),
+	new Anime(
+		'1523/141680',
+		[
+			'Re:Monster'
+		],
+		[
+			sStudioDeen
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAction,
+			tAdventure,
+			tFantasy,
+			tIsekai,
+			tReincarnation,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1578/141782',
+		[
+			'Kami wa Game ni Ueteiru.',
+			'神は遊戯に飢えている。',
+			"Gods' Game We Play"
+		],
+		[
+			sLIDENFILMS
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tFantasy,
+			tSuspense,
+			tEcchi,
+			tHighStakesGame,
+			tStrategyGame
+		]
+	),
+	new Anime(
+		'1158/141710',
+		[
+			'Dekisokonai to Yobareta Motoeiyuu wa Jikka kara Tsuihou sareta node Sukikatte ni Ikiru Koto ni Shita',
+			'出来損ないと呼ばれた元英雄は、実家から追放されたので好き勝手に生きることにした',
+			'The Banished Former Hero Lives as He Pleases'
+		],
+		[
+			sStudioDeen,
+			sMarvyJack
+		],
+		'TV', 1, 2024, 'Light novel', 0, 0,
+		[
+			tAction,
+			tAdventure,
+			tFantasy,
+			tFavoriteEDSong
+		]
+	),
+	new Anime(
+		'1833/141321',
+		[
+			'One Room, Hiatari Futsuu, Tenshi-tsuki.',
+			'ワンルーム、日当たり普通、天使つき。',
+			'Studio Apartment, Good Lighting, Angel Included'
+		],
+		[
+			sOkurutoNoboru
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tComedy,
+			tRomance,
+			tSupernatural,
+			tHarem,
+			tMythology,
+			tShounen,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
 		'1390/120708',
 		[
 			'Odd Taxi Movie: In the Woods',
@@ -158,7 +619,7 @@ const anime = [
 		[
 			sWhiteFox
 		],
-		'TV', 0, 2024, 'Manga', 0, 0,
+		'TV', 0, 2024, 'Manga', 0, 1,
 		[
 			tAction,
 			tAdventure,
@@ -322,7 +783,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1841/138405',
+		'1801/142390',
 		[
 			'Ore dake Level Up na Ken',
 			'俺だけレベルアップな件',
@@ -331,11 +792,12 @@ const anime = [
 		[
 			sA1Pictures
 		],
-		'TV', 0, 2024, 'Web manga', 1, 0,
+		'TV', 0, 2024, 'Web manga', 1, 1,
 		[
 			tAction,
 			tAdventure,
 			tFantasy,
+			tAdultCast,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
 			tFavoriteAnime
@@ -516,6 +978,7 @@ const anime = [
 			tSeinen,
 			tFavoriteOPSong,
 			tFavoriteOPVisual,
+			tFavoriteEDVisual,
 			tFavoriteAnime
 		]
 	),
@@ -1062,7 +1525,7 @@ const anime = [
 		[
 			sC2C
 		],
-		'TV', 3, 2023, 'Manga', 0, 0,
+		'TV', 3, 2023, 'Manga', 0, 1,
 		[
 			tAction,
 			tAdventure,
@@ -1085,7 +1548,7 @@ const anime = [
 		[
 			sSILVERLINK
 		],
-		'TV', 3, 2023, 'Manga', 1, 0,
+		'TV', 3, 2023, 'Manga', 1, 1,
 		[
 			tAction,
 			tFantasy,
@@ -1938,14 +2401,14 @@ const anime = [
 	new Anime(
 		'1846/140458',
 		[
-			'Mashle 2nd Season',
-			'マッシュル-MASHLE- 第2期',
-			'Mashle: Magic and Muscles Season 2'
+			'Mashle: Shinkakusha Kouho Senbatsu Shiken-hen',
+			'マッシュル-MASHLE- 神覚者候補選抜試験編',
+			'Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc'
 		],
 		[
 			sA1Pictures
 		],
-		'TV', 0, 2024, 'Manga', 0, 0,
+		'TV', 0, 2024, 'Manga', 0, 1,
 		[
 			tAction,
 			tComedy,
@@ -2133,7 +2596,7 @@ const anime = [
 		[
 			sShinEiAnimation
 		],
-		'TV', 0, 2024, 'Manga', 0, 0,
+		'TV', 0, 2024, 'Manga', 0, 1,
 		[
 			tComedy,
 			tRomance,
@@ -10074,6 +10537,25 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1399/141651',
+		[
+			'Maou Gakuin no Futekigousha II: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou Part 2',
+			'魔王学院の不適合者 II ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～ 第2クール',
+			'The Misfit of Demon King Academy II Part 2'
+		],
+		[
+			sSILVERLINK
+		],
+		'TV', 1, 2024, 'Light novel', 1, 0,
+		[
+			tAction,
+			tFantasy,
+			tMythology,
+			tReincarnation,
+			tSchool
+		]
+	),
+	new Anime(
 		'1475/137152',
 		[
 			'Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e Kayou II',
@@ -10144,6 +10626,26 @@ const anime = [
 			tAction,
 			tAdventure,
 			tFantasy
+		]
+	),
+	new Anime(
+		'1100/142255',
+		[
+			'Mahouka Koukou no Rettousei 3rd Season',
+			'魔法科高校の劣等生 第3シーズン',
+			'The Irregular at Magic High School Season 3'
+		],
+		[
+			s8bit
+		],
+		'TV', 1, 2024, 'Light novel', 1, 0,
+		[
+			tAction,
+			tFantasy,
+			tRomance,
+			tSciFi,
+			tSchool,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -11454,6 +11956,49 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1587/141789',
+		[
+			'Tensei shitara Slime Datta Ken 3rd Season',
+			'転生したらスライムだった件 第3期',
+			'That Time I Got Reincarnated as a Slime Season 3'
+		],
+		[
+			s8bit
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tAction,
+			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai,
+			tReincarnation,
+			tShounen,
+			tFavoriteAnime,
+			tFavoriteOPSong
+		]
+	),
+	new Anime(
+		'1092/142426',
+		[
+			'Tensei shitara Slime Datta Ken 3rd Season: Kanwa - Diablo Nikki',
+			'転生したらスライムだった件 閑話: ディアブロ日記',
+			"That Time I Got Reincarnated as a Slime Season 3: Digression - Diablo's Journal"
+		],
+		[
+			s8bit
+		],
+		'TV', 0, 2024, 'Manga', 0, 1,
+		[
+			tAction,
+			tAdventure,
+			tComedy,
+			tFantasy,
+			tIsekai,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
 		'1570/135813',
 		[
 			'Tensei shitara Slime Datta Ken: Coleus no Yume',
@@ -11842,7 +12387,28 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1732/137465',
+		'1876/141251',
+		[
+			'Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2',
+			'無職転生 II ～異世界行ったら本気だす～ (第2クール)',
+			'Mushoku Tensei: Jobless Reincarnation Season 2 Part 2'
+		],
+		[
+			sStudioBind
+		],
+		'TV', 1, 2024, 'Light novel', 1, 0,
+		[
+			tAdventure,
+			tDrama,
+			tFantasy,
+			tEcchi,
+			tIsekai,
+			tReincarnation,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
+		'1898/138005',
 		[
 			'Mushoku Tensei II: Isekai Ittara Honki Dasu',
 			'無職転生 II ～異世界行ったら本気だす～',
@@ -13923,6 +14489,27 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1659/141438',
+		[
+			'Date A Live V',
+			'デート・ア・ライブⅤ'
+		],
+		[
+			sGeekToys
+		],
+		'TV', 1, 2024, 'Light novel', 1, 0,
+		[
+			tAction,
+			tFantasy,
+			tRomance,
+			tSciFi,
+			tHarem,
+			tSchool,
+			tFavoriteOPSong,
+			tFavoriteAnime
+		]
+	),
+	new Anime(
 		'1368/121281',
 		[
 			'Date A Live IV',
@@ -13937,10 +14524,11 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tMecha,
+			tFantasy,
 			tSchool,
 			tFavoriteOPSong,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -13956,7 +14544,8 @@ const anime = [
 		[
 			tAction,
 			tSciFi,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -13972,7 +14561,8 @@ const anime = [
 		[
 			tAction,
 			tSciFi,
-			tIsekai
+			tIsekai,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -13990,9 +14580,10 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tMecha,
+			tFantasy,
 			tSchool,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14010,7 +14601,9 @@ const anime = [
 			tAction,
 			tRomance,
 			tSciFi,
-			tHarem
+			tHarem,
+			tFantasy,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14024,7 +14617,8 @@ const anime = [
 		],
 		'OVA', 3, 2014, 'Light novel', 1, 1,
 		[
-			tRomance
+			tRomance,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14042,9 +14636,10 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tMecha,
+			tFantasy,
 			tSchool,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14061,7 +14656,8 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tSchool
+			tSchool,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14079,9 +14675,10 @@ const anime = [
 			tRomance,
 			tSciFi,
 			tHarem,
-			tMecha,
+			tFantasy,
 			tSchool,
-			tFavoriteOPSong
+			tFavoriteOPSong,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
@@ -14488,6 +15085,24 @@ const anime = [
 			tVampire,
 			tFavoriteOPVisual,
 			tFavoriteEDVisual
+		]
+	),
+	new Anime(
+		'1136/141839',
+		[
+			'Shinigami Bocchan to Kuro Maid 3rd Season',
+			'死神坊ちゃんと黒メイド 第3期',
+			'The Duke of Death and His Maid Season 3'
+		],
+		[
+			sJCStaff
+		],
+		'TV', 1, 2024, 'Web manga', 0, 0,
+		[
+			tComedy,
+			tSupernatural,
+			tRomanticSubtext,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
