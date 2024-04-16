@@ -30,6 +30,42 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1455/141858',
+		[
+			'Sasayaku You ni Koi wo Utau',
+			'ささやくように恋を唄う',
+			'Whisper Me a Love Song'
+		],
+		[
+			sYokohamaAnimationLab,
+			sCloudHearts
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tYuri,
+			tMusic,
+			tSchool
+		]
+	),
+	new Anime(
+		'1370/140362',
+		[
+			'Kaijuu 8-gou',
+			'怪獣8号',
+			'Kaiju No. 8'
+		],
+		[
+			sProductionIG
+		],
+		'TV', 1, 2024, 'Manga', 0, 0,
+		[
+			tAction,
+			tSciFi,
+			tMilitary,
+			tShounen
+		]
+	),
+	new Anime(
 		'1898/141857',
 		[
 			'The New Gate'
@@ -12404,7 +12440,9 @@ const anime = [
 			tEcchi,
 			tIsekai,
 			tReincarnation,
-			tFavoriteAnime
+			tFavoriteAnime,
+			tFavoriteOPSong,
+			tFavoriteOPVisual
 		]
 	),
 	new Anime(
