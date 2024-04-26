@@ -997,7 +997,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1573/142329',
+		'1711/142478',
 		[
 			'Dungeon Meshi',
 			'ダンジョン飯',
