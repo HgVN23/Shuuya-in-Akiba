@@ -659,7 +659,7 @@ const anime = [
 		[
 			tAction,
 			tAdventure,
-			tDrama,
+			tHistorical,
 			tFantasy,
 			tMythology,
 			tShounen
@@ -1268,7 +1268,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1051/136302',
+		'1901/139910',
 		[
 			'Tearmoon Teikoku Monogatari: Dantoudai kara Hajimaru, Hime no Tensei Gyakuten Story',
 			'ティアムーン帝国物語～断頭台から始まる、姫の転生逆転ストーリー～',
@@ -1297,7 +1297,7 @@ const anime = [
 		],
 		'TV', 3, 2023, 'Light novel', 0, 1,
 		[
-			tComedy,
+			tAdventure,
 			tFantasy,
 			tIsekai
 		]
@@ -1468,7 +1468,7 @@ const anime = [
 		[
 			sPassione
 		],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		'TV', 3, 2023, 'Light novel', 1, 1,
 		[
 			tAction,
 			tFantasy,
@@ -1527,7 +1527,7 @@ const anime = [
 		[
 			sACGT
 		],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		'TV', 3, 2023, 'Light novel', 1, 1,
 		[
 			tAction,
 			tFantasy
@@ -1629,6 +1629,7 @@ const anime = [
 			tRomance,
 			tSchool,
 			tShoujo,
+			tOrganizedCrime,
 			tFavoriteOPSong
 		]
 	),
@@ -12024,7 +12025,7 @@ const anime = [
 		[
 			s8bit
 		],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		'Special', 0, 2024, 'Manga', 0, 1,
 		[
 			tAction,
 			tAdventure,
@@ -12207,7 +12208,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1752/139314',
+		'1794/142621',
 		[
 			'Tsuki ga Michibiku Isekai Douchuu 2nd Season',
 			'月が導く異世界道中 第二幕',

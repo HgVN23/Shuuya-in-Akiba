@@ -48,9 +48,9 @@ for(var i = 0; i < sourceList.length; i++){
 }
 
 const ratingList = [
-	'PG-13',
-	'R-17+',
-	'R+'
+	'PG-13 (Teens 13+)',
+	'R-17+ (Violence & Profanity)',
+	'R+ (Mild Nudity)'
 ]
 let ratingTemp = ``;
 for(var i = 0; i < ratingList.length; i++){
