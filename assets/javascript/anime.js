@@ -257,7 +257,8 @@ const anime = [
 			tSchool,
 			tShoujo,
 			tFavoriteOPSong,
-			tFavoriteEDSong
+			tFavoriteEDSong,
+			tFavoriteAnime
 		]
 	),
 	new Anime(
