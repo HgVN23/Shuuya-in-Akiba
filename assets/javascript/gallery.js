@@ -25,6 +25,7 @@ numberInput.addEventListener('keydown', (e)=>{
 			page = 0;
 		else
 			page = numberInput.value - 1;
+
 		run(listPresent);
 		numberInput.value = page + 1;
 	}
@@ -32,7 +33,7 @@ numberInput.addEventListener('keydown', (e)=>{
 
 function getMax(list) {
 	max = 0;
-	do{
+	do {
 		max++;
 	} while(max * 25 < list.length);
 	document.querySelector('.numberMax').textContent = `/${max}`;
@@ -67,6 +68,7 @@ function setLimit() {
 		document.querySelector('.left').classList.add('turnOff');
 	else
 		document.querySelector('.left').classList.remove('turnOff');
+	
 	if(page + 1 == max)
 		document.querySelector('.right').classList.add('turnOff');
 	else
@@ -89,14 +91,18 @@ function addAnime(list) {
 		var temp = list[i];
 		let img = temp.img;
 		let name = temp.name[0];
+
 		let altName = ``;
 		for(var j = 1; j < temp.name.length; j++) {
-			altName += `<h${j+1} class="copyable">${temp.name[j]}</h${j+1}>\n`
+			altName += `<h${j+1} class="copyable">${temp.name[j]}</h${j+1}>`;
 		}
+
 		let studio = ``;
-		for(var j = 0; j < temp.studio.length; j++) {
-			studio += `<a href="https://myanimelist.net/anime/producer/${temp.studio[j].id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${temp.studio[j].img}" alt="${temp.studio[j].name}"></a>\n`
-		}
+		sortList(temp.studio).forEach(e => {
+			const result = studioList.find(x => x.id === e);
+			studio += `<a href="https://myanimelist.net/anime/producer/${result.id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${result.img}" alt="${result.name}"></a>`
+		});
+
 		let type = temp.type;
 		let season = temp.season;
 		let year = temp.year;
@@ -105,10 +111,17 @@ function addAnime(list) {
 		let rating = temp.rating;
 		let status = temp.status;
 		// let synopsis = temp.synopsis;
+
 		let tag = ``;
-		for(var j = 0; j < temp.tag.length; j++) {
-			tag += `<div class="tag ${sortList(temp.tag)[j].id}">${sortList(temp.tag)[j].name}</div>\n`
-		};
+		sortList(temp.tag).forEach(e => {
+			const result = tagList.find(x => x.id === e);
+			if(result != null) {
+				tag += `<div class="tag ${result.id}">${result.name}</div>`
+			} else {
+				console.log(temp);
+			}
+		});
+		
 		let song;
 		if(temp.name.length > 1)
 			song = temp.name[1];
@@ -120,23 +133,23 @@ function addAnime(list) {
 			fSeason = `&seasons=${seasonList[season]}%20${year}`;
 		else
 			fSeason = `&seasons=${year}`;
-		// let character = ``;
-		// for(var j = 0; j < temp.character.main.length; j++) {
-		// 	character += `
-		// 		<div class="cContainer">
-		// 			<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
-		// 			<div class="cName cRoleM">${temp.character.main[j].name}</div>
-		// 		</div>\n
-		// 	`
-		// }
-		// for(var j = 0; j < temp.character.support.length; j++) {
-		// 	character += `
-		// 		<div class="cContainer">
-		// 			<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
-		// 			<div class="cName cRoleS">${temp.character.support[j].name}</div>
-		// 		</div>\n
-		// 	`
-		// }
+		/*let character = ``;
+		for(var j = 0; j < temp.character.main.length; j++) {
+			character += `
+				<div class="cContainer">
+					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
+					<div class="cName cRoleM">${temp.character.main[j].name}</div>
+				</div>
+			`
+		}
+		for(var j = 0; j < temp.character.support.length; j++) {
+			character += `
+				<div class="cContainer">
+					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
+					<div class="cName cRoleS">${temp.character.support[j].name}</div>
+				</div>
+			`
+		}*/
 
 		const format = `
 			<div class="anime">

@@ -211,6 +211,12 @@ header {
 	font-size: .8rem;
 	font-style: italic;
 }
+.countTag::before {
+	content: '(';
+}
+.countTag::after {
+	content: ')';
+}
 .flexSpace {
 	display: flex;
 	justify-content: space-around;

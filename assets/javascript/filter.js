@@ -5,10 +5,10 @@ const typeList = [
 	'ONA',
 	'Movie'
 ]
-let typeTemp = ``;
-for(var i = 0; i < typeList.length; i++){
-	typeTemp += `<div class="tag" id="${typeList[i]}">${typeList[i]} ${countTag('str', 'type', typeList, i)}</div>`
-}
+var typeTemp = ``;
+typeList.forEach((e, i) => {
+	typeTemp += `<div class="tag" id="${e}">${e} ${countTag('str', 'type', typeList, i)}</div>`
+});
 
 const seasonList = [
 	'Winter',
@@ -16,14 +16,13 @@ const seasonList = [
 	'Summer',
 	'Fall'
 ]
-
-let seasonTemp = ``;
-for(var i = 0; i < seasonList.length; i++){
-	seasonTemp += `<div class="tag" id="${seasonList.indexOf(seasonList[i])}">${seasonList[i]} ${countTag('int', 'season', seasonList, i)}</div>`
-}
+var seasonTemp = ``;
+seasonList.forEach((e, i) => {
+	seasonTemp += `<div class="tag" id="${seasonList.indexOf(e)}">${e} ${countTag('int', 'season', seasonList, i)}</div>`
+});
 
 const yearNow = new Date().getFullYear()
-let yearTemp = ``;
+var yearTemp = ``;
 for(var i = yearNow; i >= 2006; i--){
 	yearTemp += `<div class="tag" id="${i}">${i} ${countTag('int', 'year', '', i)}</div>`
 }
@@ -42,46 +41,46 @@ const sourceList = [
 	'Mixed media',
 	'Other'
 ]
-let sourceTemp = ``;
-for(var i = 0; i < sourceList.length; i++){
-	sourceTemp += `<div class="tag" id="${sourceList[i]}">${sourceList[i]} ${countTag('str', 'source', sourceList, i)}</div>`
-}
+var sourceTemp = ``;
+sourceList.forEach((e, i) => {
+	sourceTemp += `<div class="tag" id="${e}">${e} ${countTag('str', 'source', sourceList, i)}</div>`
+});
 
 const ratingList = [
 	'PG-13 (Teens 13+)',
 	'R-17+ (Violence & Profanity)',
 	'R+ (Mild Nudity)'
 ]
-let ratingTemp = ``;
-for(var i = 0; i < ratingList.length; i++){
-	ratingTemp += `<div class="tag" id="${ratingList.indexOf(ratingList[i])}">${ratingList[i]} ${countTag('int', 'rating', ratingList, i)}</div>`
-}
+var ratingTemp = ``;
+ratingList.forEach((e, i) => {
+	ratingTemp += `<div class="tag" id="${ratingList.indexOf(e)}">${e} ${countTag('int', 'rating', ratingList, i)}</div>`
+});
 
 const statusList = [
 	'Ongoing',
 	'Completed'
 ]
-let statusTemp = ``;
-for(var i = 0; i < statusList.length; i++){
-	statusTemp += `<div class="tag" id="${statusList.indexOf(statusList[i])}">${statusList[i]} ${countTag('int', 'status', statusList, i)}</div>`
-}
+var statusTemp = ``;
+statusList.forEach((e, i) => {
+	statusTemp += `<div class="tag" id="${statusList.indexOf(e)}">${e} ${countTag('int', 'status', statusList, i)}</div>`
+});
 
-let tagTemp = ``;
+var tagTemp = ``;
 const tagListTemp = sortList(tagList);
-for(var i = 0; i < tagListTemp.length; i++){
-	tagTemp += `<div class="tag ${tagListTemp[i].id}" id="${tagListTemp[i].id}">${tagListTemp[i].name} ${countTag('arr', 'tag', tagListTemp, i)}</div>`
-}
+tagListTemp.forEach((e, i) => {
+	tagTemp += `<div class="tag ${e.id}" id="${e.id}">${e.name} ${countTag('arr', 'tag', tagListTemp, i)}</div>`
+});
 
-let studioTemp = ``;
+var studioTemp = ``;
 const studioListTemp = sortList(studioList);
-for(var i = 0; i < studioListTemp.length; i++){
+studioListTemp.forEach((e, i) => {
 	studioTemp += `
-		<div class="tag" id="${studioListTemp[i].id}">
-			<div>${studioListTemp[i].name}</div>${countTag('arr', 'studio', studioListTemp, i)}
-			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${studioListTemp[i].img}.png" alt="${studioListTemp[i].name}">
+		<div class="tag" id="${e.id}">
+			<div>${e.name}</div>${countTag('arr', 'studio', studioListTemp, i)}
+			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${e.img}.png" alt="${e.name}">
 		</div>
 	`
-}
+});
 
 filter();
 function filter() {
@@ -93,16 +92,17 @@ function filter() {
 	document.querySelector('.fStatus').innerHTML = statusTemp;
 	document.querySelector('.fTag').innerHTML = tagTemp;
 	document.querySelector('.fStudio').innerHTML = studioTemp;
-	const tag = document.querySelectorAll('.tag');
-	for(var i = 0; i < tag.length; i++)
-		tag[i].addEventListener('click', fSelected);
+
+	document.querySelectorAll('.tag').forEach(e => {
+		e.addEventListener('click', fSelected);
+	});
 }
 function fSelected() {
 	this.classList.toggle('fSelected');
 }
 
 function apply() {
-	let temp = anime;
+	var temp = anime;
 	temp = filterSingle('Type', temp);
 	temp = filterSingle('Season', temp);
 	temp = filterSingle('Year', temp);
@@ -120,11 +120,11 @@ function apply() {
 	numberInput.value = 1;
 }
 function filterSingle(get, from) {
-	let tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	var tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
 	const data = get.toLowerCase();
-	let temp = [];
-	let fN = 0;
-	let check = false;
+	var temp = [];
+	var fN = 0;
+	var check = false;
 	for(var i = 0; i < from.length; i++)
 		for(var j = 0; j < tagGet.length; j++)
 			if(tagGet[j].classList.contains('fSelected')) {
@@ -141,17 +141,17 @@ function filterSingle(get, from) {
 	return temp;
 }
 function filterMulti(get, from) {
-	let tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	var tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
 	const data = get.toLowerCase();
-	let temp = [];
-	let fN = 0;
-	let checkBreak = false;
-	let check = false;
+	var temp = [];
+	var fN = 0;
+	var checkBreak = false;
+	var check = false;
 	for(var i = 0; i < from.length; i++)
 		for(var j = 0; j < from[i][data].length; j++) {
 			for(var k = 0; k < tagGet.length; k++)
 				if(tagGet[k].classList.contains('fSelected')) {
-					if(from[i][data][j].id == tagGet[k].id) {
+					if(from[i][data][j] == tagGet[k].id) {
 						temp[fN] = from[i];
 						fN++;
 						checkBreak = true; 
@@ -170,8 +170,8 @@ function filterMulti(get, from) {
 	return temp;
 }
 function sortSeason(from) {
-	let temp = [];
-	let fN = 0;
+	var temp = [];
+	var fN = 0;
 	for(var yN = yearNow; yN >= 2006; yN--)
 		for(var sN = 3; sN >= 0; sN--)
 			for(var i = 0; i < from.length; i++)
@@ -182,7 +182,7 @@ function sortSeason(from) {
 	return temp;
 }
 // function checked(get) {
-// 	let n = get.length;
+// 	var n = get.length;
 // 	for(var i = 0; i < n; i++)
 // 		while(!get[i].checked && n != 0) {
 // 			for(var j = i; j < n; j++)
@@ -207,19 +207,31 @@ function sortList(list) {
 	return sort;
 }
 
-function countTag(type, data, dataList, index) {
-	let tag = 0;
-	if(type == 'str')
-		for(var i = 0; i < anime.length; i++)
-			if(anime[i][data] == dataList[index])
-				tag++;
-	if(type == 'int')
-		for(var i = 0; i < anime.length; i++)
-			if(anime[i][data] == index)
-				tag++;
-	if(type == 'arr')
-		for(var i = 0; i < anime.length; i++)
-			if(anime[i][data].includes(dataList[index]))
-				tag++;
-	return `<span class="countTag">(${tag})</span>`;
+function countTag(type, key, list, index) {
+	var tag = 0;
+
+	switch(type) {
+		case 'str':
+			anime.forEach(e => {
+				if(e[key] == list[index])
+					tag++;
+			});
+			break;
+		case 'int':
+			anime.forEach(e => {
+				if(e[key] == index)
+					tag++;
+			});
+			break;
+		case 'arr':
+			anime.forEach(e => {
+				if(e[key].find(e => e === list[index].id))
+					tag++;
+			});
+			break;
+		default:
+			break;
+	}
+
+	return `<span class="countTag">${tag}</span>`;
 }
