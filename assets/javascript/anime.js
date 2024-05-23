@@ -259,6 +259,7 @@ const anime = [
 		[ 95 ],
 		'TV', 1, 2024, 'Original', 0, 0,
 		[
+			'tMusic',
 			'tFavoriteAnime'
 		]
 	),
