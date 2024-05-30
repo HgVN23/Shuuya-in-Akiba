@@ -28,6 +28,22 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1514/143260',
+		[
+			'Dead Dead Demons Dededede Destruction (ONA) Episode 0',
+			'デッドデッドデーモンズデデデデデストラクション',
+			'Dead Dead Demons Dededede Destruction Episode 0'
+		],
+		[ 2157 ],
+		'ONA', 1, 2024, 'Manga', 0, 1,
+		[
+			'tDrama',
+			'tSciFi',
+			'tSchool',
+			'tSeinen'
+		]
+	),
+	new Anime(
 		'1508/137052',
 		[
 			'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi',

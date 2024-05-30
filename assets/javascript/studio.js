@@ -606,9 +606,13 @@ const studioList = [
 	new Studio(
 		2134, 'Studio CANDY BOX',
 		'fe533e22-43b7-491a-9642-45a6696f138f'
+	),
+	new Studio(
+		2157, 'Production +h.',
+		'75c8ea9b-6f16-4059-a98e-8091304c8af0'
 	)/*,
 	new Studio(
-		'', '',
+		 , '',
 		''
 	),*/
 ]
