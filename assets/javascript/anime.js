@@ -10736,7 +10736,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1587/141789',
+		'1211/143476',
 		[
 			'Tensei shitara Slime Datta Ken 3rd Season',
 			'転生したらスライムだった件 第3期',
