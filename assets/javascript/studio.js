@@ -280,10 +280,6 @@ const studioList = [
 		'dc53432e-9634-4762-b6f0-cf42ddbc3cb0'
 	),
 	new Studio(
-		2326, 'OLM Team Yoshiokas',
-		''
-	),
-	new Studio(
 		1687, 'Yokohama Animation Lab',
 		'5bee6ffd-6785-4794-8886-497c5c66b31d'
 	),
@@ -577,7 +573,7 @@ const studioList = [
 	),
 	new Studio(
 		2411, 'Studio Massket',
-		''
+		'89980345-5666-40b2-879b-741f086fae9a'
 	),
 	new Studio(
 		2144, 'BloomZ',
@@ -597,7 +593,7 @@ const studioList = [
 	),
 	new Studio(
 		2455, 'East Fish Studio',
-		''
+		'1fb0a741-a46c-4e83-8221-237a528f679e'
 	),
 	new Studio(
 		2009, 'Yostar Pictures',

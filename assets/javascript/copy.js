@@ -1,9 +1,9 @@
 function copyCreate()	 {
 	let copy = document.querySelectorAll('.copyable');
 
-	for (var iC = 0; iC < copy.length; iC++) {
-		copy[iC].addEventListener('click', copyClick);
-	}
+	copy.forEach(e => {
+		e.addEventListener('click', copyClick);
+	});
 }
 
 const toastStyle = document.querySelector('.toast');

@@ -1,10 +1,10 @@
 dropdownCreate();
 
 function dropdownCreate() {
-	var toggler = document.getElementsByClassName("dropdown");
-	for (var i = 0; i < toggler.length; i++) {
-		toggler[i].addEventListener("click", dropdownActive);
-	}
+	var toggler = document.querySelectorAll(".dropdown");
+	toggler.forEach(e => {
+		e.addEventListener("click", dropdownActive);
+	});
 }
 function dropdownActive() {
 	this.classList.toggle("dropdownActive");

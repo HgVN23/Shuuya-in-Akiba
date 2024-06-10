@@ -3,17 +3,17 @@ document.querySelector('.filterButton').addEventListener('click', showInfo);
 document.querySelector('.filter .clickHide').addEventListener('click', hideInfo);
 
 function moreInfoCreate() {
-	var animeInfo = document.getElementsByClassName('anime');
-	for(let i = 0; i < animeInfo.length; i++) {
-		animeInfo[i].addEventListener('click', showInfo);
-		clickHide(animeInfo[i].parentElement.querySelector('.moreInfo'));
-	}
+	var animeInfo = document.querySelectorAll('.anime');
+	animeInfo.forEach(e => {
+		e.addEventListener('click', showInfo);
+		clickHide(e.parentElement.querySelector('.moreInfo'));
+	});
 }
-function clickHide(thiss) {
+function clickHide(self) {
 	const clickHideCreate = document.createElement('div');
 	clickHideCreate.classList.add('clickHide');
-	thiss.appendChild(clickHideCreate);
-	thiss.querySelector('.clickHide').addEventListener('click', hideInfo);
+	self.appendChild(clickHideCreate);
+	self.querySelector('.clickHide').addEventListener('click', hideInfo);
 }
 function showInfo() {
 	this.parentElement.querySelector('.moreInfo').classList.remove('hideInfo');

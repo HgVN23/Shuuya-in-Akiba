@@ -1,8 +1,12 @@
-document.querySelector('.left').addEventListener('click', left);
-document.querySelector('.right').addEventListener('click', right);
-let page = 0;
-let max = 0;
-let listPresent = anime;
+const goLeft = document.querySelector('.left');
+const goRight = document.querySelector('.right');
+goLeft.addEventListener('click', left);
+goRight.addEventListener('click', right);
+
+var page = 0;
+var max = 0;
+var listPresent = anime;
+
 getMax(listPresent);
 setTimeout(function delay() {
 	run(listPresent);
@@ -10,14 +14,10 @@ setTimeout(function delay() {
 
 const numberInput = document.querySelector('.numberInput');
 function numberOnly(e) {
-	if(e.keyCode >= 48 && e.keyCode <= 57 || e.keyCode === 13)
-		return true;
-	else
-		return false;
+	return (e.keyCode >= 48 && e.keyCode <= 57 || e.keyCode === 13) ?
+		true : false;
 }
 numberInput.addEventListener('keydown', (e)=>{
-	// if((e.keyCode === 8 || e.keyCode === 46) && numberInput.value === NaN)
-	// 	numberInput.value = page + 1;
 	if(e.keyCode === 13) {
 		if(numberInput.value >= max)
 			page = max - 1;
@@ -64,22 +64,20 @@ function run(list) {
 }
 
 function setLimit() {
-	if(page == 0)
-		document.querySelector('.left').classList.add('turnOff');
-	else
-		document.querySelector('.left').classList.remove('turnOff');
-	
-	if(page + 1 == max)
-		document.querySelector('.right').classList.add('turnOff');
-	else
-		document.querySelector('.right').classList.remove('turnOff');
+	const leftClass = goLeft.classList;
+	const rightClass = goRight.classList;
+
+	page == 0 ? leftClass.add('turnOff') :
+				leftClass.remove('turnOff');
+	page + 1 == max ? rightClass.add('turnOff') :
+					rightClass.remove('turnOff');
 }
 
 function removeAnime() {
 	if(document.querySelector('.gallery').children) {
 		document.querySelector('.gallery').remove();
 		const galleryCreate = document.createElement('div');
-		galleryCreate.classList.add('gallery')
+		galleryCreate.classList.add('gallery');
 		document.querySelector('body').appendChild(galleryCreate);
 	}
 }
@@ -88,89 +86,63 @@ function addAnime(list) {
 	for(var i = page * 25; i < (page + 1) * 25; i++) {
 		if(i > list.length - 1)
 			break;
-		var temp = list[i];
-		let img = temp.img;
-		let name = temp.name[0];
 
-		let altName = ``;
-		for(var j = 1; j < temp.name.length; j++) {
-			altName += `<h${j+1} class="copyable">${temp.name[j]}</h${j+1}>`;
-		}
+		const temp = list[i];
 
-		let studio = ``;
-		sortList(temp.studio).forEach(e => {
-			const result = studioList.find(x => x.id === e);
-			studio += `<a href="https://myanimelist.net/anime/producer/${result.id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${result.img}" alt="${result.name}"></a>`
+		const {
+			img, name, studio, type,
+			season, year, source,
+			rating, status, tag
+		} = temp;
+
+		const keyName = name[0];
+
+		var altName = ``;
+		name.forEach((e, j) => {
+			altName += `<h${j+1} class="copyable">${e}</h${j+1}>`;
 		});
 
-		let type = temp.type;
-		let season = temp.season;
-		let year = temp.year;
-		// let aired = temp.aired;
-		let source = temp.source;
-		let rating = temp.rating;
-		let status = temp.status;
-		// let synopsis = temp.synopsis;
+		var tempStudio = ``;
+		sortList(studio).forEach(e => {
+			const result = studioList.find(x => x.id === e);
+			tempStudio += `<a href="https://myanimelist.net/anime/producer/${result.id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${result.img}" alt="${result.name}"></a>`
+		});
 
-		let tag = ``;
-		sortList(temp.tag).forEach(e => {
+		var tempTag = ``;
+		sortList(tag).forEach(e => {
 			const result = tagList.find(x => x.id === e);
 			if(result != null) {
-				tag += `<div class="tag ${result.id}">${result.name}</div>`
+				tempTag += `<div class="tag ${result.id}">${result.name}</div>`
 			} else {
 				console.log(temp);
 			}
 		});
 		
-		let song;
-		if(temp.name.length > 1)
-			song = temp.name[1];
-		else
-			song = name;
+		const song = name.length > 1 ? name[1] : keyName;
 
-		let fSeason = ``;
-		if(year > 2017)
-			fSeason = `&seasons=${seasonList[season]}%20${year}`;
-		else
-			fSeason = `&seasons=${year}`;
-		/*let character = ``;
-		for(var j = 0; j < temp.character.main.length; j++) {
-			character += `
-				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.main[j].img}.jpg" alt="${temp.character.main[j].name}">
-					<div class="cName cRoleM">${temp.character.main[j].name}</div>
-				</div>
-			`
-		}
-		for(var j = 0; j < temp.character.support.length; j++) {
-			character += `
-				<div class="cContainer">
-					<img class="character" src="https://cdn.myanimelist.net/images/characters/${temp.character.support[j].img}.jpg" alt="${temp.character.support[j].name}">
-					<div class="cName cRoleS">${temp.character.support[j].name}</div>
-				</div>
-			`
-		}*/
+		const fSeason = year > 2017 ?
+			`&seasons=${seasonList[season]}%20${year}` :
+			`&seasons=${year}`;
 
 		const format = `
 			<div class="anime">
 				<div class="status sMin s${statusList[status]}">
-					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
+					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${keyName}">
 					<!-- <img class="min" src="assets/media/test.png"> -->
-					<div class="name">${name}</div>
+					<div class="name">${keyName}</div>
 				</div>
 			</div>
 			<div class="moreInfo hideInfo">
 				<div class="split">
 					<div class="status sMax s${statusList[status]}">
-						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${name}">
-						<!-- <img class="max" src="assets/media/test.png" alt="${name}"> -->
+						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${keyName}">
+						<!-- <img class="max" src="assets/media/test.png" alt="${keyName}"> -->
 					</div>
 					<div class="limited">
-						<h1 class="copyable">${name}</h1>
 						${altName}
 						<div class="split2">
 							<div class="studio">
-								${studio}
+								${tempStudio}
 							</div>
 							<div class="smallInfo">
 								<p class="type">${type}</p>
@@ -180,19 +152,18 @@ function addAnime(list) {
 							</div>
 						</div>
 						<div class="tagBox">
-							${tag}
+							${tempTag}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href='https://animevietsub.io/tim-kiem/${name}/' target="_blank" alt="Anime Vietsub"></a>
-							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${name}' target="_blank" alt="MangaDex"></a>
-							<a class="rImg rMAL" href='https://myanimelist.net/search/all?q=${name}&cat=anime' target="_blank" alt="MyAnimeList"></a>
-							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${name}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
-							<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${name}' target="_blank" alt="Anime Nana"></a>
-							<a class="rImg rMangaQQ" href='https://truyenqqvn.com/tim-kiem.html?q=${name}' target="_blank" alt="TruyenQQ"></a>
+							<a class="rImg rAnimeVietsub" href='https://animevietsub.io/tim-kiem/${keyName}/' target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${keyName}' target="_blank" alt="MangaDex"></a>
+							<a class="rImg rMAL" href='https://myanimelist.net/search/all?q=${keyName}&cat=anime' target="_blank" alt="MyAnimeList"></a>
+							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${keyName}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${keyName}' target="_blank" alt="Anime Nana"></a>
 							<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
 							<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
-							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${name}' target="_blank" alt="MangaNelo"></a>
-							<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${name}' target="_blank" alt="MangaReader"></a>
+							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${keyName}' target="_blank" alt="MangaNelo"></a>
+							<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${keyName}' target="_blank" alt="MangaReader"></a>
 						</div>
 					</div>
 				</div>

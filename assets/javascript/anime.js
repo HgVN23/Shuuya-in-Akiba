@@ -1764,7 +1764,7 @@ const anime = [
 			'悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。',
 			'The Most Heretical Last Boss Queen: From Villainess to Savior'
 		],
-		[ 2326 ],
+		[ 28 ],
 		'TV', 2, 2023, 'Light novel', 0, 1,
 		[
 			'tFantasy',
@@ -11445,7 +11445,7 @@ const anime = [
 			'異世界美少女受肉おじさんと',
 			'Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout'
 		],
-		[ 2326 ],
+		[ 28 ],
 		'TV', 0, 2022, 'Web manga', 0, 1,
 		[
 			'tAdventure',
