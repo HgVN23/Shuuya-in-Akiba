@@ -506,7 +506,7 @@ const anime = [
 			'The Banished Former Hero Lives as He Pleases'
 		],
 		[ 37, 553 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
