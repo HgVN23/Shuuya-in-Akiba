@@ -22,11 +22,27 @@ const anime = [
 			''
 		],
 		[  ],
-		'TV', 1, 2024, '', 0, 0,
+		'TV', 2, 2024, '', 0, 0,
 		[
 			't'
 		]
 	),*/
+	new Anime(
+		'1528/143212',
+		[
+			'Dead Dead Demons Dededede Destruction (ONA)',
+			'デッドデッドデーモンズデデデデデストラクション',
+			'Dead Dead Demons Dededede Destruction'
+		],
+		[ 2157 ],
+		'ONA', 1, 2024, 'Manga', 0, 0,
+		[
+			'tDrama',
+			'tSciFi',
+			'tSchool',
+			'tSeinen'
+		]
+	),
 	new Anime(
 		'1514/143260',
 		[
@@ -320,7 +336,7 @@ const anime = [
 			"An Archdemon's Dilemma: How to Love Your Elf Bride"
 		],
 		[ 112 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -361,7 +377,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1154/141872',
+		'1462/142547',
 		[
 			'Bartender: Kami no Glass',
 			'バーテンダー 神のグラス',
@@ -522,7 +538,7 @@ const anime = [
 			'Studio Apartment, Good Lighting, Angel Included'
 		],
 		[ 2037 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -593,7 +609,7 @@ const anime = [
 			'Isekai Onsen Paradise'
 		],
 		[ 2052, 2144 ],
-		'TV', 0, 2024, 'Light novel', 2, 0,
+		'TV', 0, 2024, 'Light novel', 2, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -720,7 +736,6 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tGourmet',
-			'tMythology',
 			'tShounen',
 			'tFavoriteAnime'
 		]
@@ -956,8 +971,9 @@ const anime = [
 			'Delicious in Dungeon'
 		],
 		[ 803 ],
-		'TV', 0, 2024, 'Manga', 0, 0,
+		'TV', 0, 2024, 'Manga', 1, 1,
 		[
+			'tAdventure',
 			'tComedy',
 			'tFantasy',
 			'tGourmet',
@@ -11126,7 +11142,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1876/141251',
+		'1598/143084',
 		[
 			'Mushoku Tensei II: Isekai Ittara Honki Dasu Part 2',
 			'無職転生 II ～異世界行ったら本気だす～ (第2クール)',
