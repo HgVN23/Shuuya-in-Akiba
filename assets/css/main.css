@@ -680,3 +680,30 @@ p {
 #toastClose:hover {
 	filter: brightness(1);
 }
+
+@media (max-width: 767px) {
+	.split {
+		flex-direction: column;
+		overflow-y: scroll;
+
+		.max {
+			width: 11rem;
+			height: 20rem;
+		}
+		.status {
+			display: none;
+		}
+		.limited {
+
+			width: 18rem;
+		}
+		.split2 {
+			flex-direction: column;
+
+			.studio,
+			.smallInfo {
+				width: auto;
+			}
+		}
+	}
+}
