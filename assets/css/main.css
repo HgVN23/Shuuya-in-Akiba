@@ -110,7 +110,7 @@ header {
 	margin: 5px;
 	cursor: pointer;
 }
-.search:hover .searchIcon {
+.searchIcon:hover  {
 	filter: brightness(1);
 }
 .searchInput {
@@ -382,6 +382,7 @@ img {
 
 .moreInfo {
 	height: 100%;
+	margin: auto .5rem;
 	display: flex;
 	justify-content: center;
 	position: fixed;
@@ -432,7 +433,6 @@ p,
 	width: fit-content;
 	margin: 1rem 1rem 0 1rem;
 	font-size: 2.5rem;
-	word-break: break-word;
 	cursor: pointer;
 }
 h1 {
@@ -482,11 +482,8 @@ h3::after {
 .type::before,
 .season::before,
 .source::before,
-/*.aired::before,*/
 .rating::before,
-/*.synopsis::before,*/
 .tagBox::before,
-/*.characterBox::before,*/
 .relatedBox::before {
 	font-size: 1.3rem;
 	font-weight: bolder;
@@ -504,9 +501,6 @@ h3::after {
 .source::before {
 	content: 'Source: ';
 }
-/*.aired::before {
-	content: 'Aired:';
-}*/
 .rating::before {
 	content: 'Rating: ';
 }
@@ -516,20 +510,12 @@ p {
 	cursor: default;
 }
 .studio::before,
-/*.synopsis::before,*/
 .tagBox::before,
-/*.characterBox::before,*/
-/*.cRoleM::after,*/
-/*.cRoleS::after,*/
 .relatedBox::before {
 	display: block;
 	width: 100%;
 }
-/*.synopsis::before {
-	content: 'Synopsis:';
-}*/
 .tagBox,
-/*.characterBox,*/
 .relatedBox {
 	display: flex;
 	flex-wrap: wrap;
@@ -552,28 +538,6 @@ p {
 	gap: .2rem;
 	cursor: help;
 }
-/*.characterBox::before {
-	content: 'Characters:';
-}
-.cContainer {
-	position: relative;
-}
-.cContainer,
-.character {
-	width: 110px;
-	height: 160px;
-}
-.cName {
-	font-size: .8rem;
-}
-.cRoleM::after {
-	content: '[ Main ]';
-	text-align: center;
-}
-.cRoleS::after {
-	content: '[ Support ]';
-	text-align: center;
-}*/
 .relatedBox {
 	margin-bottom: 1rem;
 }
@@ -682,9 +646,20 @@ p {
 }
 
 @media (max-width: 767px) {
+	.toolBox {
+		flex-direction: column;
+		gap: 1rem;
+
+		.flexSpace {
+			flex-direction: column;
+
+			.button {
+				margin: .2rem auto;
+			}
+		}
+	}
 	.split {
 		flex-direction: column;
-		overflow-y: scroll;
 
 		.max {
 			width: 11rem;
@@ -694,8 +669,17 @@ p {
 			display: none;
 		}
 		.limited {
-
 			width: 18rem;
+		}
+		h1,
+		h2,
+		h3 {
+			word-break: break-word;
+			font-size: 1rem;
+		}
+		.sImg {
+			width: 6rem;
+			height: 6rem;
 		}
 		.split2 {
 			flex-direction: column;
@@ -705,5 +689,9 @@ p {
 				width: auto;
 			}
 		}
+	}
+	.rImg {
+		width: 4rem;
+		height: 4rem;
 	}
 }

@@ -240,7 +240,7 @@ const anime = [
 			'Grandpa and Grandma Turn Young Again'
 		],
 		[ 2554 ],
-		'TV', 1, 2024, 'Web manga', 0, 0,
+		'TV', 1, 2024, 'Web manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -384,7 +384,7 @@ const anime = [
 			'Bartender: Glass of God'
 		],
 		[ 2527 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tDrama',
 			'tGourmet',
@@ -418,7 +418,7 @@ const anime = [
 			'アストロノオト'
 		],
 		[ 94 ],
-		'TV', 1, 2024, 'Original', 0, 0,
+		'TV', 1, 2024, 'Original', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -451,7 +451,7 @@ const anime = [
 			'I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability'
 		],
 		[ 2212 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -487,7 +487,7 @@ const anime = [
 			'Re:Monster'
 		],
 		[ 37 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -8243,7 +8243,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1676/128173',
+		'1764/142001',
 		[
 			'Romantic Killer',
 			'ロマンティック・キラー'
@@ -10009,7 +10009,7 @@ const anime = [
 			"KonoSuba: God's Blessing on This Wonderful World! 3"
 		],
 		[ 1967 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
