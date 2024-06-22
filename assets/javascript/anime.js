@@ -321,7 +321,7 @@ const anime = [
 			'A Salad Bowl of Eccentrics'
 		],
 		[ 118, 126 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
