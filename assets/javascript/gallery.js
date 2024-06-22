@@ -105,7 +105,9 @@ function addAnime(list) {
 		var tempStudio = ``;
 		sortList(studio).forEach(e => {
 			const result = studioList.find(x => x.id === e);
-			tempStudio += `<a href="https://myanimelist.net/anime/producer/${result.id}" target="_blank"><img class="sImg" src="https://cdn.myanimelist.net/s/common/company_logos/${result.img}" alt="${result.name}"></a>`
+			tempStudio += `<a href="https://myanimelist.net/anime/producer/${result.id}" target="_blank">
+				<img class="sImg" src="https://cdn.myanimelist.net/${result.img === '' ? 'images/company_no_picture.png' : `s/common/company_logos/${result.img}`}" alt="${result.name}">
+			</a>`;
 		});
 
 		var tempTag = ``;
@@ -136,7 +138,7 @@ function addAnime(list) {
 				<div class="split">
 					<div class="status sMax s${statusList[status]}">
 						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${keyName}">
-						<!-- <img class="max" src="assets/media/test.png" alt="${keyName}"> -->
+						<!-- <img class="max" src="assets/media/test.png"> -->
 					</div>
 					<div class="limited">
 						${altName}
@@ -146,7 +148,9 @@ function addAnime(list) {
 							</div>
 							<div class="smallInfo">
 								<p class="type">${type}</p>
-								<p class="season"><a class="textLink" href="https://myanimelist.net/anime/season/${year}/${seasonList[season].toLowerCase()}" target="_blank">${seasonList[season]} ${year}</a></p>
+								<p class="season">
+									<a class="textLink" href="https://myanimelist.net/anime/season/${year}/${seasonList[season].toLowerCase()}" target="_blank">${seasonList[season]} ${year}</a>
+								</p>
 								<p class="source">${source}</p>
 								<p class="rating">${ratingList[rating]}</p>
 							</div>

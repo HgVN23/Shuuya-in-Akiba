@@ -77,7 +77,7 @@ studioListTemp.forEach((e, i) => {
 	studioTemp += `
 		<div class="tag" id="${e.id}">
 			<div>${e.name}</div>${countTag('arr', 'studio', studioListTemp, i)}
-			<img class="fImgStudio" src="https://cdn.myanimelist.net/s/common/company_logos/${e.img}.png" alt="${e.name}">
+			<img class="fImgStudio" src="https://cdn.myanimelist.net/${e.img === '' ? 'images/company_no_picture.png' : `s/common/company_logos/${e.img}`}" alt="${e.name}">
 		</div>
 	`
 });
