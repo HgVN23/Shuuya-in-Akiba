@@ -606,8 +606,20 @@ const studioList = [
 	new Studio(
 		2157, 'Production +h.',
 		'75c8ea9b-6f16-4059-a98e-8091304c8af0'
-	)/*,
+	),
 	new Studio(
+		2642 , 'E&H Production',
+		'083ce96c-ac4b-4a82-86a6-9cbab41b832b'
+	),
+	new Studio(
+		2696 , '100studio',
+		''
+	),
+	new Studio(
+		2844 , 'Imagica Infos',
+		''
+	),
+	/*new Studio(
 		 , '',
 		''
 	),*/
