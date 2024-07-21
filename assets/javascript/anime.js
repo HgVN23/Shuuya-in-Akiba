@@ -28,6 +28,186 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1780/142909',
+		[
+			'Naze Boku no Sekai wo Daremo Oboeteinai no ka?',
+			'なぜ僕の世界を誰も覚えていないのか？',
+			'Why Does Nobody Remember Me in This World?'
+		],
+		[ 439 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tSciFi',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1332/143513',
+		[
+			'Make Heroine ga Oosugiru!',
+			'負けヒロインが多すぎる！',
+			'Makeine: Too Many Losing Heroines!'
+		],
+		[ 56 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
+		'1262/142076',
+		[
+			'Bye Bye, Earth',
+			'ばいばい、アース'
+		],
+		[ 839 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tAnthropomorphic',
+		]
+	),
+	new Anime(
+		'1315/142250',
+		[
+			'Koi wa Futago de Warikirenai',
+			'恋は双子で割り切れない',
+			'Love Is Indivisible by Twins'
+		],
+		[ 2835 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tLovePolygon',
+			'tSchool',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1653/143959',
+		[
+			'Katsute Mahou Shoujo to Aku wa Tekitai shiteita.',
+			'かつて魔法少女と悪は敵対していた。',
+			'The Magical Girl and the Evil Lieutenant Used to Be Archenemies'
+		],
+		[ 4 ],
+		'TV', 2, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tMahouShoujo',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDVisual',
+		]
+	),
+	new Anime(
+		'1430/143526',
+		[
+			'Na Nare Hana Nare',
+			'菜なれ花なれ',
+			'Narenare -Cheer for You!-'
+		],
+		[ 132 ],
+		'TV', 2, 2024, 'Original', 0, 0,
+		[
+			'tSports',
+		]
+	),
+	new Anime(
+		'1700/143395',
+		[
+			'Mayonaka Punch',
+			'真夜中ぱんチ',
+			'Midnight Punch'
+		],
+		[ 132 ],
+		'TV', 2, 2024, 'Original', 0, 0,
+		[
+			'tComedy',
+			'tSupernatural',
+			'tVampire',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1690/141987',
+		[
+			'Isekai Yururi Kikou: Kosodateshinagara Boukensha Shimasu',
+			'異世界ゆるり紀行 ～子育てしながら冒険者します～',
+			'A Journey Through Another World: Raising Kids While Adventuring'
+		],
+		[ 1264 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tFantasy',
+			'tSliceofLife',
+			'tChildcare',
+			'tIsekai',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1382/143437',
+		[
+			'Elf-san wa Yaserarenai.',
+			'エルフさんは痩せられない。',
+			'Plus-Sized Elf'
+		],
+		[ 2928 ],
+		'TV', 2, 2024, 'Web manga', 2, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+		]
+	),
+	new Anime(
+		'1575/143115',
+		[
+			'VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta',
+			'VTuberなんだが配信切り忘れたら伝説になってた',
+			'VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream'
+		],
+		[ 120 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tOtakuCulture',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1899/142263',
+		[
+			'Tsue to Tsurugi no Wistoria',
+			'杖と剣のウィストリア',
+			'Wistoria: Wand and Sword'
+		],
+		[ 60, 1258 ],
+		'TV', 2, 2024, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tSchool',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1572/144060',
 		[
 			'Madougushi Dahliya wa Utsumukanai',
@@ -89,6 +269,7 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -154,6 +335,7 @@ const anime = [
 			'tRomance',
 			'tSciFi',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -491,7 +673,7 @@ const anime = [
 			'Mysterious Disappearances'
 		],
 		[ 1379 ],
-		'TV', 1, 2024, 'Web manga', 0, 0,
+		'TV', 1, 2024, 'Web manga', 0, 1,
 		[
 			'tMystery',
 			'tSupernatural',
@@ -537,7 +719,7 @@ const anime = [
 			'ヴァンパイア男子寮'
 		],
 		[ 478 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tRomance',
 			'tSupernatural',
@@ -981,6 +1163,24 @@ const anime = [
 			'tRomance',
 			'tMedical',
 			'tReincarnation',
+		]
+	),
+	new Anime(
+		'1948/143550',
+		[
+			'Sengoku Youko: Senma Konton-hen',
+			'戦国妖狐 千魔混沌編',
+			'Sengoku Youko 2nd Season'
+		],
+		[ 314 ],
+		'TV', 2, 2024, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHistorical',
+			'tMythology',
+			'tShounen',
 		]
 	),
 	new Anime(
@@ -3908,7 +4108,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'4/77837',
+		'1419/140614',
 		[
 			'Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira',
 			'少女たちは荒野を目指す 言うべきものかしら'
@@ -5049,7 +5249,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1185/117548',
+		'1244/117818',
 		[
 			'Ganbare Douki-chan: Kakusa Shakai ni Nayamu Kaisha no Douki',
 			'がんばれ同期ちゃん 格差社会に悩む会社の同期',
@@ -7030,6 +7230,24 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1080/136409',
+		[
+			'Seishun Buta Yarou wa Randoseru Girl no Yume wo Minai',
+			'青春ブタ野郎はランドセルガールの夢を見ない',
+			'Rascal Does Not Dream of a Knapsack Kid'
+		],
+		[  ],
+		'Movie', 3, 2023, 'Light novel', 0, 1,
+		[
+			'tDrama',
+			'tRomance',
+			'tSupernatural',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		]
+	),
+	new Anime(
 		'1374/131616',
 		[
 			'Seishun Buta Yarou wa Odekake Sister no Yume wo Minai',
@@ -7078,6 +7296,7 @@ const anime = [
 			'tSupernatural',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -9926,6 +10145,22 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1660/143460',
+		[
+			'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen Season II',
+			'キミと僕の最後の戦場、あるいは世界が始まる聖戦 Season Ⅱ',
+			'Our Last Crusade or the Rise of a New World Season 2'
+		],
+		[ 300, 2201 ],
+		'TV', 2, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tRomance',
+			'tMilitary',
+		]
+	),
+	new Anime(
 		'1100/109044',
 		[
 			'Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen',
@@ -10941,6 +11176,24 @@ const anime = [
 			'tHarem',
 			'tIsekai',
 			'tFavoriteOPSong',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1107/143536',
+		[
+			'Kami no Tou: Ouji no Kikan',
+			'神之塔 -Tower of God- 王子の帰還',
+			'Tower of God: Return of the Prince'
+		],
+		[ 229 ],
+		'TV', 2, 2024, 'Web manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tMystery',
 			'tFavoriteAnime',
 		]
 	),

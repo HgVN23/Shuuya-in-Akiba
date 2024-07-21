@@ -612,15 +612,27 @@ const studioList = [
 		'083ce96c-ac4b-4a82-86a6-9cbab41b832b'
 	),
 	new Studio(
-		2696 , '100studio',
+		2696, '100studio',
 		''
 	),
 	new Studio(
-		2844 , 'Imagica Infos',
+		2844, 'Imagica Infos',
+		''
+	),
+	new Studio(
+		2928, 'Elias',
+		''
+	),
+	new Studio(
+		229, 'The Answer Studio',
+		'b0ad506b-a784-4b9b-b48f-3dc3c95a4b00'
+	),
+	new Studio(
+		2835, 'ROLL2',
 		''
 	),
 	/*new Studio(
-		 , '',
+		, '',
 		''
 	),*/
 ]
