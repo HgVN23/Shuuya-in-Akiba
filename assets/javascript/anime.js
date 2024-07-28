@@ -10101,7 +10101,7 @@ const anime = [
 			'The Misfit of Demon King Academy II Part 2'
 		],
 		[ 300 ],
-		'TV', 1, 2024, 'Light novel', 1, 0,
+		'TV', 1, 2024, 'Light novel', 1, 1,
 		[
 			'tAction',
 			'tFantasy',
