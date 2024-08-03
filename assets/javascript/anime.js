@@ -7236,7 +7236,7 @@ const anime = [
 			'青春ブタ野郎はランドセルガールの夢を見ない',
 			'Rascal Does Not Dream of a Knapsack Kid'
 		],
-		[  ],
+		[ 1835 ],
 		'Movie', 3, 2023, 'Light novel', 0, 1,
 		[
 			'tDrama',
@@ -13593,6 +13593,23 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+		]
+	),
+	new Anime(
+		'1426/139388',
+		[
+			'Spy x Family Movie: Code: White',
+			'SPY×FAMILY CODE: White',
+			'Spy x Family Code: White'
+		],
+		[ 858, 1835 ],
+		'Movie', 3, 2023, 'Manga', 0, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tChildcare',
+			'tShounen',
+			'tFavoriteAnime'
 		]
 	),
 	new Anime(
