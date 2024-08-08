@@ -13609,7 +13609,8 @@ const anime = [
 			'tComedy',
 			'tChildcare',
 			'tShounen',
-			'tFavoriteAnime'
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(

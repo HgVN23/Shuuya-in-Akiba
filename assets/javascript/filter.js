@@ -113,84 +113,73 @@ function apply() {
 	temp = filterMulti('Studio', temp);
 
 	if(document.querySelector('#sortSeason').classList.contains('fSelected'))
-		temp = sortSeason(temp)
+		temp = sortSeason(temp);
+
 	page = 0;
 	getMax(temp);
 	run(temp);
 	numberInput.value = 1;
 }
+
 function filterSingle(get, from) {
-	var tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	const tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
 	const data = get.toLowerCase();
-	var temp = [];
-	var fN = 0;
-	var check = false;
-	for(var i = 0; i < from.length; i++)
-		for(var j = 0; j < tagGet.length; j++)
-			if(tagGet[j].classList.contains('fSelected')) {
-				if(String(from[i][data]).match(tagGet[j].id)) {
-					temp[fN] = from[i];
-					fN++;
-					break;
-				}
-				check = true;
-			}
-	if(!check)
-		for(var i = 0; i < from.length; i++)
-			temp[i] = from[i];
-	return temp;
+	var temp = [], tagSelected = [];
+
+	tagGet.forEach(tag => {
+		if(tag.classList.contains('fSelected'))
+			tagSelected.push(tag.id);
+	})
+
+	if(tagSelected.length > 0) {
+		from.forEach(anime => {
+			if(tagSelected.includes(String(anime[data])))
+				temp.push(anime);
+		});
+		return temp;
+	} else {
+		return from;
+	}
 }
+
 function filterMulti(get, from) {
-	var tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
+	const tagGet = document.querySelector(`.f${get}`).querySelectorAll('.tag');
 	const data = get.toLowerCase();
-	var temp = [];
-	var fN = 0;
-	var checkBreak = false;
-	var check = false;
-	for(var i = 0; i < from.length; i++)
-		for(var j = 0; j < from[i][data].length; j++) {
-			for(var k = 0; k < tagGet.length; k++)
-				if(tagGet[k].classList.contains('fSelected')) {
-					if(from[i][data][j] == tagGet[k].id) {
-						temp[fN] = from[i];
-						fN++;
-						checkBreak = true; 
-						break;
-					}
-					check = true;
-				}
-			if(checkBreak) {
-				checkBreak = false;
-				break;
-			}
-		}
-	if(!check)
-		for(var i = 0; i < from.length; i++)
-			temp[i] = from[i];
-	return temp;
+	var temp = [], tagSelected = [];
+
+	tagGet.forEach(tag => {
+		if(tag.classList.contains('fSelected'))
+			tagSelected.push(tag.id);
+	})
+
+	if(tagSelected.length > 0) {
+		from.forEach(anime => {
+			var count = 0;
+			anime[data].forEach(e => {
+				if(tagSelected.includes(e))
+					count++;
+			});
+			if(count == tagSelected.length)
+				temp.push(anime);
+		});
+		return temp;
+	} else {
+		return from;
+	}
 }
+
 function sortSeason(from) {
 	var temp = [];
-	var fN = 0;
-	for(var yN = yearNow; yN >= 2006; yN--)
-		for(var sN = 3; sN >= 0; sN--)
-			for(var i = 0; i < from.length; i++)
-				if(from[i].year == yN && from[i].season == sN) {
-					temp[fN] = from[i];
-					fN++;
-				}
+
+	for(var year = yearNow; year >= 2006; year--)
+		for(var season = 3; season >= 0; season--)
+			from.forEach(anime => {
+				if(anime.year == year && anime.season == season)
+					temp.push(anime);
+			});
+
 	return temp;
 }
-// function checked(get) {
-// 	var n = get.length;
-// 	for(var i = 0; i < n; i++)
-// 		while(!get[i].checked && n != 0) {
-// 			for(var j = i; j < n; j++)
-// 				get[j] = get[j+1];
-// 			n--;
-// 		}
-// 	return get;
-// }
 
 function sortList(list) {
 	var sort = [];

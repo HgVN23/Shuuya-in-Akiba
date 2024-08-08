@@ -7,6 +7,9 @@
 	--bg: #171717;
 	--hover-color: #1d4ed8;
 	--bg-main: #262626;
+	--green: #198754;
+	--red: #dc3545;
+	--aqua: #00e4e4;
 }
 * {
 	scroll-behavior: smooth;
@@ -130,12 +133,12 @@ header {
 .dropdown::before {
 	content: '+';
 	margin-right: .3rem;
-	color: lime;
+	color: var(--green);
 }
 .dropdownActive::before {
 	content: '-';
 	margin-right: .3rem;
-	color: red;
+	color: var(--red);
 }
 .dropdownHide {
 	display: none!important;
@@ -161,7 +164,9 @@ header {
 	cursor: pointer;
 }
 .filterButton:hover,
-.tag:hover {
+.tag:hover,
+.buttonRed:hover,
+.buttonGreen:hover {
 	filter: brightness(1.3);
 }
 .filterPanel {
@@ -182,7 +187,7 @@ header {
 .fYear,
 .fStatus,
 .fTag {
-	border-left: .2rem solid aqua;
+	border-left: .2rem solid var(--aqua);
 	margin: .5rem 1rem 1rem 1rem;
 	padding-left: 1rem;
 	display: flex;
@@ -234,20 +239,14 @@ header {
 	transition: .3s;
 	cursor: pointer;
 }
-.button:hover {
-/*	background-color: #1b69f8;*/
-}
+/*.button:hover {
+	background-color: #1b69f8;
+}*/
 .buttonGreen {
-	background-color: lime;
-}
-.buttonGreen:hover {
-	background-color: green;
+	background-color: var(--green);
 }
 .buttonRed {
-	background-color: red;
-}
-.buttonRed:hover {
-	background-color: darkred;
+	background-color: var(--red);
 }
 
 
@@ -487,7 +486,7 @@ h3::after {
 .relatedBox::before {
 	font-size: 1.3rem;
 	font-weight: bolder;
-	color: aqua;
+	color: var(--aqua);
 }
 .studio::before {
 	content: 'Studios:';
@@ -537,6 +536,7 @@ p {
 	align-items: center;
 	gap: .2rem;
 	cursor: help;
+	transition: .3s;
 }
 .relatedBox {
 	margin-bottom: 1rem;
