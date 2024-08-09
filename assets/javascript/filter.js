@@ -155,9 +155,14 @@ function filterMulti(get, from) {
 	if(tagSelected.length > 0) {
 		from.forEach(anime => {
 			var count = 0;
+			var previousTag = "";
 			anime[data].forEach(e => {
-				if(tagSelected.includes(e))
+				const match = tagGroup1(e);
+
+				if(tagSelected.includes(match) && !previousTag.match(match)) {
 					count++;
+					previousTag = match;
+				}
 			});
 			if(count == tagSelected.length)
 				temp.push(anime);
@@ -183,12 +188,15 @@ function sortSeason(from) {
 
 function sortList(list) {
 	var sort = [];
-	for(var i = 0; i < list.length; i++){
+	/*for(var i = 0; i < list.length; i++){
 		sort[i] = list[i]
-	}
+	}*/
+	list.forEach(e => {
+		sort.push(e);
+	})
 	for(var i = 0; i < sort.length - 1; i++)
 		for(var j = i + 1; j < sort.length; j++)
-			if(sort[i].name > sort[j].name) {
+			if(sort[i] > sort[j]) {
 				var temp = sort[i]
 				sort[i] = sort[j];
 				sort[j] = temp;
@@ -213,8 +221,8 @@ function countTag(type, key, list, index) {
 			});
 			break;
 		case 'arr':
-			anime.forEach(e => {
-				if(e[key].find(e => e === list[index].id))
+			anime.forEach(item => {
+				if(item[key].find(e => tagGroup1(e) === list[index].id))
 					tag++;
 			});
 			break;

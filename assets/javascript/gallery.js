@@ -112,9 +112,10 @@ function addAnime(list) {
 
 		var tempTag = ``;
 		sortList(tag).forEach(e => {
-			const result = tagList.find(x => x.id === e);
+			const result = tagList.find(x => x.id === tagGroup1(e));
+
 			if(result != null) {
-				tempTag += `<div class="tag ${result.id}">${result.name}</div>`
+				tempTag += `<div class="tag ${result.id}">${result.name}${tagGroup2(e)}</div>`
 			} else {
 				console.log(temp);
 			}
@@ -130,7 +131,6 @@ function addAnime(list) {
 			<div class="anime">
 				<div class="status sMin s${statusList[status]}">
 					<img class="min" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${keyName}">
-					<!-- <img class="min" src="assets/media/test.png"> -->
 					<div class="name">${keyName}</div>
 				</div>
 			</div>
@@ -138,7 +138,6 @@ function addAnime(list) {
 				<div class="split">
 					<div class="status sMax s${statusList[status]}">
 						<img class="max" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${keyName}">
-						<!-- <img class="max" src="assets/media/test.png"> -->
 					</div>
 					<div class="limited">
 						${altName}

@@ -75,3 +75,13 @@ const tagList = [
 	new Tag('Workplace'),
 	new Tag('Yuri')
 ]
+
+function tagCut(str) {
+	return String(str).match(/^([a-zA-Z]+)_(.*)$/);
+}
+function tagGroup1(str) {
+	return tagCut(str) == null ? str : tagCut(str)[1];
+}
+function tagGroup2(str) {
+	return tagCut(str) == null ? "" : (" " + tagCut(str)[2]);
+}
