@@ -14,8 +14,7 @@ setTimeout(function delay() {
 
 const numberInput = document.querySelector('.numberInput');
 function numberOnly(e) {
-	return (e.keyCode >= 48 && e.keyCode <= 57 || e.keyCode === 13) ?
-		true : false;
+	return (e.keyCode >= 48 && e.keyCode <= 57 || e.keyCode === 13);
 }
 numberInput.addEventListener('keydown', (e)=>{
 	if(e.keyCode === 13) {
