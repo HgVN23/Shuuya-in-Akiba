@@ -158,8 +158,9 @@ function filterMulti(get, from) {
 			var previousTag = "";
 			anime[data].forEach(e => {
 				const match = tagGroup1(e);
+				console.log(typeof match);
 
-				if(tagSelected.includes(match) && !previousTag.match(match)) {
+				if(tagSelected.includes(String(match)) && !previousTag.match(match)) {
 					count++;
 					previousTag = match;
 				}
