@@ -28,7 +28,7 @@ const anime = [
 		]
 	),*/
 	new Anime(
-		'1780/142909',
+		'1664/144272',
 		[
 			'Naze Boku no Sekai wo Daremo Oboeteinai no ka?',
 			'なぜ僕の世界を誰も覚えていないのか？',
@@ -175,7 +175,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1575/143115',
+		'1606/144506',
 		[
 			'VTuber Nandaga Haishin Kiri Wasuretara Densetsu ni Natteta',
 			'VTuberなんだが配信切り忘れたら伝説になってた',
@@ -190,7 +190,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1899/142263',
+		'1281/144104',
 		[
 			'Tsue to Tsurugi no Wistoria',
 			'杖と剣のウィストリア',
