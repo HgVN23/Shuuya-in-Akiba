@@ -631,6 +631,10 @@ const studioList = [
 		2835, 'ROLL2',
 		''
 	),
+	new Studio(
+		2370, 'Hayabusa Film',
+		''
+	),
 	/*new Studio(
 		, '',
 		''

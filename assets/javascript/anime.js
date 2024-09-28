@@ -22,11 +22,29 @@ const anime = [
 			''
 		],
 		[  ],
-		'TV', 2, 2024, '', 0, 0,
+		'TV', 3, 2024, '', 0, 0,
 		[
 			't',
 		]
 	),*/
+	new Anime(
+		'1714/145320',
+		[
+			'Hitoribocchi no Isekai Kouryaku',
+			'ひとりぼっちの異世界攻略',
+			'Loner Life in Another World'
+		],
+		[ 911, 2370 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		]
+	),
 	new Anime(
 		'1664/144272',
 		[
@@ -35,7 +53,7 @@ const anime = [
 			'Why Does Nobody Remember Me in This World?'
 		],
 		[ 439 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -57,17 +75,18 @@ const anime = [
 			'tRomance',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 		]
 	),
 	new Anime(
-		'1262/142076',
+		'1104/145564',
 		[
 			'Bye Bye, Earth',
 			'ばいばい、アース'
 		],
 		[ 839 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -83,7 +102,7 @@ const anime = [
 			'Love Is Indivisible by Twins'
 		],
 		[ 2835 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -100,7 +119,7 @@ const anime = [
 			'The Magical Girl and the Evil Lieutenant Used to Be Archenemies'
 		],
 		[ 4 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -110,6 +129,7 @@ const anime = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 		]
 	),
@@ -121,7 +141,7 @@ const anime = [
 			'Narenare -Cheer for You!-'
 		],
 		[ 132 ],
-		'TV', 2, 2024, 'Original', 0, 0,
+		'TV', 2, 2024, 'Original', 0, 1,
 		[
 			'tSports',
 		]
@@ -134,7 +154,7 @@ const anime = [
 			'Midnight Punch'
 		],
 		[ 132 ],
-		'TV', 2, 2024, 'Original', 0, 0,
+		'TV', 2, 2024, 'Original', 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -150,7 +170,7 @@ const anime = [
 			'A Journey Through Another World: Raising Kids While Adventuring'
 		],
 		[ 1264 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -182,7 +202,7 @@ const anime = [
 			'VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream'
 		],
 		[ 120 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -215,7 +235,7 @@ const anime = [
 			'Dahlia in Bloom: Crafting a Fresh Start with Magical Tools'
 		],
 		[ 1340, 2844 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -232,7 +252,7 @@ const anime = [
 			'Shoshimin: How to Become Ordinary'
 		],
 		[ 1828 ],
-		'TV', 2, 2024, 'Novel', 0, 0,
+		'TV', 2, 2024, 'Novel', 0, 1,
 		[
 			'tMystery',
 			'tSchool',
@@ -248,7 +268,7 @@ const anime = [
 			"A Nobody's Way Up to an Exploration Hero"
 		],
 		[ 2554 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -263,7 +283,7 @@ const anime = [
 			'Dungeon People'
 		],
 		[ 28 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -280,7 +300,7 @@ const anime = [
 			'Quality Assurance in Another World'
 		],
 		[ 2201, 2696 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -313,7 +333,7 @@ const anime = [
 			'ラーメン赤猫'
 		],
 		[ 2642 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tAnthropomorphic',
@@ -346,7 +366,7 @@ const anime = [
 			'Senpai is an Otokonoko'
 		],
 		[ 439 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tRomance',
 			'tCrossdressing',
@@ -363,7 +383,7 @@ const anime = [
 			'Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells'
 		],
 		[ 35 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -380,7 +400,7 @@ const anime = [
 			'Pseudo Harem'
 		],
 		[ 70 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tSliceofLife',
 			'tSchool',
@@ -396,7 +416,7 @@ const anime = [
 			'I Parry Everything'
 		],
 		[ 28 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -412,7 +432,7 @@ const anime = [
 			'My Deer Friend Nokotan'
 		],
 		[ 858 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tGagHumor',
@@ -431,7 +451,7 @@ const anime = [
 			'No Longer Allowed In Another World'
 		],
 		[ 2298 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -449,7 +469,7 @@ const anime = [
 			'Alya Sometimes Hides Her Feelings in Russian'
 		],
 		[ 95 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -483,7 +503,7 @@ const anime = [
 			'The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible'
 		],
 		[ 96 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -499,7 +519,7 @@ const anime = [
 			'My Wife Has No Emotion'
 		],
 		[ 200 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -515,7 +535,7 @@ const anime = [
 			'Days with My Stepsister'
 		],
 		[ 37 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tRomance',
 			'tFavoriteAnime',
@@ -529,7 +549,7 @@ const anime = [
 			"The Strongest Magician in the Demon Lord's Army Was a Human"
 		],
 		[ 1209 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -649,6 +669,10 @@ const anime = [
 			'tSciFi',
 			'tMilitary',
 			'tShounen',
+			'tAdultCast',
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -677,6 +701,7 @@ const anime = [
 		[
 			'tMystery',
 			'tSupernatural',
+			'tEcchi',
 		]
 	),
 	new Anime(
@@ -692,6 +717,8 @@ const anime = [
 			'tComedy',
 			'tYuri',
 			'tSchool',
+			'tDrama',
+			'tShowbiz',
 		]
 	),
 	new Anime(
@@ -726,6 +753,7 @@ const anime = [
 			'tCrossdressing',
 			'tVampire',
 			'tShoujo',
+			'tLovePolygon',
 		]
 	),
 	new Anime(
@@ -741,6 +769,8 @@ const anime = [
 			'tFantasy',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 		]
 	),
 	new Anime(
@@ -773,9 +803,10 @@ const anime = [
 			'tComedy',
 			'tShounen',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_2',
 		]
 	),
 	new Anime(
@@ -787,8 +818,8 @@ const anime = [
 		[ 839 ],
 		'TV', 1, 2024, 'Web manga', 0, 1,
 		[
-			'tSliceofLife',
-			'tSupernatural',
+			'tDrama',
+			'tFantasy',
 			'tMythology',
 		]
 	),
@@ -803,7 +834,9 @@ const anime = [
 		'TV', 1, 2024, 'Original', 0, 1,
 		[
 			'tMusic',
+			'tDrama',
 			'tFavoriteAnime',
+			'tFavoriteEDSong_3'
 		]
 	),
 	new Anime(
@@ -978,7 +1011,7 @@ const anime = [
 			'Spice and Wolf: Merchant Meets the Wise Wolf'
 		],
 		[ 911 ],
-		'TV', 1, 2024, 'Light novel', 0, 0,
+		'TV', 1, 2024, 'Light novel', 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -986,10 +1019,12 @@ const anime = [
 			'tRomance',
 			'tAdultCast',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
+			'tFavoriteEDSong_1',
+			'tFavoriteEDVisual_1',
+			'tFavoriteEDVisual_2',
 		]
 	),
 	new Anime(
@@ -998,7 +1033,7 @@ const anime = [
 			'Re:Monster'
 		],
 		[ 37 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		'TV', 1, 2024, 'Light novel', 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1023,6 +1058,7 @@ const anime = [
 			'tEcchi',
 			'tHighStakesGame',
 			'tStrategyGame',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -1057,6 +1093,7 @@ const anime = [
 			'tHarem',
 			'tMythology',
 			'tShounen',
+			'tSchool',
 			'tFavoriteAnime',
 		]
 	),
@@ -1949,7 +1986,7 @@ const anime = [
 			'Shy Season 2'
 		],
 		[ 441 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -2753,7 +2790,7 @@ const anime = [
 			'The Café Terrace and Its Goddesses Season 2'
 		],
 		[ 200 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -10105,7 +10142,6 @@ const anime = [
 		[
 			'tAction',
 			'tFantasy',
-			'tMythology',
 			'tReincarnation',
 			'tSchool',
 		]
@@ -10122,7 +10158,6 @@ const anime = [
 		[
 			'tAction',
 			'tFantasy',
-			'tMythology',
 			'tReincarnation',
 			'tSchool',
 		]
@@ -10139,7 +10174,6 @@ const anime = [
 		[
 			'tAction',
 			'tFantasy',
-			'tMythology',
 			'tReincarnation',
 			'tSchool',
 		]
@@ -10636,7 +10670,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10670,7 +10703,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10689,7 +10721,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10708,7 +10739,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10726,7 +10756,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10745,7 +10774,6 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -10935,6 +10963,22 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+		]
+	),
+	new Anime(
+		'1667/145393',
+		[
+			'Maou-sama, Retry! R',
+			'魔王様、リトライ! R',
+			'Demon Lord, Retry! R'
+		],
+		[ 2554 ],
+		'TV', 3, 2024, 'Web manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
 		]
 	),
 	new Anime(
@@ -11397,7 +11441,7 @@ const anime = [
 			'That Time I Got Reincarnated as a Slime Season 3'
 		],
 		[ 441 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11407,7 +11451,7 @@ const anime = [
 			'tReincarnation',
 			'tShounen',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
+			'tFavoriteOPSong_1',
 		]
 	),
 	new Anime(
@@ -13685,8 +13729,9 @@ const anime = [
 			'tSciFi',
 			'tHarem',
 			'tSchool',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
