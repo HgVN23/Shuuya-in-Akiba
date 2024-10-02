@@ -635,6 +635,10 @@ const studioList = [
 		2370, 'Hayabusa Film',
 		''
 	),
+	new Studio(
+		2387, 'Ga-Crew',
+		''
+	),
 	/*new Studio(
 		, '',
 		''

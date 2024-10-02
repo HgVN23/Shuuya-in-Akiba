@@ -28,6 +28,35 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1683/145446',
+		[
+			'Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru',
+			'最凶の支援職【話術士】である俺は世界最強クランを従える',
+			`The Most Notorious "Talker" Runs the World's Greatest Clan`
+		],
+		[ 1440, 2387 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			't',
+		]
+	),
+	new Anime(
+		'1679/145660',
+		[
+			'Nageki no Bourei wa Intai shitai',
+			'嘆きの亡霊は引退したい',
+			'Let This Grieving Soul Retire'
+		],
+		[ 1379 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1714/145320',
 		[
 			'Hitoribocchi no Isekai Kouryaku',
@@ -69,7 +98,7 @@ const anime = [
 			'Makeine: Too Many Losing Heroines!'
 		],
 		[ 56 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		'TV', 2, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -217,7 +246,7 @@ const anime = [
 			'Wistoria: Wand and Sword'
 		],
 		[ 60, 1258 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -935,6 +964,23 @@ const anime = [
 			'tAdultCast',
 			'tWorkplace',
 			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1280/143705',
+		[
+			'Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season',
+			'転生貴族、鑑定スキルで成り上がる 第2期',
+			"As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2"
+		],
+		[ 2246 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -11224,6 +11270,24 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1877/145819',
+		[
+			'Kami no Tou: Koubou-sen',
+			'神之塔 -Tower of God- 工房戦',
+			'Tower of God Season 2: Workshop Battle'
+		],
+		[ 229 ],
+		'TV', 3, 2024, 'Web manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tMystery',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1107/143536',
 		[
 			'Kami no Tou: Ouji no Kikan',
@@ -11231,7 +11295,7 @@ const anime = [
 			'Tower of God: Return of the Prince'
 		],
 		[ 229 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
