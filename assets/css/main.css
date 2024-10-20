@@ -561,9 +561,6 @@ p {
 .rAnimeNana {
 	content: url(../media/icon/animeNana.png);
 }
-.rMangaQQ {
-	content: url(../media/icon/mangaQQ.png);
-}
 .rMangaDex {
 	content: url(../media/icon/mangaDex.png);
 }
@@ -572,6 +569,9 @@ p {
 }
 .rMangaReader {
 	content: url(../media/icon/mangaReader.png);
+}
+.rMangaFire {
+	content: url(../media/icon/mangaFire.png);
 }
 .rMAL {
 	content: url(../media/icon/mal.png);

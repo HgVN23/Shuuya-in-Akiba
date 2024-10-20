@@ -639,6 +639,30 @@ const studioList = [
 		2387, 'Ga-Crew',
 		''
 	),
+	new Studio(
+		2698, 'Voil',
+		''
+	),
+	new Studio(
+		1567, 'Nut',
+		'03530777-825a-414b-a320-21363dd0ed7b'
+	),
+	new Studio(
+		1591, 'Science SARU',
+		'4c810cc0-ae5b-4b4d-98e7-926c719275b9'
+	),
+	new Studio(
+		1075, 'C-Station',
+		'97a95374-f91f-4fe5-8f3d-9ba18b39a0c4'
+	),
+	new Studio(
+		2855, 'Studio Moe',
+		'b17ecf92-6f2c-48e4-aa88-c600c64c838c'
+	),
+	new Studio(
+		1843, 'TriF Studio',
+		'9c74374b-2d9c-4860-8d30-cc024b5a4f7e'
+	),
 	/*new Studio(
 		, '',
 		''

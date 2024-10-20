@@ -28,6 +28,381 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1675/144605',
+		[
+			'Maou 2099',
+			'魔王2099',
+			'Demon Lord 2099'
+		],
+		[ 7 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tSciFi',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1713/144761',
+		[
+			'Hamidashi Creative',
+			'ハミダシクリエイティブ'
+		],
+		[ 2370 ],
+		'TV', 3, 2024, 'Web novel', 0, 0,
+		[
+			'tRomance',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1340/143475',
+		[
+			'Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu',
+			'やり直し令嬢は竜帝陛下を攻略中',
+			'The Do-Over Damsel Conquers The Dragon Emperor'
+		],
+		[ 7 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tTimeTravel',
+			'tShoujo',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1436/144553',
+		[
+			'Hoshifuru Oukoku no Nina',
+			'星降る王国のニナ',
+			'Nina the Starry Bride'
+		],
+		[ 1278 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tFantasy',
+			'tJosei',
+		]
+	),
+	new Anime(
+		'1800/145662',
+		[
+			'Youkai Gakkou no Sensei Hajimemashita!',
+			'妖怪学校の先生はじめました！',
+			'A Terrified Teacher at Ghoul School!'
+		],
+		[ 41 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tGagHumor',
+			'tMythology',
+			'tSchool',
+			'tWorkplace',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1079/145918',
+		[
+			'Mecha-ude',
+			'メカウデ',
+			'Mecha-Ude: Mechanical Arms'
+		],
+		[ 1843 ],
+		'TV', 3, 2024, 'Original', 0, 0,
+		[
+			'tAction',
+			'tSciFi',
+		]
+	),
+	new Anime(
+		'1428/143773',
+		[
+			'Raise wa Tanin ga Ii',
+			'来世は他人がいい',
+			'Yakuza Fiancé'
+		],
+		[ 37 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tOrganizedCrime',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1681/145175',
+		[
+			'Puniru wa Kawaii Slime',
+			'ぷにるはかわいいスライム',
+			'Puniru is a Kawaii Slime'
+		],
+		[ 2705 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tGagHumor',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1752/145548',
+		[
+			'Tsuma, Shougakusei ni Naru.',
+			'妻、小学生になる',
+			'If My Wife Becomes an Elementary School Student.'
+		],
+		[ 1998 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tReincarnation',
+			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1432/141123',
+		[
+			'Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki',
+			'パーティーから追放されたその治癒師、実は最強につき',
+			'The Healer Who Was Banished From His Party, Is, in Fact, the Strongest'
+		],
+		[ 1521 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+		]
+	),
+	new Anime(
+		'1909/144684',
+		[
+			'Kimi wa Meido-sama.',
+			'君は冥土様。',
+			'You Are Ms. Servant.'
+		],
+		[ 1440 ],
+		'TV', 3, 2024, 'Web manga', 0, 0,
+		[
+			'tComedy',
+			'tRomanticSubtext',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1535/145026',
+		[
+			'Mahoutsukai ni Narenakatta Onnanoko no Hanashi',
+			'魔法使いになれなかった女の子の話',
+			"The Stories of Girls Who Couldn't Be Magicians"
+		],
+		[ 7 ],
+		'TV', 3, 2024, 'Novel', 0, 0,
+		[
+			'tDrama',
+			'tFantasy',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1198/145156',
+		[
+			'Goukon ni Ittara Onna ga Inakatta Hanashi',
+			'合コンに行ったら女がいなかった話',
+			"How I Attended an All-Guy's Mixer"
+		],
+		[ 242 ],
+		'TV', 3, 2024, 'Web manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tAdultCast',
+			'tCrossdressing',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1926/145102',
+		[
+			'Kabushikigaisha Magi-Lumière',
+			'株式会社マジルミエ',
+			'Magilumiere Magical Girls Inc.'
+		],
+		[ 7, 2855 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tAdultCast',
+			'tMahouShoujo',
+			'tWorkplace',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1954/144622',
+		[
+			'Kinoko Inu',
+			'きのこいぬ',
+			'Kinokoinu Mushroom Pup'
+		],
+		[ 1075 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tSliceofLife',
+			'tAdultCast',
+			'tPets',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1225/144606',
+		[
+			'Sayounara Ryuusei, Konnichiwa Jinsei',
+			'さようなら竜生、こんにちは人生',
+			'Good Bye, Dragon Life'
+		],
+		[ 118, 136 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tReincarnation',
+		]
+	),
+	new Anime(
+		'1572/145903',
+		[
+			'Kekkon suru tte, Hontou desu ka',
+			'結婚するって、本当ですか 365 Days To The Wedding',
+			'365 Days to the Wedding'
+		],
+		[ 242 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tAdultCast',
+			'tWorkplace',
+			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1341/145349',
+		[
+			'Ao no Hako',
+			'アオのハコ',
+			'Blue Box'
+		],
+		[ 94 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tSports',
+			'tSchool',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1584/143719',
+		[
+			'Dandadan',
+			'ダンダダン'
+		],
+		[ 1591 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tSupernatural',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
+		'1537/145325',
+		[
+			'NegaPosi Angler',
+			'ネガポジアングラー',
+			'Negative Positive Angler'
+		],
+		[ 1567 ],
+		'TV', 3, 2024, 'Original', 0, 0,
+		[
+			'tAdultCast',
+		]
+	),
+	new Anime(
+		'1397/145153',
+		[
+			'Acro Trip',
+			'アクロトリップ'
+		],
+		[ 2698 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tMahouShoujo',
+			'tShoujo',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1468/143925',
+		[
+			'Rekishi ni Nokoru Akujo ni Naru zo',
+			'歴史に残る悪女になるぞ',
+			"I'll Become a Villainess Who Goes Down in History"
+		],
+		[ 1978 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tIsekai',
+			'tReincarnation',
+			'tShoujo',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1410/143586',
+		[
+			'Amagami-san Chi no Enmusubi',
+			'甘神さんちの縁結び',
+			'Tying the Knot with an Amagami Sister'
+		],
+		[ 1967 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
 		'1683/145446',
 		[
 			'Saikyou no Shienshoku "Wajutsushi" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru',
@@ -37,7 +412,10 @@ const anime = [
 		[ 1440, 2387 ],
 		'TV', 3, 2024, 'Light novel', 0, 0,
 		[
-			't',
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -71,6 +449,8 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
 		]
 	),
@@ -378,7 +758,7 @@ const anime = [
 			'Atri -My Dear Moments-'
 		],
 		[ 1103 ],
-		'TV', 2, 2024, 'Visual novel', 0, 0,
+		'TV', 2, 2024, 'Visual novel', 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -522,6 +902,7 @@ const anime = [
 			'tSuspense',
 			'tHighStakesGame',
 			'tPsychological',
+			'tFavoriteOPSong_2',
 		]
 	),
 	new Anime(
@@ -826,7 +1207,7 @@ const anime = [
 			'Mission: Yozakura Family'
 		],
 		[ 300 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -2089,6 +2470,28 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1978/144794',
+		[
+			'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season',
+			'シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season',
+			'Shangri-La Frontier Season 2'
+		],
+		[ 605 ],
+		'TV', 3, 2024, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tVideoGame',
+			'tShounen',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1500/139931',
 		[
 			'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su',
@@ -2681,7 +3084,7 @@ const anime = [
 			'[Oshi No Ko] Season 2'
 		],
 		[ 95 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tDrama',
 			'tSupernatural',
@@ -3258,6 +3661,29 @@ const anime = [
 			'tSchool',
 			'tSuperPower',
 			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1706/144725',
+		[
+			'Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season',
+			'Re:ゼロから始める異世界生活',
+			'Re:ZERO -Starting Life in Another World- Season 3'
+		],
+		[ 314 ],
+		'TV', 3, 2024, 'Light novel', 1, 0,
+		[
+			'tDrama',
+			'tFantasy',
+			'tSuspense',
+			'tIsekai',
+			'tPsychological',
+			'tTimeTravel',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -11177,6 +11603,24 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1553/145597',
+		[
+			'Arifureta Shokugyou de Sekai Saikyou Season 3',
+			'ありふれた職業で世界最強 season 3',
+			"Arifureta: From Commonplace to World's Strongest Season 3"
+		],
+		[ 163 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1068/124244',
 		[
 			'Arifureta Shokugyou de Sekai Saikyou: Maboroshi no Bouken to Kiseki no Kaigou',
@@ -11789,6 +12233,26 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1087/144583',
+		[
+			'Seirei Gensouki 2',
+			'精霊幻想記2',
+			'Seirei Gensouki: Spirit Chronicles Season 2'
+		],
+		[ 73 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
+			'tHarem',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1836/116060',
 		[
 			'Seirei Gensouki',
@@ -12270,6 +12734,22 @@ const anime = [
 			'tHarem',
 			'tReincarnation',
 			'tSchool',
+		]
+	),
+	new Anime(
+		'1299/144738',
+		[
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen',
+			'ダンジョンに出会いを求めるのは間違っているだろうかV 豊穣の女神篇',
+			'Is It Wrong to Try to Pick Up Girls in a Dungeon? V'
+		],
+		[ 7 ],
+		'TV', 3, 2024, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
