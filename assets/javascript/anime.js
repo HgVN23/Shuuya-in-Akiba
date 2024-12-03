@@ -50,7 +50,7 @@ const anime = [
 			'ハミダシクリエイティブ'
 		],
 		[ 2370 ],
-		'TV', 3, 2024, 'Web novel', 0, 0,
+		'TV', 3, 2024, 'Visual novel', 0, 0,
 		[
 			'tRomance',
 			'tSchool',
@@ -199,6 +199,7 @@ const anime = [
 			'tComedy',
 			'tRomanticSubtext',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -733,6 +734,7 @@ const anime = [
 			'tOtakuCulture',
 			'tSchool',
 			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -1645,6 +1647,7 @@ const anime = [
 			'tHistorical',
 			'tMythology',
 			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -1662,6 +1665,7 @@ const anime = [
 			'tFantasy',
 			'tMythology',
 			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
