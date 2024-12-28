@@ -121,11 +121,11 @@ const studioList = [
 	),
 	new Studio(
 		2314, 'Quad',
-		''
+		'5d962646-3a74-4b8f-b246-7bfcd21b7c08'
 	),
 	new Studio(
 		2527, 'Liber',
-		''
+		'fd43fe8e-f17f-4ab7-8a6d-d263014e8f72'
 	),
 	new Studio(
 		1857, 'Geek Toys',
@@ -417,7 +417,7 @@ const studioList = [
 	),
 	new Studio(
 		1860, 'Magia Doraglier',
-		''
+		'1ad3a161-1858-4226-81b9-5dee5d103dbe'
 	),
 	new Studio(
 		38, 'Arms',
@@ -549,7 +549,7 @@ const studioList = [
 	),
 	new Studio(
 		1796, 'Digital Network Animation',
-		''
+		'02491e29-888c-47cf-9998-cb7fdbeec42d'
 	),
 	new Studio(
 		1119, 'Shuka',
@@ -565,11 +565,11 @@ const studioList = [
 	),
 	new Studio(
 		2760, 'Studio Add',
-		''
+		'd0dcb4a0-b4bc-444b-b935-d55057fc98d6'
 	),
 	new Studio(
 		2828, 'Studio Polon',
-		''
+		'7580e2c7-40c6-494a-963c-8465f697e23d'
 	),
 	new Studio(
 		2411, 'Studio Massket',
@@ -613,15 +613,15 @@ const studioList = [
 	),
 	new Studio(
 		2696, '100studio',
-		''
+		'fd0f83c4-1f83-4615-aafc-05a5df43a1e9'
 	),
 	new Studio(
 		2844, 'Imagica Infos',
-		''
+		'858ebc1e-3645-4a0f-b8f9-386dbcef749d'
 	),
 	new Studio(
 		2928, 'Elias',
-		''
+		'fa03d227-8be0-453e-96d9-876c452f82e7'
 	),
 	new Studio(
 		229, 'The Answer Studio',
@@ -629,7 +629,7 @@ const studioList = [
 	),
 	new Studio(
 		2835, 'ROLL2',
-		''
+		'12d6520a-f0ca-4588-8bab-0a9e95ee7f48'
 	),
 	new Studio(
 		2370, 'Hayabusa Film',
@@ -641,7 +641,7 @@ const studioList = [
 	),
 	new Studio(
 		2698, 'Voil',
-		''
+		'abdccb06-4c63-443b-8805-95ef1a3c063e'
 	),
 	new Studio(
 		1567, 'Nut',
@@ -662,6 +662,10 @@ const studioList = [
 	new Studio(
 		1843, 'TriF Studio',
 		'9c74374b-2d9c-4860-8d30-cc024b5a4f7e'
+	),
+	new Studio(
+		2985, 'Saber Works',
+		'c16bd865-493e-4024-a23e-5ee21d45ad9d'
 	),
 	/*new Studio(
 		, '',

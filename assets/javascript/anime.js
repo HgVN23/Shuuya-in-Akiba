@@ -22,11 +22,50 @@ const anime = [
 			''
 		],
 		[  ],
-		'TV', 3, 2024, '', 0, 0,
+		'TV', 0, 2025, '', 0, 0,
 		[
 			't',
 		]
 	),*/
+	new Anime(
+		'1656/146916',
+		[
+			'S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu',
+			'Sランクモンスターの《ベヒーモス》だけど、猫と間違われてエルフ娘の騎士（ペット）として暮らしてます',
+			"Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!"
+		],
+		[ 1379, 2985 ],
+		'TV', 0, 2025, 'Manga', 2, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tEcchi',
+			'tReincarnation',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1120/120796',
+		[
+			'Summertime Render',
+			'サマータイムレンダ',
+			'Summer Time Rendering'
+		],
+		[ 28 ],
+		'TV', 1, 2022, 'Manga', 1, 1,
+		[
+			'tMystery',
+			'tSupernatural',
+			'tSuspense',
+			'tTimeTravel',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_2',
+		]
+	),
 	new Anime(
 		'1675/144605',
 		[
@@ -64,7 +103,7 @@ const anime = [
 			'The Do-Over Damsel Conquers The Dragon Emperor'
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -82,10 +121,9 @@ const anime = [
 			'Nina the Starry Bride'
 		],
 		[ 1278 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tRomance',
-			'tFantasy',
 			'tJosei',
 		]
 	),
@@ -117,7 +155,7 @@ const anime = [
 			'Mecha-Ude: Mechanical Arms'
 		],
 		[ 1843 ],
-		'TV', 3, 2024, 'Original', 0, 0,
+		'TV', 3, 2024, 'Original', 0, 1,
 		[
 			'tAction',
 			'tSciFi',
@@ -131,7 +169,7 @@ const anime = [
 			'Yakuza Fiancé'
 		],
 		[ 37 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tRomance',
 			'tOrganizedCrime',
@@ -146,7 +184,7 @@ const anime = [
 			'Puniru is a Kawaii Slime'
 		],
 		[ 2705 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -162,7 +200,7 @@ const anime = [
 			'If My Wife Becomes an Elementary School Student.'
 		],
 		[ 1998 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -179,7 +217,7 @@ const anime = [
 			'The Healer Who Was Banished From His Party, Is, in Fact, the Strongest'
 		],
 		[ 1521 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -194,10 +232,10 @@ const anime = [
 			'You Are Ms. Servant.'
 		],
 		[ 1440 ],
-		'TV', 3, 2024, 'Web manga', 0, 0,
+		'TV', 3, 2024, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tRomance',
 			'tFavoriteAnime',
 			'tFavoriteEDSong',
 		]
@@ -210,9 +248,8 @@ const anime = [
 			"The Stories of Girls Who Couldn't Be Magicians"
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Novel', 0, 0,
+		'TV', 3, 2024, 'Novel', 0, 1,
 		[
-			'tDrama',
 			'tFantasy',
 			'tSchool',
 		]
@@ -225,7 +262,7 @@ const anime = [
 			"How I Attended an All-Guy's Mixer"
 		],
 		[ 242 ],
-		'TV', 3, 2024, 'Web manga', 0, 0,
+		'TV', 3, 2024, 'Web manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -277,7 +314,7 @@ const anime = [
 			'Good Bye, Dragon Life'
 		],
 		[ 118, 136 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -293,7 +330,7 @@ const anime = [
 			'365 Days to the Wedding'
 		],
 		[ 242 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tRomance',
 			'tAdultCast',
@@ -316,6 +353,11 @@ const anime = [
 			'tSports',
 			'tSchool',
 			'tShounen',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
+			'tFavoriteEDVisual_1',
+			'tFavoriteEDVisual_2',
 		]
 	),
 	new Anime(
@@ -325,7 +367,7 @@ const anime = [
 			'ダンダダン'
 		],
 		[ 1591 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -344,7 +386,7 @@ const anime = [
 			'Negative Positive Angler'
 		],
 		[ 1567 ],
-		'TV', 3, 2024, 'Original', 0, 0,
+		'TV', 3, 2024, 'Original', 0, 1,
 		[
 			'tAdultCast',
 		]
@@ -356,13 +398,12 @@ const anime = [
 			'アクロトリップ'
 		],
 		[ 2698 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tFantasy',
+			'tParody',
 			'tMahouShoujo',
 			'tShoujo',
-			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -373,19 +414,18 @@ const anime = [
 			"I'll Become a Villainess Who Goes Down in History"
 		],
 		[ 1978 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReincarnation',
 			'tShoujo',
 			'tFavoriteAnime',
 		]
 	),
 	new Anime(
-		'1410/143586',
+		'1303/147193',
 		[
 			'Amagami-san Chi no Enmusubi',
 			'甘神さんちの縁結び',
@@ -411,7 +451,7 @@ const anime = [
 			`The Most Notorious "Talker" Runs the World's Greatest Clan`
 		],
 		[ 1440, 2387 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -427,7 +467,7 @@ const anime = [
 			'Let This Grieving Soul Retire'
 		],
 		[ 1379 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -443,7 +483,7 @@ const anime = [
 			'Loner Life in Another World'
 		],
 		[ 911, 2370 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -726,7 +766,7 @@ const anime = [
 			'2.5 Dimensional Seduction'
 		],
 		[ 7 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -753,7 +793,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1661/128312',
+		'1098/144507',
 		[
 			'Atri: My Dear Moments',
 			'ATRI -My Dear Moments-',
@@ -897,7 +937,7 @@ const anime = [
 			'Tasuketsu -Fate of the Majority-'
 		],
 		[ 41 ],
-		'TV', 2, 2024, 'Web manga', 0, 0,
+		'TV', 2, 2024, 'Web manga', 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -1358,7 +1398,7 @@ const anime = [
 			"As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2"
 		],
 		[ 2246 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -1639,7 +1679,7 @@ const anime = [
 			'Sengoku Youko 2nd Season'
 		],
 		[ 314 ],
-		'TV', 2, 2024, 'Manga', 0, 0,
+		'TV', 2, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11449,7 +11489,7 @@ const anime = [
 			'Demon Lord, Retry! R'
 		],
 		[ 2554 ],
-		'TV', 3, 2024, 'Web manga', 0, 0,
+		'TV', 3, 2024, 'Web manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11614,7 +11654,7 @@ const anime = [
 			"Arifureta: From Commonplace to World's Strongest Season 3"
 		],
 		[ 163 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 1, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -11622,6 +11662,8 @@ const anime = [
 			'tHarem',
 			'tIsekai',
 			'tFavoriteAnime',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
 		]
 	),
 	new Anime(
@@ -12244,7 +12286,7 @@ const anime = [
 			'Seirei Gensouki: Spirit Chronicles Season 2'
 		],
 		[ 73 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13844,6 +13886,24 @@ const anime = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteOPSong',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1915/145336',
+		[
+			'5-toubun no Hanayome*',
+			'五等分の花嫁*',
+			'The Quintessential Quintuplets*'
+		],
+		[ 1722 ],
+		'Special', 3, 2024, 'Manga', 0, 1,
+		[
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShounen',
 			'tFavoriteAnime',
 		]
 	),
