@@ -28,6 +28,461 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1390/146918',
+		[
+			'Sentai Red Isekai de Boukensha ni Naru',
+			'戦隊レッド 異世界で冒険者になる',
+			'The Red Ranger Becomes an Adventurer in Another World'
+		],
+		[ 41 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1167/146455',
+		[
+			'A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.',
+			'Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。',
+			'I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!'
+		],
+		[ 1258 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDVisual',
+		]
+	),
+	new Anime(
+		'1026/146459',
+		[
+			'Sakamoto Days'
+		],
+		[ 73 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tAdultCast',
+			'tOrganizedCrime',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1647/146961',
+		[
+			'Übel Blatt',
+			'Übel Blatt～ユーベルブラット～',
+			'Ubel Blatt'
+		],
+		[ 41, 2405 ],
+		'TV', 0, 2025, 'Manga', 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1650/146113',
+		[
+			'Nihon e Youkoso Elf-san.',
+			'日本へようこそエルフさん。',
+			'Welcome to Japan, Ms. Elf!'
+		],
+		[ 1379 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1904/144608',
+		[
+			'Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu',
+			'ギルドの受付嬢ですが、残業は嫌なのでボスをソロ討伐しようと思います',
+			"I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time"
+		],
+		[ 1835 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1255/146484',
+		[
+			'Akuyaku Reijou Tensei Ojisan',
+			'悪役令嬢転生おじさん',
+			"From Bureaucrat to Villainess: Dad's Been Reincarnated!"
+		],
+		[ 30 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tSchool',
+			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1021/146952',
+		[
+			'Douse, Koishite Shimaunda.',
+			'どうせ、恋してしまうんだ。',
+			"Anyway, I'm Falling in Love with You."
+		],
+		[ 1340 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tDrama',
+			'tRomance',
+			'tHarem',
+			'tSchool',
+			'tShoujo',
+		]
+	),
+	new Anime(
+		'1887/146512',
+		[
+			'Around 40 Otoko no Isekai Tsuuhan',
+			'アラフォー男の異世界通販',
+			'The Daily Life of a Middle-Aged Online Shopper in Another World'
+		],
+		[ 2455 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tFantasy',
+			'tHarem',
+			'tIsekai',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1683/146293',
+		[
+			'Fuguushoku "Kanteishi" ga Jitsu wa Saikyou Datta',
+			'不遇職【鑑定士】が実は最強だった',
+			'Even Given the Worthless "Appraiser" Class, I’m Actually the Strongest'
+		],
+		[ 2037 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+		]
+	),
+	new Anime(
+		'1178/145396',
+		[
+			'Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita',
+			'没落予定の貴族だけど、暇だったから魔法を極めてみた',
+			"I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic"
+		],
+		[ 37, 553 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+		]
+	),
+	new Anime(
+		'1802/146725',
+		[
+			'Magic Maker: Isekai Mahou no Tsukurikata',
+			'マジック・メイカー －異世界魔法の作り方－',
+			'Magic Maker: How to Make Magic in Another World'
+		],
+		[ 37 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1382/144602',
+		[
+			'Honey Lemon Soda',
+			'ハニーレモンソーダ',
+		],
+		[ 7 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tSchool',
+			'tShoujo',
+		]
+	),
+	new Anime(
+		'1787/146809',
+		[
+			'Hana wa Saku, Shura no Gotoku',
+			'花は咲く、修羅の如く',
+			'Flower and Asura'
+		],
+		[ 1993 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tDrama',
+			'tSchool',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1116/146903',
+		[
+			'Mahoutsukai no Yakusoku',
+			'魔法使いの約束',
+			'Promise of Wizard'
+		],
+		[ 839 ],
+		'TV', 0, 2025, 'Game', 0, 0,
+		[
+			'tFantasy',
+			'tIsekai',
+			'tFavoriteOPSong',
+		]
+	),
+	new Anime(
+		'1792/146404',
+		[
+			'Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai',
+			'黒岩メダカに私の可愛いが通じない',
+			'Medaka Kuroiwa is Impervious to My Charms'
+		],
+		[ 118 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1123/146384',
+		[
+			'Kono Kaisha ni Suki na Hito ga Imasu',
+			'この会社に好きな人がいます',
+			'Can You Keep a Secret?'
+		],
+		[ 1547 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tAdultCast',
+			'tWorkplace',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1003/146841',
+		[
+			'Zenshuu.',
+			'全修。',
+			'Zenshuu'
+		],
+		[ 569 ],
+		'TV', 0, 2025, 'Original', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1711/146319',
+		[
+			'Kisaki Kyouiku kara Nigetai Watashi',
+			'妃教育から逃げたい私',
+			'I Want to Escape from Princess Lessons'
+		],
+		[ 1264 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+		]
+	),
+	new Anime(
+		'1995/146843',
+		[
+			'Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru',
+			'沖縄で好きになった子が方言すぎてツラすぎる',
+			"Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying"
+		],
+		[ 1237 ],
+		'TV', 0, 2025, 'Web manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tLovePolygon',
+			'tSchool',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1706/146392',
+		[
+			'NEET Kunoichi to Nazeka Dousei Hajimemashita',
+			'ニートくノ一となぜか同棲はじめました',
+			"I'm Living with an Otaku NEET Kunoichi!?"
+		],
+		[ 2314 ],
+		'TV', 0, 2025, 'Web manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1974/147269',
+		[
+			'Tasokare Hotel',
+			'誰ソ彼ホテル',
+		],
+		[ 753 ],
+		'TV', 0, 2025, 'Game', 0, 0,
+		[
+			'tFantasy',
+			'tMystery',
+		]
+	),
+	new Anime(
+		'1909/146787',
+		[
+			'Sorairo Utility (TV)',
+			'空色ユーティリティ'
+		],
+		[ 2009 ],
+		'TV', 0, 2025, 'Original', 0, 0,
+		[
+			'tSports',
+			'tCGDCT',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		]
+	),
+	new Anime(
+		'1171/146679',
+		[
+			'Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.',
+			'クラスの大嫌いな女子と結婚することになった。',
+			"I'm Getting Married to a Girl I Hate in My Class"
+		],
+		[ 418, 1299 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1107/143656',
+		[
+			'Momentary Lily',
+			'もめんたりー・リリィ'
+		],
+		[ 309 ],
+		'TV', 0, 2025, 'Original', 0, 0,
+		[
+			'tAction',
+		]
+	),
+	new Anime(
+		'1017/146751',
+		[
+			'Ameku Takao no Suiri Karte',
+			'天久鷹央の推理カルテ',
+			'Ameku M.D.: Doctor Detective'
+		],
+		[ 439 ],
+		'TV', 0, 2025, 'Novel', 0, 0,
+		[
+			'tMystery',
+			'tAdultCast',
+			'tMedical',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1431/146222',
+		[
+			'Izure Saikyou no Renkinjutsushi?',
+			'いずれ最強の錬金術師?',
+			'Possibly the Greatest Alchemist of All Time'
+		],
+		[ 126 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+		]
+	),
+	new Anime(
+		'1438/147202',
+		[
+			'Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi',
+			'サラリーマンが異世界に行ったら四天王になった話',
+			'Headhunted to Another World: From Salaryman to Big Four!'
+		],
+		[ 1857, 2725 ],
+		'TV', 0, 2025, 'Web manga', 0, 0,
+		[
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+		]
+	),
+	new Anime(
+		'1703/146128',
+		[
+			'Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite',
+			'外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～',
+			'Bogus Skill Fruitmaster ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~'
+		],
+		[ 406 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tAdventure',
+		]
+	),
+	new Anime(
 		'1656/146916',
 		[
 			'S-Rank Monster no "Behemoth" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu',
@@ -74,7 +529,7 @@ const anime = [
 			'Demon Lord 2099'
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Light novel', 0, 0,
+		'TV', 3, 2024, 'Light novel', 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -279,7 +734,7 @@ const anime = [
 			'Magilumiere Magical Girls Inc.'
 		],
 		[ 7, 2855 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -298,7 +753,7 @@ const anime = [
 			'Kinokoinu Mushroom Pup'
 		],
 		[ 1075 ],
-		'TV', 3, 2024, 'Manga', 0, 0,
+		'TV', 3, 2024, 'Manga', 0, 1,
 		[
 			'tSliceofLife',
 			'tAdultCast',
@@ -1043,22 +1498,6 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1508/137052',
-		[
-			'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi',
-			'わたしの幸せな結婚 わたしの 幸せのかたち',
-			'My Happy Marriage'
-		],
-		[ 290 ],
-		'OVA', 0, 2024, 'Novel', 0, 1,
-		[
-			'tFantasy',
-			'tRomance',
-			'tAdultCast',
-			'tHistorical',
-		]
-	),
-	new Anime(
 		'8/77382',
 		[
 			'Gate: Jieitai Kanochi nite, Kaku Tatakaeri Part 2',
@@ -1100,11 +1539,12 @@ const anime = [
 			'Whisper Me a Love Song'
 		],
 		[ 1687, 2600 ],
-		'TV', 1, 2024, 'Manga', 0, 0,
+		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tYuri',
 			'tMusic',
 			'tSchool',
+			'tDrama',
 		]
 	),
 	new Anime(
@@ -1355,6 +1795,21 @@ const anime = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1137/147179',
+		[
+			'Unnamed Memory Act.2',
+			'Unnamed Memory Season 2',
+		],
+		[ 1974 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tRomance',
 			'tFavoriteAnime',
 		]
 	),
@@ -1842,6 +2297,25 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1463/145502',
+		[
+			'Ore dake Level Up na Ken Season 2: Arise from the Shadow',
+			'俺だけレベルアップな件 Season 2 -Arise from the Shadow-',
+			'Solo Leveling Season 2: Arise from the Shadow'
+		],
+		[ 56 ],
+		'TV', 0, 2025, 'Web manga', 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tAdultCast',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1801/142390',
 		[
 			'Ore dake Level Up na Ken',
@@ -2022,6 +2496,22 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1699/146979',
+		[
+			'Ishura 2nd Season',
+			'異修羅 第2期'
+		],
+		[ 911 ],
+		'TV', 0, 2025, 'Light novel', 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tGore',
+			'tIsekai',
+		]
+	),
+	new Anime(
 		'1426/140122',
 		[
 			'Ishura',
@@ -2135,6 +2625,25 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1025/147458',
+		[
+			'Kusuriya no Hitorigoto 2nd Season',
+			'薬屋のひとりごと 第2期',
+			'The Apothecary Diaries Season 2'
+		],
+		[ 28, 2705 ],
+		'TV', 0, 2025, 'Light novel', 0, 0,
+		[
+			'tDrama',
+			'tMystery',
+			'tHistorical',
+			'tMedical',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1708/138033',
 		[
 			'Kusuriya no Hitorigoto',
@@ -2148,8 +2657,8 @@ const anime = [
 			'tMystery',
 			'tHistorical',
 			'tMedical',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_2',
 			'tFavoriteAnime',
 		]
 	),
@@ -2188,6 +2697,26 @@ const anime = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1093/145470',
+		[
+			'Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season',
+			'君のことが大大大大大好きな100人の彼女 2期',
+			'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2'
+		],
+		[ 1722 ],
+		'TV', 0, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tHarem',
+			'tParody',
+			'tSchool',
+			'tSeinen',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
@@ -2528,10 +3057,12 @@ const anime = [
 			'tFantasy',
 			'tVideoGame',
 			'tShounen',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
+			'tFavoriteEDSong_1',
+			'tFavoriteEDVisual_1',
+			'tFavoriteEDVisual_2',
 			'tFavoriteAnime',
 		]
 	),
@@ -2899,6 +3430,39 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+		]
+	),
+	new Anime(
+		'1946/146770',
+		[
+			'Watashi no Shiawase na Kekkon 2nd Season',
+			'わたしの幸せな結婚',
+			'My Happy Marriage Season 2'
+		],
+		[ 290 ],
+		'TV', 0, 2025, 'Novel', 0, 0,
+		[
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tAdultCast',
+			'tHistorical',
+		]
+	),
+	new Anime(
+		'1508/137052',
+		[
+			'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi',
+			'わたしの幸せな結婚 わたしの 幸せのかたち',
+			'My Happy Marriage: The Shape of My Happiness'
+		],
+		[ 290 ],
+		'OVA', 0, 2024, 'Novel', 0, 1,
+		[
+			'tFantasy',
+			'tRomance',
+			'tAdultCast',
+			'tHistorical',
 		]
 	),
 	new Anime(
@@ -3453,6 +4017,7 @@ const anime = [
 			'tDrama',
 			'tSchool',
 			'tSeinen',
+			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 		]
@@ -6027,6 +6592,19 @@ const anime = [
 			'tRomance',
 			'tSciFi',
 			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1319/142188',
+		[
+			'Grisaia: Phantom Trigger',
+			'グリザイア:ファントムトリガー'
+		],
+		[ 1722 ],
+		'TV', 0, 2025, 'Visual novel', 1, 0,
+		[
+			'tAction',
+			'tSchool',
 		]
 	),
 	new Anime(
@@ -11767,7 +12345,7 @@ const anime = [
 			'Tower of God Season 2: Workshop Battle'
 		],
 		[ 229 ],
-		'TV', 3, 2024, 'Web manga', 0, 0,
+		'TV', 3, 2024, 'Web manga', 0, 1,
 		[
 			'tAction',
 			'tAdventure',

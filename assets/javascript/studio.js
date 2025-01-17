@@ -667,6 +667,14 @@ const studioList = [
 		2985, 'Saber Works',
 		'c16bd865-493e-4024-a23e-5ee21d45ad9d'
 	),
+	new Studio(
+		2725, 'CompTown',
+		''
+	),
+	new Studio(
+		753, 'PRA',
+		'ca92bf2e-cf49-4c47-bff7-b12f2821d48e'
+	),
 	/*new Studio(
 		, '',
 		''
