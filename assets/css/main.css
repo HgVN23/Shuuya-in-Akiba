@@ -605,6 +605,11 @@ p {
 	background: url(../media/icon/status_completed.png);
 	background-size: contain;
 }
+.sDropped::after {
+	content: '';
+	background: url(../media/icon/status_dropped.png);
+	background-size: contain;
+}
 
 
 

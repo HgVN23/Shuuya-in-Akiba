@@ -1,198 +1,76 @@
-.tAction::before {
-	content: 'Hành động';
-}
-.tAdventure::before {
-	content: 'Phiêu lưu';
-}
-.tComedy::before {
-	content: 'Hài hước';
-}
-.tDrama::before {
-	content: 'Kịch tính';
-}
-.tEcchi::before {
-	content: 'Hở hang';
-}
-.tFantasy::before {
-	content: 'Giả tưởng';
-}
-.tJosei::before {
-	content: 'Cho độc giả nữ trên 18';
-}
-.tGenben::before {
-	content: 'Hoán đổi giới tính';
-}
-.tGourmet::before {
-	content: 'Ẩm thực';
-}
-.tHarem::before {
-	content: 'Nhiều người yêu';
-}
-.tHistorical::before {
-	content: 'Lịch sử';
-}
-.tHorror::before {
-	content: 'Kinh dị';
-}
-.tIsekai::before {
-	content: 'Dị giới';
-}
-.tIyashikei::before {
-	content: 'Chữa lành tâm hồn';
-}
-.tMartialArts::before {
-	content: 'Võ thuật';
-}
-.tMecha::before {
-	content: 'Máy móc';
-}
-.tMedical::before {
-	content: 'Y học';
-}
-.tMilitary::before {
-	content: 'Quân đội';
-}
-.tMusic::before {
-	content: 'Âm nhạc';
-}
-.tMystery::before {
-	content: 'Bí ẩn';
-}
-.tMythology::before {
-	content: 'Thần thoại';
-}
-.tParody::before {
-	content: 'Chi tiết từ bộ khác';
-}
-.tPsychological::before {
-	content: 'Tâm lý';
-}
-.tReincarnation::before {
-	content: 'Tái sinh';
-}
-.tRomance::before {
-	content: 'Lãng mạn';
-}
-.tSchool::before {
-	content: 'Học đường';
-}
-.tSciFi::before {
-	content: 'Khoa học viễn tưởng';
-}
-.tSeinen::before {
-	content: 'Cho độc giả nam trên 18';
-}
-.tSliceOfLife::before {
-	content: 'Lát cắt cuộc sống';
-}
-.tShoujo::before {
-	content: 'Cho độc giả nữ dưới 18';
-}
-.tShounen::before {
-	content: 'Cho độc giả nam dưới 18';
-}
-.tSupernatural::before {
-	content: 'Siêu nhiên';
-}
-.tSuperPower::before {
-	content: 'Siêu sức mạnh';
-}
-.tTimeTravel::before {
-	content: 'Xuyên thời gian';
-}
-.tWorkplace::before {
-	content: 'Nơi làm việc';
-}
-.tYuri::before {
-	content: 'Nữ x Nữ';
-}
-.tSports::before {
-	content: 'Thể thao';
-}
-.tAdultCast::before {
-	content: 'Diễn viên người lớn';
-}
-.tSurvival::before {
-	content: 'Sinh tồn';
-}
-.tSuspense::before {
-	content: 'Hồi hộp';
-}
-.tStrategyGame::before {
-	content: 'Trò chơi chiến lược';
-}
-.tAnthropomorphic::before {
-	content: 'Nhân hóa';
-}
-.tDetective::before {
-	content: 'Trinh thám';
-}
-.tVampire::before {
-	content: 'Ma cà rồng';
-}
-.tRomanticSubtext::before {
-	content: 'Nội dung lãng mạn';
-}
-.tPerformingArts::before {
-	content: 'Biểu diễn nghệ thuật';
-}
-.tShowbiz::before {
-	content: 'Giới giải trí';
-}
-.tChildcare::before {
-	content: 'Chăm sóc trẻ';
-}
-.tOtakuCulture::before {
-	content: 'Văn hóa Otaku';
-}
-.tPets::before {
-	content: 'Thú nuôi';
-}
-.tGagHumor::before {
-	content: 'Hài lặp';
-}
-.tVideoGame::before {
-	content: 'Trò chơi điện tử';
-}
-.tHighStakesGame::before {
-	content: 'Trò chơi cược cao';
-}
-.tGore::before {
-	content: 'Máu me';
-}
+.tAction::before { content: 'Hành động'; }
+.tAdultCast::before { content: 'Diễn viên người lớn'; }
+.tAdventure::before { content: 'Phiêu lưu'; }
+.tAnthropomorphic::before { content: 'Nhân hóa'; }
+.tCGDCT::before { content: 'Gái đáng yêu làm điều dễ thương'; }
+.tChildcare::before { content: 'Chăm sóc trẻ'; }
+.tComedy::before { content: 'Hài hước'; }
+.tCrossdressing::before { content: 'Hóa trang khác giới'; }
+.tDetective::before { content: 'Trinh thám'; }
+.tDrama::before { content: 'Kịch tính'; }
+.tEcchi::before { content: 'Hở hang'; }
+.tErotica::before { content: 'Khiêu dâm'; }
+.tFantasy::before { content: 'Giả tưởng'; }
+.tGagHumor::before { content: 'Hài lặp'; }
+.tGenben::before { content: 'Hoán đổi giới tính'; }
+.tGore::before { content: 'Máu me'; }
+.tGourmet::before { content: 'Ẩm thực'; }
+.tHarem::before { content: 'Nhiều người yêu'; }
+.tHighStakesGame::before { content: 'Trò chơi cược cao'; }
+.tHistorical::before { content: 'Lịch sử'; }
+.tHorror::before { content: 'Kinh dị'; }
+.tIdol::before { content: 'Thần tượng'; }
+.tIsekai::before { content: 'Dị giới'; }
+.tIyashikei::before { content: 'Chữa lành tâm hồn'; }
+.tJosei::before { content: 'Cho độc giả nữ trên 18'; }
+.tLovePolygon::before { content: 'Tình yêu đa giác'; }
+.tLoveStatusQuo::before { content: 'Tình trạng đã thích'; }
+.tMahouShoujo::before { content: 'Thiếu nữ ma pháp'; }
+.tMartialArts::before { content: 'Võ thuật'; }
+.tMecha::before { content: 'Máy móc'; }
+.tMedical::before { content: 'Y học'; }
+.tMilitary::before { content: 'Quân đội'; }
+.tMusic::before { content: 'Âm nhạc'; }
+.tMystery::before { content: 'Bí ẩn'; }
+.tMythology::before { content: 'Thần thoại'; }
+.tOrganizedCrime::before { content: 'Tổ chức tội phạm'; }
+.tOtakuCulture::before { content: 'Văn hóa Otaku'; }
+.tParody::before { content: 'Chi tiết từ bộ khác'; }
+.tPerformingArts::before { content: 'Biểu diễn nghệ thuật'; }
+.tPets::before { content: 'Thú nuôi'; }
+.tPsychological::before { content: 'Tâm lý'; }
+.tReincarnation::before { content: 'Tái sinh'; }
+.tRomance::before { content: 'Lãng mạn'; }
+.tSamurai::before { content: 'Samurai'; }
+.tSchool::before { content: 'Học đường'; }
+.tSciFi::before { content: 'Khoa học viễn tưởng'; }
+.tSeinen::before { content: 'Cho độc giả nam trên 18'; }
+.tShoujo::before { content: 'Cho độc giả nữ dưới 18'; }
+.tShounen::before { content: 'Cho độc giả nam dưới 18'; }
+.tShowbiz::before { content: 'Giới giải trí'; }
+.tSliceOfLife::before { content: 'Lát cắt cuộc sống'; }
+.tSports::before { content: 'Thể thao'; }
+.tStrategyGame::before { content: 'Trò chơi chiến lược'; }
+.tSupernatural::before { content: 'Siêu nhiên'; }
+.tSuperPower::before { content: 'Siêu sức mạnh'; }
+.tSurvival::before { content: 'Sinh tồn'; }
+.tSuspense::before { content: 'Hồi hộp'; }
+.tTimeTravel::before { content: 'Xuyên thời gian'; }
+.tUrbanFantasy::before { content: 'Giả tưởng hiện đại'; }
+.tVampire::before { content: 'Ma cà rồng'; }
+.tVideoGame::before { content: 'Trò chơi điện tử'; }
+.tVillainess::before { content: 'Phản diện'; }
+.tVisualArts::before { content: 'Nghệ thuật thị giác'; }
+.tWorkplace::before { content: 'Nơi làm việc'; }
+.tYuri::before { content: 'Nữ x Nữ'; }
+
 .tGore {
 	color: red;
-}
-.tOrganizedCrime::before {
-	content: 'Tổ chức tội phạm';
-}
-.tSamurai::before {
-	content: 'Samurai';
-}
-.tVisualArts::before {
-	content: 'Nghệ thuật thị giác';
-}
-.tCGDCT::before {
-	content: 'Gái đáng yêu làm điều dễ thương';
-}
-.tLovePolygon::before {
-	content: 'Tình yêu đa giác';
-}
-.tErotica::before {
-	content: 'Khiêu dâm';
 }
 .tErotica {
 	color: magenta;
 }
-.tIdol::before {
-	content: 'Thần tượng';
-}
-.tMahouShoujo::before {
-	content: 'Thiếu nữ ma pháp';
-}
-.tCrossdressing::before {
-	content: 'Hóa trang khác giới';
-}
+
 .tFavoriteOPVisual::before {
 	content: 'Hình ảnh mở đầu ưa thích';
 }
@@ -206,7 +84,9 @@
 	content: 'Bài nhạc kết thúc ưa thích';
 }
 .tFavoriteOPVisual,
-.tFavoriteEDVisual,
+.tFavoriteEDVisual {
+	color: #00ff9f;
+}
 .tFavoriteOPSong,
 .tFavoriteEDSong {
 	color: yellow;

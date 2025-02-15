@@ -43,6 +43,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tShounen',
+			'tFavoriteOPVisual',
 		]
 	),
 	new Anime(
@@ -59,9 +60,10 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
+			'tFavoriteEDSong_1',
+			'tFavoriteEDVisual_1',
 		]
 	),
 	new Anime(
@@ -70,7 +72,7 @@ const anime = [
 			'Sakamoto Days'
 		],
 		[ 73 ],
-		'TV', 0, 2025, 'Manga', 0, 0,
+		'TV', 0, 2025, 'Manga', 1, 0,
 		[
 			'tAction',
 			'tComedy',
@@ -107,7 +109,8 @@ const anime = [
 		'TV', 0, 2025, 'Light novel', 0, 0,
 		[
 			'tComedy',
-			'tSupernatural',
+			'tFantasy',
+			'tIsekai',
 			'tFavoriteAnime',
 		]
 	),
@@ -126,6 +129,7 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -143,6 +147,7 @@ const anime = [
 			'tIsekai',
 			'tSchool',
 			'tSeinen',
+			'tVillainess',
 			'tFavoriteAnime',
 		]
 	),
@@ -187,11 +192,12 @@ const anime = [
 			'Even Given the Worthless "Appraiser" Class, I’m Actually the Strongest'
 		],
 		[ 2037 ],
-		'TV', 0, 2025, 'Light novel', 0, 0,
+		'TV', 0, 2025, 'Light novel', 1, 0,
 		[
 			'tAction',
 			'tAdventure',
 			'tFantasy',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -282,6 +288,7 @@ const anime = [
 			'tRomance',
 			'tSchool',
 			'tShounen',
+			'tLoveStatusQuo',
 		]
 	),
 	new Anime(
@@ -289,7 +296,7 @@ const anime = [
 		[
 			'Kono Kaisha ni Suki na Hito ga Imasu',
 			'この会社に好きな人がいます',
-			'Can You Keep a Secret?'
+			'I Have a Crush at Work'
 		],
 		[ 1547 ],
 		'TV', 0, 2025, 'Manga', 0, 0,
@@ -299,6 +306,7 @@ const anime = [
 			'tAdultCast',
 			'tWorkplace',
 			'tSeinen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -325,14 +333,14 @@ const anime = [
 			'I Want to Escape from Princess Lessons'
 		],
 		[ 1264 ],
-		'TV', 0, 2025, 'Manga', 0, 0,
+		'TV', 0, 2025, 'Manga', 0, 2,
 		[
 			'tComedy',
 			'tRomance',
 		]
 	),
 	new Anime(
-		'1995/146843',
+		'1744/147363',
 		[
 			'Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru',
 			'沖縄で好きになった子が方言すぎてツラすぎる',
@@ -390,10 +398,11 @@ const anime = [
 			'tCGDCT',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 		]
 	),
 	new Anime(
-		'1171/146679',
+		'1775/147330',
 		[
 			'Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.',
 			'クラスの大嫌いな女子と結婚することになった。',
@@ -420,7 +429,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1017/146751',
+		'1096/147327',
 		[
 			'Ameku Takao no Suiri Karte',
 			'天久鷹央の推理カルテ',
@@ -448,10 +457,11 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
-		'1438/147202',
+		'1668/144352',
 		[
 			'Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi',
 			'サラリーマンが異世界に行ったら四天王になった話',
@@ -464,7 +474,6 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tIsekai',
-			'tReincarnation',
 		]
 	),
 	new Anime(
@@ -472,7 +481,7 @@ const anime = [
 		[
 			'Hazure Skill "Kinomi Master": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite',
 			'外れスキル《木の実マスター》 ～スキルの実（食べたら死ぬ）を無限に食べられるようになった件について～',
-			'Bogus Skill Fruitmaster ~About that time I became able to eat unlimited numbers of Skill Fruits (that kill you)~'
+			'Bogus Skill Fruitmaster: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)'
 		],
 		[ 406 ],
 		'TV', 0, 2025, 'Manga', 0, 0,
@@ -544,7 +553,7 @@ const anime = [
 			'ハミダシクリエイティブ'
 		],
 		[ 2370 ],
-		'TV', 3, 2024, 'Visual novel', 0, 0,
+		'TV', 3, 2024, 'Visual novel', 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -1092,7 +1101,7 @@ const anime = [
 			'Plus-Sized Elf'
 		],
 		[ 2928 ],
-		'TV', 2, 2024, 'Web manga', 2, 0,
+		'TV', 2, 2024, 'Web manga', 2, 2,
 		[
 			'tComedy',
 			'tFantasy',
@@ -1473,7 +1482,7 @@ const anime = [
 			'Dead Dead Demons Dededede Destruction'
 		],
 		[ 2157 ],
-		'ONA', 1, 2024, 'Manga', 0, 0,
+		'ONA', 1, 2024, 'Manga', 0, 2,
 		[
 			'tDrama',
 			'tSciFi',
@@ -2209,7 +2218,7 @@ const anime = [
 		'TV', 0, 2024, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteOPSong',
@@ -2245,7 +2254,7 @@ const anime = [
 			'tComedy',
 			'tSupernatural',
 			'tMythology',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteAnime',
@@ -2297,7 +2306,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1463/145502',
+		'1448/147351',
 		[
 			'Ore dake Level Up na Ken Season 2: Arise from the Shadow',
 			'俺だけレベルアップな件 Season 2 -Arise from the Shadow-',
@@ -2310,6 +2319,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tAdultCast',
+			'tUrbanFantasy',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
@@ -2329,6 +2339,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tAdultCast',
+			'tUrbanFantasy',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
@@ -3043,7 +3054,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1978/144794',
+		'1996/147601',
 		[
 			'Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season',
 			'シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season',
@@ -3058,10 +3069,10 @@ const anime = [
 			'tVideoGame',
 			'tShounen',
 			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
 			'tFavoriteOPVisual_1',
 			'tFavoriteOPVisual_2',
-			'tFavoriteEDSong_1',
-			'tFavoriteEDVisual_1',
+			'tFavoriteEDSong_2',
 			'tFavoriteEDVisual_2',
 			'tFavoriteAnime',
 		]
@@ -3081,10 +3092,14 @@ const anime = [
 			'tFantasy',
 			'tVideoGame',
 			'tShounen',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
+			'tFavoriteEDSong_1',
+			'tFavoriteEDSong_2',
+			'tFavoriteEDVisual_1',
+			'tFavoriteEDVisual_2',
 			'tFavoriteAnime',
 		]
 	),
@@ -3493,7 +3508,7 @@ const anime = [
 		'TV', 2, 2023, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -4050,7 +4065,7 @@ const anime = [
 		'TV', 1, 2023, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteEDSong',
@@ -4574,7 +4589,7 @@ const anime = [
 		'Movie', 2, 2016, 'Manga', 0, 1,
 		[
 			'tDrama',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tShounen',
 			'tFavoriteAnime',
 		]
@@ -5170,7 +5185,7 @@ const anime = [
 		[
 			'tComedy',
 			'tOtakuCulture',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 			'tFavoriteAnime',
 		]
@@ -6379,7 +6394,7 @@ const anime = [
 			'tComedy',
 			'tEcchi',
 			'tAdultCast',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 		]
 	),
@@ -6395,7 +6410,7 @@ const anime = [
 			'tComedy',
 			'tEcchi',
 			'tAdultCast',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 		]
 	),
@@ -6893,7 +6908,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLovePolygon',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
@@ -6912,7 +6927,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLovePolygon',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
@@ -6931,7 +6946,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLovePolygon',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
@@ -7196,7 +7211,7 @@ const anime = [
 		'TV', 0, 2019, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tSeinen',
 		]
@@ -7507,7 +7522,7 @@ const anime = [
 		'TV', 3, 2021, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 			'tAdultCast',
 			'tFavoriteAnime',
@@ -7541,7 +7556,7 @@ const anime = [
 		'TV', 3, 2022, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tAdultCast',
 		]
 	),
@@ -7556,7 +7571,7 @@ const anime = [
 		'TV', 2, 2020, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tAdultCast',
 		]
 	),
@@ -7762,7 +7777,7 @@ const anime = [
 		[ 247 ],
 		'Movie', 1, 2022, 'Manga', 0, 1,
 		[
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -7779,7 +7794,7 @@ const anime = [
 		'TV', 0, 2022, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -7796,7 +7811,7 @@ const anime = [
 		'TV', 2, 2019, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -7813,7 +7828,7 @@ const anime = [
 		'OVA', 2, 2018, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tShounen',
 			'tFavoriteAnime',
 		]
@@ -7829,7 +7844,7 @@ const anime = [
 		'TV', 0, 2018, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -8071,7 +8086,7 @@ const anime = [
 		'TV', 0, 2023, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 		]
 	),
@@ -8086,7 +8101,7 @@ const anime = [
 		'TV', 1, 2021, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 		]
 	),
@@ -10854,7 +10869,7 @@ const anime = [
 		[
 			'tComedy',
 			'tEcchi',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteAnime',
@@ -10872,7 +10887,7 @@ const anime = [
 		[
 			'tComedy',
 			'tPsychological',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteOPSong',
@@ -10892,7 +10907,7 @@ const anime = [
 		[
 			'tComedy',
 			'tPsychological',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteOPSong',
@@ -13727,7 +13742,7 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tMythology',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 		]
 	),
@@ -13744,7 +13759,7 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tMythology',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 		]
 	),
@@ -13761,7 +13776,7 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tMythology',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tWorkplace',
 		]
 	),
@@ -13776,7 +13791,7 @@ const anime = [
 		'TV', 2, 2022, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tShounen',
 		]
 	),
@@ -14642,7 +14657,7 @@ const anime = [
 		'TV', 1, 2022, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -14659,7 +14674,7 @@ const anime = [
 		'TV', 3, 2021, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteOPSong',
@@ -15469,7 +15484,7 @@ const anime = [
 		[
 			'tComedy',
 			'tSupernatural',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tFavoriteAnime',
 		]
 	),
@@ -15485,7 +15500,7 @@ const anime = [
 		[
 			'tComedy',
 			'tSupernatural',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
@@ -15503,7 +15518,7 @@ const anime = [
 		[
 			'tComedy',
 			'tSupernatural',
-			'tRomanticSubtext',
+			'tLoveStatusQuo',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',

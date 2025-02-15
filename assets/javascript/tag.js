@@ -37,6 +37,7 @@ const tagList = [
 	new Tag('Iyashikei'),
 	new Tag('Josei'),
 	new Tag('Love Polygon'),
+	new Tag('Love Status Quo'),
 	new Tag('Mahou Shoujo'),
 	new Tag('Martial Arts'),
 	new Tag('Mecha'),
@@ -53,7 +54,6 @@ const tagList = [
 	new Tag('Psychological'),
 	new Tag('Reincarnation'),
 	new Tag('Romance'),
-	new Tag('Romantic Subtext'),
 	new Tag('Samurai'),
 	new Tag('School'),
 	new Tag('Sci-Fi'),
@@ -69,11 +69,13 @@ const tagList = [
 	new Tag('Survival'),
 	new Tag('Suspense'),
 	new Tag('Time Travel'),
+	new Tag('Urban Fantasy'),
 	new Tag('Vampire'),
 	new Tag('Video Game'),
+	new Tag('Villainess'),
 	new Tag('Visual Arts'),
 	new Tag('Workplace'),
-	new Tag('Yuri')
+	new Tag('Yuri'),
 ]
 
 function tagCut(str) {

@@ -58,7 +58,8 @@ ratingList.forEach((e, i) => {
 
 const statusList = [
 	'Ongoing',
-	'Completed'
+	'Completed',
+	'Dropped'
 ]
 var statusTemp = ``;
 statusList.forEach((e, i) => {
