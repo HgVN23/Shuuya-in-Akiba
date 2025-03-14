@@ -25,7 +25,7 @@
 .tJosei::before { content: 'Cho độc giả nữ trên 18'; }
 .tLovePolygon::before { content: 'Tình yêu đa giác'; }
 .tLoveStatusQuo::before { content: 'Tình trạng đã thích'; }
-.tMahouShoujo::before { content: 'Thiếu nữ ma pháp'; }
+.tMahouShoujo::before { content: 'Ma pháp thiếu nữ'; }
 .tMartialArts::before { content: 'Võ thuật'; }
 .tMecha::before { content: 'Máy móc'; }
 .tMedical::before { content: 'Y học'; }
@@ -35,7 +35,7 @@
 .tMythology::before { content: 'Thần thoại'; }
 .tOrganizedCrime::before { content: 'Tổ chức tội phạm'; }
 .tOtakuCulture::before { content: 'Văn hóa Otaku'; }
-.tParody::before { content: 'Chi tiết từ bộ khác'; }
+.tParody::before { content: 'Nhái lại'; }
 .tPerformingArts::before { content: 'Biểu diễn nghệ thuật'; }
 .tPets::before { content: 'Thú nuôi'; }
 .tPsychological::before { content: 'Tâm lý'; }

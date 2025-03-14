@@ -675,6 +675,10 @@ const studioList = [
 		753, 'PRA',
 		'ca92bf2e-cf49-4c47-bff7-b12f2821d48e'
 	),
+	new Studio(
+		1837, 'G-angle',
+		'31e96d78-6e32-4a32-8866-b56b3a10038b'
+	),
 	/*new Studio(
 		, '',
 		''
