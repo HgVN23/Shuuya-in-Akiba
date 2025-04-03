@@ -493,7 +493,7 @@ const studioList = [
 	),
 	new Studio(
 		1209, 'Studio A-CAT',
-		'04b5237a-4945-46d8-a5a5-9495f337e5d5'
+		'1619bb2e-1541-4736-9844-dc2eb8865d5b'
 	),
 	new Studio(
 		723, 'Hotline',
@@ -556,7 +556,7 @@ const studioList = [
 		'9116fb75-b878-41d9-9b2a-e64c00ff25ba'
 	),
 	new Studio(
-		1119, 'Jumondo',
+		755, 'Jumondo',
 		'06fe7c43-a114-4378-acac-99c66213da12'
 	),
 	new Studio(

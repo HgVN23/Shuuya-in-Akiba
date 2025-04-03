@@ -62,6 +62,7 @@ const tagList = [
 	new Tag('Shounen'),
 	new Tag('Showbiz'),
 	new Tag('Slice of Life'),
+	new Tag('Space'),
 	new Tag('Sports'),
 	new Tag('Strategy Game'),
 	new Tag('Super Power'),

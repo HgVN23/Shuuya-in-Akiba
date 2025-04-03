@@ -49,6 +49,7 @@
 .tShounen::before { content: 'Cho độc giả nam dưới 18'; }
 .tShowbiz::before { content: 'Giới giải trí'; }
 .tSliceOfLife::before { content: 'Lát cắt cuộc sống'; }
+.tSpace::before { content: 'Vũ trụ'; }
 .tSports::before { content: 'Thể thao'; }
 .tStrategyGame::before { content: 'Trò chơi chiến lược'; }
 .tSupernatural::before { content: 'Siêu nhiên'; }

@@ -122,6 +122,8 @@ function addAnime(list) {
 		
 		const song = name.length > 1 ? name[1] : keyName;
 
+		const searchKey = keyName.slice(0, 100);
+
 		/*const fSeason = year > 2017 ?
 			`&seasons=${seasonList[season]}%20${year}` :
 			`&seasons=${year}`;*/
@@ -158,16 +160,17 @@ function addAnime(list) {
 							${tempTag}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${keyName}/' target="_blank" alt="Anime Vietsub"></a>
-							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${keyName}' target="_blank" alt="MangaDex"></a>
-							<a class="rImg rMAL" href='https://myanimelist.net/search/all?q=${keyName}&cat=anime' target="_blank" alt="MyAnimeList"></a>
-							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${keyName}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
-							<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${keyName}' target="_blank" alt="Anime Nana"></a>
+							<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchKey}/' target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${searchKey}' target="_blank" alt="MangaDex"></a>
+							<a class="rImg rMAL" href='https://myanimelist.net/anime.php?q=${searchKey}&cat=anime' target="_blank" alt="MyAnimeList"></a>
+							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${searchKey}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
+							<a class="rImg rAnimeThemes" href='https://animethemes.moe/search/anime?q=${searchKey}' target="_blank" alt="AnimeThemes"></a>
 							<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
 							<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
-							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${keyName}' target="_blank" alt="MangaNelo"></a>
-							<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${keyName}' target="_blank" alt="MangaReader"></a>
-							<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${keyName}' target="_blank" alt="MangaFire"></a>
+							<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${searchKey}' target="_blank" alt="Anime Nana"></a>
+							<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${searchKey}' target="_blank" alt="MangaFire"></a>
+							<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${searchKey}' target="_blank" alt="MangaReader"></a>
+							<a class="rImg rMangaNelo" href='https://ww5.manganelo.tv/search/${searchKey}' target="_blank" alt="MangaNelo"></a>
 						</div>
 					</div>
 				</div>
