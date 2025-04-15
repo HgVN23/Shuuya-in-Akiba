@@ -679,6 +679,26 @@ const studioList = [
 		1837, 'G-angle',
 		'31e96d78-6e32-4a32-8866-b56b3a10038b'
 	),
+	new Studio(
+		2622, 'Makaria',
+		'531190d2-df06-4ff5-9de5-38f1a3b2b197'
+	),
+	new Studio(
+		1393, 'Geno Studio',
+		'fbc5104e-57c4-46cd-b0f6-53e36b543141'
+	),
+	new Studio(
+		2909, 'Teddy',
+		'8c497751-9767-49d1-a81a-0a1d02394b1d'
+	),
+	new Studio(
+		3048, 'Kachigarasu',
+		''
+	),
+	new Studio(
+		2917, 'Soigne',
+		'd472767b-4403-4e6d-b107-58da2ad461cb'
+	),
 	/*new Studio(
 		, '',
 		''

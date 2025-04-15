@@ -28,6 +28,346 @@ const anime = [
 		]
 	),*/
 	new Anime(
+		'1221/148863',
+		[
+			'Hibi wa Sugiredo Meshi Umashi',
+			'日々は過ぎれど飯うまし',
+			'Food for the Soul',
+		],
+		[ 132 ],
+		'TV', 1, 2025, 'Original', 0, 0,
+		[
+			'tGourmet',
+			'tCGDCT',
+			'tAdultCast',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1066/148358',
+		[
+			'Teogonia',
+		],
+		[ 406 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1192/148314',
+		[
+			'Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita',
+			'ちょっとだけ愛が重いダークエルフが異世界から追いかけてきた',
+			'Yandere Dark Elf: She Chased Me All the Way From Another World!',
+		],
+		[ 2928 ],
+		'TV', 1, 2025, 'Web manga', 2, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tErotica',
+			'tUrbanFantasy',
+		]
+	),
+	new Anime(
+		'1511/148642',
+		[
+			'Apocalypse Hotel',
+			'アポカリプスホテル',
+		],
+		[ 1893 ],
+		'TV', 1, 2025, 'Original', 0, 0,
+		[
+			'tSciFi',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1677/148603',
+		[
+			'Mono',
+		],
+		[ 2917 ],
+		'TV', 1, 2025, '4-koma manga', 0, 0,
+		[
+			'tComedy',
+			'tCGDCT',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1979/148096',
+		[
+			'Uchuujin MuuMuu',
+			'宇宙人ムームー',
+		],
+		[ 28 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tSciFi',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1855/146642',
+		[
+			'Ninja to Koroshiya no Futarigurashi',
+			'忍者と殺し屋のふたりぐらし',
+			'A Ninja and an Assassin Under One Roof',
+		],
+		[ 44 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tSliceofLife',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		]
+	),
+	new Anime(
+		'1263/148318',
+		[
+			'Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru',
+			'完璧すぎて可愛げがないと婚約破棄された聖女は隣国に売られる',
+			'The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom',
+		],
+		[ 1103 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tFantasy',
+			'tRomance',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1691/148602',
+		[
+			'Summer Pockets',
+		],
+		[ 91 ],
+		'TV', 1, 2025, 'Visual novel', 0, 0,
+		[
+			'tSliceofLife',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1770/148195',
+		[
+			'Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.',
+			'中禅寺先生物怪講義録　先生が謎を解いてしまうから。',
+			'The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries',
+		],
+		[ 2696 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tMystery',
+			'tSupernatural',
+			'tSuspense',
+			'tHistorical',
+			'tPsychological',
+			'tSchool',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1955/148360',
+		[
+			'Shiunji-ke no Kodomotachi',
+			'紫雲寺家の子供たち',
+			'The Shiunji Family Children',
+		],
+		[ 95 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tLovePolygon',
+			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1944/148218',
+		[
+			"Zatsu Tabi: That's Journey",
+			"ざつ旅 -That's Journey-",
+		],
+		[ 2622 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tAdventure',
+			'tSliceofLife',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1843/146935',
+		[
+			'Kakushite! Makina-san!!',
+			'かくして！マキナさん!!',
+			"Makina-san's a Love Bot?!",
+		],
+		[ 2144 ],
+		'TV', 1, 2025, 'Manga', 2, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSciFi',
+			'tEcchi',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1714/148317',
+		[
+			'Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru',
+			'ゴリラの神から加護された令嬢は王立騎士団で可愛がられる',
+			"The Gorilla God's Go-To Girl",
+		],
+		[ 3048 ],
+		'TV', 1, 2025, 'Web manga', 0, 0,
+		[
+			'tFantasy',
+			'tRomance',
+		]
+	),
+	new Anime(
+		'1988/148017',
+		[
+			'Witch Watch',
+			'ウィッチウォッチ',
+		],
+		[ 1722 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tSupernatural',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
+		'1069/148148',
+		[
+			'Katainaka no Ossan, Kensei ni Naru',
+			'片田舎のおっさん、剣聖になる',
+			'From Old Country Bumpkin to Master Swordsman',
+		],
+		[ 911, 2370 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1097/148302',
+		[
+			'Kowloon Generic Romance',
+			'九龍ジェネリックロマンス',
+		],
+		[ 1874 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tRomance',
+			'tSciFi',
+			'tAdultCast',
+			'tWorkplace',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1363/148601',
+		[
+			'Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)',
+			'男女の友情は成立する？（いや、しないっ!!）',
+			'Can a Boy-Girl Friendship Survive?',
+		],
+		[ 7 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
+		'1521/148809',
+		[
+			'Haite Kudasai, Takamine-san',
+			'履いてください、鷹峰さん',
+			'Please Put Them On, Takamine-san',
+		],
+		[ 839 ],
+		'TV', 1, 2025, 'Manga', 2, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tEcchi',
+			'tSchool',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1169/148459',
+		[
+			'Rock wa Lady no Tashinami deshite',
+			'ロックは淑女の嗜みでして',
+			"Rock Is a Lady's Modesty",
+		],
+		[ 1258 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tMusic',
+			'tSchool',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'1577/147967',
+		[
+			'Your Forma',
+			'ユア・フォルマ',
+		],
+		[ 1393 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tMystery',
+			'tSciFi',
+			'tDetective',
+		]
+	),
+	new Anime(
+		'1211/147335',
+		[
+			'Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru',
+			'一瞬で治療していたのに役立たずと追放された天才治癒師、闇ヒーラーとして楽しく生きる',
+			"The Brilliant Healer's New Life in the Shadows",
+		],
+		[ 2622 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tFantasy',
+			'tMedical',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		]
+	),
+	new Anime(
 		'1712/148299',
 		[
 			'Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?',
@@ -663,7 +1003,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1018/146464',
+		'1672/148866',
 		[
 			'Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu',
 			'やり直し令嬢は竜帝陛下を攻略中',
@@ -1113,6 +1453,21 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1538/147930',
+		[
+			'Bye Bye, Earth 2nd Season',
+			'ばいばい、アース 第2シーズン',
+		],
+		[ 839 ],
+		'TV', 1, 2025, 'Light novel', 0, 2,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tAnthropomorphic',
+		]
+	),
+	new Anime(
 		'1104/145564',
 		[
 			'Bye Bye, Earth',
@@ -1278,6 +1633,25 @@ const anime = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1224/148321',
+		[
+			'Shoushimin Series 2nd Season',
+			'小市民シリーズ 第2期',
+			'Shoshimin: How to Become Ordinary Season 2',
+		],
+		[ 1828 ],
+		'TV', 1, 2025, 'Novel', 0, 0,
+		[
+			'tMystery',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -1754,6 +2128,23 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1405/147694',
+		[
+			'Sentai Daishikkaku 2nd Season',
+			'戦隊大失格 2nd Season',
+			'Go! Go! Loser Ranger! Season 2',
+		],
+		[ 2009 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tAction',
+			'tShounen',
+			'tFantasy',
+			'tUrbanFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1183/141489',
 		[
 			'Sentai Daishikkaku',
@@ -1764,7 +2155,6 @@ const anime = [
 		'TV', 1, 2024, 'Manga', 0, 1,
 		[
 			'tAction',
-			'tSciFi',
 			'tShounen',
 			'tFantasy',
 			'tUrbanFantasy',
@@ -2796,7 +3186,9 @@ const anime = [
 			'tHistorical',
 			'tMedical',
 			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
 			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
 			'tFavoriteAnime',
 		]
 	),
@@ -3611,7 +4003,7 @@ const anime = [
 			'My Happy Marriage Season 2',
 		],
 		[ 290 ],
-		'TV', 0, 2025, 'Novel', 0, 0,
+		'TV', 0, 2025, 'Novel', 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -14873,6 +15265,24 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1501/148355',
+		[
+			'Aharen-san wa Hakarenai Season 2',
+			'阿波連さんははかれない season2',
+			'Aharen Is Indecipherable 2nd Season',
+		],
+		[ 1440 ],
+		'TV', 1, 2025, 'Manga', 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen',
+			'tLoveStatusQuo',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1612/120636',
 		[
 			'Aharen-san wa Hakarenai',
@@ -14886,6 +15296,7 @@ const anime = [
 			'tRomance',
 			'tSchool',
 			'tShounen',
+			'tLoveStatusQuo',
 			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
@@ -15727,6 +16138,23 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1074/147339',
+		[
+			'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni',
+			'スライム倒して300年、知らないうちにレベルMAXになってました ～そのに～',
+			"I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
+		],
+		[ 2909 ],
+		'TV', 1, 2025, 'Light novel', 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tCGDCT',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1888/133089',
 		[
 			'Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita',
@@ -15739,7 +16167,6 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tIsekai',
-			'tReincarnation',
 			'tCGDCT',
 			'tFavoriteAnime',
 		]
