@@ -127,6 +127,7 @@ const anime = [
 			'tShounen',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -301,7 +302,7 @@ const anime = [
 			'tRomance',
 			'tSchool',
 			'tFavoriteAnime',
-			'tFavoriteOPVisual',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -3679,7 +3680,7 @@ const anime = [
 			'tFavoriteOPSong_1',
 			'tFavoriteOPSong_2',
 			'tFavoriteOPVisual_1',
-			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual_1',
 			'tFavoriteEDVisual_2',
@@ -3793,10 +3794,8 @@ const anime = [
 		[ 2674 ],
 		'TV', 2, 2023, 'Manga', 1, 1,
 		[
-			'tAction',
 			'tComedy',
-			'tHorror',
-			'tSupernatural',
+			'tSuspense',
 			'tAdultCast',
 			'tSurvival',
 			'tSeinen',
@@ -3855,7 +3854,6 @@ const anime = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -3868,6 +3866,7 @@ const anime = [
 		[ 1978 ],
 		'TV', 2, 2023, 'Light novel', 0, 1,
 		[
+			'tAdventure',
 			'tFantasy',
 			'tHarem',
 			'tIsekai',
@@ -3886,7 +3885,6 @@ const anime = [
 		'TV', 2, 2023, 'Web manga', 0, 1,
 		[
 			'tComedy',
-			'tSupernatural',
 			'tAdultCast',
 			'tAnthropomorphic',
 			'tFavoriteAnime',
@@ -3905,6 +3903,7 @@ const anime = [
 			'tDrama',
 			'tSciFi',
 			'tSuspense',
+			'tMedical',
 			'tPsychological',
 			'tShounen',
 			'tFavoriteOPSong',
@@ -3924,6 +3923,7 @@ const anime = [
 			'tAction',
 			'tFantasy',
 			'tSchool',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -3936,6 +3936,7 @@ const anime = [
 		[ 1687, 2600 ],
 		'TV', 2, 2023, 'Light novel', 0, 1,
 		[
+			'tAdventure',
 			'tComedy',
 			'tFantasy',
 			'tIsekai',
@@ -3955,8 +3956,9 @@ const anime = [
 		[
 			'tFantasy',
 			'tIsekai',
-			'tReincarnation',
+			'tVillainess',
 			'tJosei',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -3971,8 +3973,10 @@ const anime = [
 		[
 			'tFantasy',
 			'tMystery',
+			'tAdultCast',
 			'tDetective',
 			'tHistorical',
+			'tUrbanFantasy',
 			'tVampire',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
@@ -4059,6 +4063,7 @@ const anime = [
 			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
+			'tRomance',
 			'tFavoriteAnime',
 		]
 	),
@@ -4105,6 +4110,7 @@ const anime = [
 		[
 			'tComedy',
 			'tFantasy',
+			'tUrbanFantasy',
 		]
 	),
 	new Anime(
@@ -4166,6 +4172,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -4176,9 +4183,11 @@ const anime = [
 			'Yohane the Parhelion: Sunshine in the Mirror',
 		],
 		[ 14 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		'TV', 2, 2023, 'Other', 0, 1,
 		[
 			'tFantasy',
+			'tMusic',
+			'tIdol',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 		]
@@ -4214,7 +4223,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1997/127227',
+		'1397/133339',
 		[
 			'Niehime to Kemono no Ou',
 			'贄姫と獣の王',
@@ -5080,7 +5089,7 @@ const anime = [
 		'TV', 2, 2023, 'Manga', 0, 1,
 		[
 			'tAction',
-			'tFantasy',
+			'tSupernatural',
 			'tAdultCast',
 			'tMythology',
 			'tSeinen',
@@ -5412,9 +5421,9 @@ const anime = [
 		'TV', 2, 2023, 'Light novel', 0, 1,
 		[
 			'tAction',
-			'tFantasy',
 			'tMystery',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -5428,7 +5437,6 @@ const anime = [
 		'TV', 0, 2023, 'Light novel', 0, 1,
 		[
 			'tAction',
-			'tFantasy',
 			'tMystery',
 			'tFavoriteOPSong',
 			'tFavoriteEDSong',
@@ -9022,7 +9030,6 @@ const anime = [
 			'tHarem',
 			'tSchool',
 			'tShounen',
-			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -14323,10 +14330,7 @@ const anime = [
 		'TV', 2, 2023, 'Light novel', 0, 1,
 		[
 			'tComedy',
-			'tFantasy',
-			'tMythology',
-			'tLoveStatusQuo',
-			'tWorkplace',
+			'tSupernatural',
 		]
 	),
 	new Anime(
@@ -14340,10 +14344,7 @@ const anime = [
 		'TV', 2, 2022, 'Light novel', 0, 1,
 		[
 			'tComedy',
-			'tFantasy',
-			'tMythology',
-			'tLoveStatusQuo',
-			'tWorkplace',
+			'tSupernatural',
 		]
 	),
 	new Anime(
@@ -14357,10 +14358,7 @@ const anime = [
 		'TV', 1, 2013, 'Light novel', 0, 1,
 		[
 			'tComedy',
-			'tFantasy',
-			'tMythology',
-			'tLoveStatusQuo',
-			'tWorkplace',
+			'tSupernatural',
 		]
 	),
 	new Anime(
@@ -14392,6 +14390,19 @@ const anime = [
 			'tIsekai',
 			'tMedical',
 			'tReincarnation',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1314/147593',
+		[
+			'Lycoris Recoil: Friends Are Thieves of Time.',
+			'『リコリス・リコイル』Friends are thieves of time.',
+		],
+		[ 56 ],
+		'ONA', 1, 2025, 'Original', 0, 0,
+		[
+			'tSliceofLife',
 			'tFavoriteAnime',
 		]
 	),
@@ -15097,7 +15108,6 @@ const anime = [
 			'tHarem',
 			'tSchool',
 			'tShounen',
-			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
 		]
@@ -15136,7 +15146,6 @@ const anime = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteOPVisual',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
 	),
@@ -15155,7 +15164,6 @@ const anime = [
 			'tHarem',
 			'tSchool',
 			'tShounen',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
 	),
@@ -15457,7 +15465,7 @@ const anime = [
 			'tShounen',
 			'tSuperPower',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
+			'tFavoriteEDSong_2',
 		]
 	),
 	new Anime(
@@ -16094,7 +16102,7 @@ const anime = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tSupernatural',
+			'tRomance',
 			'tLoveStatusQuo',
 			'tFavoriteAnime',
 		]
@@ -16111,10 +16119,8 @@ const anime = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tSupernatural',
+			'tRomance',
 			'tLoveStatusQuo',
-			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -16130,10 +16136,8 @@ const anime = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tSupernatural',
+			'tRomance',
 			'tLoveStatusQuo',
-			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
 	),
