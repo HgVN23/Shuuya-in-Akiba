@@ -41,6 +41,7 @@ const anime = [
 			'tCGDCT',
 			'tAdultCast',
 			'tFavoriteAnime',
+			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -4250,7 +4251,6 @@ const anime = [
 		[
 			'tDrama',
 			'tMusic',
-			'tPerformingArts',
 			'tSchool',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
@@ -4289,6 +4289,7 @@ const anime = [
 			'tSeinen',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
 			'tFavoriteAnime',
 		]
 	),
@@ -4458,6 +4459,7 @@ const anime = [
 			'tComedy',
 			'tShounen',
 			'tSupernatural',
+			'tOtakuCulture',
 			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
@@ -4491,6 +4493,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tSeinen',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -4563,14 +4566,13 @@ const anime = [
 			'KamiKatsu: Working for God in a Godless World',
 		],
 		[ 2201 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		'TV', 1, 2023, 'Manga', 1, 1,
 		[
 			'tAction',
 			'tComedy',
-			'tEcchi',
 			'tFantasy',
 			'tIsekai',
-			'tReincarnation',
+			'tParody',
 			'tSeinen',
 		]
 	),
@@ -4623,6 +4625,7 @@ const anime = [
 			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
+			'tRomance',
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
@@ -4654,13 +4657,13 @@ const anime = [
 			'Heavenly Delusion',
 		],
 		[ 10 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		'TV', 1, 2023, 'Manga', 1, 1,
 		[
 			'tAdventure',
 			'tMystery',
 			'tSciFi',
-			'tSurvival',
 			'tSeinen',
+			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -4728,6 +4731,7 @@ const anime = [
 			'tRomance',
 			'tVideoGame',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -5038,9 +5042,7 @@ const anime = [
 			'tShounen',
 			'tSupernatural',
 			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -5058,6 +5060,7 @@ const anime = [
 			'tRomance',
 			'tSchool',
 			'tSeinen',
+			'tLoveStatusQuo',
 			'tFavoriteAnime',
 		]
 	),
@@ -5107,7 +5110,7 @@ const anime = [
 		'TV', 0, 2023, 'Manga', 0, 1,
 		[
 			'tAction',
-			'tFantasy',
+			'tSupernatural',
 			'tAdultCast',
 			'tMythology',
 			'tSeinen',
@@ -5131,6 +5134,7 @@ const anime = [
 			'tAnthropomorphic',
 			'tHistorical',
 			'tShounen',
+			'tUrbanFantasy',
 		]
 	),
 	new Anime(
@@ -5208,6 +5212,7 @@ const anime = [
 		[
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -5304,6 +5309,8 @@ const anime = [
 			'tFantasy',
 			'tVideoGame',
 			'tRomance',
+			'tVillainess',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -5372,7 +5379,6 @@ const anime = [
 			'tIsekai',
 			'tSliceofLife',
 			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
@@ -5408,6 +5414,8 @@ const anime = [
 			'tAction',
 			'tFantasy',
 			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -5519,6 +5527,7 @@ const anime = [
 			'tAdultCast',
 			'tMythology',
 			'tWorkplace',
+			'tUrbanFantasy',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
@@ -8023,7 +8032,6 @@ const anime = [
 		[ 96, 894 ],
 		'TV', 1, 2023, 'Manga', 0, 1,
 		[
-			'tFantasy',
 			'tRomance',
 			'tSciFi',
 			'tShoujo',
@@ -8040,7 +8048,6 @@ const anime = [
 		[ 96, 894 ],
 		'TV', 2, 2022, 'Manga', 0, 1,
 		[
-			'tFantasy',
 			'tRomance',
 			'tSciFi',
 			'tShoujo',
@@ -8658,6 +8665,7 @@ const anime = [
 			'tComedy',
 			'tLoveStatusQuo',
 			'tSchool',
+			'tRomance',
 		]
 	),
 	new Anime(
@@ -8673,6 +8681,7 @@ const anime = [
 			'tComedy',
 			'tLoveStatusQuo',
 			'tSchool',
+			'tRomance',
 		]
 	),
 	new Anime(
@@ -12344,6 +12353,24 @@ const anime = [
 		]
 	),
 	new Anime(
+		'1482/146928',
+		[
+			'Kono Subarashii Sekai ni Shukufuku wo! 3: Bonus Stage',
+			'この素晴らしい世界に祝福を！３ーBONUS STAGEー',
+			"KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
+		],
+		[ 1967 ],
+		'OVA', 1, 2025, 'Light novel', 0, 1,
+		[
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tParody',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1758/141268',
 		[
 			'Kono Subarashii Sekai ni Shukufuku wo! 3',
@@ -13120,8 +13147,8 @@ const anime = [
 			'tFantasy',
 			'tVideoGame',
 			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -13984,7 +14011,7 @@ const anime = [
 	new Anime(
 		'1226/131884',
 		[
-			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Fuka Shou - Yakusai-hen',
+			'Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka IV: Shin Shou - Yakusai-hen',
 			'ダンジョンに出会いを求めるのは間違っているだろうかⅣ深章 厄災篇',
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2',
 		],
@@ -14249,7 +14276,6 @@ const anime = [
 			'tRomance',
 			'tHarem',
 			'tIsekai',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -14269,7 +14295,6 @@ const anime = [
 			'tRomance',
 			'tHarem',
 			'tIsekai',
-			'tReincarnation',
 			'tFavoriteAnime',
 		]
 	),
@@ -14290,7 +14315,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1436/124788',
+		'1563/148868',
 		[
 			'Tensei Kenja no Isekai Life: Dai-2 no Shokugyou wo Ete, Sekai Saikyou ni Narimashita',
 			'転生賢者の異世界ライフ ～第二の職業を得て、世界最強になりました～',

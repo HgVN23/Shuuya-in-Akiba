@@ -160,7 +160,7 @@ function addAnime(list) {
 							${tempTag}
 						</div>
 						<div class="relatedBox">
-							<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchKey}/' target="_blank" alt="Anime Vietsub"></a>
+							<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchKey.replaceAll(" ", "+")}/' target="_blank" alt="Anime Vietsub"></a>
 							<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${searchKey}' target="_blank" alt="MangaDex"></a>
 							<a class="rImg rMAL" href='https://myanimelist.net/anime.php?q=${searchKey}&cat=anime' target="_blank" alt="MyAnimeList"></a>
 							<a class="rImg rAniPlayList" href='https://aniplaylist.com/${searchKey}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
