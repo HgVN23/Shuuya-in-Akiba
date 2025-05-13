@@ -2732,6 +2732,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+			'tComedy',
 		]
 	),
 	new Anime(
@@ -6063,11 +6064,12 @@ const anime = [
 		'TV', 3, 2022, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tSchool',
-			'tShounen',
-			'tSupernatural',
-			'tSuperPower',
+			'tSciFi',
+			'tCrossdressing',
 			'tGagHumor',
+			'tSchool',
+			'tSuperPower',
+			'tShounen',
 		]
 	),
 	new Anime(
@@ -6128,7 +6130,6 @@ const anime = [
 		'TV', 3, 2022, 'Light novel', 0, 1,
 		[
 			'tDrama',
-			'tFantasy',
 			'tJosei',
 			'tRomance',
 		]
@@ -8135,6 +8136,7 @@ const anime = [
 			'tComedy',
 			'tLoveStatusQuo',
 			'tAdultCast',
+			'tRomance',
 		]
 	),
 	new Anime(
@@ -8150,6 +8152,7 @@ const anime = [
 			'tComedy',
 			'tLoveStatusQuo',
 			'tAdultCast',
+			'tRomance',
 		]
 	),
 	new Anime(
