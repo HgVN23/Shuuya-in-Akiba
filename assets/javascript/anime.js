@@ -1235,7 +1235,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1572/145903',
+		'1969/145469',
 		[
 			'Kekkon suru tte, Hontou desu ka',
 			'結婚するって、本当ですか 365 Days To The Wedding',
@@ -2726,7 +2726,7 @@ const anime = [
 			'In the Land of Leadale',
 		],
 		[ 1978 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		'TV', 0, 2022, 'Light novel', 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -3476,8 +3476,6 @@ const anime = [
 			'tComedy',
 			'tFantasy',
 			'tRomance',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -3598,7 +3596,6 @@ const anime = [
 			'tFantasy',
 			'tGagHumor',
 			'tFavoriteAnime',
-			'tFavoriteEDSong',
 		]
 	),
 	new Anime(
@@ -8018,7 +8015,6 @@ const anime = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
-			'tRomance',
 			'tErotica',
 			'tHarem',
 			'tIsekai',
@@ -8358,6 +8354,7 @@ const anime = [
 		'Movie', 1, 2022, 'Manga', 0, 1,
 		[
 			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -8375,6 +8372,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -8392,6 +8390,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -8409,6 +8408,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLoveStatusQuo',
+			'tRomance',
 			'tShounen',
 			'tFavoriteAnime',
 		]
@@ -8425,6 +8425,7 @@ const anime = [
 		[
 			'tComedy',
 			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -11394,10 +11395,13 @@ const anime = [
 		[
 			'tAction',
 			'tComedy',
+			'tFantasy',
 			'tRomance',
 			'tParody',
+			'tUrbanFantasy',
 			'tShounen',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -12104,7 +12108,6 @@ const anime = [
 		[
 			'tFantasy',
 			'tRomance',
-			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -12119,7 +12122,6 @@ const anime = [
 		[
 			'tFantasy',
 			'tRomance',
-			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -12509,7 +12511,7 @@ const anime = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReincarnation',
+			'tVillainess',
 			'tShoujo',
 		]
 	),
@@ -12612,7 +12614,7 @@ const anime = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tErotica',
+			'tEcchi',
 			'tHarem',
 			'tShounen',
 			'tFavoriteAnime',
@@ -12769,6 +12771,7 @@ const anime = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -13185,7 +13188,7 @@ const anime = [
 		[
 			'tAction',
 			'tFantasy',
-			'tHarem',
+			'tAdventure',
 			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
@@ -13868,6 +13871,7 @@ const anime = [
 			'tAction',
 			'tFantasy',
 			'tIsekai',
+			'tAdventure',
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
@@ -14009,6 +14013,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -14332,6 +14337,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -14345,6 +14351,7 @@ const anime = [
 			'tAction',
 			'tComedy',
 			'tRomance',
+			'tLovePolygon',
 		]
 	),
 	new Anime(
@@ -14445,7 +14452,6 @@ const anime = [
 		[
 			'tAction',
 			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -14498,7 +14504,6 @@ const anime = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
 			'tFavoriteAnime',
 		]
 	),
@@ -14848,8 +14853,8 @@ const anime = [
 			'tRomance',
 			'tHarem',
 			'tShounen',
-			'tFavoriteOPSong',
-			'tFavoriteEDSong',
+			'tFavoriteOPSong_2',
+			'tFavoriteEDSong_2',
 		]
 	),
 	new Anime(
@@ -15275,7 +15280,6 @@ const anime = [
 		'TV', 1, 2022, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
@@ -15292,7 +15296,6 @@ const anime = [
 		'TV', 3, 2021, 'Manga', 0, 1,
 		[
 			'tComedy',
-			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
 			'tFavoriteOPSong',
@@ -15333,7 +15336,6 @@ const anime = [
 			'tSchool',
 			'tShounen',
 			'tLoveStatusQuo',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
 		]
 	),
@@ -15379,11 +15381,12 @@ const anime = [
 		[
 			'tComedy',
 			'tRomance',
+			'tLoveStatusQuo',
 			'tSchool',
+			'tStrategyGame',
 			'tShounen',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -15396,8 +15399,11 @@ const anime = [
 		'TV', 2, 2022, 'Light novel', 1, 1,
 		[
 			'tAction',
+			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		]
 	),
 	new Anime(
@@ -15413,6 +15419,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -15428,6 +15435,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -15444,6 +15452,7 @@ const anime = [
 			'tFantasy',
 			'tIsekai',
 			'tVideoGame',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -15459,6 +15468,7 @@ const anime = [
 			'tAction',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 			'tVideoGame',
 		]
 	),
@@ -15475,6 +15485,7 @@ const anime = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -15768,7 +15779,6 @@ const anime = [
 			'tMusic',
 			'tReincarnation',
 			'tShowbiz',
-			'tSupernatural',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
@@ -15967,10 +15977,12 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
+			'tFavoriteEDVisual_2',
 		]
 	),
 	new Anime(
@@ -15985,10 +15997,10 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
 		]
 	),
 	new Anime(
@@ -16003,8 +16015,9 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
@@ -16021,9 +16034,10 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
 			'tOrganizedCrime',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
@@ -16040,8 +16054,9 @@ const anime = [
 		[
 			'tAction',
 			'tMystery',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -16056,8 +16071,9 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
@@ -16074,8 +16090,9 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
@@ -16092,8 +16109,9 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
@@ -16110,10 +16128,11 @@ const anime = [
 		[
 			'tAction',
 			'tAdventure',
-			'tSupernatural',
+			'tSuperPower',
 			'tShounen',
 			'tHistorical',
 			'tVampire',
+			'tFavoriteAnime',
 			'tFavoriteOPVisual',
 			'tFavoriteEDVisual',
 		]
