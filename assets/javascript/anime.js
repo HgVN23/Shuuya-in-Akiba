@@ -487,7 +487,7 @@ const anime = [
 		]
 	),
 	new Anime(
-		'1378/148615',
+		'1897/149800',
 		[
 			'A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.',
 			'Aランクパーティを離脱した俺は、元教え子たちと迷宮深部を目指す。',
@@ -501,8 +501,7 @@ const anime = [
 			'tFantasy',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
-			'tFavoriteOPVisual_1',
-			'tFavoriteOPVisual_2',
+			'tFavoriteOPVisual',
 			'tFavoriteEDSong_1',
 			'tFavoriteEDSong_2',
 			'tFavoriteEDVisual_1',
