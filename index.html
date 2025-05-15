@@ -15,90 +15,20 @@
 	<script src="assets/javascript/studio.js"></script>
 	<script src="assets/javascript/tag.js"></script>
 	<script src="assets/javascript/anime.js"></script>
-	<script defer src="assets/javascript/moreInfo.js"></script>
+	<!-- <script defer src="assets/javascript/moreInfo.js"></script>
 	<script defer src="assets/javascript/copy.js"></script>
 	<script defer src="assets/javascript/search.js"></script>
 	<script defer src="assets/javascript/gallery.js"></script>
 	<script defer src="assets/javascript/filter.js"></script>
-	<script defer src="assets/javascript/dropdown.js"></script>
+	<script defer src="assets/javascript/dropdown.js"></script> -->
 </head>
 <body>
-	<header>
-		<div class="icon logo"></div>
-		<div class="title">Shuuya in Akiba</div>
-		<div class="icon slime"></div>
-	</header>
-	<div class="toolBox">
-		<div class="search">
-			<div class="searchIcon"></div>
-			<input class="searchInput" placeholder="Lọc theo..." type="text">
-		</div>
-		<div class="filter">
-			<div class="filterButton">
-				<div class="filterIcon"></div>
-				<div>Filter</div>
-			</div>
-			<div class="moreInfo hideInfo">
-				<div class="filterPanel">
-					<div class="flexSpace">
-						<div class="button buttonGreen" onclick="apply()">Apply</div>
-						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
-						<a class="button buttonRed" href="">Reset Page</a>
-					</div>
-					<div class="fSort"><div class="tag" id="sortSeason">Sort Latest</div></div>
-					<div>
-						<div class="dropdown dropdownActive">Status</div>
-						<div class="fStatus dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown">Type</div>
-						<div class="fType dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown dropdownActive">Season</div>
-						<div class="fSeason dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown dropdownActive">Year</div>
-						<div class="fYear dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown">Source</div>
-						<div class="fSource dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Rating</div>
-						<div class="fRating dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Tags</div>
-						<div class="fTag dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Studios</div>
-						<div class="fStudio dropdownThis dropdownHide"></div>
-					</div>
-					<div class="flexSpace">
-						<div class="button buttonGreen" onclick="apply()">Apply</div>
-						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
-						<a class="button buttonRed" href="">Reset Page</a>
-					</div>
-				</div>
-				<div class="clickHide"></div>
-			</div>
-		</div>
+	<video class="video-bg" autoplay muted loop>
+		<source src="https://v.animethemes.moe/SaijakuTamer-OP1.webm" type="video/webm">
+	</video>
+
+	<div class="content">
+		
 	</div>
-	<div class="slider">
-		<div class="left"></div>
-		<input class="numberInput" placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
-		<div class="numberMax"></div>
-		<div class="right"></div>
-	</div>
-	<div class="toast">
-		<div>Bạn vừa sao chép</div><br>
-		<div id="toastCopy"></div>
-		<div id="toastClose">x</div>
-	</div>
-	<div class="gallery"></div>
 </body>
 </html>
