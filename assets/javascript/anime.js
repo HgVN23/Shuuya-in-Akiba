@@ -1,7 +1,7 @@
 class Anime {
-	constructor(img, name, studio, type, season, year, source, rating, status, tag) {
+	constructor(img, title, studio, type, season, year, source, rating, status, tag) {
 		this.img = img;
-		this.name = name;
+		this.title = title;
 		this.studio = studio;
 		this.type = type;
 		this.season = season;
@@ -13,7 +13,7 @@ class Anime {
 	}
 }
 
-const anime = [
+const animeList = [
 	/*new Anime(
 		'',
 		[

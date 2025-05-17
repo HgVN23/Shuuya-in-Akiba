@@ -21,14 +21,39 @@
 	<script defer src="assets/javascript/gallery.js"></script>
 	<script defer src="assets/javascript/filter.js"></script>
 	<script defer src="assets/javascript/dropdown.js"></script> -->
+	<script defer src="assets/javascript/test.js"></script>
 </head>
 <body>
-	<video class="video-bg" autoplay muted loop>
+	<video class="video-bg w-100 h-100 position-fixed top-0 left-0" autoplay muted loop>
 		<source src="https://v.animethemes.moe/SaijakuTamer-OP1.webm" type="video/webm">
 	</video>
 
-	<div class="content">
-		
+	<div class="vh-100 d-flex flex-column position-relative">
+		<header class="d-flex justify-content-center align-items-center gap-1r">
+			<div class="logo" style="--i: 0; animation-delay: .2s;"></div>
+			<div class="fs-30 text-nowrap text-center text-shadow-1">Shuuya in Akiba</div>
+			<div class="logo" style="--i: 1;"></div>
+		</header>
+		<main class="d-flex flex-column flex-grow-1">
+			<div class="flex-grow-1 position-relative">
+				<div class="w-100 h-100 position-absolute top-0 left-0 overflow-y-auto">
+					<div class="px-1r">
+						<div class="search d-flex align-items-center">
+							<div class="search-icon"></div>
+							<input class="search-input" placeholder="Tìm kiếm..." type="text">
+							<div class="search-reset"></div>
+						</div>
+						<div class="anime-list justify-content-center"></div>
+					</div>
+					<div class="slider w-100 d-flex align-items-center justify-content-center position-fixed bottom-0">
+						<div class="left"></div>
+						<input class="number-input" placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
+						<div class="number-max"></div>
+						<div class="right"></div>
+					</div>
+				</div>
+			</div>
+		</main>
 	</div>
 </body>
 </html>
