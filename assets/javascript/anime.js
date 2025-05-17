@@ -22,7 +22,7 @@ const animeList = [
 			'',
 		],
 		[  ],
-		'TV', 1, 2025, '', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			't',
 		]
@@ -35,7 +35,7 @@ const animeList = [
 			'Food for the Soul',
 		],
 		[ 132 ],
-		'TV', 1, 2025, 'Original', 0, 0,
+		0, 1, 2025, 4, 0, 0,
 		[
 			'tGourmet',
 			'tCGDCT',
@@ -50,7 +50,7 @@ const animeList = [
 			'Teogonia',
 		],
 		[ 406 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -66,7 +66,7 @@ const animeList = [
 			'Yandere Dark Elf: She Chased Me All the Way From Another World!',
 		],
 		[ 2928 ],
-		'TV', 1, 2025, 'Web manga', 2, 0,
+		0, 1, 2025, 2, 2, 0,
 		[
 			'tComedy',
 			'tFantasy',
@@ -81,7 +81,7 @@ const animeList = [
 			'アポカリプスホテル',
 		],
 		[ 1893 ],
-		'TV', 1, 2025, 'Original', 0, 0,
+		0, 1, 2025, 4, 0, 0,
 		[
 			'tSciFi',
 			'tFavoriteAnime',
@@ -93,7 +93,7 @@ const animeList = [
 			'Mono',
 		],
 		[ 2917 ],
-		'TV', 1, 2025, '4-koma manga', 0, 0,
+		0, 1, 2025, 3, 0, 0,
 		[
 			'tComedy',
 			'tCGDCT',
@@ -107,7 +107,7 @@ const animeList = [
 			'宇宙人ムームー',
 		],
 		[ 28 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tSciFi',
@@ -122,7 +122,7 @@ const animeList = [
 			'A Ninja and an Assassin Under One Roof',
 		],
 		[ 44 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tSliceofLife',
 			'tShounen',
@@ -139,7 +139,7 @@ const animeList = [
 			'The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom',
 		],
 		[ 1103 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tFantasy',
 			'tRomance',
@@ -152,7 +152,7 @@ const animeList = [
 			'Summer Pockets',
 		],
 		[ 91 ],
-		'TV', 1, 2025, 'Visual novel', 0, 0,
+		0, 1, 2025, 6, 0, 0,
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
@@ -166,7 +166,7 @@ const animeList = [
 			'The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries',
 		],
 		[ 2696 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tMystery',
 			'tSupernatural',
@@ -186,7 +186,7 @@ const animeList = [
 			'The Shiunji Family Children',
 		],
 		[ 95 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tRomance',
@@ -202,7 +202,7 @@ const animeList = [
 			"ざつ旅 -That's Journey-",
 		],
 		[ 2622 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tAdventure',
 			'tSliceofLife',
@@ -217,7 +217,7 @@ const animeList = [
 			"Makina-san's a Love Bot?!",
 		],
 		[ 2144 ],
-		'TV', 1, 2025, 'Manga', 2, 0,
+		0, 1, 2025, 0, 2, 0,
 		[
 			'tComedy',
 			'tRomance',
@@ -234,7 +234,7 @@ const animeList = [
 			"The Gorilla God's Go-To Girl",
 		],
 		[ 3048 ],
-		'TV', 1, 2025, 'Web manga', 0, 0,
+		0, 1, 2025, 2, 0, 0,
 		[
 			'tFantasy',
 			'tRomance',
@@ -247,7 +247,7 @@ const animeList = [
 			'ウィッチウォッチ',
 		],
 		[ 1722 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -265,7 +265,7 @@ const animeList = [
 			'From Old Country Bumpkin to Master Swordsman',
 		],
 		[ 911, 2370 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -280,7 +280,7 @@ const animeList = [
 			'九龍ジェネリックロマンス',
 		],
 		[ 1874 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tRomance',
 			'tSciFi',
@@ -297,7 +297,7 @@ const animeList = [
 			'Can a Boy-Girl Friendship Survive?',
 		],
 		[ 7 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tComedy',
 			'tRomance',
@@ -314,7 +314,7 @@ const animeList = [
 			'Please Put Them On, Takamine-san',
 		],
 		[ 839 ],
-		'TV', 1, 2025, 'Manga', 2, 0,
+		0, 1, 2025, 0, 2, 0,
 		[
 			'tComedy',
 			'tRomance',
@@ -331,7 +331,7 @@ const animeList = [
 			"Rock Is a Lady's Modesty",
 		],
 		[ 1258 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tMusic',
@@ -346,7 +346,7 @@ const animeList = [
 			'ユア・フォルマ',
 		],
 		[ 1393 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tMystery',
 			'tSciFi',
@@ -361,7 +361,7 @@ const animeList = [
 			"The Brilliant Healer's New Life in the Shadows",
 		],
 		[ 2622 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tFantasy',
 			'tMedical',
@@ -377,7 +377,7 @@ const animeList = [
 			'The Beginning After the End',
 		],
 		[ 1209 ],
-		'TV', 1, 2025, 'Other', 0, 0,
+		0, 1, 2025, 11, 0, 0,
 		[
 			'tFantasy',
 			'tReincarnation',
@@ -391,7 +391,7 @@ const animeList = [
 			'Catch Me at the Ballpark!',
 		],
 		[ 1264 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tSports',
@@ -408,7 +408,7 @@ const animeList = [
 			"Once Upon a Witch's Death",
 		],
 		[ 1264 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tAdventure',
 			'tDrama',
@@ -424,7 +424,7 @@ const animeList = [
 			'Sword of the Demon Hunter: Kijin Gentosho',
 		],
 		[ 1687 ],
-		'TV', 1, 2025, 'Novel', 1, 0,
+		0, 1, 2025, 7, 1, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -440,7 +440,7 @@ const animeList = [
 			'The Unaware Atelier Meister',
 		],
 		[ 1264 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -456,7 +456,7 @@ const animeList = [
 			"I'm the Evil Lord of an Intergalactic Empire!",
 		],
 		[ 2314 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tAction',
 			'tSciFi',
@@ -475,7 +475,7 @@ const animeList = [
 			'The Red Ranger Becomes an Adventurer in Another World',
 		],
 		[ 41 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -494,7 +494,7 @@ const animeList = [
 			'I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!',
 		],
 		[ 1258 ],
-		'TV', 0, 2025, 'Light novel', 0, 0,
+		0, 0, 2025, 1, 0, 0,
 		[
 			'tAction',
 			'tAdventure',
@@ -504,8 +504,10 @@ const animeList = [
 			'tFavoriteOPVisual',
 			'tFavoriteEDSong_1',
 			'tFavoriteEDSong_2',
+			'tFavoriteEDSong_3',
 			'tFavoriteEDVisual_1',
 			'tFavoriteEDVisual_2',
+			'tFavoriteEDVisual_3',
 		]
 	),
 	new Anime(
@@ -514,7 +516,7 @@ const animeList = [
 			'Sakamoto Days',
 		],
 		[ 73 ],
-		'TV', 0, 2025, 'Manga', 1, 1,
+		0, 0, 2025, 0, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -532,7 +534,7 @@ const animeList = [
 			'Ubel Blatt',
 		],
 		[ 41, 2405 ],
-		'TV', 0, 2025, 'Manga', 1, 1,
+		0, 0, 2025, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -548,7 +550,7 @@ const animeList = [
 			'Welcome to Japan, Ms. Elf!',
 		],
 		[ 1379 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -564,7 +566,7 @@ const animeList = [
 			"I May Be a Guild Receptionist, but I'll Solo Any Boss to Clock Out on Time",
 		],
 		[ 1835 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -582,7 +584,7 @@ const animeList = [
 			"From Bureaucrat to Villainess: Dad's Been Reincarnated!",
 		],
 		[ 30 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -601,7 +603,7 @@ const animeList = [
 			"Anyway, I'm Falling in Love with You.",
 		],
 		[ 1340 ],
-		'TV', 0, 2025, 'Manga', 0, 2,
+		0, 0, 2025, 0, 0, 2,
 		[
 			'tDrama',
 			'tRomance',
@@ -618,7 +620,7 @@ const animeList = [
 			'The Daily Life of a Middle-Aged Online Shopper in Another World',
 		],
 		[ 2455 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tFantasy',
 			'tHarem',
@@ -634,7 +636,7 @@ const animeList = [
 			'Even Given the Worthless "Appraiser" Class, I’m Actually the Strongest',
 		],
 		[ 2037 ],
-		'TV', 0, 2025, 'Light novel', 1, 1,
+		0, 0, 2025, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -650,7 +652,7 @@ const animeList = [
 			"I'm a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic",
 		],
 		[ 37, 553 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -664,7 +666,7 @@ const animeList = [
 			'Magic Maker: How to Make Magic in Another World',
 		],
 		[ 37 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -679,7 +681,7 @@ const animeList = [
 			'ハニーレモンソーダ',
 		],
 		[ 7 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -694,7 +696,7 @@ const animeList = [
 			'Flower and Asura',
 		],
 		[ 1993 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tDrama',
 			'tSchool',
@@ -709,7 +711,7 @@ const animeList = [
 			'Promise of Wizard',
 		],
 		[ 839 ],
-		'TV', 0, 2025, 'Game', 0, 2,
+		0, 0, 2025, 8, 0, 2,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -724,7 +726,7 @@ const animeList = [
 			'Medaka Kuroiwa is Impervious to My Charms',
 		],
 		[ 118 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -741,7 +743,7 @@ const animeList = [
 			'I Have a Crush at Work',
 		],
 		[ 1547 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -759,7 +761,7 @@ const animeList = [
 			'Zenshuu',
 		],
 		[ 569 ],
-		'TV', 0, 2025, 'Original', 0, 1,
+		0, 0, 2025, 4, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -775,7 +777,7 @@ const animeList = [
 			'I Want to Escape from Princess Lessons',
 		],
 		[ 1264 ],
-		'TV', 0, 2025, 'Manga', 0, 2,
+		0, 0, 2025, 0, 0, 2,
 		[
 			'tComedy',
 			'tRomance',
@@ -789,7 +791,7 @@ const animeList = [
 			"Okitsura: Fell in Love with an Okinawan Girl, but I Just Wish I Know What She's Saying",
 		],
 		[ 1237 ],
-		'TV', 0, 2025, 'Web manga', 0, 1,
+		0, 0, 2025, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -806,7 +808,7 @@ const animeList = [
 			"I'm Living with an Otaku NEET Kunoichi!?",
 		],
 		[ 2314 ],
-		'TV', 0, 2025, 'Web manga', 0, 1,
+		0, 0, 2025, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -821,7 +823,7 @@ const animeList = [
 			'誰ソ彼ホテル',
 		],
 		[ 753 ],
-		'TV', 0, 2025, 'Game', 0, 1,
+		0, 0, 2025, 8, 0, 1,
 		[
 			'tFantasy',
 			'tMystery',
@@ -834,7 +836,7 @@ const animeList = [
 			'空色ユーティリティ',
 		],
 		[ 2009 ],
-		'TV', 0, 2025, 'Original', 0, 1,
+		0, 0, 2025, 4, 0, 1,
 		[
 			'tSports',
 			'tCGDCT',
@@ -851,7 +853,7 @@ const animeList = [
 			"I'm Getting Married to a Girl I Hate in My Class",
 		],
 		[ 418, 1299 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -865,7 +867,7 @@ const animeList = [
 			'もめんたりー・リリィ',
 		],
 		[ 309 ],
-		'TV', 0, 2025, 'Original', 0, 1,
+		0, 0, 2025, 4, 0, 1,
 		[
 			'tAction',
 		]
@@ -878,7 +880,7 @@ const animeList = [
 			'Ameku M.D.: Doctor Detective',
 		],
 		[ 439 ],
-		'TV', 0, 2025, 'Novel', 0, 1,
+		0, 0, 2025, 7, 0, 1,
 		[
 			'tMystery',
 			'tAdultCast',
@@ -894,7 +896,7 @@ const animeList = [
 			'Possibly the Greatest Alchemist of All Time',
 		],
 		[ 126 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -910,7 +912,7 @@ const animeList = [
 			'Headhunted to Another World: From Salaryman to Big Four!',
 		],
 		[ 1857, 2725 ],
-		'TV', 0, 2025, 'Web manga', 0, 1,
+		0, 0, 2025, 2, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -926,7 +928,7 @@ const animeList = [
 			'Bogus Skill Fruitmaster: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)',
 		],
 		[ 406 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -941,7 +943,7 @@ const animeList = [
 			"Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!",
 		],
 		[ 1379, 2985 ],
-		'TV', 0, 2025, 'Manga', 2, 1,
+		0, 0, 2025, 0, 2, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -960,7 +962,7 @@ const animeList = [
 			'Summer Time Rendering',
 		],
 		[ 28 ],
-		'TV', 1, 2022, 'Manga', 1, 1,
+		0, 1, 2022, 0, 1, 1,
 		[
 			'tMystery',
 			'tSupernatural',
@@ -980,7 +982,7 @@ const animeList = [
 			'Demon Lord 2099',
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -997,7 +999,7 @@ const animeList = [
 			'ハミダシクリエイティブ',
 		],
 		[ 2370 ],
-		'TV', 3, 2024, 'Visual novel', 0, 1,
+		0, 3, 2024, 6, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -1011,7 +1013,7 @@ const animeList = [
 			'The Do-Over Damsel Conquers The Dragon Emperor',
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -1029,7 +1031,7 @@ const animeList = [
 			'Nina the Starry Bride',
 		],
 		[ 1278 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tJosei',
@@ -1043,7 +1045,7 @@ const animeList = [
 			'A Terrified Teacher at Ghoul School!',
 		],
 		[ 41 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -1063,7 +1065,7 @@ const animeList = [
 			'Mecha-Ude: Mechanical Arms',
 		],
 		[ 1843 ],
-		'TV', 3, 2024, 'Original', 0, 1,
+		0, 3, 2024, 4, 0, 1,
 		[
 			'tAction',
 			'tSciFi',
@@ -1079,7 +1081,7 @@ const animeList = [
 			'Yakuza Fiancé',
 		],
 		[ 37 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tOrganizedCrime',
@@ -1094,7 +1096,7 @@ const animeList = [
 			'Puniru is a Kawaii Slime',
 		],
 		[ 2705 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tAnthropomorphic',
@@ -1110,7 +1112,7 @@ const animeList = [
 			'If My Wife Becomes an Elementary School Student.',
 		],
 		[ 1998 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1127,7 +1129,7 @@ const animeList = [
 			'The Healer Who Was Banished From His Party, Is, in Fact, the Strongest',
 		],
 		[ 1521 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1142,7 +1144,7 @@ const animeList = [
 			'You Are Ms. Servant.',
 		],
 		[ 1440 ],
-		'TV', 3, 2024, 'Web manga', 0, 1,
+		0, 3, 2024, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1159,7 +1161,7 @@ const animeList = [
 			"The Stories of Girls Who Couldn't Be Magicians",
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Novel', 0, 1,
+		0, 3, 2024, 7, 0, 1,
 		[
 			'tFantasy',
 			'tSchool',
@@ -1173,7 +1175,7 @@ const animeList = [
 			"How I Attended an All-Guy's Mixer",
 		],
 		[ 242 ],
-		'TV', 3, 2024, 'Web manga', 0, 1,
+		0, 3, 2024, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1190,7 +1192,7 @@ const animeList = [
 			'Magilumiere Magical Girls Inc.',
 		],
 		[ 7, 2855 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdultCast',
@@ -1208,7 +1210,7 @@ const animeList = [
 			'Kinokoinu Mushroom Pup',
 		],
 		[ 1075 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tSliceofLife',
 			'tAdultCast',
@@ -1225,7 +1227,7 @@ const animeList = [
 			'Good Bye, Dragon Life',
 		],
 		[ 118, 136 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1241,7 +1243,7 @@ const animeList = [
 			'365 Days to the Wedding',
 		],
 		[ 242 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tAdultCast',
@@ -1259,7 +1261,7 @@ const animeList = [
 			'Blue Box',
 		],
 		[ 94 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tSports',
@@ -1282,7 +1284,7 @@ const animeList = [
 			'ダンダダン',
 		],
 		[ 1591 ],
-		'TV', 3, 2024, 'Manga', 1, 1,
+		0, 3, 2024, 0, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -1303,7 +1305,7 @@ const animeList = [
 			'Negative Positive Angler',
 		],
 		[ 1567 ],
-		'TV', 3, 2024, 'Original', 0, 1,
+		0, 3, 2024, 4, 0, 1,
 		[
 			'tAdultCast',
 			'tSliceofLife',
@@ -1316,7 +1318,7 @@ const animeList = [
 			'アクロトリップ',
 		],
 		[ 2698 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tParody',
@@ -1332,7 +1334,7 @@ const animeList = [
 			"I'll Become a Villainess Who Goes Down in History",
 		],
 		[ 1978 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -1351,7 +1353,7 @@ const animeList = [
 			'Tying the Knot with an Amagami Sister',
 		],
 		[ 1967 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1373,7 +1375,7 @@ const animeList = [
 			`The Most Notorious "Talker" Runs the World's Greatest Clan`
 		],
 		[ 1440, 2387 ],
-		'TV', 3, 2024, 'Light novel', 1, 1,
+		0, 3, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1389,7 +1391,7 @@ const animeList = [
 			'Let This Grieving Soul Retire',
 		],
 		[ 1379 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1405,7 +1407,7 @@ const animeList = [
 			'Loner Life in Another World',
 		],
 		[ 911, 2370 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1425,7 +1427,7 @@ const animeList = [
 			'Why Does Nobody Remember Me in This World?',
 		],
 		[ 439 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -1441,7 +1443,7 @@ const animeList = [
 			'Makeine: Too Many Losing Heroines!',
 		],
 		[ 56 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1460,7 +1462,7 @@ const animeList = [
 			'ばいばい、アース 第2シーズン',
 		],
 		[ 839 ],
-		'TV', 1, 2025, 'Light novel', 0, 2,
+		0, 1, 2025, 1, 0, 2,
 		[
 			'tAction',
 			'tAdventure',
@@ -1475,7 +1477,7 @@ const animeList = [
 			'ばいばい、アース',
 		],
 		[ 839 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1491,7 +1493,7 @@ const animeList = [
 			'Love Is Indivisible by Twins',
 		],
 		[ 2835 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1508,7 +1510,7 @@ const animeList = [
 			'The Magical Girl and the Evil Lieutenant Used to Be Archenemies',
 		],
 		[ 4 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1529,7 +1531,7 @@ const animeList = [
 			'Narenare -Cheer for You!-',
 		],
 		[ 132 ],
-		'TV', 2, 2024, 'Original', 0, 1,
+		0, 2, 2024, 4, 0, 1,
 		[
 			'tSports',
 			'tDrama',
@@ -1544,7 +1546,7 @@ const animeList = [
 			'Midnight Punch',
 		],
 		[ 132 ],
-		'TV', 2, 2024, 'Original', 0, 1,
+		0, 2, 2024, 4, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -1560,7 +1562,7 @@ const animeList = [
 			'A Journey Through Another World: Raising Kids While Adventuring',
 		],
 		[ 1264 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -1578,7 +1580,7 @@ const animeList = [
 			'Plus-Sized Elf',
 		],
 		[ 2928 ],
-		'TV', 2, 2024, 'Web manga', 2, 2,
+		0, 2, 2024, 2, 2, 2,
 		[
 			'tComedy',
 			'tFantasy',
@@ -1593,7 +1595,7 @@ const animeList = [
 			'VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream',
 		],
 		[ 120 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -1609,7 +1611,7 @@ const animeList = [
 			'Wistoria: Wand and Sword',
 		],
 		[ 60, 1258 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1627,7 +1629,7 @@ const animeList = [
 			'Dahlia in Bloom: Crafting a Fresh Start with Magical Tools',
 		],
 		[ 1340, 2844 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -1644,7 +1646,7 @@ const animeList = [
 			'Shoshimin: How to Become Ordinary Season 2',
 		],
 		[ 1828 ],
-		'TV', 1, 2025, 'Novel', 0, 0,
+		0, 1, 2025, 7, 0, 0,
 		[
 			'tMystery',
 			'tSchool',
@@ -1663,7 +1665,7 @@ const animeList = [
 			'Shoshimin: How to Become Ordinary',
 		],
 		[ 1828 ],
-		'TV', 2, 2024, 'Novel', 0, 1,
+		0, 2, 2024, 7, 0, 1,
 		[
 			'tMystery',
 			'tSchool',
@@ -1680,7 +1682,7 @@ const animeList = [
 			"A Nobody's Way Up to an Exploration Hero",
 		],
 		[ 2554 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1695,7 +1697,7 @@ const animeList = [
 			'Dungeon People',
 		],
 		[ 28 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -1712,7 +1714,7 @@ const animeList = [
 			'Quality Assurance in Another World',
 		],
 		[ 2201, 2696 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -1728,7 +1730,7 @@ const animeList = [
 			'2.5 Dimensional Seduction',
 		],
 		[ 7 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -1746,7 +1748,7 @@ const animeList = [
 			'ラーメン赤猫',
 		],
 		[ 2642 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tAnthropomorphic',
@@ -1762,7 +1764,7 @@ const animeList = [
 			'Atri -My Dear Moments-',
 		],
 		[ 1103 ],
-		'TV', 2, 2024, 'Visual novel', 0, 1,
+		0, 2, 2024, 6, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -1779,7 +1781,7 @@ const animeList = [
 			'Senpai is an Otokonoko',
 		],
 		[ 439 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tRomance',
 			'tCrossdressing',
@@ -1798,7 +1800,7 @@ const animeList = [
 			'Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells',
 		],
 		[ 35 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1815,7 +1817,7 @@ const animeList = [
 			'Pseudo Harem',
 		],
 		[ 70 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tLoveStatusQuo',
 			'tSchool',
@@ -1833,7 +1835,7 @@ const animeList = [
 			'I Parry Everything',
 		],
 		[ 28 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1850,7 +1852,7 @@ const animeList = [
 			'My Deer Friend Nokotan',
 		],
 		[ 858 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tGagHumor',
@@ -1869,7 +1871,7 @@ const animeList = [
 			'No Longer Allowed In Another World',
 		],
 		[ 2298 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -1888,7 +1890,7 @@ const animeList = [
 			'Alya Sometimes Hides Her Feelings in Russian',
 		],
 		[ 95 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1905,7 +1907,7 @@ const animeList = [
 			'Tasuketsu -Fate of the Majority-',
 		],
 		[ 41 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -1923,7 +1925,7 @@ const animeList = [
 			'The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible',
 		],
 		[ 96 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1939,7 +1941,7 @@ const animeList = [
 			'My Wife Has No Emotion',
 		],
 		[ 200 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -1955,7 +1957,7 @@ const animeList = [
 			'Days with My Stepsister',
 		],
 		[ 37 ],
-		'TV', 2, 2024, 'Light novel', 0, 1,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tRomance',
 			'tFavoriteAnime',
@@ -1969,7 +1971,7 @@ const animeList = [
 			"The Strongest Magician in the Demon Lord's Army Was a Human",
 		],
 		[ 1209 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1986,7 +1988,7 @@ const animeList = [
 			'Dead Dead Demons Dededede Destruction',
 		],
 		[ 2157 ],
-		'ONA', 1, 2024, 'Manga', 0, 2,
+		3, 1, 2024, 0, 0, 2,
 		[
 			'tDrama',
 			'tSciFi',
@@ -2002,7 +2004,7 @@ const animeList = [
 			'Dead Dead Demons Dededede Destruction Episode 0',
 		],
 		[ 2157 ],
-		'ONA', 1, 2024, 'Manga', 0, 1,
+		3, 1, 2024, 0, 0, 1,
 		[
 			'tDrama',
 			'tSciFi',
@@ -2018,7 +2020,7 @@ const animeList = [
 			'GATE Part 2',
 		],
 		[ 56 ],
-		'TV', 0, 2016, 'Light novel', 1, 1,
+		0, 0, 2016, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2035,7 +2037,7 @@ const animeList = [
 			'GATE',
 		],
 		[ 56 ],
-		'TV', 2, 2015, 'Light novel', 1, 1,
+		0, 2, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2052,7 +2054,7 @@ const animeList = [
 			'Whisper Me a Love Song',
 		],
 		[ 1687, 2600 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tYuri',
 			'tMusic',
@@ -2068,7 +2070,7 @@ const animeList = [
 			'Kaiju No. 8',
 		],
 		[ 10 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tSciFi',
@@ -2088,7 +2090,7 @@ const animeList = [
 			'The New Gate',
 		],
 		[ 1687, 2600 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2104,7 +2106,7 @@ const animeList = [
 			'Mysterious Disappearances',
 		],
 		[ 1379 ],
-		'TV', 1, 2024, 'Web manga', 0, 1,
+		0, 1, 2024, 2, 0, 1,
 		[
 			'tMystery',
 			'tSupernatural',
@@ -2119,7 +2121,7 @@ const animeList = [
 			'The Many Sides of Voice Actor Radio',
 		],
 		[ 957 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tYuri',
@@ -2136,7 +2138,7 @@ const animeList = [
 			'Go! Go! Loser Ranger! Season 2',
 		],
 		[ 2009 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tAction',
 			'tShounen',
@@ -2153,7 +2155,7 @@ const animeList = [
 			'Go! Go! Loser Ranger!',
 		],
 		[ 2009 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tShounen',
@@ -2171,7 +2173,7 @@ const animeList = [
 			'ヴァンパイア男子寮',
 		],
 		[ 478 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tSupernatural',
@@ -2188,7 +2190,7 @@ const animeList = [
 			'ブルーアーカイブ The Animation',
 		],
 		[ 2009, 2134 ],
-		'TV', 1, 2024, 'Game', 0, 1,
+		0, 1, 2024, 8, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -2206,7 +2208,7 @@ const animeList = [
 			'Grandpa and Grandma Turn Young Again',
 		],
 		[ 2554 ],
-		'TV', 1, 2024, 'Web manga', 0, 1,
+		0, 1, 2024, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -2222,7 +2224,7 @@ const animeList = [
 			'Mission: Yozakura Family',
 		],
 		[ 300 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -2241,7 +2243,7 @@ const animeList = [
 			'となりの妖怪さん',
 		],
 		[ 839 ],
-		'TV', 1, 2024, 'Web manga', 0, 1,
+		0, 1, 2024, 2, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -2257,7 +2259,7 @@ const animeList = [
 			"Jellyfish Can't Swim in the Night",
 		],
 		[ 95 ],
-		'TV', 1, 2024, 'Original', 0, 1,
+		0, 1, 2024, 4, 0, 1,
 		[
 			'tMusic',
 			'tDrama',
@@ -2273,7 +2275,7 @@ const animeList = [
 			'A Condition Called Love',
 		],
 		[ 2455 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -2291,7 +2293,7 @@ const animeList = [
 			'A Salad Bowl of Eccentrics',
 		],
 		[ 118, 126 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -2307,7 +2309,7 @@ const animeList = [
 			"An Archdemon's Dilemma: How to Love Your Elf Bride",
 		],
 		[ 112 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -2324,7 +2326,7 @@ const animeList = [
 			"Chillin' in Another World with Level 2 Super Cheat Powers",
 		],
 		[ 7 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2339,7 +2341,7 @@ const animeList = [
 			'Unnamed Memory Season 2',
 		],
 		[ 1974 ],
-		'TV', 0, 2025, 'Light novel', 0, 1,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2352,7 +2354,7 @@ const animeList = [
 			'Unnamed Memory',
 		],
 		[ 1974 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2368,7 +2370,7 @@ const animeList = [
 			'Bartender: Glass of God',
 		],
 		[ 2527 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tDrama',
 			'tGourmet',
@@ -2386,7 +2388,7 @@ const animeList = [
 			"As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
 		],
 		[ 2246 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2404,7 +2406,7 @@ const animeList = [
 			"As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World",
 		],
 		[ 2246 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2420,7 +2422,7 @@ const animeList = [
 			'アストロノオト',
 		],
 		[ 94 ],
-		'TV', 1, 2024, 'Original', 0, 1,
+		0, 1, 2024, 4, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -2435,7 +2437,7 @@ const animeList = [
 			'Train to the End of the World',
 		],
 		[ 1264 ],
-		'TV', 1, 2024, 'Original', 0, 1,
+		0, 1, 2024, 4, 0, 1,
 		[
 			'tAdventure',
 			'tFavoriteAnime',
@@ -2453,7 +2455,7 @@ const animeList = [
 			'I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability',
 		],
 		[ 2212 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2469,7 +2471,7 @@ const animeList = [
 			'Spice and Wolf: Merchant Meets the Wise Wolf',
 		],
 		[ 911 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -2492,7 +2494,7 @@ const animeList = [
 			'Re:Monster',
 		],
 		[ 37 ],
-		'TV', 1, 2024, 'Light novel', 1, 1,
+		0, 1, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2510,7 +2512,7 @@ const animeList = [
 			"Gods' Game We Play",
 		],
 		[ 839 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSuspense',
@@ -2528,7 +2530,7 @@ const animeList = [
 			'The Banished Former Hero Lives as He Pleases',
 		],
 		[ 37, 553 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2544,7 +2546,7 @@ const animeList = [
 			'Studio Apartment, Good Lighting, Angel Included',
 		],
 		[ 2037 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -2563,7 +2565,7 @@ const animeList = [
 			'映画 ODD TAXI イン・ザ・ウッズ',
 		],
 		[ 28, 1872 ],
-		'Movie', 1, 2022, 'Original', 0, 1,
+		4, 1, 2022, 4, 0, 1,
 		[
 			'tDrama',
 			'tMystery',
@@ -2580,7 +2582,7 @@ const animeList = [
 			'オッドタクシー',
 		],
 		[ 28, 1872 ],
-		'TV', 1, 2021, 'Original', 0, 1,
+		0, 1, 2021, 4, 0, 1,
 		[
 			'tDrama',
 			'tMystery',
@@ -2598,7 +2600,7 @@ const animeList = [
 			'Gushing over Magical Girls',
 		],
 		[ 406 ],
-		'TV', 0, 2024, 'Web manga', 2, 1,
+		0, 0, 2024, 2, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -2615,7 +2617,7 @@ const animeList = [
 			'Isekai Onsen Paradise',
 		],
 		[ 2052, 2144 ],
-		'TV', 0, 2024, 'Light novel', 2, 1,
+		0, 0, 2024, 1, 2, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -2630,7 +2632,7 @@ const animeList = [
 			'The Weakest Tamer Began a Journey to Pick Up Trash',
 		],
 		[ 2411 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2652,7 +2654,7 @@ const animeList = [
 			'Doctor Elise: The Royal Lady with the Lamp',
 		],
 		[ 1978 ],
-		'TV', 0, 2024, 'Web manga', 0, 1,
+		0, 0, 2024, 2, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -2668,7 +2670,7 @@ const animeList = [
 			'Sengoku Youko 2nd Season',
 		],
 		[ 314 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2686,7 +2688,7 @@ const animeList = [
 			'戦国妖狐',
 		],
 		[ 314 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2705,7 +2707,7 @@ const animeList = [
 			"Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord",
 		],
 		[ 755 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -2725,7 +2727,7 @@ const animeList = [
 			'In the Land of Leadale',
 		],
 		[ 1978 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -2742,7 +2744,7 @@ const animeList = [
 			'Hokkaido Gals Are Super Adorable!',
 		],
 		[ 300, 1547 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -2760,7 +2762,7 @@ const animeList = [
 			`'Tis Time for "Torture," Princess`
 		],
 		[ 1295 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -2777,7 +2779,7 @@ const animeList = [
 			'The Foolish Angel Dances with the Devil',
 		],
 		[ 1407 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -2796,7 +2798,7 @@ const animeList = [
 			"Mr. Villain's Day Off",
 		],
 		[ 118, 247 ],
-		'TV', 0, 2024, 'Web manga', 0, 1,
+		0, 0, 2024, 2, 0, 1,
 		[
 			'tFantasy',
 			'tUrbanFantasy',
@@ -2812,7 +2814,7 @@ const animeList = [
 			'7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!',
 		],
 		[ 1997, 2097 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tTimeTravel',
 			'tRomance',
@@ -2830,7 +2832,7 @@ const animeList = [
 			"The Strongest Tank's Labyrinth Raids",
 		],
 		[ 2828 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2845,7 +2847,7 @@ const animeList = [
 			'Solo Leveling Season 2: Arise from the Shadow',
 		],
 		[ 56 ],
-		'TV', 0, 2025, 'Web manga', 1, 1,
+		0, 0, 2025, 2, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2865,7 +2867,7 @@ const animeList = [
 			'Solo Leveling',
 		],
 		[ 56 ],
-		'TV', 0, 2024, 'Web manga', 1, 1,
+		0, 0, 2024, 2, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2885,7 +2887,7 @@ const animeList = [
 			'A Sign of Affection',
 		],
 		[ 30 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tRomance',
 			'tAdultCast',
@@ -2902,7 +2904,7 @@ const animeList = [
 			'Tales of Wedding Rings',
 		],
 		[ 2405 ],
-		'TV', 0, 2024, 'Manga', 2, 1,
+		0, 0, 2024, 0, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -2923,7 +2925,7 @@ const animeList = [
 			'The Demon Prince of Momochi House',
 		],
 		[ 1967 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tSupernatural',
 			'tRomance',
@@ -2939,7 +2941,7 @@ const animeList = [
 			'The Wrong Way to Use Healing Magic',
 		],
 		[ 247, 2760 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -2956,7 +2958,7 @@ const animeList = [
 			'The Unwanted Undead Adventurer',
 		],
 		[ 957 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -2974,7 +2976,7 @@ const animeList = [
 			'Sasaki and Peeps',
 		],
 		[ 300 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -2993,7 +2995,7 @@ const animeList = [
 			'My Instant Death Ability is So Overpowered, No One in This Other World Stands a Chance Against Me!',
 		],
 		[ 2037 ],
-		'TV', 0, 2024, 'Light novel', 1, 1,
+		0, 0, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3011,7 +3013,7 @@ const animeList = [
 			'Chained Soldier',
 		],
 		[ 35 ],
-		'TV', 0, 2024, 'Manga', 2, 1,
+		0, 0, 2024, 0, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3028,7 +3030,7 @@ const animeList = [
 			'Delicious in Dungeon',
 		],
 		[ 803 ],
-		'TV', 0, 2024, 'Manga', 1, 1,
+		0, 0, 2024, 0, 1, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -3051,7 +3053,7 @@ const animeList = [
 			'異修羅 第2期',
 		],
 		[ 911 ],
-		'TV', 0, 2025, 'Light novel', 1, 1,
+		0, 0, 2025, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3067,7 +3069,7 @@ const animeList = [
 			'異修羅',
 		],
 		[ 911 ],
-		'TV', 0, 2024, 'Light novel', 1, 1,
+		0, 0, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3084,7 +3086,7 @@ const animeList = [
 			'Fluffy Paradise',
 		],
 		[ 1264 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -3100,7 +3102,7 @@ const animeList = [
 			'The Way of the Househusband Season 2',
 		],
 		[ 7 ],
-		'ONA', 0, 2023, 'Web manga', 0, 1,
+		3, 0, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -3117,7 +3119,7 @@ const animeList = [
 			'The Way of the Househusband Part 2',
 		],
 		[ 7 ],
-		'ONA', 3, 2021, 'Web manga', 0, 1,
+		3, 3, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -3134,7 +3136,7 @@ const animeList = [
 			'The Way of the Househusband',
 		],
 		[ 7 ],
-		'ONA', 1, 2021, 'Web manga', 0, 1,
+		3, 1, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -3151,7 +3153,7 @@ const animeList = [
 			'Wandering Witch: The Journey of Elaina',
 		],
 		[ 605 ],
-		'TV', 3, 2020, 'Light novel', 1, 1,
+		0, 3, 2020, 1, 1, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -3165,7 +3167,7 @@ const animeList = [
 			'グッド・ナイト・ワールド',
 		],
 		[ 951 ],
-		'ONA', 3, 2023, 'Web manga', 1, 1,
+		3, 3, 2023, 2, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -3181,7 +3183,7 @@ const animeList = [
 			'The Apothecary Diaries Season 2',
 		],
 		[ 28, 2705 ],
-		'TV', 0, 2025, 'Light novel', 0, 0,
+		0, 0, 2025, 1, 0, 0,
 		[
 			'tDrama',
 			'tMystery',
@@ -3202,7 +3204,7 @@ const animeList = [
 			'The Apothecary Diaries',
 		],
 		[ 28, 2705 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tDrama',
 			'tMystery',
@@ -3220,7 +3222,7 @@ const animeList = [
 			'アンデッドアンラック',
 		],
 		[ 287 ],
-		'TV', 3, 2023, 'Manga', 1, 1,
+		0, 3, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -3243,7 +3245,7 @@ const animeList = [
 			'Stardust Telepath',
 		],
 		[ 418 ],
-		'TV', 3, 2023, '4-koma manga', 0, 1,
+		0, 3, 2023, 3, 0, 1,
 		[
 			'tComedy',
 			'tYuri',
@@ -3265,7 +3267,7 @@ const animeList = [
 			'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You Season 2',
 		],
 		[ 1722 ],
-		'TV', 0, 2025, 'Manga', 0, 1,
+		0, 0, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -3285,7 +3287,7 @@ const animeList = [
 			'The 100 Girlfriends Who Really, Really, Really, Really, Really Love You',
 		],
 		[ 1722 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -3306,7 +3308,7 @@ const animeList = [
 			'Protocol: Rain',
 		],
 		[ 2314 ],
-		'TV', 3, 2023, 'Original', 0, 1,
+		0, 3, 2023, 4, 0, 1,
 		[
 			'tAction',
 			'tVideoGame',
@@ -3320,7 +3322,7 @@ const animeList = [
 			'I Shall Survive Using Potions!',
 		],
 		[ 755 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -3336,7 +3338,7 @@ const animeList = [
 			'Tearmoon Empire',
 		],
 		[ 300 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tVillainess',
@@ -3352,7 +3354,7 @@ const animeList = [
 			'Butareba -The Story of a Man Who Turned into a Pig-',
 		],
 		[ 439 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -3367,7 +3369,7 @@ const animeList = [
 			"A Returner's Magic Should Be Special",
 		],
 		[ 1874 ],
-		'TV', 3, 2023, 'Web manga', 0, 1,
+		0, 3, 2023, 2, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3383,7 +3385,7 @@ const animeList = [
 			'The Vexations of a Shut-In Vampire Princess',
 		],
 		[ 439 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -3401,7 +3403,7 @@ const animeList = [
 			'The Kingdoms of Ruin',
 		],
 		[ 1687 ],
-		'TV', 3, 2023, 'Manga', 1, 1,
+		0, 3, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -3419,7 +3421,7 @@ const animeList = [
 			'Our Dating Story: The Experienced You and The Inexperienced Me',
 		],
 		[ 1974 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -3433,7 +3435,7 @@ const animeList = [
 			"The Yuzuki Family's Four Sons",
 		],
 		[ 1119 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tSliceofLife',
 			'tSchool',
@@ -3447,7 +3449,7 @@ const animeList = [
 			'16bitセンセーション ANOTHER LAYER',
 		],
 		[ 1873 ],
-		'TV', 3, 2023, 'Web manga', 0, 1,
+		0, 3, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -3470,7 +3472,7 @@ const animeList = [
 			"I'm Giving the Disgraced Noble Lady I Rescued a Crash Course in Naughtiness",
 		],
 		[ 1379, 1796 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -3486,7 +3488,7 @@ const animeList = [
 			"I'm in Love with the Villainess",
 		],
 		[ 1471 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -3505,7 +3507,7 @@ const animeList = [
 			'The Demon Sword Master of Excalibur Academy',
 		],
 		[ 911 ],
-		'TV', 3, 2023, 'Light novel', 1, 1,
+		0, 3, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3522,7 +3524,7 @@ const animeList = [
 			"A Playthrough of a Certain Dude's VRMMO Life",
 		],
 		[ 1978 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3541,7 +3543,7 @@ const animeList = [
 			'Shy Season 2',
 		],
 		[ 441 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -3557,7 +3559,7 @@ const animeList = [
 			'シャイ',
 		],
 		[ 441 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -3575,7 +3577,7 @@ const animeList = [
 			'Berserk of Gluttony',
 		],
 		[ 179 ],
-		'TV', 3, 2023, 'Light novel', 1, 1,
+		0, 3, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3589,7 +3591,7 @@ const animeList = [
 			'The Family Circumstances of the Irregular Witch',
 		],
 		[ 1257 ],
-		'TV', 3, 2023, '4-koma manga', 0, 1,
+		0, 3, 2023, 3, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -3605,7 +3607,7 @@ const animeList = [
 			'Shangri-La Frontier Season 2',
 		],
 		[ 605 ],
-		'TV', 3, 2024, 'Manga', 0, 1,
+		0, 3, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3629,7 +3631,7 @@ const animeList = [
 			'Shangri-La Frontier',
 		],
 		[ 605 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3654,7 +3656,7 @@ const animeList = [
 			'ラグナクリムゾン',
 		],
 		[ 300 ],
-		'TV', 3, 2023, 'Manga', 1, 1,
+		0, 3, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3669,7 +3671,7 @@ const animeList = [
 			"Frieren: Beyond Journey's End",
 		],
 		[ 11 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -3693,7 +3695,7 @@ const animeList = [
 			'A Girl & Her Guard Dog',
 		],
 		[ 439 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -3710,7 +3712,7 @@ const animeList = [
 			'My Daughter Left the Nest and Returned an S-Rank Adventurer',
 		],
 		[ 1340 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -3725,7 +3727,7 @@ const animeList = [
 			'Saint Cecilia and Pastor Lawrence',
 		],
 		[ 95 ],
-		'TV', 2, 2023, '4-koma manga', 0, 1,
+		0, 2, 2023, 3, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -3744,7 +3746,7 @@ const animeList = [
 			'ヘルク',
 		],
 		[ 41 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3757,7 +3759,7 @@ const animeList = [
 			'ダークギャザリング',
 		],
 		[ 28 ],
-		'TV', 2, 2023, 'Manga', 1, 1,
+		0, 2, 2023, 0, 1, 1,
 		[
 			'tHorror',
 			'tSupernatural',
@@ -3772,7 +3774,7 @@ const animeList = [
 			'Classroom for Heroes',
 		],
 		[ 60 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3790,7 +3792,7 @@ const animeList = [
 			'Zom 100: Bucket List of the Dead',
 		],
 		[ 2674 ],
-		'TV', 2, 2023, 'Manga', 1, 1,
+		0, 2, 2023, 0, 1, 1,
 		[
 			'tComedy',
 			'tSuspense',
@@ -3810,7 +3812,7 @@ const animeList = [
 			'TenPuru: No One Can Live on Loneliness Specials',
 		],
 		[ 2554 ],
-		'TV', 3, 2023, 'Web manga', 0, 1,
+		0, 3, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -3827,7 +3829,7 @@ const animeList = [
 			'TenPuru: No One Can Live on Loneliness',
 		],
 		[ 2554 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -3843,7 +3845,7 @@ const animeList = [
 			'ライアー・ライアー',
 		],
 		[ 1857 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tSuspense',
 			'tPsychological',
@@ -3862,7 +3864,7 @@ const animeList = [
 			'My Unique Skill Makes Me OP Even at Level 1',
 		],
 		[ 1978 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -3880,7 +3882,7 @@ const animeList = [
 			'The Masterful Cat Is Depressed Again Today',
 		],
 		[ 309 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -3896,7 +3898,7 @@ const animeList = [
 			'The Gene of AI',
 		],
 		[ 11 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tDrama',
 			'tSciFi',
@@ -3916,7 +3918,7 @@ const animeList = [
 			'Reign of the Seven Spellblades',
 		],
 		[ 7 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -3932,7 +3934,7 @@ const animeList = [
 			'The Great Cleric',
 		],
 		[ 1687, 2600 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -3950,7 +3952,7 @@ const animeList = [
 			'The Most Heretical Last Boss Queen: From Villainess to Savior',
 		],
 		[ 28 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -3967,7 +3969,7 @@ const animeList = [
 			'Undead Murder Farce',
 		],
 		[ 1828 ],
-		'TV', 2, 2023, 'Novel', 1, 1,
+		0, 2, 2023, 7, 1, 1,
 		[
 			'tFantasy',
 			'tMystery',
@@ -3989,7 +3991,7 @@ const animeList = [
 			'Reborn as a Vending Machine, Now I Wander the Dungeon',
 		],
 		[ 418, 1299 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -4005,7 +4007,7 @@ const animeList = [
 			'My Happy Marriage Season 2',
 		],
 		[ 290 ],
-		'TV', 0, 2025, 'Novel', 0, 1,
+		0, 0, 2025, 7, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4022,7 +4024,7 @@ const animeList = [
 			'My Happy Marriage: The Shape of My Happiness',
 		],
 		[ 290 ],
-		'OVA', 0, 2024, 'Novel', 0, 1,
+		1, 0, 2024, 7, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -4038,7 +4040,7 @@ const animeList = [
 			'My Happy Marriage',
 		],
 		[ 290 ],
-		'TV', 2, 2023, 'Novel', 0, 1,
+		0, 2, 2023, 7, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4055,7 +4057,7 @@ const animeList = [
 			'The Girl I Like Forgot Her Glasses',
 		],
 		[ 309 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -4073,7 +4075,7 @@ const animeList = [
 			'The Dreaming Boy is a Realist',
 		],
 		[ 418, 1299 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4088,7 +4090,7 @@ const animeList = [
 			'Sweet Reincarnation',
 		],
 		[ 118 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -4104,7 +4106,7 @@ const animeList = [
 			'Level 1 Demon Lord and One Room Hero',
 		],
 		[ 300, 1547 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -4119,7 +4121,7 @@ const animeList = [
 			'Atelier Ryza: Ever Darkness & the Secret Hideout The Animation',
 		],
 		[ 839 ],
-		'TV', 2, 2023, 'Game', 0, 1,
+		0, 2, 2023, 8, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -4133,7 +4135,7 @@ const animeList = [
 			'My Tiny Senpai',
 		],
 		[ 439 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4150,7 +4152,7 @@ const animeList = [
 			'Ayaka: A Story of Bonds and Wounds',
 		],
 		[ 478 ],
-		'TV', 2, 2023, 'Original', 0, 1,
+		0, 2, 2023, 4, 0, 1,
 		[
 			'tFantasy',
 			'tMythology',
@@ -4164,7 +4166,7 @@ const animeList = [
 			'Am I Actually the Strongest?',
 		],
 		[ 2405 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -4181,7 +4183,7 @@ const animeList = [
 			'Yohane the Parhelion: Sunshine in the Mirror',
 		],
 		[ 14 ],
-		'TV', 2, 2023, 'Other', 0, 1,
+		0, 2, 2023, 11, 0, 1,
 		[
 			'tFantasy',
 			'tMusic',
@@ -4197,7 +4199,7 @@ const animeList = [
 			'甘城ブリリアントパーク',
 		],
 		[ 2 ],
-		'TV', 3, 2014, 'Light novel', 0, 1,
+		0, 3, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -4212,7 +4214,7 @@ const animeList = [
 			'Mashiroiro Symphony: The Color of Lovers',
 		],
 		[ 32 ],
-		'TV', 3, 2011, 'Visual novel', 2, 1,
+		0, 3, 2011, 6, 2, 1,
 		[
 			'tDrama',
 			'tHarem',
@@ -4228,7 +4230,7 @@ const animeList = [
 			'Sacrificial Princess and the King of Beasts',
 		],
 		[ 7 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -4244,7 +4246,7 @@ const animeList = [
 			'The Blue Orchestra',
 		],
 		[ 22 ],
-		'TV', 1, 2023, 'Web manga', 0, 1,
+		0, 1, 2023, 2, 0, 1,
 		[
 			'tDrama',
 			'tMusic',
@@ -4260,7 +4262,7 @@ const animeList = [
 			'【推しの子】第2期',
 		],
 		[ 95 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tDrama',
 			'tReincarnation',
@@ -4278,7 +4280,7 @@ const animeList = [
 			'【推しの子】',
 		],
 		[ 95 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tDrama',
 			'tReincarnation',
@@ -4297,7 +4299,7 @@ const animeList = [
 			'デッドマウント・デスプレイ',
 		],
 		[ 1857 ],
-		'TV', 3, 2023, 'Manga', 1, 1,
+		0, 3, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -4314,7 +4316,7 @@ const animeList = [
 			'デッドマウント・デスプレイ',
 		],
 		[ 1857 ],
-		'TV', 1, 2023, 'Manga', 1, 1,
+		0, 1, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -4331,7 +4333,7 @@ const animeList = [
 			"The Reason Why Raeliana Ended up at the Duke's Mansion",
 		],
 		[ 1340 ],
-		'TV', 1, 2023, 'Web manga', 0, 1,
+		0, 1, 2023, 2, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -4347,7 +4349,7 @@ const animeList = [
 			'Insomniacs After School',
 		],
 		[ 839 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -4363,7 +4365,7 @@ const animeList = [
 			'Summoned to Another World for a Second Time',
 		],
 		[ 1521 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -4381,7 +4383,7 @@ const animeList = [
 			'A Galaxy Next Door',
 		],
 		[ 406 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tRomance',
 			'tSupernatural',
@@ -4399,7 +4401,7 @@ const animeList = [
 			'Too Cute Crisis',
 		],
 		[ 118 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tSciFi',
@@ -4415,7 +4417,7 @@ const animeList = [
 			'The Café Terrace and Its Goddesses Season 2',
 		],
 		[ 200 ],
-		'TV', 2, 2024, 'Manga', 0, 1,
+		0, 2, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -4433,7 +4435,7 @@ const animeList = [
 			'The Café Terrace and Its Goddesses',
 		],
 		[ 200 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -4451,7 +4453,7 @@ const animeList = [
 			'Otaku Elf',
 		],
 		[ 605 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tShounen',
@@ -4469,7 +4471,7 @@ const animeList = [
 			'Yuri is My Job!',
 		],
 		[ 911, 1813 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -4484,7 +4486,7 @@ const animeList = [
 			'My One-Hit Kill Sister',
 		],
 		[ 2554 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -4501,7 +4503,7 @@ const animeList = [
 			'Mashle: Magic and Muscles - The Divine Visionary Candidate Exam Arc',
 		],
 		[ 56 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -4523,7 +4525,7 @@ const animeList = [
 			'Mashle: Magic and Muscles',
 		],
 		[ 56 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -4543,7 +4545,7 @@ const animeList = [
 			'The Legendary Hero Is Dead!',
 		],
 		[ 839 ],
-		'TV', 1, 2023, 'Web manga', 0, 1,
+		0, 1, 2023, 2, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -4563,7 +4565,7 @@ const animeList = [
 			'KamiKatsu: Working for God in a Godless World',
 		],
 		[ 2201 ],
-		'TV', 1, 2023, 'Manga', 1, 1,
+		0, 1, 2023, 0, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -4581,7 +4583,7 @@ const animeList = [
 			'Skip and Loafer',
 		],
 		[ 132 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tDrama',
 			'tSchool',
@@ -4599,7 +4601,7 @@ const animeList = [
 			'I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too',
 		],
 		[ 1237 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -4616,7 +4618,7 @@ const animeList = [
 			'My Clueless First Friend',
 		],
 		[ 1998 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -4636,7 +4638,7 @@ const animeList = [
 			"The Aristocrat's Otherworldly Adventure: Serving Gods Who Go Too Far",
 		],
 		[ 207, 1264 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -4654,7 +4656,7 @@ const animeList = [
 			'Heavenly Delusion',
 		],
 		[ 10 ],
-		'TV', 1, 2023, 'Manga', 1, 1,
+		0, 1, 2023, 0, 1, 1,
 		[
 			'tAdventure',
 			'tMystery',
@@ -4671,7 +4673,7 @@ const animeList = [
 			'The Dangers in My Heart Season 2',
 		],
 		[ 247 ],
-		'TV', 0, 2024, 'Manga', 0, 1,
+		0, 0, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4689,7 +4691,7 @@ const animeList = [
 			'僕の心のヤバイやつ ツイヤバ',
 		],
 		[ 247 ],
-		'ONA', 3, 2023, 'Web manga', 0, 1,
+		3, 3, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4706,7 +4708,7 @@ const animeList = [
 			'The Dangers in My Heart',
 		],
 		[ 247 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4723,7 +4725,7 @@ const animeList = [
 			'My Love Story with Yamada-kun at Lv999',
 		],
 		[ 11 ],
-		'TV', 1, 2023, 'Web manga', 0, 1,
+		0, 1, 2023, 2, 0, 1,
 		[
 			'tRomance',
 			'tVideoGame',
@@ -4739,7 +4741,7 @@ const animeList = [
 			'Battle Game in 5 Seconds',
 		],
 		[ 118, 136 ],
-		'TV', 2, 2021, 'Web manga', 1, 1,
+		0, 2, 2021, 2, 1, 1,
 		[
 			'tSupernatural',
 			'tSuspense',
@@ -4757,7 +4759,7 @@ const animeList = [
 			'アカメが斬る！',
 		],
 		[ 314 ],
-		'TV', 2, 2014, 'Manga', 1, 1,
+		0, 2, 2014, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -4773,7 +4775,7 @@ const animeList = [
 			'アホガール',
 		],
 		[ 51 ],
-		'TV', 2, 2017, '4-koma manga', 0, 1,
+		0, 2, 2017, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -4788,7 +4790,7 @@ const animeList = [
 			'ナイツ&マジック',
 		],
 		[ 441 ],
-		'TV', 2, 2017, 'Light novel', 0, 1,
+		0, 2, 2017, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -4804,7 +4806,7 @@ const animeList = [
 			'Island',
 		],
 		[ 91 ],
-		'TV', 2, 2018, 'Visual novel', 0, 1,
+		0, 2, 2018, 6, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -4822,7 +4824,7 @@ const animeList = [
 			'Charlotte: The Strong Ones',
 		],
 		[ 132 ],
-		'Special', 0, 2016, 'Original', 0, 1,
+		2, 0, 2016, 4, 0, 1,
 		[
 			'tDrama',
 			'tSchool',
@@ -4837,7 +4839,7 @@ const animeList = [
 			'Charlotte（シャーロット）',
 		],
 		[ 132 ],
-		'TV', 2, 2015, 'Original', 0, 1,
+		0, 2, 2015, 4, 0, 1,
 		[
 			'tDrama',
 			'tSchool',
@@ -4853,7 +4855,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World- Season 3',
 		],
 		[ 314 ],
-		'TV', 3, 2024, 'Light novel', 1, 1,
+		0, 3, 2024, 1, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4876,7 +4878,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World- Season 2 Part 2',
 		],
 		[ 314 ],
-		'TV', 0, 2021, 'Light novel', 1, 1,
+		0, 0, 2021, 1, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4897,7 +4899,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World- Season 2',
 		],
 		[ 314 ],
-		'TV', 2, 2020, 'Light novel', 1, 1,
+		0, 2, 2020, 1, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4916,7 +4918,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World- The Frozen Bond',
 		],
 		[ 314 ],
-		'Movie', 3, 2019, 'Light novel', 0, 1,
+		4, 3, 2019, 1, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4933,7 +4935,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World- Memory Snow',
 		],
 		[ 314 ],
-		'Movie', 3, 2018, 'Light novel', 0, 1,
+		4, 3, 2018, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -4948,7 +4950,7 @@ const animeList = [
 			'Re:ZERO -Starting Life in Another World',
 		],
 		[ 314 ],
-		'TV', 1, 2016, 'Light novel', 1, 1,
+		0, 1, 2016, 1, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -4966,7 +4968,7 @@ const animeList = [
 			'武装少女マキャヴェリズム ドキッ！「五剣だらけ」の慰安旅行',
 		],
 		[ 300, 957 ],
-		'OVA', 3, 2017, 'Manga', 0, 1,
+		1, 3, 2017, 0, 0, 1,
 		[
 			'tAction',
 			'tSchool',
@@ -4981,7 +4983,7 @@ const animeList = [
 			"Armed Girl's Machiavellism",
 		],
 		[ 300, 957 ],
-		'TV', 1, 2017, 'Manga', 0, 1,
+		0, 1, 2017, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -4999,7 +5001,7 @@ const animeList = [
 			'Weathering with You',
 		],
 		[ 291 ],
-		'Movie', 2, 2019, 'Original', 0, 1,
+		4, 2, 2019, 4, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -5015,7 +5017,7 @@ const animeList = [
 			"Chillin' in My 30s after Getting Fired from the Demon King's Army",
 		],
 		[ 354 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5028,7 +5030,7 @@ const animeList = [
 			'あやかしトライアングル',
 		],
 		[ 957 ],
-		'TV', 0, 2023, 'Manga', 2, 1,
+		0, 0, 2023, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -5051,7 +5053,7 @@ const animeList = [
 			"Kubo Won't Let Me Be Invisible",
 		],
 		[ 1295 ],
-		'TV', 0, 2023, 'Manga', 0, 1,
+		0, 0, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -5069,7 +5071,7 @@ const animeList = [
 			'Campfire Cooking in Another World with My Absurd Skill',
 		],
 		[ 569 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -5086,7 +5088,7 @@ const animeList = [
 			'もののがたり 第二章',
 		],
 		[ 1258 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tSupernatural',
@@ -5104,7 +5106,7 @@ const animeList = [
 			'Malevolent Spirits: Mononogatari',
 		],
 		[ 1258 ],
-		'TV', 0, 2023, 'Manga', 0, 1,
+		0, 0, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tSupernatural',
@@ -5124,7 +5126,7 @@ const animeList = [
 			'The Tale of Outcasts',
 		],
 		[ 242 ],
-		'TV', 0, 2023, 'Manga', 0, 1,
+		0, 0, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -5142,7 +5144,7 @@ const animeList = [
 			'Reborn to Master the Blade: From Hero-King to Extraordinary Squire ♀',
 		],
 		[ 126 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -5158,7 +5160,7 @@ const animeList = [
 			'A Silent Voice',
 		],
 		[ 2 ],
-		'Movie', 2, 2016, 'Manga', 0, 1,
+		4, 2, 2016, 0, 0, 1,
 		[
 			'tDrama',
 			'tLoveStatusQuo',
@@ -5174,7 +5176,7 @@ const animeList = [
 			'5 Centimeters Per Second',
 		],
 		[ 291 ],
-		'Movie', 0, 2007, 'Original', 0, 1,
+		4, 0, 2007, 4, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -5188,7 +5190,7 @@ const animeList = [
 			'Handyman Saitou in Another World',
 		],
 		[ 605 ],
-		'TV', 0, 2023, 'Web manga', 1, 1,
+		0, 0, 2023, 2, 1, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -5205,7 +5207,7 @@ const animeList = [
 			'Saving 80,000 Gold in Another World for My Retirement',
 		],
 		[ 1440 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -5220,7 +5222,7 @@ const animeList = [
 			'The Reincarnation of the Strongest Exorcist in Another World',
 		],
 		[ 478 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -5236,7 +5238,7 @@ const animeList = [
 			'ベン・トー',
 		],
 		[ 287 ],
-		'TV', 3, 2011, 'Light novel', 0, 1,
+		0, 3, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -5252,7 +5254,7 @@ const animeList = [
 			'The Angel Next Door Spoils Me Rotten',
 		],
 		[ 439 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -5266,7 +5268,7 @@ const animeList = [
 			'Buddy Daddies',
 		],
 		[ 132 ],
-		'TV', 0, 2023, 'Original', 0, 1,
+		0, 0, 2023, 4, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -5285,7 +5287,7 @@ const animeList = [
 			'Giant Beasts of Ars',
 		],
 		[ 406 ],
-		'TV', 0, 2023, 'Original', 0, 1,
+		0, 0, 2023, 4, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -5300,7 +5302,7 @@ const animeList = [
 			'Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte',
 		],
 		[ 200 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5317,7 +5319,7 @@ const animeList = [
 			'リベンジャー',
 		],
 		[ 30 ],
-		'TV', 0, 2023, 'Original', 1, 1,
+		0, 0, 2023, 4, 1, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -5335,7 +5337,7 @@ const animeList = [
 			'シュガーアップル・フェアリーテイル',
 		],
 		[ 7 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -5352,7 +5354,7 @@ const animeList = [
 			'シュガーアップル・フェアリーテイル',
 		],
 		[ 7 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -5370,7 +5372,7 @@ const animeList = [
 			'Farming Life in Another World',
 		],
 		[ 1379 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -5389,7 +5391,7 @@ const animeList = [
 			"Onimai: I'm Now Your Sister!",
 		],
 		[ 1993 ],
-		'TV', 0, 2023, 'Manga', 0, 1,
+		0, 0, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tCGDCT',
@@ -5406,7 +5408,7 @@ const animeList = [
 			'The Iceblade Sorcerer Shall Rule the World',
 		],
 		[ 2600 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -5423,7 +5425,7 @@ const animeList = [
 			'Spy Classroom Season 2',
 		],
 		[ 91 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tMystery',
@@ -5439,7 +5441,7 @@ const animeList = [
 			'Spy Classroom',
 		],
 		[ 91 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tMystery',
@@ -5457,7 +5459,7 @@ const animeList = [
 			'Tomo-chan Is a Girl!',
 		],
 		[ 1087 ],
-		'TV', 0, 2023, 'Web manga', 0, 1,
+		0, 0, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -5473,7 +5475,7 @@ const animeList = [
 			'Tanaka-kun is Always Listless',
 		],
 		[ 300 ],
-		'TV', 1, 2016, 'Web manga', 0, 1,
+		0, 1, 2016, 2, 0, 1,
 		[
 			'tIyashikei',
 			'tSchool',
@@ -5488,7 +5490,7 @@ const animeList = [
 			'犬になったら好きな人に拾われた。OVA',
 		],
 		[ 2314 ],
-		'Special', 0, 2023, 'Web manga', 2, 1,
+		2, 0, 2023, 2, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -5502,7 +5504,7 @@ const animeList = [
 			"My Life as Inukai-san's Dog",
 		],
 		[ 2314 ],
-		'TV', 0, 2023, 'Web manga', 2, 1,
+		0, 0, 2023, 2, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -5516,7 +5518,7 @@ const animeList = [
 			'The Ice Guy and His Cool Female Colleague',
 		],
 		[ 1379, 2527 ],
-		'TV', 0, 2023, 'Web manga', 0, 1,
+		0, 0, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5539,7 +5541,7 @@ const animeList = [
 			'The Magical Revolution of the Reincarnated Princess and the Genius Young Lady',
 		],
 		[ 51 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -5558,7 +5560,7 @@ const animeList = [
 			"Ningen Fushin: Adventurers Who Don't Believe in Humanity Will Save the World",
 		],
 		[ 1857 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -5575,7 +5577,7 @@ const animeList = [
 			'干物妹！うまるちゃんR',
 		],
 		[ 95 ],
-		'TV', 3, 2017, 'Manga', 0, 1,
+		0, 3, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -5591,7 +5593,7 @@ const animeList = [
 			'干物妹！うまるちゃん OVA',
 		],
 		[ 95 ],
-		'OVA', 3, 2015, 'Manga', 0, 1,
+		1, 3, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -5607,7 +5609,7 @@ const animeList = [
 			'干物妹！うまるちゃん',
 		],
 		[ 95 ],
-		'TV', 2, 2015, 'Manga', 0, 1,
+		0, 2, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -5623,7 +5625,7 @@ const animeList = [
 			'劇場版 異世界かるてっと ～あなざーわーるど～',
 		],
 		[ 443 ],
-		'Movie', 1, 2022, 'Original', 0, 1,
+		4, 1, 2022, 4, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5639,7 +5641,7 @@ const animeList = [
 			'異世界かるてっと2',
 		],
 		[ 443 ],
-		'TV', 0, 2020, 'Original', 0, 1,
+		0, 0, 2020, 4, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5655,7 +5657,7 @@ const animeList = [
 			'異世界かるてっと',
 		],
 		[ 443 ],
-		'TV', 1, 2019, 'Original', 0, 1,
+		0, 1, 2019, 4, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -5671,7 +5673,7 @@ const animeList = [
 			'ひなこのーと',
 		],
 		[ 911 ],
-		'TV', 1, 2017, '4-koma	manga', 0, 1,
+		0, 1, 2017, '4-koma	manga', 0, 1,
 		[
 			'tComedy',
 			'tSliceofLife',
@@ -5687,7 +5689,7 @@ const animeList = [
 			'Your Lie in April: Moments',
 		],
 		[ 56 ],
-		'OVA', 1, 2015, 'Manga', 0, 1,
+		1, 1, 2015, 0, 0, 1,
 		[
 			'tMusic',
 			'tShounen',
@@ -5702,7 +5704,7 @@ const animeList = [
 			'Your Lie in April',
 		],
 		[ 56 ],
-		'TV', 3, 2014, 'Manga', 0, 1,
+		0, 3, 2014, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -5720,7 +5722,7 @@ const animeList = [
 			'ガヴリールドロップアウトOVA',
 		],
 		[ 95 ],
-		'Special', 0, 2017, 'Manga', 0, 1,
+		2, 0, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -5738,7 +5740,7 @@ const animeList = [
 			'ガヴリールドロップアウト',
 		],
 		[ 95 ],
-		'TV', 0, 2017, 'Manga', 0, 1,
+		0, 0, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -5757,7 +5759,7 @@ const animeList = [
 			'BLEND-S',
 		],
 		[ 56 ],
-		'TV', 3, 2017, '4-koma manga', 0, 1,
+		0, 3, 2017, 3, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -5774,7 +5776,7 @@ const animeList = [
 			'Grand Blue Dreaming',
 		],
 		[ 1379 ],
-		'TV', 2, 2018, 'Manga', 0, 1,
+		0, 2, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -5790,7 +5792,7 @@ const animeList = [
 			'Kokoro Connect OVA',
 		],
 		[ 300 ],
-		'Special', 3, 2012, 'Light novel', 0, 1,
+		2, 3, 2012, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -5806,7 +5808,7 @@ const animeList = [
 			'ココロコネクト',
 		],
 		[ 300 ],
-		'TV', 2, 2012, 'Light novel', 0, 1,
+		0, 2, 2012, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -5823,7 +5825,7 @@ const animeList = [
 			'少女たちは荒野を目指す 言うべきものかしら',
 		],
 		[ 271, 439 ],
-		'OVA', 0, 2016, 'Visual novel', 0, 1,
+		1, 0, 2016, 6, 0, 1,
 		[
 			'tSchool',
 			'tOtakuCulture',
@@ -5837,7 +5839,7 @@ const animeList = [
 			'Girls Beyond the Wasteland',
 		],
 		[ 439 ],
-		'TV', 0, 2016, 'Visual novel', 0, 1,
+		0, 0, 2016, 6, 0, 1,
 		[
 			'tSchool',
 			'tOtakuCulture',
@@ -5850,7 +5852,7 @@ const animeList = [
 			'恋と選挙とチョコレート 第13話「恋妹！」',
 		],
 		[ 436 ],
-		'Special', 0, 2013, 'Visual novel', 0, 1,
+		2, 0, 2013, 6, 0, 1,
 		[
 			'tDrama',
 			'tHarem',
@@ -5866,7 +5868,7 @@ const animeList = [
 			'Love, Election and Chocolate',
 		],
 		[ 436 ],
-		'TV', 2, 2012, 'Visual novel', 0, 1,
+		0, 2, 2012, 6, 0, 1,
 		[
 			'tDrama',
 			'tHarem',
@@ -5882,7 +5884,7 @@ const animeList = [
 			'Unbreakable Machine-Doll Special',
 		],
 		[ 456 ],
-		'Special', 3, 2013, 'Light novel', 2, 1,
+		2, 3, 2013, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -5899,7 +5901,7 @@ const animeList = [
 			'Unbreakable Machine-Doll',
 		],
 		[ 456 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -5918,7 +5920,7 @@ const animeList = [
 			'My Mental Choices Are Completely Interfering With My School Romantic Comedy OVA',
 		],
 		[ 51 ],
-		'OVA', 1, 2014, 'Light novel', 0, 1,
+		1, 1, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tHarem',
@@ -5934,7 +5936,7 @@ const animeList = [
 			'My Mental Choices Are Completely Interfering With My School Romantic Comedy',
 		],
 		[ 51 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tHarem',
@@ -5950,7 +5952,7 @@ const animeList = [
 			"Haruka Nogizaka's Secret Finale",
 		],
 		[ 51 ],
-		'OVA', 2, 2012, 'Light novel', 0, 1,
+		1, 2, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -5964,7 +5966,7 @@ const animeList = [
 			"Haruka Nogizaka's Secret Purezza",
 		],
 		[ 51 ],
-		'TV', 3, 2009, 'Light novel', 0, 1,
+		0, 3, 2009, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -5978,7 +5980,7 @@ const animeList = [
 			"Haruka Nogizaka's Secret",
 		],
 		[ 51 ],
-		'TV', 2, 2008, 'Light novel', 0, 1,
+		0, 2, 2008, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -5992,7 +5994,7 @@ const animeList = [
 			'Toradora!: Bento Battle',
 		],
 		[ 7 ],
-		'Special', 3, 2011, 'Light novel', 0, 1,
+		2, 3, 2011, 1, 0, 1,
 		[
 			'tComedy',
 			'tGourmet',
@@ -6008,7 +6010,7 @@ const animeList = [
 			'Toradora!: SOS! Hurray for Gourmands',
 		],
 		[ 7 ],
-		'Special', 0, 2009, 'Light novel', 0, 1,
+		2, 0, 2009, 1, 0, 1,
 		[
 			'tComedy',
 			'tGourmet',
@@ -6022,7 +6024,7 @@ const animeList = [
 			'とらドラ！',
 		],
 		[ 7 ],
-		'TV', 3, 2008, 'Light novel', 0, 1,
+		0, 3, 2008, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -6039,7 +6041,7 @@ const animeList = [
 			'The Pet Girl of Sakurasou',
 		],
 		[ 7 ],
-		'TV', 3, 2012, 'Light novel', 0, 1,
+		0, 3, 2012, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -6057,7 +6059,7 @@ const animeList = [
 			'The Little Lies We All Tell',
 		],
 		[ 1693 ],
-		'TV', 3, 2022, 'Manga', 0, 1,
+		0, 3, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tSciFi',
@@ -6076,7 +6078,7 @@ const animeList = [
 			'The Executioner and Her Way of Life',
 		],
 		[ 7 ],
-		'TV', 1, 2022, 'Light novel', 1, 1,
+		0, 1, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -6091,7 +6093,7 @@ const animeList = [
 			'マンガ家さんとアシスタントさんと THE ANIMATION',
 		],
 		[ 218 ],
-		'TV', 1, 2014, '4-koma manga', 0, 1,
+		0, 1, 2014, 3, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -6107,7 +6109,7 @@ const animeList = [
 			'The Comic Artist and His Assistants',
 		],
 		[ 218 ],
-		'TV', 1, 2014, '4-koma manga', 0, 1,
+		0, 1, 2014, 3, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -6123,7 +6125,7 @@ const animeList = [
 			'Bibliophile Princess',
 		],
 		[ 11 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tDrama',
 			'tJosei',
@@ -6137,7 +6139,7 @@ const animeList = [
 			'ダーリン・イン・ザ・フランキス',
 		],
 		[ 56, 803, 1835 ],
-		'TV', 0, 2018, 'Original', 0, 1,
+		0, 0, 2018, 4, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -6154,7 +6156,7 @@ const animeList = [
 			'ストライク・ザ・ブラッドFINAL',
 		],
 		[ 957 ],
-		'OVA', 0, 2022, 'Light novel', 2, 1,
+		1, 0, 2022, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6171,7 +6173,7 @@ const animeList = [
 			'ストライク・ザ・ブラッド IV',
 		],
 		[ 957 ],
-		'OVA', 1, 2020, 'Light novel', 2, 1,
+		1, 1, 2020, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6188,7 +6190,7 @@ const animeList = [
 			'ストライク・ザ・ブラッド 消えた聖槍篇',
 		],
 		[ 957 ],
-		'OVA', 0, 2020, 'Light novel', 2, 1,
+		1, 0, 2020, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6205,7 +6207,7 @@ const animeList = [
 			'ストライク・ザ・ブラッドⅢ',
 		],
 		[ 957 ],
-		'OVA', 3, 2018, 'Light novel', 2, 1,
+		1, 3, 2018, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6223,7 +6225,7 @@ const animeList = [
 			'Strike the Blood Second',
 		],
 		[ 300, 957 ],
-		'OVA', 3, 2016, 'Light novel', 2, 1,
+		1, 3, 2016, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6241,7 +6243,7 @@ const animeList = [
 			'Strike the Blood: Kingdom of the Valkyria',
 		],
 		[ 271, 300, 957 ],
-		'TV', 3, 2015, 'Light novel', 2, 1,
+		0, 3, 2015, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6258,7 +6260,7 @@ const animeList = [
 			'ストライク・ザ・ブラッド',
 		],
 		[ 300, 957 ],
-		'TV', 3, 2013, 'Light novel', 2, 1,
+		0, 3, 2013, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6276,7 +6278,7 @@ const animeList = [
 			'震えちゃう❤フリージング ヴァイブレーションOVA',
 		],
 		[ 179 ],
-		'Special', 3, 2013, 'Light novel', 2, 1,
+		2, 3, 2013, 1, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6293,7 +6295,7 @@ const animeList = [
 			'フリージング ヴァイブレーション',
 		],
 		[ 179 ],
-		'TV', 3, 2013, 'Manga', 2, 1,
+		0, 3, 2013, 0, 2, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -6313,7 +6315,7 @@ const animeList = [
 			'はじけちゃう! ドキドキトラブルフリージング',
 		],
 		[ 179 ],
-		'Special', 0, 2011, 'Manga', 2, 1,
+		2, 0, 2011, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6327,7 +6329,7 @@ const animeList = [
 			'フリージング',
 		],
 		[ 179 ],
-		'TV', 0, 2011, 'Manga', 2, 1,
+		0, 0, 2011, 0, 2, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -6347,7 +6349,7 @@ const animeList = [
 			'おまもりひまり',
 		],
 		[ 218 ],
-		'TV', 0, 2010, 'Manga', 2, 1,
+		0, 0, 2010, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6368,7 +6370,7 @@ const animeList = [
 			'After the Rain',
 		],
 		[ 858 ],
-		'TV', 0, 2018, 'Manga', 0, 1,
+		0, 0, 2018, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -6384,7 +6386,7 @@ const animeList = [
 			'Yosuga no Sora',
 		],
 		[ 91 ],
-		'TV', 3, 2010, 'Visual novel', 2, 1,
+		0, 3, 2010, 6, 2, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -6400,7 +6402,7 @@ const animeList = [
 			'Lord Marksman and Vanadis',
 		],
 		[ 41 ],
-		'TV', 3, 2014, 'Light novel', 1, 1,
+		0, 3, 2014, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -6417,7 +6419,7 @@ const animeList = [
 			'World Break: Aria of Curse for a Holy Swordsman',
 		],
 		[ 51 ],
-		'TV', 0, 2015, 'Light novel', 1, 1,
+		0, 0, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6435,7 +6437,7 @@ const animeList = [
 			'AntiMagic Academy 35th Test Platoon',
 		],
 		[ 300 ],
-		'TV', 3, 2015, 'Light novel', 1, 1,
+		0, 3, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6452,7 +6454,7 @@ const animeList = [
 			'Undefeated Bahamut Chronicle',
 		],
 		[ 456 ],
-		'TV', 0, 2016, 'Light novel', 0, 1,
+		0, 0, 2016, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -6471,7 +6473,7 @@ const animeList = [
 			"Ao-chan Can't Study!",
 		],
 		[ 300 ],
-		'TV', 1, 2019, 'Manga', 0, 1,
+		0, 1, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -6487,7 +6489,7 @@ const animeList = [
 			'CONCEPTION（コンセプション）',
 		],
 		[ 3 ],
-		'TV', 3, 2018, 'Game', 0, 1,
+		0, 3, 2018, 8, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6505,7 +6507,7 @@ const animeList = [
 			'セイレン',
 		],
 		[ 418, 1299 ],
-		'TV', 0, 2017, 'Original', 0, 1,
+		0, 0, 2017, 4, 0, 1,
 		[
 			'tRomance',
 			'tHarem',
@@ -6518,7 +6520,7 @@ const animeList = [
 			'Just Because!',
 		],
 		[ 1295 ],
-		'TV', 3, 2017, 'Original', 0, 1,
+		0, 3, 2017, 4, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -6533,7 +6535,7 @@ const animeList = [
 			'デビルズライン エニタイム エニウェア',
 		],
 		[ 1471 ],
-		'OVA', 2, 2018, 'Manga', 1, 1,
+		1, 2, 2018, 0, 1, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -6552,7 +6554,7 @@ const animeList = [
 			"Devils' Line",
 		],
 		[ 1471 ],
-		'TV', 1, 2018, 'Manga', 1, 1,
+		0, 1, 2018, 0, 1, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -6570,7 +6572,7 @@ const animeList = [
 			'れでぃ×ばと!',
 		],
 		[ 27 ],
-		'Special', 0, 2010, 'Light novel', 2, 1,
+		2, 0, 2010, 1, 2, 1,
 		[
 			'tEcchi',
 		]
@@ -6582,7 +6584,7 @@ const animeList = [
 			'れでぃ×ばと!',
 		],
 		[ 27 ],
-		'TV', 0, 2010, 'Light novel', 2, 1,
+		0, 0, 2010, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -6599,7 +6601,7 @@ const animeList = [
 			'Campione!',
 		],
 		[ 51 ],
-		'TV', 2, 2012, 'Light novel', 0, 1,
+		0, 2, 2012, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6617,7 +6619,7 @@ const animeList = [
 			'マケン姫っ！通 Ｐ～私事',
 		],
 		[ 27 ],
-		'Special', 0, 2014, 'Manga', 2, 1,
+		2, 0, 2014, 0, 2, 1,
 		[
 			'tEcchi',
 			'tShounen',
@@ -6630,7 +6632,7 @@ const animeList = [
 			'マケン姫っ！通',
 		],
 		[ 27 ],
-		'TV', 0, 2014, 'Manga', 2, 1,
+		0, 0, 2014, 0, 2, 1,
 		[
 			'tAction',
 			'tEcchi',
@@ -6648,7 +6650,7 @@ const animeList = [
 			'マケン姫っ！ OVA',
 		],
 		[ 83 ],
-		'OVA', 0, 2012, 'Manga', 2, 1,
+		1, 0, 2012, 0, 2, 1,
 		[
 			'tAction',
 			'tEcchi',
@@ -6666,7 +6668,7 @@ const animeList = [
 			'Maken-Ki! Secret Training',
 		],
 		[ 83 ],
-		'Special', 3, 2011, 'Manga', 2, 1,
+		2, 3, 2011, 0, 2, 1,
 		[
 			'tSports',
 			'tEcchi',
@@ -6680,7 +6682,7 @@ const animeList = [
 			'マケン姫っ！',
 		],
 		[ 83 ],
-		'TV', 3, 2011, 'Manga', 2, 1,
+		0, 3, 2011, 0, 2, 1,
 		[
 			'tAction',
 			'tEcchi',
@@ -6699,7 +6701,7 @@ const animeList = [
 			'Is This a Zombie? Of the Dead OVA',
 		],
 		[ 37 ],
-		'OVA', 3, 2012, 'Light novel', 1, 1,
+		1, 3, 2012, 1, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6717,7 +6719,7 @@ const animeList = [
 			'Is this A Zombie? of the Dead',
 		],
 		[ 37 ],
-		'TV', 1, 2012, 'Light novel', 1, 1,
+		0, 1, 2012, 1, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6735,7 +6737,7 @@ const animeList = [
 			'Is This a Zombie? OVA',
 		],
 		[ 37 ],
-		'OVA', 1, 2011, 'Light novel', 0, 1,
+		1, 1, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6753,7 +6755,7 @@ const animeList = [
 			'Is This a Zombie?',
 		],
 		[ 37 ],
-		'TV', 0, 2011, 'Light novel', 1, 1,
+		0, 0, 2011, 1, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6770,7 +6772,7 @@ const animeList = [
 			'生徒会の一存 Lv.2 渡す生徒会',
 		],
 		[ 48 ],
-		'OVA', 2, 2013, 'Light novel', 0, 1,
+		1, 2, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tHarem',
@@ -6786,7 +6788,7 @@ const animeList = [
 			"Student Council's Discretion Level 2",
 		],
 		[ 48 ],
-		'ONA', 3, 2012, 'Light novel', 0, 1,
+		3, 3, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tHarem',
@@ -6802,7 +6804,7 @@ const animeList = [
 			"Student Council's Discretion",
 		],
 		[ 37 ],
-		'TV', 3, 2009, 'Light novel', 0, 1,
+		0, 3, 2009, 1, 0, 1,
 		[
 			'tComedy',
 			'tHarem',
@@ -6818,7 +6820,7 @@ const animeList = [
 			'Invaders of the Rokujyoma!?',
 		],
 		[ 300 ],
-		'TV', 2, 2014, 'Light novel', 0, 1,
+		0, 2, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -6833,7 +6835,7 @@ const animeList = [
 			'キスシス',
 		],
 		[ 91 ],
-		'TV', 1, 2010, 'Manga', 0, 1,
+		0, 1, 2010, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -6850,7 +6852,7 @@ const animeList = [
 			'IS〈インフィニット・ストラトス〉2 インフィニット・ウエディング',
 		],
 		[ 441 ],
-		'Special', 1, 2016, 'Light novel', 0, 1,
+		2, 1, 2016, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -6864,7 +6866,7 @@ const animeList = [
 			'IS〈インフィニット・ストラトス〉2　ワールド・パージ編',
 		],
 		[ 441 ],
-		'OVA', 3, 2014, 'Light novel', 2, 1,
+		1, 3, 2014, 1, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6881,7 +6883,7 @@ const animeList = [
 			'IS 〈インフィニット・ストラトス〉2 ロングバケーション 一夏（ひとなつ）の想いで',
 		],
 		[ 441 ],
-		'OVA', 3, 2013, 'Light novel', 0, 1,
+		1, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6898,7 +6900,7 @@ const animeList = [
 			'Infinite Stratos 2',
 		],
 		[ 441 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6915,7 +6917,7 @@ const animeList = [
 			'IS 〈インフィニット・ストラトス〉 アンコール『恋に焦がれる六重奏』',
 		],
 		[ 441 ],
-		'OVA', 3, 2011, 'Light novel', 2, 1,
+		1, 3, 2011, 1, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6933,7 +6935,7 @@ const animeList = [
 			'Infinite Stratos',
 		],
 		[ 441 ],
-		'TV', 0, 2011, 'Light novel', 0, 1,
+		0, 0, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -6951,7 +6953,7 @@ const animeList = [
 			'Heroines Run the Show: The Unpopular Girl and the Secret Task',
 		],
 		[ 1087 ],
-		'TV', 1, 2022, 'Music', 0, 1,
+		0, 1, 2022, 9, 0, 1,
 		[
 			'tIdol',
 			'tSchool',
@@ -6965,7 +6967,7 @@ const animeList = [
 			'Ganbare Douki-chan: The Coworker is Suffering from Social Inequality',
 		],
 		[ 2298 ],
-		'Special', 3, 2021, 'Web manga', 0, 1,
+		2, 3, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -6981,7 +6983,7 @@ const animeList = [
 			'がんばれ同期ちゃん',
 		],
 		[ 2298 ],
-		'ONA', 2, 2021, 'Web manga', 0, 1,
+		3, 2, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -6998,7 +7000,7 @@ const animeList = [
 			'Love of Kill',
 		],
 		[ 1471 ],
-		'TV', 0, 2022, 'Manga', 1, 1,
+		0, 0, 2022, 0, 1, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -7015,7 +7017,7 @@ const animeList = [
 			'Convenience Store Boy Friends',
 		],
 		[ 1 ],
-		'TV', 2, 2017, 'Mixed media', 0, 1,
+		0, 2, 2017, 10, 0, 1,
 		[
 			'tRomance',
 		]
@@ -7027,7 +7029,7 @@ const animeList = [
 			'エンジェルビーツ! アナザーエピローグ',
 		],
 		[ 132 ],
-		'Special', 3, 2010, 'Original', 0, 1,
+		2, 3, 2010, 4, 0, 1,
 		[
 			'tSupernatural',
 			'tSchool',
@@ -7041,7 +7043,7 @@ const animeList = [
 			'エンジェルビーツ',
 		],
 		[ 132 ],
-		'Special', 3, 2010, 'Original', 0, 1,
+		2, 3, 2010, 4, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -7056,7 +7058,7 @@ const animeList = [
 			'Angel Beats!（エンジェルビーツ!）',
 		],
 		[ 132 ],
-		'TV', 1, 2010, 'Original', 0, 1,
+		0, 1, 2010, 4, 0, 1,
 		[
 			'tDrama',
 			'tSupernatural',
@@ -7072,7 +7074,7 @@ const animeList = [
 			'The Familiar of Zero F',
 		],
 		[ 7 ],
-		'TV', 0, 2012, 'Light novel', 0, 1,
+		0, 0, 2012, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -7094,7 +7096,7 @@ const animeList = [
 			'The Familiar of Zero: Rondo of the Princesses OVA',
 		],
 		[ 7 ],
-		'Special', 3, 2008, 'Light novel', 0, 1,
+		2, 3, 2008, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -7112,7 +7114,7 @@ const animeList = [
 			'The Familiar of Zero: Rondo of Princesses',
 		],
 		[ 7 ],
-		'TV', 2, 2008, 'Light novel', 0, 1,
+		0, 2, 2008, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -7134,7 +7136,7 @@ const animeList = [
 			'The Familiar of Zero: Knight of the Twin Moons',
 		],
 		[ 7 ],
-		'TV', 2, 2007, 'Light novel', 0, 1,
+		0, 2, 2007, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -7156,7 +7158,7 @@ const animeList = [
 			'The Familiar of Zero',
 		],
 		[ 7 ],
-		'TV', 2, 2006, 'Light novel', 0, 1,
+		0, 2, 2006, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -7177,7 +7179,7 @@ const animeList = [
 			'プラスティック・メモリーズ',
 		],
 		[ 95 ],
-		'TV', 1, 2015, 'Original', 0, 1,
+		0, 1, 2015, 4, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7192,7 +7194,7 @@ const animeList = [
 			'グリザイア:ファントムトリガー',
 		],
 		[ 1722 ],
-		'TV', 0, 2025, 'Visual novel', 1, 1,
+		0, 0, 2025, 6, 1, 1,
 		[
 			'tAction',
 			'tSchool',
@@ -7205,7 +7207,7 @@ const animeList = [
 			'グリザイア：ファントムトリガー THE ANIMATION スターゲイザー',
 		],
 		[ 1722 ],
-		'Movie', 3, 2020, 'Visual novel', 1, 1,
+		4, 3, 2020, 6, 1, 1,
 		[
 			'tAction',
 			'tSchool',
@@ -7218,7 +7220,7 @@ const animeList = [
 			'グリザイア：ファントムトリガー THE ANIMATION',
 		],
 		[ 1722 ],
-		'Movie', 0, 2019, 'Visual novel', 1, 1,
+		4, 0, 2019, 6, 1, 1,
 		[
 			'tAction',
 			'tSchool',
@@ -7231,7 +7233,7 @@ const animeList = [
 			'グリザイアの迷宮 カプリスの繭0 姫&バスケ部編「滝園バスケ部の生クリームパーティ! 」',
 		],
 		[ 441 ],
-		'Special', 2, 2015, 'Visual novel', 2, 1,
+		2, 2, 2015, 6, 2, 1,
 		[
 			'tEcchi',
 		]
@@ -7244,7 +7246,7 @@ const animeList = [
 			'The Eden of Grisaia',
 		],
 		[ 441 ],
-		'TV', 1, 2015, 'Visual novel', 1, 1,
+		0, 1, 2015, 6, 1, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7260,7 +7262,7 @@ const animeList = [
 			'The Labyrinth of Grisaia: The Cocoon of Caprice 0',
 		],
 		[ 441 ],
-		'Special', 1, 2015, 'Visual novel', 2, 1,
+		2, 1, 2015, 6, 2, 1,
 		[
 			'tDrama',
 		]
@@ -7272,7 +7274,7 @@ const animeList = [
 			'グリザイアの果実',
 		],
 		[ 441 ],
-		'Special', 3, 2014, 'Visual novel', 2, 1,
+		2, 3, 2014, 6, 2, 1,
 		[
 			'tEcchi',
 		]
@@ -7285,7 +7287,7 @@ const animeList = [
 			'The Fruit of Grisaia',
 		],
 		[ 441 ],
-		'TV', 3, 2014, 'Visual novel', 2, 1,
+		0, 3, 2014, 6, 2, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7302,7 +7304,7 @@ const animeList = [
 			"The Ryuo's Work is Never Done!",
 		],
 		[ 439 ],
-		'TV', 0, 2018, 'Light novel', 0, 1,
+		0, 0, 2018, 1, 0, 1,
 		[
 			'tComedy',
 			'tStrategyGame',
@@ -7315,7 +7317,7 @@ const animeList = [
 			'ハンドレッド',
 		],
 		[ 1053 ],
-		'TV', 1, 2016, 'Light novel', 0, 1,
+		0, 1, 2016, 1, 0, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -7333,7 +7335,7 @@ const animeList = [
 			'月がきれい',
 		],
 		[ 91 ],
-		'Special', 2, 2017, 'Original', 0, 1,
+		2, 2, 2017, 4, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -7347,7 +7349,7 @@ const animeList = [
 			'月がきれい',
 		],
 		[ 91 ],
-		'TV', 1, 2017, 'Original', 0, 1,
+		0, 1, 2017, 4, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -7360,7 +7362,7 @@ const animeList = [
 			'明治東亰恋伽',
 		],
 		[ 73 ],
-		'TV', 0, 2019, 'Visual novel', 0, 1,
+		0, 0, 2019, 6, 0, 1,
 		[
 			'tRomance',
 			'tSupernatural',
@@ -7377,7 +7379,7 @@ const animeList = [
 			'風夏',
 		],
 		[ 51 ],
-		'TV', 0, 2017, 'Manga', 2, 1,
+		0, 0, 2017, 0, 2, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7396,7 +7398,7 @@ const animeList = [
 			'Iroduku: The World in Colors',
 		],
 		[ 132 ],
-		'TV', 3, 2018, 'Original', 0, 1,
+		0, 3, 2018, 4, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -7416,7 +7418,7 @@ const animeList = [
 			'ReLIFE: Final Arc',
 		],
 		[ 73 ],
-		'Special', 0, 2018, 'Web manga', 0, 1,
+		2, 0, 2018, 2, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7430,7 +7432,7 @@ const animeList = [
 			'ReLIFE',
 		],
 		[ 73 ],
-		'TV', 2, 2016, 'Web manga', 0, 1,
+		0, 2, 2016, 2, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7446,7 +7448,7 @@ const animeList = [
 			'Libra of Nil Admirari',
 		],
 		[ 1379 ],
-		'TV', 1, 2018, 'Visual novel', 0, 1,
+		0, 1, 2018, 6, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -7463,7 +7465,7 @@ const animeList = [
 			'WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?',
 		],
 		[ 41, 605 ],
-		'TV', 1, 2017, 'Light novel', 0, 1,
+		0, 1, 2017, 1, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -7480,7 +7482,7 @@ const animeList = [
 			'Hi Score Girl II',
 		],
 		[ 7 ],
-		'TV', 3, 2019, 'Manga', 0, 1,
+		0, 3, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tLovePolygon',
@@ -7499,7 +7501,7 @@ const animeList = [
 			'Hi Score Girl: Extra Stage',
 		],
 		[ 7 ],
-		'OVA', 0, 2019, 'Manga', 0, 1,
+		1, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tLovePolygon',
@@ -7518,7 +7520,7 @@ const animeList = [
 			'Hi Score Girl',
 		],
 		[ 7 ],
-		'TV', 2, 2018, 'Manga', 0, 1,
+		0, 2, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tLovePolygon',
@@ -7536,7 +7538,7 @@ const animeList = [
 			'BEATLESS Final Stage',
 		],
 		[ 51 ],
-		'TV', 2, 2018, 'Light novel', 0, 1,
+		0, 2, 2018, 1, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -7552,7 +7554,7 @@ const animeList = [
 			'BEATLESS',
 		],
 		[ 51 ],
-		'TV', 0, 2018, 'Light novel', 0, 1,
+		0, 0, 2018, 1, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -7569,7 +7571,7 @@ const animeList = [
 			'Unlimited Fafnir',
 		],
 		[ 51 ],
-		'TV', 0, 2015, 'Light novel', 0, 1,
+		0, 0, 2015, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -7586,7 +7588,7 @@ const animeList = [
 			'The Testament of Sister New Devil Departures',
 		],
 		[ 1053 ],
-		'OVA', 0, 2018, 'Light novel', 2, 1,
+		1, 0, 2018, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -7604,7 +7606,7 @@ const animeList = [
 			'The Testament of Sister New Devil: Burst',
 		],
 		[ 1053 ],
-		'TV', 3, 2015, 'Light novel', 2, 1,
+		0, 3, 2015, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -7622,7 +7624,7 @@ const animeList = [
 			'The Testament of Sister New Devil OVA',
 		],
 		[ 1053 ],
-		'OVA', 1, 2015, 'Light novel', 2, 1,
+		1, 1, 2015, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -7640,7 +7642,7 @@ const animeList = [
 			'The Testament of Sister New Devil Specials',
 		],
 		[ 1053 ],
-		'Special', 0, 2015, 'Light novel', 2, 1,
+		2, 0, 2015, 1, 2, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -7656,7 +7658,7 @@ const animeList = [
 			'The Testament of Sister New Devil',
 		],
 		[ 1053 ],
-		'TV', 0, 2015, 'Light novel', 2, 1,
+		0, 0, 2015, 1, 2, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -7674,7 +7676,7 @@ const animeList = [
 			'Tada Never Falls in Love',
 		],
 		[ 95 ],
-		'TV', 1, 2018, 'Original', 0, 1,
+		0, 1, 2018, 4, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -7690,7 +7692,7 @@ const animeList = [
 			'Love and Lies: Love of a Lifetime/Feelings of Love',
 		],
 		[ 839 ],
-		'OVA', 3, 2018, 'Web manga', 0, 1,
+		1, 3, 2018, 2, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7705,7 +7707,7 @@ const animeList = [
 			'Love and Lies',
 		],
 		[ 839 ],
-		'TV', 2, 2017, 'Web manga', 0, 1,
+		0, 2, 2017, 2, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7721,7 +7723,7 @@ const animeList = [
 			'Chivalry of a Failed Knight',
 		],
 		[ 300, 852 ],
-		'TV', 3, 2015, 'Light novel', 1, 1,
+		0, 3, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -7737,7 +7739,7 @@ const animeList = [
 			'アルテ',
 		],
 		[ 35 ],
-		'TV', 1, 2020, 'Manga', 0, 1,
+		0, 1, 2020, 0, 0, 1,
 		[
 			'tDrama',
 			'tHistorical',
@@ -7752,7 +7754,7 @@ const animeList = [
 			'イエスタデイをうたって 配信版エピソード',
 		],
 		[ 95 ],
-		'ONA', 1, 2020, 'Manga', 0, 1,
+		3, 1, 2020, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7767,7 +7769,7 @@ const animeList = [
 			'Sing "Yesterday" for Me',
 		],
 		[ 95 ],
-		'TV', 1, 2020, 'Manga', 0, 1,
+		0, 1, 2020, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7784,7 +7786,7 @@ const animeList = [
 			'How clumsy you are, Miss Ueno',
 		],
 		[ 1829 ],
-		'TV', 0, 2019, 'Manga', 0, 1,
+		0, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -7800,7 +7802,7 @@ const animeList = [
 			'Josee, the Tiger and the Fish',
 		],
 		[ 4 ],
-		'Movie', 3, 2020, 'Novel', 0, 1,
+		4, 3, 2020, 7, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7816,7 +7818,7 @@ const animeList = [
 			'Domestic Girlfriend',
 		],
 		[ 51 ],
-		'TV', 0, 2019, 'Manga', 2, 1,
+		0, 0, 2019, 0, 2, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7832,7 +7834,7 @@ const animeList = [
 			'フルーツバスケット -prelude-',
 		],
 		[ 73 ],
-		'TV', 0, 2022, 'Manga', 0, 1,
+		0, 0, 2022, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7847,7 +7849,7 @@ const animeList = [
 			'Fruits Basket: The Final Season',
 		],
 		[ 73 ],
-		'TV', 1, 2021, 'Manga', 0, 1,
+		0, 1, 2021, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7862,7 +7864,7 @@ const animeList = [
 			'フルーツバスケット 2nd season',
 		],
 		[ 73 ],
-		'TV', 1, 2020, 'Manga', 0, 1,
+		0, 1, 2020, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7878,7 +7880,7 @@ const animeList = [
 			'フルーツバスケット',
 		],
 		[ 73 ],
-		'TV', 1, 2019, 'Manga', 0, 1,
+		0, 1, 2019, 0, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -7896,7 +7898,7 @@ const animeList = [
 			'Real Girl Season 2',
 		],
 		[ 346 ],
-		'TV', 0, 2019, 'Manga', 0, 1,
+		0, 0, 2019, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -7912,7 +7914,7 @@ const animeList = [
 			'Real Girl',
 		],
 		[ 346 ],
-		'TV', 1, 2018, 'Manga', 0, 1,
+		0, 1, 2018, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -7927,7 +7929,7 @@ const animeList = [
 			'ディーふらぐ! ウォーター!!',
 		],
 		[ 112 ],
-		'OVA', 2, 2014, 'Manga', 0, 1,
+		1, 2, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tSeinen',
@@ -7941,7 +7943,7 @@ const animeList = [
 			'ディーふらぐ！',
 		],
 		[ 112 ],
-		'TV', 0, 2014, 'Manga', 0, 1,
+		0, 0, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -7958,7 +7960,7 @@ const animeList = [
 			'Wotakoi: Love is Hard for Otaku OVA',
 		],
 		[ 56, 1828 ],
-		'OVA', 0, 2019, 'Web manga', 0, 1,
+		1, 0, 2019, 2, 0, 1,
 		[
 			'tRomance',
 			'tWorkplace',
@@ -7975,7 +7977,7 @@ const animeList = [
 			'Wotakoi: Love is Hard for Otaku',
 		],
 		[ 56 ],
-		'TV', 1, 2018, 'Web manga', 0, 1,
+		0, 1, 2018, 2, 0, 1,
 		[
 			'tRomance',
 			'tWorkplace',
@@ -7994,7 +7996,7 @@ const animeList = [
 			'Koikimo',
 		],
 		[ 70 ],
-		'TV', 1, 2021, 'Web manga', 0, 1,
+		0, 1, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8009,7 +8011,7 @@ const animeList = [
 			'Harem in the Labyrinth of Another World',
 		],
 		[ 911 ],
-		'TV', 2, 2022, 'Light novel', 2, 1,
+		0, 2, 2022, 1, 2, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -8026,7 +8028,7 @@ const animeList = [
 			'東京ミュウミュウ にゅ～♡',
 		],
 		[ 96, 894 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tRomance',
 			'tSciFi',
@@ -8042,7 +8044,7 @@ const animeList = [
 			'Tokyo Mew Mew New',
 		],
 		[ 96, 894 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tRomance',
 			'tSciFi',
@@ -8058,7 +8060,7 @@ const animeList = [
 			"The Saint's Magic Power is Omnipotent Season 2",
 		],
 		[ 51 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -8075,7 +8077,7 @@ const animeList = [
 			"The Saint's Magic Power is Omnipotent",
 		],
 		[ 51 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -8092,7 +8094,7 @@ const animeList = [
 			'My Senpai is Annoying',
 		],
 		[ 95 ],
-		'TV', 3, 2021, 'Web manga', 0, 1,
+		0, 3, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8109,7 +8111,7 @@ const animeList = [
 			'My Dress-Up Darling',
 		],
 		[ 1835 ],
-		'TV', 0, 2022, 'Manga', 0, 1,
+		0, 0, 2022, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -8126,7 +8128,7 @@ const animeList = [
 			'Uzaki-chan Wants to Hang Out! Season 2',
 		],
 		[ 1974 ],
-		'TV', 3, 2022, 'Web manga', 0, 1,
+		0, 3, 2022, 2, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8142,7 +8144,7 @@ const animeList = [
 			'Uzaki-chan Wants to Hang Out!',
 		],
 		[ 1974 ],
-		'TV', 2, 2020, 'Web manga', 0, 1,
+		0, 2, 2020, 2, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8158,7 +8160,7 @@ const animeList = [
 			'Denki-gai',
 		],
 		[ 247 ],
-		'TV', 3, 2014, 'Manga', 0, 1,
+		0, 3, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -8173,7 +8175,7 @@ const animeList = [
 			'ノーゲーム・ノーライフ ゼロ',
 		],
 		[ 11 ],
-		'Movie', 2, 2017, 'Light novel', 0, 1,
+		4, 2, 2017, 1, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -8188,7 +8190,7 @@ const animeList = [
 			'ノーゲーム・ノーライフ ミニ',
 		],
 		[ 11 ],
-		'Special', 1, 2014, 'Light novel', 0, 1,
+		2, 1, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -8205,7 +8207,7 @@ const animeList = [
 			'No Game, No Life',
 		],
 		[ 11 ],
-		'TV', 1, 2014, 'Light novel', 0, 1,
+		0, 1, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -8223,7 +8225,7 @@ const animeList = [
 			"Beyond the Boundary: I'll Be Here - Future",
 		],
 		[ 2 ],
-		'Movie', 1, 2015, 'Light novel', 0, 1,
+		4, 1, 2015, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -8240,7 +8242,7 @@ const animeList = [
 			"Beyond the Boundary: I'll Be Here - Past",
 		],
 		[ 2 ],
-		'Movie', 0, 2015, 'Light novel', 0, 1,
+		4, 0, 2015, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -8256,7 +8258,7 @@ const animeList = [
 			'Beyond the Boundary: Daybreak',
 		],
 		[ 2 ],
-		'Special', 2, 2014, 'Light novel', 0, 1,
+		2, 2, 2014, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -8270,7 +8272,7 @@ const animeList = [
 			'境界の彼方 ミニ劇場',
 		],
 		[ 2 ],
-		'Special', 0, 2014, 'Light novel', 0, 1,
+		2, 0, 2014, 1, 0, 1,
 		[
 			'tSliceofLife',
 			'tSupernatural',
@@ -8285,7 +8287,7 @@ const animeList = [
 			'Beyond the Boundary',
 		],
 		[ 2 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -8301,7 +8303,7 @@ const animeList = [
 			'Blue Spring Ride OVA',
 		],
 		[ 10 ],
-		'OVA', 2, 2014, 'Manga', 0, 1,
+		1, 2, 2014, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -8317,7 +8319,7 @@ const animeList = [
 			'Blue Spring Ride',
 		],
 		[ 10 ],
-		'TV', 2, 2014, 'Manga', 0, 1,
+		0, 2, 2014, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -8332,7 +8334,7 @@ const animeList = [
 			'アブソリュート・デュオ',
 		],
 		[ 441 ],
-		'TV', 0, 2015, 'Light novel', 1, 1,
+		0, 0, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -8350,7 +8352,7 @@ const animeList = [
 			'Teasing Master Takagi-san: The Movie',
 		],
 		[ 247 ],
-		'Movie', 1, 2022, 'Manga', 0, 1,
+		4, 1, 2022, 0, 0, 1,
 		[
 			'tLoveStatusQuo',
 			'tRomance',
@@ -8367,7 +8369,7 @@ const animeList = [
 			'Teasing Master Takagi-san 3',
 		],
 		[ 247 ],
-		'TV', 0, 2022, 'Manga', 0, 1,
+		0, 0, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8385,7 +8387,7 @@ const animeList = [
 			'Teasing Master Takagi-san 2',
 		],
 		[ 247 ],
-		'TV', 2, 2019, 'Manga', 0, 1,
+		0, 2, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8403,7 +8405,7 @@ const animeList = [
 			'Teasing Master Takagi-san: Water Slide',
 		],
 		[ 247 ],
-		'OVA', 2, 2018, 'Manga', 0, 1,
+		1, 2, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8420,7 +8422,7 @@ const animeList = [
 			'Teasing Master Takagi-san',
 		],
 		[ 247 ],
-		'TV', 0, 2018, 'Manga', 0, 1,
+		0, 0, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8438,7 +8440,7 @@ const animeList = [
 			'Ultimate Otaku Teacher',
 		],
 		[ 56 ],
-		'TV', 1, 2015, 'Manga', 0, 1,
+		0, 1, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8455,7 +8457,7 @@ const animeList = [
 			'這いよれ！ニャル子さんF',
 		],
 		[ 27 ],
-		'OVA', 1, 2015, 'Light novel', 0, 1,
+		1, 1, 2015, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8470,7 +8472,7 @@ const animeList = [
 			'這いよれ！ニャル子さん W Wにさよなら / この温泉に恋の渾沌を',
 		],
 		[ 27 ],
-		'OVA', 1, 2014, 'Light novel', 0, 1,
+		1, 1, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -8485,7 +8487,7 @@ const animeList = [
 			'Nyaruko: Crawling With Love! Second Season',
 		],
 		[ 27 ],
-		'TV', 1, 2013, 'Light novel', 0, 1,
+		0, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tSciFi',
@@ -8501,7 +8503,7 @@ const animeList = [
 			'Nyaruko: Crawling With Love!',
 		],
 		[ 27 ],
-		'TV', 1, 2012, 'Light novel', 0, 1,
+		0, 1, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tSciFi',
@@ -8516,7 +8518,7 @@ const animeList = [
 			'RIN-NE Season 3',
 		],
 		[ 112 ],
-		'TV', 1, 2017, 'Manga', 0, 1,
+		0, 1, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -8532,7 +8534,7 @@ const animeList = [
 			'RIN-NE Season 2',
 		],
 		[ 112 ],
-		'TV', 1, 2016, 'Manga', 0, 1,
+		0, 1, 2016, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -8548,7 +8550,7 @@ const animeList = [
 			'RIN-NE',
 		],
 		[ 112 ],
-		'TV', 1, 2015, 'Manga', 0, 1,
+		0, 1, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -8564,7 +8566,7 @@ const animeList = [
 			'When Supernatural Battles Became Commonplace',
 		],
 		[ 803 ],
-		'TV', 3, 2014, 'Light novel', 0, 1,
+		0, 3, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -8581,7 +8583,7 @@ const animeList = [
 			'My First Girlfriend is a Gal: My First Cultural Festival',
 		],
 		[ 951 ],
-		'OVA', 3, 2017, 'Manga', 0, 1,
+		1, 3, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8599,7 +8601,7 @@ const animeList = [
 			'My First Girlfriend is a Gal',
 		],
 		[ 951 ],
-		'TV', 2, 2017, 'Manga', 0, 1,
+		0, 2, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8617,7 +8619,7 @@ const animeList = [
 			'Our love has always been 10 centimeters apart',
 		],
 		[ 1087 ],
-		'TV', 3, 2017, 'Music', 0, 1,
+		0, 3, 2017, 9, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -8633,7 +8635,7 @@ const animeList = [
 			'The Moment You Fall in Love',
 		],
 		[ 1304 ],
-		'Movie', 3, 2016, 'Music', 0, 1,
+		4, 3, 2016, 9, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -8649,7 +8651,7 @@ const animeList = [
 			"I've Always Liked You",
 		],
 		[ 1304 ],
-		'Movie', 1, 2016, 'Music', 0, 1,
+		4, 1, 2016, 9, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -8663,7 +8665,7 @@ const animeList = [
 			"Don't Toy with Me, Miss Nagatoro 2nd Attack",
 		],
 		[ 28 ],
-		'TV', 0, 2023, 'Web manga', 0, 1,
+		0, 0, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8679,7 +8681,7 @@ const animeList = [
 			"Don't Toy with Me, Miss Nagatoro",
 		],
 		[ 28 ],
-		'TV', 1, 2021, 'Web manga', 0, 1,
+		0, 1, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -8694,7 +8696,7 @@ const animeList = [
 			'ネコぱら',
 		],
 		[ 1440 ],
-		'TV', 0, 2020, 'Visual novel', 0, 1,
+		0, 0, 2020, 6, 0, 1,
 		[
 			'tComedy',
 			'tSliceofLife',
@@ -8709,7 +8711,7 @@ const animeList = [
 			'ネコぱら 仔ネコの日の約束',
 		],
 		[ 1440 ],
-		'ONA', 2, 2018, 'Visual novel', 0, 1,
+		3, 2, 2018, 6, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8723,7 +8725,7 @@ const animeList = [
 			'ネコぱらOVA',
 		],
 		[ 1440 ],
-		'OVA', 3, 2017, 'Visual novel', 0, 1,
+		1, 3, 2017, 6, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8737,7 +8739,7 @@ const animeList = [
 			'NEW GAME!!',
 		],
 		[ 95 ],
-		'TV', 2, 2017, '4-koma manga', 0, 1,
+		0, 2, 2017, 3, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -8754,7 +8756,7 @@ const animeList = [
 			'NEW GAME! 私、社員旅行って初めてなので…',
 		],
 		[ 95 ],
-		'OVA', 1, 2017, '4-koma manga', 0, 1,
+		1, 1, 2017, 3, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -8769,7 +8771,7 @@ const animeList = [
 			'NEW GAME!',
 		],
 		[ 95 ],
-		'TV', 2, 2016, '4-koma manga', 0, 1,
+		0, 2, 2016, 3, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -8787,7 +8789,7 @@ const animeList = [
 			'Talentless Nana',
 		],
 		[ 397 ],
-		'TV', 3, 2020, 'Manga', 1, 1,
+		0, 3, 2020, 0, 1, 1,
 		[
 			'tSupernatural',
 			'tPsychological',
@@ -8805,7 +8807,7 @@ const animeList = [
 			'Tsuredure Children',
 		],
 		[ 418 ],
-		'TV', 2, 2017, '4-koma manga', 0, 1,
+		0, 2, 2017, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8822,7 +8824,7 @@ const animeList = [
 			'The Asterisk War Season 2',
 		],
 		[ 56 ],
-		'TV', 1, 2016, 'Light novel', 0, 1,
+		0, 1, 2016, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -8842,7 +8844,7 @@ const animeList = [
 			'The Asterisk War',
 		],
 		[ 56 ],
-		'TV', 3, 2015, 'Light novel', 0, 1,
+		0, 3, 2015, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -8862,7 +8864,7 @@ const animeList = [
 			'Recovery of an MMO Junkie Special',
 		],
 		[ 1278 ],
-		'Special', 3, 2017, 'Web manga', 0, 1,
+		2, 3, 2017, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8879,7 +8881,7 @@ const animeList = [
 			'Recovery of an MMO Junkie',
 		],
 		[ 1278 ],
-		'TV', 3, 2017, 'Web manga', 0, 1,
+		0, 3, 2017, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8895,7 +8897,7 @@ const animeList = [
 			'俺が好きなのは妹だけど妹じゃない俺が好きなのは妹だけど妹じゃない新規短編アニメーション',
 		],
 		[ 951, 1860 ],
-		'Special', 0, 2019, 'Light novel', 2, 1,
+		2, 0, 2019, 1, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -8910,7 +8912,7 @@ const animeList = [
 			'My Sister, My Writer',
 		],
 		[ 951, 1860 ],
-		'TV', 3, 2018, 'Light novel', 2, 1,
+		0, 3, 2018, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -8924,7 +8926,7 @@ const animeList = [
 			'ISUCA 第拾壱話「極楽」',
 		],
 		[ 38 ],
-		'OVA', 2, 2015, 'Manga', 2, 1,
+		1, 2, 2015, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -8944,7 +8946,7 @@ const animeList = [
 			'ISUCA [イスカ]',
 		],
 		[ 38 ],
-		'TV', 0, 2015, 'Manga', 2, 1,
+		0, 0, 2015, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -8965,7 +8967,7 @@ const animeList = [
 			'Rascal Does Not Dream of a Knapsack Kid',
 		],
 		[ 1835 ],
-		'Movie', 3, 2023, 'Light novel', 0, 1,
+		4, 3, 2023, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -8983,7 +8985,7 @@ const animeList = [
 			'Rascal Does Not Dream of a Sister Venturing Out',
 		],
 		[ 1835 ],
-		'Movie', 1, 2023, 'Light novel', 0, 1,
+		4, 1, 2023, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -9000,7 +9002,7 @@ const animeList = [
 			'Rascal Does Not Dream of a Dreaming Girl',
 		],
 		[ 1835 ],
-		'Movie', 1, 2019, 'Light novel', 0, 1,
+		4, 1, 2019, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -9017,7 +9019,7 @@ const animeList = [
 			'Rascal Does Not Dream of Bunny Girl Senpai',
 		],
 		[ 1835 ],
-		'TV', 3, 2018, 'Light novel', 0, 1,
+		0, 3, 2018, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -9035,7 +9037,7 @@ const animeList = [
 			'Girlfriend, Girlfriend Season 2',
 		],
 		[ 118 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9052,7 +9054,7 @@ const animeList = [
 			'Girlfriend, Girlfriend',
 		],
 		[ 200 ],
-		'TV', 2, 2021, 'Manga', 0, 1,
+		0, 2, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9069,7 +9071,7 @@ const animeList = [
 			'My Girlfriend is Shobitch OVA',
 		],
 		[ 51, 478 ],
-		'OVA', 0, 2018, 'Web manga', 0, 1,
+		1, 0, 2018, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9085,7 +9087,7 @@ const animeList = [
 			'My Girlfriend is Shobitch',
 		],
 		[ 51, 478 ],
-		'TV', 3, 2017, 'Web manga', 0, 1,
+		0, 3, 2017, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9102,7 +9104,7 @@ const animeList = [
 			'O Maidens in Your Savage Season',
 		],
 		[ 1087 ],
-		'TV', 2, 2019, 'Manga', 0, 1,
+		0, 2, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -9119,7 +9121,7 @@ const animeList = [
 			"Yamada's First Time: B Gata H Kei",
 		],
 		[ 34 ],
-		'TV', 1, 2010, '4-koma manga', 2, 1,
+		0, 1, 2010, 3, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9136,7 +9138,7 @@ const animeList = [
 			'And you thought there is never a girl online?',
 		],
 		[ 439 ],
-		'TV', 1, 2016, 'Light novel', 0, 1,
+		0, 1, 2016, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9154,7 +9156,7 @@ const animeList = [
 			'My Sweet Tyrant',
 		],
 		[ 96 ],
-		'TV', 1, 2018, 'Manga', 0, 1,
+		0, 1, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9170,7 +9172,7 @@ const animeList = [
 			'妹さえいればいい。',
 		],
 		[ 300 ],
-		'Special', 0, 2018, 'Light novel', 0, 1,
+		2, 0, 2018, 1, 0, 1,
 		[
 			'tComedy',
 			'tFavoriteAnime',
@@ -9184,7 +9186,7 @@ const animeList = [
 			"A Sister's All You Need",
 		],
 		[ 300 ],
-		'TV', 3, 2017, 'Light novel', 0, 1,
+		0, 3, 2017, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9200,7 +9202,7 @@ const animeList = [
 			'迷い猫ねこねこ劇場',
 		],
 		[ 48 ],
-		'Special', 1, 2010, 'Light novel', 2, 1,
+		2, 1, 2010, 1, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -9215,7 +9217,7 @@ const animeList = [
 			'Stray Cats Overrun!',
 		],
 		[ 48 ],
-		'TV', 1, 2010, 'Light novel', 0, 1,
+		0, 1, 2010, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9231,7 +9233,7 @@ const animeList = [
 			'Okami-San and Her Seven Companions',
 		],
 		[ 7 ],
-		'TV', 2, 2010, 'Light novel', 0, 1,
+		0, 2, 2010, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9245,7 +9247,7 @@ const animeList = [
 			'FORTUNE ARTERIAL 赤い約束 たどり着いた場所',
 		],
 		[ 91, 218 ],
-		'OVA', 0, 2011, 'Visual novel', 0, 1,
+		1, 0, 2011, 6, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -9261,7 +9263,7 @@ const animeList = [
 			'FORTUNE ARTERIAL 赤い約束',
 		],
 		[ 91, 218 ],
-		'TV', 3, 2010, 'Visual novel', 0, 1,
+		0, 3, 2010, 6, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9278,7 +9280,7 @@ const animeList = [
 			'Aria the Scarlet Ammo Special',
 		],
 		[ 7 ],
-		'Special', 3, 2011, 'Light novel', 0, 1,
+		2, 3, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -9294,7 +9296,7 @@ const animeList = [
 			'Aria the Scarlet Ammo',
 		],
 		[ 7 ],
-		'TV', 1, 2011, 'Light novel', 0, 1,
+		0, 1, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -9310,7 +9312,7 @@ const animeList = [
 			'あーるじゅうご R15少年漂流記',
 		],
 		[ 48 ],
-		'OVA', 3, 2011, 'Light novel', 2, 1,
+		1, 3, 2011, 1, 2, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -9327,7 +9329,7 @@ const animeList = [
 			'あーるじゅうご',
 		],
 		[ 48 ],
-		'TV', 2, 2011, 'Light novel', 2, 1,
+		0, 2, 2011, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9343,7 +9345,7 @@ const animeList = [
 			'まよチキ!',
 		],
 		[ 91 ],
-		'TV', 2, 2011, 'Light novel', 2, 1,
+		0, 2, 2011, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9361,7 +9363,7 @@ const animeList = [
 			'Baka and Test - Summon the Beasts: Magical Hideyoshi Hideyoshi',
 		],
 		[ 300 ],
-		'Special', 3, 2011, 'Light novel', 0, 1,
+		2, 3, 2011, 1, 0, 1,
 		[
 			'tComedy',
 			'tFavoriteAnime',
@@ -9375,7 +9377,7 @@ const animeList = [
 			'Baka & Test – Summon the Beasts 2',
 		],
 		[ 300 ],
-		'TV', 2, 2011, 'Light novel', 0, 1,
+		0, 2, 2011, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9393,7 +9395,7 @@ const animeList = [
 			'Baka & Test - Summon the Beasts OVA',
 		],
 		[ 300 ],
-		'OVA', 0, 2011, 'Light novel', 0, 1,
+		1, 0, 2011, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -9408,7 +9410,7 @@ const animeList = [
 			'バカとテストと召喚獣 映像特典',
 		],
 		[ 300 ],
-		'Special', 1, 2010, 'Light novel', 0, 1,
+		2, 1, 2010, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -9423,7 +9425,7 @@ const animeList = [
 			'Baka & Test - Summon the Beasts',
 		],
 		[ 300 ],
-		'TV', 0, 2010, 'Light novel', 0, 1,
+		0, 0, 2010, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9440,7 +9442,7 @@ const animeList = [
 			"Astarotte's Toy EX",
 		],
 		[ 51 ],
-		'OVA', 2, 2011, 'Manga', 0, 1,
+		1, 2, 2011, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -9457,7 +9459,7 @@ const animeList = [
 			"Astarotte's Toy",
 		],
 		[ 51 ],
-		'TV', 1, 2011, 'Manga', 0, 1,
+		0, 1, 2011, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -9475,7 +9477,7 @@ const animeList = [
 			'いつか天魔の黒ウサギ 心移りの登校日 ~すくーる·あてんだんす·でぃ~',
 		],
 		[ 218 ],
-		'OVA', 3, 2011, 'Light novel', 0, 1,
+		1, 3, 2011, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -9494,7 +9496,7 @@ const animeList = [
 			'A Dark Rabbit has Seven Lives',
 		],
 		[ 218 ],
-		'TV', 2, 2011, 'Light novel', 2, 1,
+		0, 2, 2011, 1, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -9512,7 +9514,7 @@ const animeList = [
 			'星空へ架かる橋　架かるか？学園祭に恋の橋',
 		],
 		[ 95 ],
-		'Special', 3, 2011, 'Visual novel', 2, 1,
+		2, 3, 2011, 6, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9528,7 +9530,7 @@ const animeList = [
 			'A Bridge to the Starry Skies',
 		],
 		[ 95 ],
-		'TV', 1, 2011, 'Visual novel', 2, 1,
+		0, 1, 2011, 6, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9545,7 +9547,7 @@ const animeList = [
 			"So, I Can't Play H! Episode 13",
 		],
 		[ 91 ],
-		'OVA', 0, 2013, 'Light novel', 2, 1,
+		1, 0, 2013, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9560,7 +9562,7 @@ const animeList = [
 			"So, I Can't Play H!",
 		],
 		[ 91 ],
-		'TV', 2, 2012, 'Light novel', 2, 1,
+		0, 2, 2012, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9575,7 +9577,7 @@ const animeList = [
 			'パパのいうことを聞きなさい！OVA',
 		],
 		[ 91 ],
-		'OVA', 1, 2013, 'Light novel', 0, 1,
+		1, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9588,7 +9590,7 @@ const animeList = [
 			'パパのいうことを聞きなさい！ぽっかぽか',
 		],
 		[ 91 ],
-		'Special', 2, 2012, 'Light novel', 0, 1,
+		2, 2, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9603,7 +9605,7 @@ const animeList = [
 			'Listen to Me, Girls. I Am Your Father!',
 		],
 		[ 91 ],
-		'TV', 0, 2012, 'Light novel', 0, 1,
+		0, 0, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9619,7 +9621,7 @@ const animeList = [
 			'あっちこっち 第13話(未放送)「PLACE=PRINCESS」',
 		],
 		[ 48 ],
-		'Special', 3, 2012, '4-koma manga', 0, 1,
+		2, 3, 2012, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9638,7 +9640,7 @@ const animeList = [
 			'Place to Place',
 		],
 		[ 48 ],
-		'TV', 1, 2012, '4-koma manga', 0, 1,
+		0, 1, 2012, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9656,7 +9658,7 @@ const animeList = [
 			'この中に1人、妹がいる！兄、妹、恋人',
 		],
 		[ 418 ],
-		'OVA', 0, 2013, 'Light novel', 0, 1,
+		1, 0, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9673,7 +9675,7 @@ const animeList = [
 			'NAKAIMO - My Little Sister Is Among Them!',
 		],
 		[ 418 ],
-		'TV', 2, 2012, 'Light novel', 2, 1,
+		0, 2, 2012, 1, 2, 1,
 		[
 			'tComedy',
 			'tMystery',
@@ -9691,7 +9693,7 @@ const animeList = [
 			'OniAi Specials',
 		],
 		[ 300 ],
-		'Special', 3, 2012, 'Light novel', 2, 1,
+		2, 3, 2012, 1, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -9705,7 +9707,7 @@ const animeList = [
 			'OniAi',
 		],
 		[ 300 ],
-		'TV', 3, 2012, 'Light novel', 2, 1,
+		0, 3, 2012, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9722,7 +9724,7 @@ const animeList = [
 			'Inu X Boku Secret Service Episode 13',
 		],
 		[ 287 ],
-		'Special', 2, 2012, 'Manga', 0, 1,
+		2, 2, 2012, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -9737,7 +9739,7 @@ const animeList = [
 			'Inu X Boku Secret Service',
 		],
 		[ 287 ],
-		'TV', 0, 2012, 'Manga', 0, 1,
+		0, 0, 2012, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9753,7 +9755,7 @@ const animeList = [
 			'東京レイヴンズ',
 		],
 		[ 441 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -9769,7 +9771,7 @@ const animeList = [
 			'Magical Star Kanon 100%!',
 		],
 		[ 32 ],
-		'OVA', 1, 2013, 'Manga', 0, 1,
+		1, 1, 2013, 0, 0, 1,
 		[
 			'tMusic',
 			'tShounen',
@@ -9785,7 +9787,7 @@ const animeList = [
 			'The World God Only Knows: Goddesses',
 		],
 		[ 32 ],
-		'TV', 2, 2013, 'Manga', 0, 1,
+		0, 2, 2013, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9806,7 +9808,7 @@ const animeList = [
 			'The World God Only Knows: Tenri Arc',
 		],
 		[ 32 ],
-		'OVA', 3, 2012, 'Manga', 0, 1,
+		1, 3, 2012, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9824,7 +9826,7 @@ const animeList = [
 			'The World God Only Knows: Four Girls and an Idol',
 		],
 		[ 32 ],
-		'OVA', 2, 2011, 'Manga', 0, 1,
+		1, 2, 2011, 0, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -9841,7 +9843,7 @@ const animeList = [
 			'The World God Only Knows II',
 		],
 		[ 32 ],
-		'TV', 1, 2011, 'Manga', 0, 1,
+		0, 1, 2011, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9862,7 +9864,7 @@ const animeList = [
 			'The World God Only Knows',
 		],
 		[ 32 ],
-		'TV', 3, 2010, 'Manga', 0, 1,
+		0, 3, 2010, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9883,7 +9885,7 @@ const animeList = [
 			'The Troubled Life of Miss Kotoura',
 		],
 		[ 1306 ],
-		'TV', 0, 2013, '4-koma manga', 0, 1,
+		0, 0, 2013, 3, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -9899,7 +9901,7 @@ const animeList = [
 			'The "Hentai" Prince and the Stony Cat',
 		],
 		[ 7 ],
-		'TV', 1, 2013, 'Light novel', 0, 1,
+		0, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9917,7 +9919,7 @@ const animeList = [
 			'Oreshura',
 		],
 		[ 56 ],
-		'TV', 0, 2013, 'Light novel', 0, 1,
+		0, 0, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9934,7 +9936,7 @@ const animeList = [
 			'OreImo 2 Specials',
 		],
 		[ 56 ],
-		'ONA', 2, 2013, 'Light novel', 0, 1,
+		3, 2, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9949,7 +9951,7 @@ const animeList = [
 			'Oreimo 2',
 		],
 		[ 56 ],
-		'TV', 1, 2013, 'Light novel', 0, 1,
+		0, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9966,7 +9968,7 @@ const animeList = [
 			'OreImo Specials',
 		],
 		[ 436 ],
-		'ONA', 0, 2011, 'Light novel', 0, 1,
+		3, 0, 2011, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -9982,7 +9984,7 @@ const animeList = [
 			'OreImo',
 		],
 		[ 436 ],
-		'TV', 3, 2010, 'Light novel', 0, 1,
+		0, 3, 2010, 1, 0, 1,
 		[
 			'tComedy',
 			'tOtakuCulture',
@@ -9998,7 +10000,7 @@ const animeList = [
 			"Yusibu: I couldn't become a hero, so I reluctantly decided to get a job. OVA",
 		],
 		[ 163 ],
-		'OVA', 0, 2014, 'Light novel', 2, 1,
+		1, 0, 2014, 1, 2, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -10013,7 +10015,7 @@ const animeList = [
 			'I Couldn`t Become a Hero, So I Reluctantly Decided to Get a Job',
 		],
 		[ 163 ],
-		'TV', 3, 2013, 'Light novel', 2, 1,
+		0, 3, 2013, 1, 2, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -10028,7 +10030,7 @@ const animeList = [
 			'ゴールデンタイム',
 		],
 		[ 7 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -10045,7 +10047,7 @@ const animeList = [
 			"Haganai: I don't have many friends NEXT",
 		],
 		[ 436 ],
-		'TV', 0, 2013, 'Light novel', 0, 1,
+		0, 0, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10062,7 +10064,7 @@ const animeList = [
 			"Haganai: A Round-Robin Story's Ending Is Way Extreme",
 		],
 		[ 436 ],
-		'OVA', 2, 2012, 'Light novel', 2, 1,
+		1, 2, 2012, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10079,7 +10081,7 @@ const animeList = [
 			"Haganai: I don't have many friends",
 		],
 		[ 436 ],
-		'TV', 3, 2011, 'Light novel', 2, 1,
+		0, 3, 2011, 1, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10095,7 +10097,7 @@ const animeList = [
 			'劇場版 トリニティセブン -天空図書館〈ヘブンズライブラリー〉と真紅の魔王〈クリムゾンロード〉',
 		],
 		[ 1569 ],
-		'Movie', 0, 2019, 'Manga', 0, 1,
+		4, 0, 2019, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10115,7 +10117,7 @@ const animeList = [
 			'Trinity Seven: Eternity Library & Alchemic Girl',
 		],
 		[ 1569 ],
-		'Movie', 0, 2017, 'Manga', 0, 1,
+		4, 0, 2017, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10135,7 +10137,7 @@ const animeList = [
 			'Trinity Seven: The Seven Deadly Sins and The Seven Mages',
 		],
 		[ 1569 ],
-		'OVA', 0, 2015, 'Manga', 0, 1,
+		1, 0, 2015, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10154,7 +10156,7 @@ const animeList = [
 			'トリニティセブン',
 		],
 		[ 1569 ],
-		'TV', 3, 2014, 'Manga', 0, 1,
+		0, 3, 2014, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10173,7 +10175,7 @@ const animeList = [
 			'最近、妹のようすがちょっとおかしいんだが。 OVA',
 		],
 		[ 439 ],
-		'OVA', 1, 2014, 'Manga', 0, 1,
+		1, 1, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10190,7 +10192,7 @@ const animeList = [
 			'Recently, my sister is unusual',
 		],
 		[ 439 ],
-		'TV', 0, 2014, 'Manga', 0, 1,
+		0, 0, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10207,7 +10209,7 @@ const animeList = [
 			'No-Rin',
 		],
 		[ 300 ],
-		'TV', 0, 2014, 'Light novel', 0, 1,
+		0, 0, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10223,7 +10225,7 @@ const animeList = [
 			'彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?',
 		],
 		[ 346 ],
-		'OVA', 3, 2014, 'Light novel', 0, 1,
+		1, 3, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10240,7 +10242,7 @@ const animeList = [
 			'If Her Flag Breaks',
 		],
 		[ 346 ],
-		'TV', 1, 2014, 'Light novel', 0, 1,
+		0, 1, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10256,7 +10258,7 @@ const animeList = [
 			'未確認で進行形 「鴨肉って緑っぽい味がするのね。」',
 		],
 		[ 95 ],
-		'OVA', 0, 2014, '4-koma	manga', 0, 1,
+		1, 0, 2014, '4-koma	manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10270,7 +10272,7 @@ const animeList = [
 			'未確認で進行形 「見て。あれが私たちの泊まっている旅館よ。」',
 		],
 		[ 95 ],
-		'Special', 0, 2014, '4-koma	manga', 0, 1,
+		2, 0, 2014, '4-koma	manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10285,7 +10287,7 @@ const animeList = [
 			'Engaged to the Unidentified',
 		],
 		[ 95 ],
-		'TV', 0, 2014, '4-koma	manga', 0, 1,
+		0, 0, 2014, '4-koma	manga', 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10302,7 +10304,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!: Take On Me',
 		],
 		[ 2 ],
-		'Movie', 0, 2018, 'Light novel', 0, 1,
+		4, 0, 2018, 1, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -10319,7 +10321,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!: Heart Throb - The Rikka Wars',
 		],
 		[ 2 ],
-		'Special', 2, 2014, 'Light novel', 0, 1,
+		2, 2, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -10336,7 +10338,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions: Heart Throb Specials',
 		],
 		[ 2 ],
-		'Special', 0, 2014, 'Light novel', 0, 1,
+		2, 0, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tFavoriteAnime',
@@ -10350,7 +10352,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!: Heart Throb',
 		],
 		[ 2 ],
-		'TV', 0, 2014, 'Light novel', 0, 1,
+		0, 0, 2014, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10366,7 +10368,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!: Sparkling... Slapstick Noel',
 		],
 		[ 2 ],
-		'Special', 1, 2013, 'Light novel', 0, 1,
+		2, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10382,7 +10384,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions! Depth of Field: Love and Hate Theater',
 		],
 		[ 2 ],
-		'Special', 3, 2012, 'Light novel', 0, 1,
+		2, 3, 2012, 1, 0, 1,
 		[
 			'tAction',
 			'tMecha',
@@ -10397,7 +10399,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!',
 		],
 		[ 2 ],
-		'TV', 3, 2012, 'Light novel', 0, 1,
+		0, 3, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10414,7 +10416,7 @@ const animeList = [
 			'Love, Chunibyo & Other Delusions!: Chuni-Shorts',
 		],
 		[ 2 ],
-		'ONA', 2, 2012, 'Light novel', 0, 1,
+		3, 2, 2012, 1, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -10428,7 +10430,7 @@ const animeList = [
 			'棺姫のチャイカ ねらわれた棺 / 蘇る遺跡',
 		],
 		[ 4 ],
-		'OVA', 0, 2015, 'Light novel', 1, 1,
+		1, 0, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -10445,7 +10447,7 @@ const animeList = [
 			'Chaika -The Coffin Princess- Avenging Battle',
 		],
 		[ 4 ],
-		'TV', 3, 2014, 'Light novel', 1, 1,
+		0, 3, 2014, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -10462,7 +10464,7 @@ const animeList = [
 			'Chaika -The Coffin Princess-',
 		],
 		[ 4 ],
-		'TV', 1, 2014, 'Light novel', 1, 1,
+		0, 1, 2014, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -10479,7 +10481,7 @@ const animeList = [
 			'In/Spectre 2',
 		],
 		[ 112 ],
-		'TV', 0, 2023, 'Manga', 1, 1,
+		0, 0, 2023, 0, 1, 1,
 		[
 			'tMystery',
 			'tRomance',
@@ -10498,7 +10500,7 @@ const animeList = [
 			'In/Spectre',
 		],
 		[ 112 ],
-		'TV', 0, 2020, 'Manga', 1, 1,
+		0, 0, 2020, 0, 1, 1,
 		[
 			'tMystery',
 			'tRomance',
@@ -10516,7 +10518,7 @@ const animeList = [
 			'精霊使いの剣舞〈ブレイドダンス〉ミニOVA',
 		],
 		[ 120 ],
-		'Special', 3, 2014, 'Light novel', 0, 1,
+		2, 3, 2014, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10533,7 +10535,7 @@ const animeList = [
 			'Blade Dance of the Elementalers',
 		],
 		[ 120 ],
-		'TV', 2, 2014, 'Light novel', 0, 1,
+		0, 2, 2014, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10552,7 +10554,7 @@ const animeList = [
 			'The Disappearance of Nagato Yuki-chan: I Cannot Let Summer Break End',
 		],
 		[ 41 ],
-		'OVA', 3, 2015, 'Manga', 0, 1,
+		1, 3, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tSeinen',
@@ -10566,7 +10568,7 @@ const animeList = [
 			'The Disappearance of Nagato Yuki-chan',
 		],
 		[ 41 ],
-		'TV', 1, 2015, 'Manga', 0, 1,
+		0, 1, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10581,7 +10583,7 @@ const animeList = [
 			'ロマンティック・キラー',
 		],
 		[ 1380 ],
-		'ONA', 3, 2022, 'Manga', 0, 1,
+		3, 3, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10599,7 +10601,7 @@ const animeList = [
 			'Shomin Sample',
 		],
 		[ 300 ],
-		'TV', 3, 2015, 'Light novel', 0, 1,
+		0, 3, 2015, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10616,7 +10618,7 @@ const animeList = [
 			'Saekano the Movie: Finale',
 		],
 		[ 1835 ],
-		'Movie', 3, 2019, 'Light novel', 0, 1,
+		4, 3, 2019, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10634,7 +10636,7 @@ const animeList = [
 			'Saekano: How to Raise a Boring Girlfriend .flat',
 		],
 		[ 56 ],
-		'TV', 1, 2017, 'Light novel', 0, 1,
+		0, 1, 2017, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10653,7 +10655,7 @@ const animeList = [
 			'Saekano: How to Raise a Boring Girlfriend .flat - Fan Service of Love and Pure heart',
 		],
 		[ 56 ],
-		'Special', 1, 2017, 'Light novel', 0, 1,
+		2, 1, 2017, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10671,7 +10673,7 @@ const animeList = [
 			'Saekano: How to Raise a Boring Girlfriend',
 		],
 		[ 56 ],
-		'TV', 0, 2015, 'Light novel', 0, 1,
+		0, 0, 2015, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10690,7 +10692,7 @@ const animeList = [
 			'Saekano: Fan Service of Love and Youth',
 		],
 		[ 56 ],
-		'Special', 0, 2015, 'Light novel', 0, 1,
+		2, 0, 2015, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10707,7 +10709,7 @@ const animeList = [
 			'Yamada-kun and the Seven Witches',
 		],
 		[ 839 ],
-		'TV', 1, 2015, 'Manga', 0, 1,
+		0, 1, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tMystery',
@@ -10726,7 +10728,7 @@ const animeList = [
 			'山田くんと7人の魔女 OAD',
 		],
 		[ 839 ],
-		'OVA', 3, 2014, 'Manga', 0, 1,
+		1, 3, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10743,7 +10745,7 @@ const animeList = [
 			'Nisekoi: False Love',
 		],
 		[ 44 ],
-		'TV', 1, 2015, 'Manga', 0, 1,
+		0, 1, 2015, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10760,7 +10762,7 @@ const animeList = [
 			'ニセコイ OAD',
 		],
 		[ 44 ],
-		'OVA', 0, 2016, 'Manga', 0, 1,
+		1, 0, 2016, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10777,7 +10779,7 @@ const animeList = [
 			'ニセコイ OAD',
 		],
 		[ 44 ],
-		'OVA', 3, 2014, 'Manga', 0, 1,
+		1, 3, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10795,7 +10797,7 @@ const animeList = [
 			'Nisekoi: False Love',
 		],
 		[ 44 ],
-		'TV', 0, 2014, 'Manga', 0, 1,
+		0, 0, 2014, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10813,7 +10815,7 @@ const animeList = [
 			'ももくり',
 		],
 		[ 41 ],
-		'ONA', 3, 2015, 'Web manga', 0, 1,
+		3, 3, 2015, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10829,7 +10831,7 @@ const animeList = [
 			'This Art Club Has a Problem!',
 		],
 		[ 91 ],
-		'TV', 2, 2016, 'Manga', 0, 1,
+		0, 2, 2016, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10847,7 +10849,7 @@ const animeList = [
 			'Rewrite: Moon and Terra',
 		],
 		[ 441 ],
-		'TV', 0, 2017, 'Visual novel', 0, 1,
+		0, 0, 2017, 6, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10863,7 +10865,7 @@ const animeList = [
 			'リライト',
 		],
 		[ 441 ],
-		'TV', 2, 2016, 'Visual novel', 0, 1,
+		0, 2, 2016, 6, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10881,7 +10883,7 @@ const animeList = [
 			'My Wife is the Student Council President!+',
 		],
 		[ 541 ],
-		'TV', 3, 2016, 'Manga', 2, 1,
+		0, 3, 2016, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10898,7 +10900,7 @@ const animeList = [
 			'My Wife is the Student Council President OVA',
 		],
 		[ 541 ],
-		'OVA', 0, 2016, 'Manga', 2, 1,
+		1, 0, 2016, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10914,7 +10916,7 @@ const animeList = [
 			'My Wife is the Student Council President!',
 		],
 		[ 541 ],
-		'TV', 2, 2015, 'Manga', 2, 1,
+		0, 2, 2015, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10930,7 +10932,7 @@ const animeList = [
 			'ド級編隊エグゼロス',
 		],
 		[ 439 ],
-		'OVA', 3, 2020, 'Manga', 2, 1,
+		1, 3, 2020, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10949,7 +10951,7 @@ const animeList = [
 			'SUPER HXEROS',
 		],
 		[ 439 ],
-		'TV', 2, 2020, 'Manga', 2, 1,
+		0, 2, 2020, 0, 2, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -10969,7 +10971,7 @@ const animeList = [
 			'Love Tyrant',
 		],
 		[ 1264 ],
-		'TV', 1, 2017, 'Web manga', 0, 1,
+		0, 1, 2017, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -10985,7 +10987,7 @@ const animeList = [
 			'お酒は夫婦になってから 14杯め「ゆず熱燗',
 		],
 		[ 1195 ],
-		'ONA', 3, 2018, 'Web manga', 0, 1,
+		3, 3, 2018, 2, 0, 1,
 		[
 			'tComedy',
 			'tGourmet',
@@ -11002,7 +11004,7 @@ const animeList = [
 			'Love is Like a Cocktail',
 		],
 		[ 1195 ],
-		'TV', 3, 2017, 'Web manga', 0, 1,
+		0, 3, 2017, 2, 0, 1,
 		[
 			'tComedy',
 			'tGourmet',
@@ -11019,7 +11021,7 @@ const animeList = [
 			'Eromanga Sensei OVA',
 		],
 		[ 56 ],
-		'OVA', 0, 2019, 'Light novel', 0, 1,
+		1, 0, 2019, 1, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -11037,7 +11039,7 @@ const animeList = [
 			'Eromanga Sensei',
 		],
 		[ 56 ],
-		'TV', 1, 2017, 'Light novel', 0, 1,
+		0, 1, 2017, 1, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -11054,7 +11056,7 @@ const animeList = [
 			'ゆらぎ荘の幽奈さん',
 		],
 		[ 27, 1278 ],
-		'OVA', 2, 2018, 'Manga', 2, 1,
+		1, 2, 2018, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11073,7 +11075,7 @@ const animeList = [
 			'Yuuna and the Haunted Hot Springs',
 		],
 		[ 27 ],
-		'TV', 2, 2018, 'Manga', 2, 1,
+		0, 2, 2018, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11092,7 +11094,7 @@ const animeList = [
 			'Boarding School Juliet',
 		],
 		[ 839 ],
-		'TV', 3, 2018, 'Manga', 0, 1,
+		0, 3, 2018, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -11109,7 +11111,7 @@ const animeList = [
 			'戦×恋（ヴァルラヴ）',
 		],
 		[ 346 ],
-		'TV', 3, 2019, 'Manga', 1, 1,
+		0, 3, 2019, 0, 1, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11127,7 +11129,7 @@ const animeList = [
 			'ぼっち・ざ・ろっく！',
 		],
 		[ 1835 ],
-		'TV', 3, 2022, '4-koma manga', 0, 1,
+		0, 3, 2022, 3, 0, 1,
 		[
 			'tComedy',
 			'tMusic',
@@ -11143,7 +11145,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU Climax! OVA',
 		],
 		[ 91 ],
-		'OVA', 1, 2023, 'Light novel', 0, 1,
+		1, 1, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11160,7 +11162,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU Climax!',
 		],
 		[ 91 ],
-		'TV', 2, 2020, 'Light novel', 0, 1,
+		0, 2, 2020, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11177,7 +11179,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU TOO! OVA',
 		],
 		[ 91 ],
-		'OVA', 3, 2016, 'Light novel', 0, 1,
+		1, 3, 2016, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11194,7 +11196,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU TOO!',
 		],
 		[ 91 ],
-		'TV', 1, 2015, 'Light novel', 0, 1,
+		0, 1, 2015, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11211,7 +11213,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU OVA',
 		],
 		[ 112 ],
-		'OVA', 2, 2013, 'Light novel', 0, 1,
+		1, 2, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11228,7 +11230,7 @@ const animeList = [
 			'My Teen Romantic Comedy SNAFU',
 		],
 		[ 112 ],
-		'TV', 1, 2013, 'Light novel', 0, 1,
+		0, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11245,7 +11247,7 @@ const animeList = [
 			'Sleepy Princess in the Demon Castle',
 		],
 		[ 95 ],
-		'TV', 3, 2020, 'Manga', 0, 1,
+		0, 3, 2020, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11262,7 +11264,7 @@ const animeList = [
 			'Hatena Illusion',
 		],
 		[ 1407 ],
-		'TV', 0, 2020, 'Light novel', 0, 1,
+		0, 0, 2020, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11277,7 +11279,7 @@ const animeList = [
 			'Taisho Otome Fairy Tale',
 		],
 		[ 118 ],
-		'TV', 3, 2021, 'Manga', 0, 1,
+		0, 3, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -11295,7 +11297,7 @@ const animeList = [
 			'The Detective Is Already Dead',
 		],
 		[ 1974 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tMystery',
@@ -11310,7 +11312,7 @@ const animeList = [
 			'My Next Life as a Villainess: All Routes Lead to Doom! X: I Met My Destined One...',
 		],
 		[ 300 ],
-		'OVA', 2, 2021, 'Light novel', 0, 1,
+		1, 2, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -11332,7 +11334,7 @@ const animeList = [
 			'My Next Life as a Villainess: All Routes Lead to Doom! X',
 		],
 		[ 300 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11354,7 +11356,7 @@ const animeList = [
 			'My Next Life as a Villainess: All Routes Lead to Doom!',
 		],
 		[ 300 ],
-		'TV', 1, 2020, 'Light novel', 0, 1,
+		0, 1, 2020, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11375,7 +11377,7 @@ const animeList = [
 			'RPG Real Estate',
 		],
 		[ 95 ],
-		'TV', 1, 2022, '4-koma manga', 0, 1,
+		0, 1, 2022, 3, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11390,7 +11392,7 @@ const animeList = [
 			'Love After World Domination',
 		],
 		[ 439 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -11411,7 +11413,7 @@ const animeList = [
 			'Kaguya-sama: Love is War - The First Kiss That Never Ends',
 		],
 		[ 56 ],
-		'Movie', 3, 2022, 'Manga', 0, 1,
+		4, 3, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
@@ -11431,7 +11433,7 @@ const animeList = [
 			'Kaguya-sama: Love is War - Ultra Romantic',
 		],
 		[ 56 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -11450,7 +11452,7 @@ const animeList = [
 			'Kaguya-sama: Love is War OVA',
 		],
 		[ 56 ],
-		'OVA', 1, 2021, 'Manga', 0, 1,
+		1, 1, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -11468,7 +11470,7 @@ const animeList = [
 			'Kaguya-sama: Love is War Season 2',
 		],
 		[ 56 ],
-		'TV', 1, 2020, 'Manga', 0, 1,
+		0, 1, 2020, 0, 0, 1,
 		[
 			'tComedy',
 			'tPsychological',
@@ -11488,7 +11490,7 @@ const animeList = [
 			'Kaguya-sama: Love is War',
 		],
 		[ 56 ],
-		'TV', 0, 2019, 'Manga', 0, 1,
+		0, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tPsychological',
@@ -11508,7 +11510,7 @@ const animeList = [
 			'The Helpful Fox Senko-san',
 		],
 		[ 95 ],
-		'TV', 1, 2019, 'Web manga', 0, 1,
+		0, 1, 2019, 2, 0, 1,
 		[
 			'tSliceofLife',
 			'tSupernatural',
@@ -11524,7 +11526,7 @@ const animeList = [
 			"Miss Kobayashi's Dragon Maid S: Japanese HospitalityThe Attendant is a Dragon",
 		],
 		[ 2 ],
-		'Special', 0, 2022, 'Manga', 0, 1,
+		2, 0, 2022, 0, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -11539,7 +11541,7 @@ const animeList = [
 			"Miss Kobayashi's Dragon Maid S",
 		],
 		[ 2 ],
-		'TV', 2, 2021, 'Manga', 0, 1,
+		0, 2, 2021, 0, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -11554,7 +11556,7 @@ const animeList = [
 			"Miss Kobayashi's Dragon Maid: Valentine's, and Then Hot Springs! (Please Don't Get Your Hopes Up)",
 		],
 		[ 2 ],
-		'Special', 2, 2017, 'Manga', 0, 1,
+		2, 2, 2017, 0, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -11569,7 +11571,7 @@ const animeList = [
 			"Miss Kobayashi's Dragon Maid",
 		],
 		[ 2 ],
-		'TV', 0, 2017, 'Manga', 0, 1,
+		0, 0, 2017, 0, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -11583,7 +11585,7 @@ const animeList = [
 			'クロックワーク・プラネット',
 		],
 		[ 27 ],
-		'TV', 1, 2017, 'Light novel', 0, 1,
+		0, 1, 2017, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSciFi',
@@ -11598,7 +11600,7 @@ const animeList = [
 			'Akashic Records of Bastard Magic Instructor',
 		],
 		[ 839 ],
-		'TV', 1, 2017, 'Light novel', 1, 1,
+		0, 1, 2017, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11614,7 +11616,7 @@ const animeList = [
 			"Seven Senses of the Re'Union",
 		],
 		[ 456 ],
-		'TV', 2, 2018, 'Light novel', 0, 1,
+		0, 2, 2018, 1, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -11630,7 +11632,7 @@ const animeList = [
 			'ゴブリンスレイヤーⅡ',
 		],
 		[ 839 ],
-		'TV', 3, 2023, 'Light novel', 1, 1,
+		0, 3, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11648,7 +11650,7 @@ const animeList = [
 			"ゴブリンスレイヤー -GOBLIN'S CROWN-",
 		],
 		[ 314 ],
-		'Movie', 0, 2020, 'Light novel', 1, 1,
+		4, 0, 2020, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11664,7 +11666,7 @@ const animeList = [
 			'ゴブリンスレイヤー',
 		],
 		[ 314 ],
-		'TV', 3, 2018, 'Light novel', 1, 1,
+		0, 3, 2018, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11682,7 +11684,7 @@ const animeList = [
 			'As Miss Beelzebub Likes.',
 		],
 		[ 839 ],
-		'TV', 3, 2018, '4-koma manga', 0, 1,
+		0, 3, 2018, 3, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -11701,7 +11703,7 @@ const animeList = [
 			'The Rising of the Shield Hero Season 3',
 		],
 		[ 290 ],
-		'TV', 3, 2023, 'Light novel', 0, 1,
+		0, 3, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11721,7 +11723,7 @@ const animeList = [
 			'The Rising of the Shield Hero Season 2',
 		],
 		[ 290, 1575 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11739,7 +11741,7 @@ const animeList = [
 			'The Rising of the Shield Hero',
 		],
 		[ 290 ],
-		'TV', 0, 2019, 'Light novel', 0, 1,
+		0, 0, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11757,7 +11759,7 @@ const animeList = [
 			"If It's for My Daughter, I'd Even Defeat a Demon Lord",
 		],
 		[ 1978 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -11771,7 +11773,7 @@ const animeList = [
 			'アサシンズプライド',
 		],
 		[ 1264 ],
-		'TV', 3, 2019, 'Light novel', 0, 1,
+		0, 3, 2019, 1, 0, 1,
 		[
 			'tFantasy',
 			'tFavoriteOPSong',
@@ -11789,7 +11791,7 @@ const animeList = [
 			'A Certain Scientific Accelerator',
 		],
 		[ 7 ],
-		'TV', 2, 2019, 'Manga', 1, 1,
+		0, 2, 2019, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11804,7 +11806,7 @@ const animeList = [
 			'アサルトリリィ Bouquet',
 		],
 		[ 44 ],
-		'TV', 3, 2020, 'Mixed media', 0, 1,
+		0, 3, 2020, 10, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11818,7 +11820,7 @@ const animeList = [
 			"King's Raid: Successors of the Will",
 		],
 		[ 28, 2004 ],
-		'TV', 3, 2020, 'Game', 0, 1,
+		0, 3, 2020, 8, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11833,7 +11835,7 @@ const animeList = [
 			'The Misfit of Demon King Academy II Part 2',
 		],
 		[ 300 ],
-		'TV', 1, 2024, 'Light novel', 1, 1,
+		0, 1, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11849,7 +11851,7 @@ const animeList = [
 			'The Misfit of Demon King Academy Ⅱ',
 		],
 		[ 300 ],
-		'TV', 0, 2023, 'Light novel', 1, 1,
+		0, 0, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11865,7 +11867,7 @@ const animeList = [
 			'The Misfit of Demon King Academy',
 		],
 		[ 300 ],
-		'TV', 2, 2020, 'Light novel', 1, 1,
+		0, 2, 2020, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11881,7 +11883,7 @@ const animeList = [
 			'Our Last Crusade or the Rise of a New World Season 2',
 		],
 		[ 300, 2201 ],
-		'TV', 2, 2024, 'Light novel', 0, 0,
+		0, 2, 2024, 1, 0, 0,
 		[
 			'tAction',
 			'tFantasy',
@@ -11899,7 +11901,7 @@ const animeList = [
 			'Our Last Crusade or the Rise of a New World',
 		],
 		[ 300 ],
-		'TV', 3, 2020, 'Light novel', 0, 1,
+		0, 3, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11915,7 +11917,7 @@ const animeList = [
 			"Shachibato! President, It's Time for Battle!",
 		],
 		[ 605 ],
-		'TV', 1, 2020, 'Game', 0, 1,
+		0, 1, 2020, 8, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -11930,7 +11932,7 @@ const animeList = [
 			'The Irregular at Magic High School Season 3',
 		],
 		[ 441 ],
-		'TV', 1, 2024, 'Light novel', 1, 1,
+		0, 1, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11949,7 +11951,7 @@ const animeList = [
 			'The Irregular at Magic High School: Reminiscence Arc',
 		],
 		[ 441 ],
-		'Special', 3, 2021, 'Light novel', 0, 1,
+		2, 3, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -11966,7 +11968,7 @@ const animeList = [
 			'The Honor Student at Magic High School',
 		],
 		[ 957 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tFantasy',
 			'tUrbanFantasy',
@@ -11984,7 +11986,7 @@ const animeList = [
 			'The Irregular at Magic High School: Visitor Arc',
 		],
 		[ 441 ],
-		'TV', 3, 2020, 'Light novel', 0, 1,
+		0, 3, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -12003,7 +12005,7 @@ const animeList = [
 			'The Irregular at Magic High School The Movie - The Girl Who Summons The Stars',
 		],
 		[ 441 ],
-		'Movie', 1, 2017, 'Light novel', 1, 1,
+		4, 1, 2017, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -12020,7 +12022,7 @@ const animeList = [
 			'The Irregular at Magic High School',
 		],
 		[ 11 ],
-		'TV', 1, 2014, 'Light novel', 0, 1,
+		0, 1, 2014, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -12039,7 +12041,7 @@ const animeList = [
 			'Love Flops',
 		],
 		[ 911 ],
-		'TV', 3, 2022, 'Original', 2, 1,
+		0, 3, 2022, 4, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -12057,7 +12059,7 @@ const animeList = [
 			'Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?',
 		],
 		[ 839 ],
-		'TV', 0, 2021, 'Light novel', 0, 1,
+		0, 0, 2021, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -12071,7 +12073,7 @@ const animeList = [
 			'Seven Knights Revolution: Hero Successor',
 		],
 		[ 839, 1380 ],
-		'TV', 1, 2021, 'Game', 1, 1,
+		0, 1, 2021, 8, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12086,7 +12088,7 @@ const animeList = [
 			'Combatants Will Be Dispatched!',
 		],
 		[ 7 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -12103,7 +12105,7 @@ const animeList = [
 			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside Season 2",
 		],
 		[ 1693 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -12117,7 +12119,7 @@ const animeList = [
 			"Banished From The Hero's Party, I Decided To Live A Quiet Life In The Countryside",
 		],
 		[ 1693, 2052 ],
-		'TV', 3, 2021, 'Light novel', 0, 1,
+		0, 3, 2021, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -12131,7 +12133,7 @@ const animeList = [
 			'The Dawn of the Witch',
 		],
 		[ 200 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12148,7 +12150,7 @@ const animeList = [
 			"The Genius Prince's Guide to Raising a Nation Out of Debt",
 		],
 		[ 1687 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12162,7 +12164,7 @@ const animeList = [
 			"I'm Quitting Heroing: Remember, the Work Trip is First and Foremost a Learning Opportunity",
 		],
 		[ 1264 ],
-		'Special', 1, 2022, 'Light novel', 0, 1,
+		2, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12178,7 +12180,7 @@ const animeList = [
 			"I'm Quitting Heroing",
 		],
 		[ 1264 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12194,7 +12196,7 @@ const animeList = [
 			'More than a married couple, but not lovers.',
 		],
 		[ 2246 ],
-		'TV', 3, 2022, 'Manga', 0, 1,
+		0, 3, 2022, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -12212,7 +12214,7 @@ const animeList = [
 			'Black Summoner',
 		],
 		[ 41 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -12231,7 +12233,7 @@ const animeList = [
 			'アクセル・ワールド INFINITE∞BURST（インフィニット・バースト）',
 		],
 		[ 14 ],
-		'Movie', 2, 2016, 'Light novel', 0, 1,
+		4, 2, 2016, 1, 0, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -12248,7 +12250,7 @@ const animeList = [
 			'アクセル・ワールド EX',
 		],
 		[ 14 ],
-		'OVA', 2, 2012, 'Light novel', 0, 1,
+		1, 2, 2012, 1, 0, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -12265,7 +12267,7 @@ const animeList = [
 			'アクセル・ワールド',
 		],
 		[ 14 ],
-		'TV', 1, 2012, 'Light novel', 0, 1,
+		0, 1, 2012, 1, 0, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -12283,7 +12285,7 @@ const animeList = [
 			"Problem Children Are Coming from Another World, Aren't They? OVA",
 		],
 		[ 51 ],
-		'OVA', 2, 2013, 'Light novel', 0, 1,
+		1, 2, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12299,7 +12301,7 @@ const animeList = [
 			"Problem Children Are Coming from Another World, Aren't They?",
 		],
 		[ 51 ],
-		'TV', 0, 2013, 'Light novel', 0, 1,
+		0, 0, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12314,7 +12316,7 @@ const animeList = [
 			'アウトブレイク・カンパニー',
 		],
 		[ 91 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12332,7 +12334,7 @@ const animeList = [
 			'Grimgar: Staking Our Youths on the Bath Wall - One More Centimeter',
 		],
 		[ 56 ],
-		'Special', 0, 2016, 'Light novel', 0, 1,
+		2, 0, 2016, 1, 0, 1,
 		[
 			'tComedy',
 			'tFavoriteAnime',
@@ -12346,7 +12348,7 @@ const animeList = [
 			'Grimgar: Ashes and Illusions',
 		],
 		[ 56 ],
-		'TV', 0, 2016, 'Light novel', 1, 1,
+		0, 0, 2016, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12364,7 +12366,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! 3 OVA",
 		],
 		[ 1967 ],
-		'OVA', 1, 2025, 'Light novel', 0, 1,
+		1, 1, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12382,7 +12384,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! 3",
 		],
 		[ 1967 ],
-		'TV', 1, 2024, 'Light novel', 0, 1,
+		0, 1, 2024, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12400,7 +12402,7 @@ const animeList = [
 			'KonoSuba: An Explosion on This Wonderful World!',
 		],
 		[ 1967 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12415,7 +12417,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! - Legend of Crimson",
 		],
 		[ 7 ],
-		'Movie', 2, 2019, 'Light novel', 0, 1,
+		4, 2, 2019, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12433,7 +12435,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! 2 - God's Blessing on This Wonderful Art!",
 		],
 		[ 37 ],
-		'OVA', 2, 2017, 'Light novel', 0, 1,
+		1, 2, 2017, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12451,7 +12453,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! 2",
 		],
 		[ 37 ],
-		'TV', 0, 2017, 'Light novel', 0, 1,
+		0, 0, 2017, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12469,7 +12471,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World! - God's Blessing on This Wonderful Choker!",
 		],
 		[ 37 ],
-		'OVA', 1, 2016, 'Light novel', 0, 1,
+		1, 1, 2016, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12486,7 +12488,7 @@ const animeList = [
 			"KonoSuba: God's Blessing on This Wonderful World!",
 		],
 		[ 37 ],
-		'TV', 0, 2016, 'Light novel', 0, 1,
+		0, 0, 2016, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -12504,7 +12506,7 @@ const animeList = [
 			"I'm the Villainess, So I'm Taming the Final Boss",
 		],
 		[ 1978 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12522,7 +12524,7 @@ const animeList = [
 			'The Master of Ragnarok & Blesser of Einherjar',
 		],
 		[ 1264 ],
-		'TV', 2, 2018, 'Light novel', 0, 1,
+		0, 2, 2018, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12541,7 +12543,7 @@ const animeList = [
 			'Death March to the Parallel World Rhapsody',
 		],
 		[ 300, 957 ],
-		'TV', 0, 2018, 'Light novel', 0, 1,
+		0, 0, 2018, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -12558,7 +12560,7 @@ const animeList = [
 			"Wise Man's Grandchild",
 		],
 		[ 300 ],
-		'TV', 1, 2019, 'Light novel', 0, 1,
+		0, 1, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -12578,7 +12580,7 @@ const animeList = [
 			'Akiba Maid War',
 		],
 		[ 132 ],
-		'TV', 3, 2022, 'Original', 1, 1,
+		0, 3, 2022, 4, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -12593,7 +12595,7 @@ const animeList = [
 			'Kemono Michi: Rise Up',
 		],
 		[ 1974 ],
-		'TV', 3, 2019, 'Manga', 0, 1,
+		0, 3, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12609,7 +12611,7 @@ const animeList = [
 			'Immoral Guild',
 		],
 		[ 120 ],
-		'TV', 3, 2022, 'Manga', 2, 1,
+		0, 3, 2022, 0, 2, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12626,7 +12628,7 @@ const animeList = [
 			'異世界チート魔術師 第13話「宵星の祭りと魔術師」',
 		],
 		[ 354 ],
-		'Special', 2, 2021, 'Light novel', 0, 1,
+		2, 2, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12642,7 +12644,7 @@ const animeList = [
 			'異世界チート魔術師〈マジシャン〉',
 		],
 		[ 354 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12659,7 +12661,7 @@ const animeList = [
 			'CHOYOYU!: High School Prodigies Have It Easy Even in Another World!',
 		],
 		[ 439 ],
-		'TV', 3, 2019, 'Light novel', 0, 1,
+		0, 3, 2019, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -12676,7 +12678,7 @@ const animeList = [
 			"Didn't I Say to Make My Abilities Average in the Next Life?!",
 		],
 		[ 439 ],
-		'TV', 3, 2019, 'Light novel', 0, 1,
+		0, 3, 2019, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -12692,7 +12694,7 @@ const animeList = [
 			'Demon Lord, Retry! R',
 		],
 		[ 2554 ],
-		'TV', 3, 2024, 'Web manga', 0, 1,
+		0, 3, 2024, 2, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12708,7 +12710,7 @@ const animeList = [
 			'Demon Lord, Retry!',
 		],
 		[ 1794 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12724,7 +12726,7 @@ const animeList = [
 			'Cautious Hero: The Hero Is Overpowered but Overly Cautious',
 		],
 		[ 314 ],
-		'TV', 3, 2019, 'Light novel', 1, 1,
+		0, 3, 2019, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12742,7 +12744,7 @@ const animeList = [
 			'The Eminence in Shadow Season 2',
 		],
 		[ 852 ],
-		'TV', 3, 2023, 'Light novel', 1, 1,
+		0, 3, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -12762,7 +12764,7 @@ const animeList = [
 			'The Eminence in Shadow',
 		],
 		[ 852 ],
-		'TV', 3, 2022, 'Light novel', 1, 1,
+		0, 3, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -12781,7 +12783,7 @@ const animeList = [
 			'Ascendance of a Bookworm Season 3',
 		],
 		[ 30 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -12797,7 +12799,7 @@ const animeList = [
 			'Ascendance of a Bookworm Season 2',
 		],
 		[ 30 ],
-		'TV', 1, 2020, 'Light novel', 0, 1,
+		0, 1, 2020, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -12813,7 +12815,7 @@ const animeList = [
 			'Ascendance of a Bookworm: Side Story',
 		],
 		[ 30 ],
-		'OVA', 0, 2020, 'Light novel', 0, 1,
+		1, 0, 2020, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -12829,7 +12831,7 @@ const animeList = [
 			'Ascendance of a Bookworm',
 		],
 		[ 30 ],
-		'TV', 3, 2019, 'Light novel', 0, 1,
+		0, 3, 2019, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -12845,7 +12847,7 @@ const animeList = [
 			'忍の一時',
 		],
 		[ 1103 ],
-		'TV', 3, 2022, 'Original', 0, 1,
+		0, 3, 2022, 4, 0, 1,
 		[
 			'tAction',
 			'tSchool',
@@ -12859,7 +12861,7 @@ const animeList = [
 			"Arifureta: From Commonplace to World's Strongest Season 3",
 		],
 		[ 163 ],
-		'TV', 3, 2024, 'Light novel', 1, 1,
+		0, 3, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12879,7 +12881,7 @@ const animeList = [
 			'Arifureta: Phantom Adventure and Miraculous Encounter',
 		],
 		[ 163, 2246 ],
-		'OVA', 2, 2022, 'Light novel', 0, 1,
+		1, 2, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12897,7 +12899,7 @@ const animeList = [
 			"Arifureta: From a Detour to the World's Strongest",
 		],
 		[ 163, 2246 ],
-		'Special', 0, 2022, 'Light novel', 0, 1,
+		2, 0, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12915,7 +12917,7 @@ const animeList = [
 			"Arifureta: From Commonplace to World's Strongest Season 2",
 		],
 		[ 163, 2246 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12935,7 +12937,7 @@ const animeList = [
 			"Arifureta: From Commonplace to World's Strongest Specials",
 		],
 		[ 163, 314 ],
-		'Special', 3, 2019, 'Light novel', 0, 1,
+		2, 3, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12953,7 +12955,7 @@ const animeList = [
 			"Arifureta: From Commonplace to World's Strongest",
 		],
 		[ 163, 314 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12972,7 +12974,7 @@ const animeList = [
 			'Tower of God Season 2: Workshop Battle',
 		],
 		[ 229 ],
-		'TV', 3, 2024, 'Web manga', 0, 1,
+		0, 3, 2024, 2, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -12990,7 +12992,7 @@ const animeList = [
 			'Tower of God: Return of the Prince',
 		],
 		[ 229 ],
-		'TV', 2, 2024, 'Web manga', 0, 1,
+		0, 2, 2024, 2, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13008,7 +13010,7 @@ const animeList = [
 			'Tower of God',
 		],
 		[ 94 ],
-		'TV', 1, 2020, 'Web manga', 0, 1,
+		0, 1, 2020, 2, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13028,7 +13030,7 @@ const animeList = [
 			'Management of a Novice Alchemist',
 		],
 		[ 1974 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -13044,7 +13046,7 @@ const animeList = [
 			'The 8th son? Are you kidding me?',
 		],
 		[ 118, 247 ],
-		'TV', 1, 2020, 'Light novel', 0, 1,
+		0, 1, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13059,7 +13061,7 @@ const animeList = [
 			'くまクマ熊ベアーぱーんち！',
 		],
 		[ 1264 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13075,7 +13077,7 @@ const animeList = [
 			'くま クマ 熊 ベアー',
 		],
 		[ 1264 ],
-		'TV', 3, 2020, 'Light novel', 0, 1,
+		0, 3, 2020, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13091,7 +13093,7 @@ const animeList = [
 			'<Infinite Dendrogram>-インフィニット・デンドログラム-',
 		],
 		[ 951 ],
-		'TV', 0, 2020, 'Light novel', 0, 1,
+		0, 0, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13107,7 +13109,7 @@ const animeList = [
 			'By the Grace of the Gods 2',
 		],
 		[ 1978 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -13126,7 +13128,7 @@ const animeList = [
 			'By the Grace of the Gods',
 		],
 		[ 1978 ],
-		'TV', 3, 2020, 'Light novel', 0, 1,
+		0, 3, 2020, 1, 0, 1,
 		[
 			'tFantasy',
 			'tSliceofLife',
@@ -13144,7 +13146,7 @@ const animeList = [
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense. Season 2",
 		],
 		[ 300 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13165,7 +13167,7 @@ const animeList = [
 			"BOFURI: I Don't Want to Get Hurt, so I'll Max Out My Defense.",
 		],
 		[ 300 ],
-		'TV', 0, 2020, 'Light novel', 0, 1,
+		0, 0, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13183,7 +13185,7 @@ const animeList = [
 			'Beast Tamer',
 		],
 		[ 1264 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13200,7 +13202,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime Season 3',
 		],
 		[ 441 ],
-		'TV', 1, 2024, 'Manga', 0, 1,
+		0, 1, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13221,7 +13223,7 @@ const animeList = [
 			"That Time I Got Reincarnated as a Slime Season 3: Digression - Diablo's Journal",
 		],
 		[ 441 ],
-		'Special', 0, 2024, 'Manga', 0, 1,
+		2, 0, 2024, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13238,7 +13240,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime: Visions of Coleus',
 		],
 		[ 441 ],
-		'OVA', 3, 2023, 'Manga', 0, 1,
+		1, 3, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13261,7 +13263,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime: The Movie - Scarlet Bond',
 		],
 		[ 441 ],
-		'Movie', 3, 2022, 'Manga', 0, 1,
+		4, 3, 2022, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13280,7 +13282,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime Season 2 Part 2',
 		],
 		[ 441 ],
-		'TV', 2, 2021, 'Manga', 0, 1,
+		0, 2, 2021, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13299,7 +13301,7 @@ const animeList = [
 			'The Slime Diaries',
 		],
 		[ 441 ],
-		'TV', 1, 2021, 'Manga', 0, 1,
+		0, 1, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -13317,7 +13319,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime Season 2',
 		],
 		[ 441 ],
-		'TV', 0, 2021, 'Manga', 0, 1,
+		0, 0, 2021, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13337,7 +13339,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime OAD',
 		],
 		[ 441 ],
-		'OVA', 2, 2019, 'Manga', 0, 1,
+		1, 2, 2019, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13355,7 +13357,7 @@ const animeList = [
 			'That Time I Got Reincarnated as a Slime',
 		],
 		[ 441 ],
-		'TV', 3, 2018, 'Manga', 0, 1,
+		0, 3, 2018, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13374,7 +13376,7 @@ const animeList = [
 			"I've Somehow Gotten Stronger When I Improved My Farm-Related Skills",
 		],
 		[ 1209 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13389,7 +13391,7 @@ const animeList = [
 			'Tsukimichi -Moonlit Fantasy- Season 2',
 		],
 		[ 7 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13410,7 +13412,7 @@ const animeList = [
 			'Tsukimichi -Moonlit Fantasy-',
 		],
 		[ 605 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13428,7 +13430,7 @@ const animeList = [
 			"The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat",
 		],
 		[ 300, 2201 ],
-		'TV', 3, 2021, 'Light novel', 0, 1,
+		0, 3, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -13452,7 +13454,7 @@ const animeList = [
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made Season 2',
 		],
 		[ 723 ],
-		'TV', 0, 2023, 'Light novel', 0, 1,
+		0, 0, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -13469,7 +13471,7 @@ const animeList = [
 			'The Fruit of Evolution: Before I Knew It, My Life Had It Made',
 		],
 		[ 723 ],
-		'TV', 3, 2021, 'Light novel', 0, 1,
+		0, 3, 2021, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -13486,7 +13488,7 @@ const animeList = [
 			'Seirei Gensouki: Spirit Chronicles Season 2',
 		],
 		[ 73 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13506,7 +13508,7 @@ const animeList = [
 			'Seirei Gensouki: Spirit Chronicles',
 		],
 		[ 73 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13527,7 +13529,7 @@ const animeList = [
 			"So I'm a Spider, So What?",
 		],
 		[ 1237 ],
-		'TV', 0, 2021, 'Light novel', 0, 1,
+		0, 0, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13547,7 +13549,7 @@ const animeList = [
 			'Restaurant to Another World 2',
 		],
 		[ 28 ],
-		'TV', 3, 2021, 'Light novel', 0, 1,
+		0, 3, 2021, 1, 0, 1,
 		[
 			'tFantasy',
 			'tGourmet',
@@ -13568,7 +13570,7 @@ const animeList = [
 			'Restaurant to Another World',
 		],
 		[ 300 ],
-		'TV', 2, 2017, 'Light novel', 0, 1,
+		0, 2, 2017, 1, 0, 1,
 		[
 			'tFantasy',
 			'tGourmet',
@@ -13587,7 +13589,7 @@ const animeList = [
 			'Reincarnated as a Sword',
 		],
 		[ 605 ],
-		'TV', 3, 2022, 'Light novel', 0, 1,
+		0, 3, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13605,7 +13607,7 @@ const animeList = [
 			'Mushoku Tensei: Jobless Reincarnation Season 2 Part 2',
 		],
 		[ 1993 ],
-		'TV', 1, 2024, 'Light novel', 1, 1,
+		0, 1, 2024, 1, 1, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -13626,7 +13628,7 @@ const animeList = [
 			'Mushoku Tensei: Jobless Reincarnation Season 2',
 		],
 		[ 1993 ],
-		'TV', 2, 2023, 'Light novel', 1, 1,
+		0, 2, 2023, 1, 1, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -13646,7 +13648,7 @@ const animeList = [
 			'無職転生Ⅱ ～異世界行ったら本気だす～ 第0話「守護術師フィッツ」',
 		],
 		[ 1993 ],
-		'Special', 2, 2023, 'Light novel', 1, 1,
+		2, 2, 2023, 1, 1, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -13665,7 +13667,7 @@ const animeList = [
 			'Mushoku Tensei: Jobless Reincarnation - Eris the Goblin Slayer',
 		],
 		[ 1993 ],
-		'Special', 0, 2022, 'Light novel', 1, 1,
+		2, 0, 2022, 1, 1, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -13683,7 +13685,7 @@ const animeList = [
 			'Mushoku Tensei: Jobless Reincarnation Part 2',
 		],
 		[ 1993 ],
-		'TV', 3, 2021, 'Light novel', 1, 1,
+		0, 3, 2021, 1, 1, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -13702,7 +13704,7 @@ const animeList = [
 			'Mushoku Tensei: Jobless Reincarnation',
 		],
 		[ 1993 ],
-		'TV', 0, 2021, 'Light novel', 1, 1,
+		0, 0, 2021, 1, 1, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -13721,7 +13723,7 @@ const animeList = [
 			'Log Horizon: Destruction of the Round Table',
 		],
 		[ 37 ],
-		'TV', 0, 2021, 'Light novel', 0, 1,
+		0, 0, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13739,7 +13741,7 @@ const animeList = [
 			'Log Horizon 2',
 		],
 		[ 37 ],
-		'TV', 3, 2014, 'Light novel', 0, 1,
+		0, 3, 2014, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13756,7 +13758,7 @@ const animeList = [
 			'ログ・ホライズン',
 		],
 		[ 41 ],
-		'TV', 3, 2013, 'Light novel', 0, 1,
+		0, 3, 2013, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -13776,7 +13778,7 @@ const animeList = [
 			'How a Realist Hero Rebuilt the Kingdom Part 2',
 		],
 		[ 7 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13794,7 +13796,7 @@ const animeList = [
 			'How a Realist Hero Rebuilt the Kingdom',
 		],
 		[ 7 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13812,7 +13814,7 @@ const animeList = [
 			'Full Dive: The Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!',
 		],
 		[ 1974 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -13828,7 +13830,7 @@ const animeList = [
 			'Drug Store in Another World: The Slow Life of a Cheat Pharmacist',
 		],
 		[ 1264 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -13845,7 +13847,7 @@ const animeList = [
 			'Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs',
 		],
 		[ 1974 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13865,7 +13867,7 @@ const animeList = [
 			'Skeleton Knight in Another World',
 		],
 		[ 1997, 2097 ],
-		'TV', 1, 2022, 'Light novel', 1, 1,
+		0, 1, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -13884,7 +13886,7 @@ const animeList = [
 			'Uncle from Another World',
 		],
 		[ 2298 ],
-		'TV', 2, 2022, 'Web manga', 0, 1,
+		0, 2, 2022, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -13903,7 +13905,7 @@ const animeList = [
 			'She Professed Herself Pupil of the Wise Man',
 		],
 		[ 1209 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -13919,7 +13921,7 @@ const animeList = [
 			'Life with an Ordinary Guy who Reincarnated into a Total Fantasy Knockout',
 		],
 		[ 28 ],
-		'TV', 0, 2022, 'Web manga', 0, 1,
+		0, 0, 2022, 2, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13937,7 +13939,7 @@ const animeList = [
 			'プリンセスコネクト！ 導きの初花 - Fiore Storia -',
 		],
 		[ 1837 ],
-		'ONA', 0, 2025, 'Game', 0, 1,
+		3, 0, 2025, 8, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13952,7 +13954,7 @@ const animeList = [
 			'プリンセスコネクト! Re:Dive Season 2',
 		],
 		[ 1893 ],
-		'TV', 0, 2022, 'Game', 0, 1,
+		0, 0, 2022, 8, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13970,7 +13972,7 @@ const animeList = [
 			'プリンセスコネクト！Re:Dive',
 		],
 		[ 1893 ],
-		'TV', 1, 2020, 'Game', 0, 1,
+		0, 1, 2020, 8, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -13989,7 +13991,7 @@ const animeList = [
 			'The Greatest Demon Lord Is Reborn as a Typical Nobody',
 		],
 		[ 300, 1547 ],
-		'TV', 1, 2022, 'Light novel', 0, 1,
+		0, 1, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -14006,7 +14008,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? V',
 		],
 		[ 7 ],
-		'TV', 3, 2024, 'Light novel', 0, 1,
+		0, 3, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14023,7 +14025,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV Part 2',
 		],
 		[ 7 ],
-		'TV', 0, 2023, 'Light novel', 1, 1,
+		0, 0, 2023, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14039,7 +14041,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? IV',
 		],
 		[ 7 ],
-		'TV', 2, 2022, 'Light novel', 1, 1,
+		0, 2, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14055,7 +14057,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III: Is It Wrong to Try to Find a Hot Spring in Orario?',
 		],
 		[ 7 ],
-		'OVA', 1, 2021, 'Light novel', 0, 1,
+		1, 1, 2021, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -14072,7 +14074,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? III',
 		],
 		[ 7 ],
-		'TV', 3, 2020, 'Light novel', 0, 1,
+		0, 3, 2020, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14088,7 +14090,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II: Is It Wrong to go Searching for Herbs on a Deserted Island?',
 		],
 		[ 7 ],
-		'OVA', 0, 2020, 'Light novel', 0, 1,
+		1, 0, 2020, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -14105,7 +14107,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon? II',
 		],
 		[ 7 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14121,7 +14123,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Arrow of the Orion',
 		],
 		[ 7 ],
-		'Movie', 0, 2019, 'Light novel', 0, 1,
+		4, 0, 2019, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14137,7 +14139,7 @@ const animeList = [
 			'Sword Oratoria: Is It Wrong to Try to Pick Up Girls in a Dungeon? On the Side',
 		],
 		[ 7 ],
-		'TV', 1, 2017, 'Light novel', 0, 1,
+		0, 1, 2017, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14153,7 +14155,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?: Is It Wrong to Expect a Hot Spring in a Dungeon?',
 		],
 		[ 7 ],
-		'OVA', 3, 2016, 'Light novel', 0, 1,
+		1, 3, 2016, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -14170,7 +14172,7 @@ const animeList = [
 			'Is It Wrong to Try to Pick Up Girls in a Dungeon?',
 		],
 		[ 7 ],
-		'TV', 1, 2015, 'Light novel', 0, 1,
+		0, 1, 2015, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14186,7 +14188,7 @@ const animeList = [
 			'How Not to Summon a Demon Lord Ω',
 		],
 		[ 200, 2037 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -14203,7 +14205,7 @@ const animeList = [
 			'How Not to Summon a Demon Lord',
 		],
 		[ 30 ],
-		'TV', 2, 2018, 'Light novel', 0, 1,
+		0, 2, 2018, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -14220,7 +14222,7 @@ const animeList = [
 			"Mother of the Goddess' Dormitory",
 		],
 		[ 163 ],
-		'TV', 2, 2021, 'Manga', 2, 1,
+		0, 2, 2021, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14237,7 +14239,7 @@ const animeList = [
 			'I’m Standing on a Million Lives Season 2',
 		],
 		[ 1978 ],
-		'TV', 2, 2021, 'Manga', 0, 1,
+		0, 2, 2021, 0, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -14256,7 +14258,7 @@ const animeList = [
 			"I'm Standing on a Million Lives",
 		],
 		[ 1978 ],
-		'TV', 3, 2020, 'Manga', 0, 1,
+		0, 3, 2020, 0, 0, 1,
 		[
 			'tAction',
 			'tDrama',
@@ -14275,7 +14277,7 @@ const animeList = [
 			'In Another World With My Smartphone 2',
 		],
 		[ 7 ],
-		'TV', 1, 2023, 'Light novel', 0, 1,
+		0, 1, 2023, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -14294,7 +14296,7 @@ const animeList = [
 			'In Another World With My Smartphone',
 		],
 		[ 196 ],
-		'TV', 2, 2017, 'Light novel', 0, 1,
+		0, 2, 2017, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -14313,7 +14315,7 @@ const animeList = [
 			'Vermeil in Gold',
 		],
 		[ 2405 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tFantasy',
 			'tEcchi',
@@ -14329,7 +14331,7 @@ const animeList = [
 			'My Isekai Life: I Gained a Second Character Class and Became the Strongest Sage in the World',
 		],
 		[ 1692 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14345,7 +14347,7 @@ const animeList = [
 			'Engage Kiss',
 		],
 		[ 56 ],
-		'TV', 2, 2022, 'Original', 0, 1,
+		0, 2, 2022, 4, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -14361,7 +14363,7 @@ const animeList = [
 			'The Devil is a Part-Timer! Season 2 (Sequel)',
 		],
 		[ 1127 ],
-		'TV', 2, 2023, 'Light novel', 0, 1,
+		0, 2, 2023, 1, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -14375,7 +14377,7 @@ const animeList = [
 			'The Devil is a Part-Timer! Season 2',
 		],
 		[ 1127 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -14389,7 +14391,7 @@ const animeList = [
 			'The Devil is a Part-Timer!',
 		],
 		[ 314 ],
-		'TV', 1, 2013, 'Light novel', 0, 1,
+		0, 1, 2013, 1, 0, 1,
 		[
 			'tComedy',
 			'tSupernatural',
@@ -14403,7 +14405,7 @@ const animeList = [
 			'The Maid I Hired Recently Is Mysterious',
 		],
 		[ 300, 1547 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tLoveStatusQuo',
@@ -14418,7 +14420,7 @@ const animeList = [
 			'Parallel World Pharmacy',
 		],
 		[ 51 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -14434,7 +14436,7 @@ const animeList = [
 			'『リコリス・リコイル』Friends are thieves of time.',
 		],
 		[ 56 ],
-		'ONA', 1, 2025, 'Original', 0, 0,
+		3, 1, 2025, 4, 0, 0,
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
@@ -14447,7 +14449,7 @@ const animeList = [
 			'リコリス・リコイル',
 		],
 		[ 56 ],
-		'TV', 2, 2022, 'Original', 0, 1,
+		0, 2, 2022, 4, 0, 1,
 		[
 			'tAction',
 			'tFavoriteOPSong',
@@ -14462,7 +14464,7 @@ const animeList = [
 			'The Strongest Sage with the Weakest Crest',
 		],
 		[ 7 ],
-		'TV', 0, 2022, 'Light novel', 0, 1,
+		0, 0, 2022, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14478,7 +14480,7 @@ const animeList = [
 			'The Hidden Dungeon Only I Can Enter',
 		],
 		[ 2037 ],
-		'TV', 0, 2021, 'Light novel', 0, 1,
+		0, 0, 2021, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -14495,7 +14497,7 @@ const animeList = [
 			'Science Fell in Love, So I Tried to Prove It r=1-sinθ',
 		],
 		[ 1379 ],
-		'TV', 1, 2022, 'Web manga', 0, 1,
+		0, 1, 2022, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14514,7 +14516,7 @@ const animeList = [
 			'Science Fell in Love, So I Tried to Prove It',
 		],
 		[ 1379 ],
-		'TV', 0, 2020, 'Web manga', 0, 1,
+		0, 0, 2020, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14532,7 +14534,7 @@ const animeList = [
 			'Rent-a-Girlfriend Season 3',
 		],
 		[ 73 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14549,7 +14551,7 @@ const animeList = [
 			'Rent-a-Girlfriend Season 2',
 		],
 		[ 73 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14566,7 +14568,7 @@ const animeList = [
 			'Rent-a-Girlfriend',
 		],
 		[ 73 ],
-		'TV', 2, 2020, 'Manga', 0, 1,
+		0, 2, 2020, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14581,7 +14583,7 @@ const animeList = [
 			'The Day I Became a God',
 		],
 		[ 132 ],
-		'TV', 3, 2020, 'Original', 0, 1,
+		0, 3, 2020, 4, 0, 1,
 		[
 			'tDrama',
 			'tFantasy',
@@ -14596,7 +14598,7 @@ const animeList = [
 			'Remake Our Life!',
 		],
 		[ 91 ],
-		'TV', 2, 2021, 'Light novel', 0, 1,
+		0, 2, 2021, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -14613,7 +14615,7 @@ const animeList = [
 			'Horimiya: The Missing Pieces',
 		],
 		[ 1835 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -14628,7 +14630,7 @@ const animeList = [
 			'ホリミヤ',
 		],
 		[ 1835 ],
-		'TV', 0, 2021, 'Manga', 0, 1,
+		0, 0, 2021, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
@@ -14644,7 +14646,7 @@ const animeList = [
 			'Higehiro: After Being Rejected, I Shaved and Took in a High School Runaway',
 		],
 		[ 439 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -14658,7 +14660,7 @@ const animeList = [
 			'Bottom-Tier Character Tomozaki 2nd Stage',
 		],
 		[ 439 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -14675,7 +14677,7 @@ const animeList = [
 			'Bottom-Tier Character Tomozaki Specials',
 		],
 		[ 439 ],
-		'Special', 1, 2021, 'Light novel', 0, 1,
+		2, 1, 2021, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -14691,7 +14693,7 @@ const animeList = [
 			'Bottom-Tier Character Tomozaki',
 		],
 		[ 439 ],
-		'TV', 0, 2021, 'Light novel', 0, 1,
+		0, 0, 2021, 1, 0, 1,
 		[
 			'tDrama',
 			'tRomance',
@@ -14711,7 +14713,7 @@ const animeList = [
 			"Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?",
 		],
 		[ 1857 ],
-		'TV', 2, 2019, 'Light novel', 0, 1,
+		0, 2, 2019, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14728,7 +14730,7 @@ const animeList = [
 			'ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game',
 		],
 		[ 957 ],
-		'OVA', 2, 2020, 'Light novel', 0, 1,
+		1, 2, 2020, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14743,7 +14745,7 @@ const animeList = [
 			'ORESUKI Are you the only one who loves me?',
 		],
 		[ 957 ],
-		'TV', 3, 2019, 'Light novel', 0, 1,
+		0, 3, 2019, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14759,7 +14761,7 @@ const animeList = [
 			"Monthly Girls' Nozaki-kun Specials",
 		],
 		[ 95 ],
-		'Special', 2, 2014, '4-koma manga', 0, 1,
+		2, 2, 2014, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14775,7 +14777,7 @@ const animeList = [
 			"Monthly Girls' Nozaki-kun",
 		],
 		[ 95 ],
-		'TV', 2, 2014, '4-koma manga', 0, 1,
+		0, 2, 2014, 3, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14794,7 +14796,7 @@ const animeList = [
 			"Osamake: Romcom Where The Childhood Friend Won't Lose",
 		],
 		[ 95 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14813,7 +14815,7 @@ const animeList = [
 			"Shikimori's Not Just a Cutie",
 		],
 		[ 95 ],
-		'TV', 1, 2022, 'Web manga', 0, 1,
+		0, 1, 2022, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14828,7 +14830,7 @@ const animeList = [
 			'ゲーマーズ！',
 		],
 		[ 1295 ],
-		'TV', 2, 2017, 'Light novel', 0, 1,
+		0, 2, 2017, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14846,7 +14848,7 @@ const animeList = [
 			'A Couple of Cuckoos',
 		],
 		[ 118, 247 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14864,7 +14866,7 @@ const animeList = [
 			'Call of the Night',
 		],
 		[ 839 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tRomance',
 			'tSupernatural',
@@ -14882,7 +14884,7 @@ const animeList = [
 			'Classroom of the Elite III',
 		],
 		[ 456 ],
-		'TV', 0, 2024, 'Light novel', 0, 1,
+		0, 0, 2024, 1, 0, 1,
 		[
 			'tDrama',
 			'tPsychological',
@@ -14899,7 +14901,7 @@ const animeList = [
 			'Classroom of the Elite II',
 		],
 		[ 456 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tDrama',
 			'tPsychological',
@@ -14916,7 +14918,7 @@ const animeList = [
 			'Classroom of the Elite',
 		],
 		[ 456 ],
-		'TV', 2, 2017, 'Light novel', 0, 1,
+		0, 2, 2017, 1, 0, 1,
 		[
 			'tDrama',
 			'tPsychological',
@@ -14931,7 +14933,7 @@ const animeList = [
 			'だんちがい 十三号棟 銭湯行きたいー!!',
 		],
 		[ 1195 ],
-		'Special', 2, 2015, '4-koma manga', 0, 1,
+		2, 2, 2015, 3, 0, 1,
 		[
 			'tComedy',
 			'tSliceofLife',
@@ -14944,7 +14946,7 @@ const animeList = [
 			'だんちがい',
 		],
 		[ 1195 ],
-		'TV', 2, 2015, '4-koma manga', 0, 1,
+		0, 2, 2015, 3, 0, 1,
 		[
 			'tComedy',
 			'tSliceofLife',
@@ -14959,7 +14961,7 @@ const animeList = [
 			"Masamune-kun's Revenge R",
 		],
 		[ 300 ],
-		'TV', 2, 2023, 'Manga', 0, 1,
+		0, 2, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14976,7 +14978,7 @@ const animeList = [
 			"Masamune-kun's Revenge OVA",
 		],
 		[ 300 ],
-		'OVA', 2, 2018, 'Manga', 0, 1,
+		1, 2, 2018, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -14993,7 +14995,7 @@ const animeList = [
 			"Masamune-kun's Revenge",
 		],
 		[ 300 ],
-		'TV', 0, 2017, 'Manga', 0, 1,
+		0, 0, 2017, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15010,7 +15012,7 @@ const animeList = [
 			'TONIKAWA: Over The Moon For You - High School Days',
 		],
 		[ 35 ],
-		'ONA', 2, 2023, 'Manga', 0, 1,
+		3, 2, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15029,7 +15031,7 @@ const animeList = [
 			'TONIKAWA: Over The Moon For You Season 2',
 		],
 		[ 35 ],
-		'TV', 1, 2023, 'Manga', 0, 1,
+		0, 1, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15047,7 +15049,7 @@ const animeList = [
 			'Tonikawa: Over the Moon for You - Uniform',
 		],
 		[ 35 ],
-		'Special', 3, 2022, 'Manga', 0, 1,
+		2, 3, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15063,7 +15065,7 @@ const animeList = [
 			'TONIKAWA: Over The Moon For You - SNS',
 		],
 		[ 35 ],
-		'OVA', 2, 2021, 'Manga', 0, 1,
+		1, 2, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15079,7 +15081,7 @@ const animeList = [
 			'TONIKAWA: Over The Moon For You',
 		],
 		[ 35 ],
-		'TV', 3, 2020, 'Manga', 0, 1,
+		0, 3, 2020, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15097,7 +15099,7 @@ const animeList = [
 			'Senryu Girl',
 		],
 		[ 957 ],
-		'TV', 1, 2019, '4-koma manga', 0, 1,
+		0, 1, 2019, 3, 0, 1,
 		[
 			'tComedy',
 			'tSliceofLife',
@@ -15115,7 +15117,7 @@ const animeList = [
 			'The Quintessential Quintuplets*',
 		],
 		[ 1722 ],
-		'Special', 3, 2024, 'Manga', 0, 1,
+		2, 3, 2024, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15133,7 +15135,7 @@ const animeList = [
 			'The Quintessential Quintuplets~',
 		],
 		[ 44 ],
-		'Special', 2, 2023, 'Manga', 0, 1,
+		2, 2, 2023, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15152,7 +15154,7 @@ const animeList = [
 			'The Quintessential Quintuplets Movie',
 		],
 		[ 1722 ],
-		'Movie', 1, 2022, 'Manga', 0, 1,
+		4, 1, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15170,7 +15172,7 @@ const animeList = [
 			'The Quintessential Quintuplets 2',
 		],
 		[ 1722 ],
-		'TV', 0, 2021, 'Manga', 0, 1,
+		0, 0, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15189,7 +15191,7 @@ const animeList = [
 			'The Quintessential Quintuplets',
 		],
 		[ 200 ],
-		'TV', 0, 2019, 'Manga', 0, 1,
+		0, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15206,7 +15208,7 @@ const animeList = [
 			'ぼくたちは勉強ができない！「チャペルの鐘は[X]を祝福する」',
 		],
 		[ 1873, 1874 ],
-		'OVA', 1, 2020, 'Manga', 0, 1,
+		1, 1, 2020, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15222,7 +15224,7 @@ const animeList = [
 			'ぼくたちは勉強ができない「渚に失せものありて先人は艶然と[X]する」',
 		],
 		[ 1873, 1874 ],
-		'OVA', 3, 2019, 'Manga', 0, 1,
+		1, 3, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15240,7 +15242,7 @@ const animeList = [
 			'We Never Learn!: BOKUBEN Season 2',
 		],
 		[ 1873, 1874 ],
-		'TV', 3, 2019, 'Manga', 0, 1,
+		0, 3, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15258,7 +15260,7 @@ const animeList = [
 			'We Never Learn: BOKUBEN',
 		],
 		[ 1873, 1874 ],
-		'TV', 1, 2019, 'Manga', 0, 1,
+		0, 1, 2019, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15276,7 +15278,7 @@ const animeList = [
 			"Komi Can't Communicate Season 2",
 		],
 		[ 28 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -15292,7 +15294,7 @@ const animeList = [
 			"Komi Can't Communicate",
 		],
 		[ 28 ],
-		'TV', 3, 2021, 'Manga', 0, 1,
+		0, 3, 2021, 0, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
@@ -15310,7 +15312,7 @@ const animeList = [
 			'Aharen Is Indecipherable 2nd Season',
 		],
 		[ 1440 ],
-		'TV', 1, 2025, 'Manga', 0, 0,
+		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
 			'tRomance',
@@ -15328,7 +15330,7 @@ const animeList = [
 			'Aharen Is Indecipherable',
 		],
 		[ 1440 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15346,7 +15348,7 @@ const animeList = [
 			"The Yakuza's Guide to Babysitting",
 		],
 		[ 91, 1314 ],
-		'TV', 2, 2022, 'Web manga', 0, 1,
+		0, 2, 2022, 2, 0, 1,
 		[
 			'tSliceofLife',
 			'tChildcare',
@@ -15362,7 +15364,7 @@ const animeList = [
 			"My Stepmom's Daughter Is My Ex",
 		],
 		[ 439 ],
-		'TV', 2, 2022, 'Light novel', 0, 1,
+		0, 2, 2022, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15376,7 +15378,7 @@ const animeList = [
 			'When Will Ayumu Make His Move?',
 		],
 		[ 300 ],
-		'TV', 2, 2022, 'Manga', 0, 1,
+		0, 2, 2022, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -15395,7 +15397,7 @@ const animeList = [
 			'オーバーロード IV',
 		],
 		[ 11 ],
-		'TV', 2, 2022, 'Light novel', 1, 1,
+		0, 2, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -15412,7 +15414,7 @@ const animeList = [
 			'オーバーロードⅢ',
 		],
 		[ 11 ],
-		'TV', 2, 2018, 'Light novel', 1, 1,
+		0, 2, 2018, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -15428,7 +15430,7 @@ const animeList = [
 			'オーバーロードⅡ',
 		],
 		[ 11 ],
-		'TV', 0, 2018, 'Light novel', 1, 1,
+		0, 0, 2018, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -15445,7 +15447,7 @@ const animeList = [
 			'Overlord: The Dark Hero',
 		],
 		[ 11 ],
-		'Movie', 0, 2017, 'Light novel', 1, 1,
+		4, 0, 2017, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -15462,7 +15464,7 @@ const animeList = [
 			'Overlord: The Undead King',
 		],
 		[ 11 ],
-		'Movie', 0, 2017, 'Light novel', 1, 1,
+		4, 0, 2017, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -15478,7 +15480,7 @@ const animeList = [
 			'オーバーロード',
 		],
 		[ 11 ],
-		'TV', 2, 2015, 'Light novel', 1, 1,
+		0, 2, 2015, 1, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -15495,7 +15497,7 @@ const animeList = [
 			'Spy x Family Code: White',
 		],
 		[ 858, 1835 ],
-		'Movie', 3, 2023, 'Manga', 0, 1,
+		4, 3, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15512,7 +15514,7 @@ const animeList = [
 			'Spy x Family Season 2',
 		],
 		[ 858, 1835 ],
-		'TV', 3, 2023, 'Manga', 0, 1,
+		0, 3, 2023, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15531,7 +15533,7 @@ const animeList = [
 			'Spy x Family Part 2',
 		],
 		[ 858, 1835 ],
-		'TV', 3, 2022, 'Manga', 0, 1,
+		0, 3, 2022, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15551,7 +15553,7 @@ const animeList = [
 			'Spy x Family',
 		],
 		[ 858, 1835 ],
-		'TV', 1, 2022, 'Manga', 0, 1,
+		0, 1, 2022, 0, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15572,7 +15574,7 @@ const animeList = [
 			'デート・ア・ライブⅤ',
 		],
 		[ 1857 ],
-		'TV', 1, 2024, 'Light novel', 1, 1,
+		0, 1, 2024, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -15593,7 +15595,7 @@ const animeList = [
 			'デート・ア・ライブⅣ',
 		],
 		[ 1857 ],
-		'TV', 1, 2022, 'Light novel', 1, 1,
+		0, 1, 2022, 1, 1, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -15614,7 +15616,7 @@ const animeList = [
 			'デート・ア・バレット ナイトメア・オア・クイーン',
 		],
 		[ 1857 ],
-		'Movie', 3, 2020, 'Light novel', 1, 1,
+		4, 3, 2020, 1, 1, 1,
 		[
 			'tAction',
 			'tSciFi',
@@ -15629,7 +15631,7 @@ const animeList = [
 			'デート・ア・バレット デッド・オア・バレット',
 		],
 		[ 1857 ],
-		'Movie', 2, 2020, 'Light novel', 1, 1,
+		4, 2, 2020, 1, 1, 1,
 		[
 			'tAction',
 			'tSciFi',
@@ -15644,7 +15646,7 @@ const animeList = [
 			'デート・ア・ライブⅢ',
 		],
 		[ 7 ],
-		'TV', 0, 2019, 'Light novel', 1, 1,
+		0, 0, 2019, 1, 1, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -15665,7 +15667,7 @@ const animeList = [
 			'Date A Live Movie: Mayuri Judgement',
 		],
 		[ 7 ],
-		'Movie', 2, 2015, 'Light novel', 0, 1,
+		4, 2, 2015, 1, 0, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -15683,7 +15685,7 @@ const animeList = [
 			'デート・ア・ライブII 狂三スターフェスティバル',
 		],
 		[ 1053 ],
-		'OVA', 3, 2014, 'Light novel', 1, 1,
+		1, 3, 2014, 1, 1, 1,
 		[
 			'tRomance',
 			'tFavoriteAnime',
@@ -15696,7 +15698,7 @@ const animeList = [
 			'デート・ア・ライブⅡ',
 		],
 		[ 7 ],
-		'TV', 1, 2014, 'Light novel', 1, 1,
+		0, 1, 2014, 1, 1, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -15716,7 +15718,7 @@ const animeList = [
 			'デート・ア・ライブ DATE TO DATE',
 		],
 		[ 292 ],
-		'OVA', 3, 2013, 'Light novel', 0, 1,
+		1, 3, 2013, 1, 0, 1,
 		[
 			'tRomance',
 			'tSciFi',
@@ -15732,7 +15734,7 @@ const animeList = [
 			'デート・ア・ライブ',
 		],
 		[ 292 ],
-		'TV', 1, 2013, 'Light novel', 1, 1,
+		0, 1, 2013, 1, 1, 1,
 		[
 			'tAction',
 			'tRomance',
@@ -15752,7 +15754,7 @@ const animeList = [
 			'パリピ孔明 Road to Summer Sonia',
 		],
 		[ 132 ],
-		'TV', 0, 2024, 'Web manga', 0, 1,
+		0, 0, 2024, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -15771,7 +15773,7 @@ const animeList = [
 			'Ya Boy Kongming!',
 		],
 		[ 132 ],
-		'TV', 1, 2022, 'Web manga', 0, 1,
+		0, 1, 2022, 2, 0, 1,
 		[
 			'tComedy',
 			'tAdultCast',
@@ -15791,7 +15793,7 @@ const animeList = [
 			'Aggretsuko 5th Season',
 		],
 		[ 866 ],
-		'ONA', 0, 2023, 'Other', 0, 1,
+		3, 0, 2023, 11, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -15807,7 +15809,7 @@ const animeList = [
 			'Aggretsuko 4th Season',
 		],
 		[ 866 ],
-		'ONA', 3, 2021, 'Other', 0, 1,
+		3, 3, 2021, 11, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -15823,7 +15825,7 @@ const animeList = [
 			'Aggretsuko 3rd Season',
 		],
 		[ 866 ],
-		'ONA', 2, 2020, 'Other', 0, 1,
+		3, 2, 2020, 11, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -15839,7 +15841,7 @@ const animeList = [
 			'Aggretsuko 2nd Season',
 		],
 		[ 866 ],
-		'ONA', 1, 2019, 'Other', 0, 1,
+		3, 1, 2019, 11, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -15855,7 +15857,7 @@ const animeList = [
 			'Aggretsuko: We Wish You a Metal Christmas',
 		],
 		[ 866 ],
-		'ONA', 3, 2018, 'Other', 0, 1,
+		3, 3, 2018, 11, 0, 1,
 		[
 			'tComedy',
 			'tAnthropomorphic',
@@ -15870,7 +15872,7 @@ const animeList = [
 			'Aggretsuko',
 		],
 		[ 866 ],
-		'ONA', 1, 2018, 'Other', 0, 1,
+		3, 1, 2018, 11, 0, 1,
 		[
 			'tComedy',
 			'tWorkplace',
@@ -15886,7 +15888,7 @@ const animeList = [
 			'One Punch Man Season 2 Specials',
 		],
 		[ 7 ],
-		'Special', 3, 2019, 'Web manga', 1, 1,
+		2, 3, 2019, 2, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15904,7 +15906,7 @@ const animeList = [
 			'One Punch Man Season 2',
 		],
 		[ 7 ],
-		'TV', 1, 2019, 'Web manga', 1, 1,
+		0, 1, 2019, 2, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15921,7 +15923,7 @@ const animeList = [
 			'ワンパンマン',
 		],
 		[ 7 ],
-		'Special', 3, 2015, 'Web manga', 1, 1,
+		2, 3, 2015, 2, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15938,7 +15940,7 @@ const animeList = [
 			'ワンパンマン OVA「ロード・トゥ・ヒーロー」',
 		],
 		[ 7 ],
-		'OVA', 3, 2015, 'Web manga', 1, 1,
+		1, 3, 2015, 2, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15954,7 +15956,7 @@ const animeList = [
 			'ワンパンマン',
 		],
 		[ 11 ],
-		'TV', 3, 2015, 'Web manga', 1, 1,
+		0, 3, 2015, 2, 1, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -15972,7 +15974,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Stone Ocean Part 3",
 		],
 		[ 287 ],
-		'ONA', 3, 2022, 'Manga', 1, 1,
+		3, 3, 2022, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -15992,7 +15994,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Stone Ocean Part 2",
 		],
 		[ 287 ],
-		'ONA', 2, 2022, 'Manga', 1, 1,
+		3, 2, 2022, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16010,7 +16012,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Stone Ocean",
 		],
 		[ 287 ],
-		'ONA', 3, 2021, 'Manga', 1, 1,
+		3, 3, 2021, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16029,7 +16031,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Golden Wind",
 		],
 		[ 287 ],
-		'TV', 3, 2018, 'Manga', 1, 1,
+		0, 3, 2018, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16049,7 +16051,7 @@ const animeList = [
 			'Thus Spoke Kishibe Rohan',
 		],
 		[ 287 ],
-		'OVA', 2, 2017, 'Manga', 1, 1,
+		1, 2, 2017, 0, 1, 1,
 		[
 			'tAction',
 			'tMystery',
@@ -16066,7 +16068,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Diamond is Unbreakable",
 		],
 		[ 287 ],
-		'TV', 1, 2016, 'Manga', 1, 1,
+		0, 1, 2016, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16085,7 +16087,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Stardust Crusaders - Battle in Egypt",
 		],
 		[ 287 ],
-		'TV', 0, 2015, 'Manga', 1, 1,
+		0, 0, 2015, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16104,7 +16106,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure: Stardust Crusaders",
 		],
 		[ 287 ],
-		'TV', 1, 2014, 'Manga', 1, 1,
+		0, 1, 2014, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16123,7 +16125,7 @@ const animeList = [
 			"JoJo's Bizarre Adventure",
 		],
 		[ 287 ],
-		'TV', 3, 2012, 'Manga', 1, 1,
+		0, 3, 2012, 0, 1, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -16144,7 +16146,7 @@ const animeList = [
 			'The Duke of Death and His Maid Season 3',
 		],
 		[ 7 ],
-		'TV', 1, 2024, 'Web manga', 0, 1,
+		0, 1, 2024, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -16161,7 +16163,7 @@ const animeList = [
 			'The Duke of Death and His Maid Season 2',
 		],
 		[ 7 ],
-		'TV', 2, 2023, 'Web manga', 0, 1,
+		0, 2, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -16178,7 +16180,7 @@ const animeList = [
 			'The Duke of Death and His Maid',
 		],
 		[ 7 ],
-		'TV', 2, 2021, 'Web manga', 0, 1,
+		0, 2, 2021, 2, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -16195,7 +16197,7 @@ const animeList = [
 			"I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
 		],
 		[ 2909 ],
-		'TV', 1, 2025, 'Light novel', 0, 0,
+		0, 1, 2025, 1, 0, 0,
 		[
 			'tComedy',
 			'tFantasy',
@@ -16212,7 +16214,7 @@ const animeList = [
 			"I've Been Killing Slimes for 300 Years and Maxed Out My Level",
 		],
 		[ 1692 ],
-		'TV', 1, 2021, 'Light novel', 0, 1,
+		0, 1, 2021, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',

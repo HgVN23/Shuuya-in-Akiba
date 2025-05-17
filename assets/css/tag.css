@@ -101,12 +101,11 @@
 
 .tag::before {
 	background-color: var(--bg);
-	width: 6rem;
-	border-radius: 7px;
-	padding: 5px 10px;
+	width: 5rem;
+	border-radius: 6px;
+	padding: inherit;
 	display: none;
 	position: absolute;
-	bottom: 0;
 	right: 50%;
 	transform: translateX(50%);
 	text-align: center;
@@ -114,6 +113,6 @@
 }
 
 .tag:hover::before {
-	bottom: 2.5rem;
+	bottom: 2rem;
 	display: block;
 }
