@@ -62,7 +62,7 @@ function renderInfo(anime) {
 	slider?.remove();
 	animeListSel?.remove();
 
-	const titleHTML = anime.title.map(t => `<div class="fs-16">${t}</div>`).join('');
+	const titleHTML = anime.title.map(t => `<div class="title fs-16">${t}</div>`).join('');
 	const mainTitle = anime.title[0];
 	const studioHTML = anime.studio
 		.map(studioId => {
@@ -102,12 +102,14 @@ function renderInfo(anime) {
 		`&seasons=${year}`;*/
 	const fSeason = "";
 
+	document.title = `${mainTitle} | ${webTitle}`;
+
 	content.insertAdjacentHTML('beforeend', `
 		<div class="anime-info d-flex">
 			<div class="key-visual">
 				<img class="img-inherit" src="https://cdn.myanimelist.net/images/anime/${anime.img}l.jpg" alt="${mainTitle}">
 			</div>
-			<div class="info d-flex flex-column gap-1r overflow-y-auto">
+			<div class="info d-flex flex-column gap-1r">
 				<div class="box glass">
 					<div class="division">Titles:</div>
 					${titleHTML}
@@ -115,7 +117,7 @@ function renderInfo(anime) {
 				<div class="flex-column-respon d-flex gap-1r">
 					<div class="box glass col">
 						<div class="division">Studios:</div>
-						<div>${studioHTML}</div>
+						${studioHTML}
 					</div>
 					<div class="box glass col">
 						<table>
@@ -125,7 +127,7 @@ function renderInfo(anime) {
 							</tr>
 							<tr>
 								<td class="division">Season:</td>
-								<td class="fs-14"><a class="fs-14" href="https://myanimelist.net/anime/season/${anime.year}/${seasonList[anime.season]}" target="_blank">${seasonList[anime.season]} ${anime.year}</a></td>
+								<td class="fs-14"><a class="link fs-14" href="https://myanimelist.net/anime/season/${anime.year}/${seasonList[anime.season]}" target="_blank">${seasonList[anime.season]} ${anime.year}</a></td>
 							</tr>
 							<tr>
 								<td class="division">Source:</td>
@@ -164,6 +166,37 @@ function renderInfo(anime) {
 			</div>
 		</div>
 	`);
+
+	// === Copy Title ===
+	document.querySelectorAll('.title').forEach(t => {
+		t.addEventListener('click', () => {
+			const text = t.textContent.trim();
+			navigator.clipboard.writeText(text).then(() => {
+				showToast(`Đã copy: "${text}"`);
+			});
+		});
+	});
+
+}
+
+function showToast(message, duration = 3000) {
+	let container = document.querySelector('.toast-container');
+	
+	if (!container) {
+		container = document.createElement('div');
+		container.className = 'toast-container';
+		content.appendChild(container);
+	}
+
+	const toast = document.createElement('div');
+	toast.className = 'toast';
+	toast.textContent = message;
+	container.appendChild(toast);
+
+	setTimeout(() => {
+		toast.classList.add('hide');
+		setTimeout(() => toast.remove(), 500);
+	}, duration);
 }
 
 
