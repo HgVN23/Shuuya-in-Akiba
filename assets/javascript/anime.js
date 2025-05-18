@@ -1,5 +1,5 @@
 class Anime {
-	constructor(img, title, studio, type, season, year, source, rating, status, tag) {
+	constructor(img, title, studio, type, season, year, source, rating, status, tag, video = null) {
 		this.img = img;
 		this.title = title;
 		this.studio = studio;
@@ -10,6 +10,7 @@ class Anime {
 		this.rating = rating;
 		this.status = status;
 		this.tag = tag;
+		this.video = video;
 	}
 }
 
@@ -42,6 +43,11 @@ const animeList = [
 			'tAdultCast',
 			'tFavoriteAnime',
 			'tFavoriteEDVisual',
+		],
+		[
+			'Hibimeshi-OP1',
+			'Hibimeshi-ED1',
+			'Hibimeshi-ED1v2',
 		]
 	),
 	new Anime(
@@ -56,6 +62,10 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'Teogonia-OP1',
+			'Teogonia-ED1',
 		]
 	),
 	new Anime(
@@ -72,6 +82,12 @@ const animeList = [
 			'tFantasy',
 			'tErotica',
 			'tUrbanFantasy',
+		],
+		[
+			'Aimodarkelf-OP1',
+			'Aimodarkelf-ED1',
+			'Aimodarkelf-ED1v2',
+			'Aimodarkelf-ED1v3',
 		]
 	),
 	new Anime(
@@ -85,6 +101,10 @@ const animeList = [
 		[
 			'tSciFi',
 			'tFavoriteAnime',
+		],
+		[
+			'ApocalypseHotel-OP1',
+			'ApocalypseHotel-ED1',
 		]
 	),
 	new Anime(
@@ -98,6 +118,13 @@ const animeList = [
 			'tComedy',
 			'tCGDCT',
 			'tFavoriteAnime',
+		],
+		[
+			'Mono-OP1',
+			'Mono-ED1',
+			'Mono-ED1v2',
+			'Mono-ED1v3',
+			'Mono-ED1v4',
 		]
 	),
 	new Anime(
@@ -112,6 +139,10 @@ const animeList = [
 			'tComedy',
 			'tSciFi',
 			'tSeinen',
+		],
+		[
+			'UchuujinMuuMuu-OP1',
+			'UchuujinMuuMuu-ED1',
 		]
 	),
 	new Anime(
@@ -129,6 +160,14 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteEDSong',
+		],
+		[
+			'NinKoro-OP1',
+			'NinKoro-ED1',
+			'NinKoro-ED1v2',
+			'NinKoro-ED1v3',
+			'NinKoro-ED1v4',
+			'NinKoro-ED1v5',
 		]
 	),
 	new Anime(
@@ -144,6 +183,10 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tFavoriteAnime',
+		],
+		[
+			'Kanpekiseijo-OP1',
+			'Kanpekiseijo-ED1',
 		]
 	),
 	new Anime(
@@ -156,6 +199,10 @@ const animeList = [
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
+		],
+		[
+			'SummerPockets-OP1',
+			'SummerPockets-ED1',
 		]
 	),
 	new Anime(
@@ -176,6 +223,10 @@ const animeList = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'ChuuzenjiSensei-OP1',
+			'ChuuzenjiSensei-ED1',
 		]
 	),
 	new Anime(
@@ -193,6 +244,10 @@ const animeList = [
 			'tLovePolygon',
 			'tSeinen',
 			'tFavoriteAnime',
+		],
+		[
+			'ShiunjiKeNoKodomotachi-OP1',
+			'ShiunjiKeNoKodomotachi-ED1',
 		]
 	),
 	new Anime(
@@ -207,6 +262,9 @@ const animeList = [
 			'tAdventure',
 			'tSliceofLife',
 			'tSeinen',
+		],
+		[
+			'ZatsuTabi-OP1',
 		]
 	),
 	new Anime(
@@ -224,6 +282,10 @@ const animeList = [
 			'tSciFi',
 			'tEcchi',
 			'tSchool',
+		],
+		[
+			'MakinaSan-OP1',
+			'MakinaSan-ED1',
 		]
 	),
 	new Anime(
@@ -238,6 +300,10 @@ const animeList = [
 		[
 			'tFantasy',
 			'tRomance',
+		],
+		[
+			'GorillaNoKami-OP1',
+			'GorillaNoKami-ED1',
 		]
 	),
 	new Anime(
@@ -255,6 +321,11 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+		],
+		[
+			'WitchWatch-OP1',
+			'WitchWatch-OP1v2',
+			'WitchWatch-ED1',
 		]
 	),
 	new Anime(
@@ -271,6 +342,10 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'OssanKensei-OP1',
+			'OssanKensei-ED1',
 		]
 	),
 	new Anime(
@@ -287,6 +362,10 @@ const animeList = [
 			'tAdultCast',
 			'tWorkplace',
 			'tSeinen',
+		],
+		[
+			'KowloonGenericRomance-OP1',
+			'KowloonGenericRomance-ED1',
 		]
 	),
 	new Anime(
@@ -304,6 +383,10 @@ const animeList = [
 			'tSchool',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+		],
+		[
+			'Danjoru-OP1',
+			'Danjoru-ED1',
 		]
 	),
 	new Anime(
@@ -321,6 +404,10 @@ const animeList = [
 			'tEcchi',
 			'tSchool',
 			'tShounen',
+		],
+		[
+			'TakamineSan-OP1',
+			'TakamineSan-ED1',
 		]
 	),
 	new Anime(
@@ -337,6 +424,10 @@ const animeList = [
 			'tMusic',
 			'tSchool',
 			'tSeinen',
+		],
+		[
+			'RockLady-OP1',
+			'RockLady-ED1',
 		]
 	),
 	new Anime(
@@ -351,6 +442,10 @@ const animeList = [
 			'tMystery',
 			'tSciFi',
 			'tDetective',
+		],
+		[
+			'YourForma-OP1',
+			'YourForma-ED1',
 		]
 	),
 	new Anime(
@@ -367,6 +462,10 @@ const animeList = [
 			'tMedical',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+		],
+		[
+			'YamiHealer-OP1',
+			'YamiHealer-ED1',
 		]
 	),
 	new Anime(
@@ -381,6 +480,10 @@ const animeList = [
 		[
 			'tFantasy',
 			'tReincarnation',
+		],
+		[
+			'TheBeginningAfterTheEnd-OP1',
+			'TheBeginningAfterTheEnd-ED1',
 		]
 	),
 	new Anime(
@@ -398,6 +501,10 @@ const animeList = [
 			'tAdultCast',
 			'tSports',
 			'tSeinen',
+		],
+		[
+			'Ballpark-OP1',
+			'Ballpark-ED1',
 		]
 	),
 	new Anime(
@@ -414,6 +521,10 @@ const animeList = [
 			'tDrama',
 			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'AruMajo-OP1',
+			'AruMajo-ED1',
 		]
 	),
 	new Anime(
@@ -430,6 +541,10 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tHistorical',
+		],
+		[
+			'KijinGentoushou-OP1',
+			'KijinGentoushou-ED1',
 		]
 	),
 	new Anime(

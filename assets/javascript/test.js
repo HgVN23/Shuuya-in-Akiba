@@ -1,5 +1,7 @@
 // === Constants & DOM References ===
 const webTitle      = 'Shuuya in Akiba';
+const video         = document.querySelector('video');
+const source        = video.querySelector('source');
 const animeListSel  = document.querySelector('.anime-list');
 const searchInput   = document.querySelector('.search-input');
 const searchIcon    = document.querySelector('.search-icon');
@@ -10,6 +12,7 @@ const rightBtn      = document.querySelector('.right');
 const maxDisplay    = document.querySelector('.number-max');
 const slider        = document.querySelector('.slider');
 const content       = document.querySelector('.content');
+let countdownInterval;
 
 // === URL Params ===
 const params     = new URLSearchParams(location.search);
@@ -42,6 +45,8 @@ function renderAnime(list) {
 	const start    = page * PER_PAGE;
 	const items    = list.slice(start, start + PER_PAGE);
 
+	videoBg(random(items).video);
+
 	items.forEach(({ img, title, status }) => {
 		animeListSel.insertAdjacentHTML('beforeend', `
 			<a class="anime position-relative" href="?anime=${img}">
@@ -51,6 +56,7 @@ function renderAnime(list) {
 			</a>
 		`);
 	});
+
 }
 
 // === Render Anime Info ===
@@ -61,9 +67,17 @@ function renderInfo(anime) {
 	slider?.remove();
 	animeListSel?.remove();
 
-	const titleHTML = anime.title.map(t => `<div class="title fs-16">${t}</div>`).join('');
-	const mainTitle = anime.title[0];
-	const studioHTML = anime.studio
+	const {
+		img, title, studio, type,
+		season, year, source,
+		rating, status, tag, video
+	} = anime;
+
+	videoBg(video);
+
+	const titleHTML = title.map(t => `<div class="title fs-16">${t}</div>`).join('');
+	const mainTitle = title[0];
+	const studioHTML = studio
 		.map(studioId => {
 			const studio = studioList.find(s => s.id === studioId);
 			if (!studio) return '';
@@ -80,7 +94,7 @@ function renderInfo(anime) {
 			`;
 		})
 		.join('');
-	const tagHTML = anime.tag
+	const tagHTML = tag
 		.map(tag => {
 			const group = tagList.find(item => item.id === tagGroup1(tag));
 			if (!group) return ''; // Không tìm thấy -> bỏ qua
@@ -93,9 +107,8 @@ function renderInfo(anime) {
 		})
 		.join('');
 
-
 	const searchTitle = mainTitle.slice(0, 100);
-	const song = anime.title.length > 1 ? anime.title[1] : mainTitle;
+	const song = title.length > 1 ? title[1] : mainTitle;
 	/*const fSeason = year > 2017 ?
 		`&seasons=${seasonList[season]}%20${year}` :
 		`&seasons=${year}`;*/
@@ -106,7 +119,7 @@ function renderInfo(anime) {
 	content.insertAdjacentHTML('beforeend', `
 		<div class="anime-info d-flex">
 			<div class="key-visual">
-				<img class="img-inherit" src="https://cdn.myanimelist.net/images/anime/${anime.img}l.jpg" alt="${mainTitle}">
+				<img class="img-inherit" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${mainTitle}">
 			</div>
 			<div class="info d-flex flex-column gap-1r">
 				<div class="box glass">
@@ -122,23 +135,23 @@ function renderInfo(anime) {
 						<table>
 							<tr>
 								<td class="division">Type:</td>
-								<td class="fs-14">${typeList[anime.type]}</td>
+								<td class="fs-14">${typeList[type]}</td>
 							</tr>
 							<tr>
 								<td class="division">Season:</td>
-								<td class="fs-14"><a class="link fs-14" href="https://myanimelist.net/anime/season/${anime.year}/${seasonList[anime.season]}" target="_blank">${seasonList[anime.season]} ${anime.year}</a></td>
+								<td class="fs-14"><a class="link fs-14" href="https://myanimelist.net/anime/season/${year}/${seasonList[season]}" target="_blank">${seasonList[season]} ${year}</a></td>
 							</tr>
 							<tr>
 								<td class="division">Source:</td>
-								<td class="fs-14">${sourceList[anime.source]}</td>
+								<td class="fs-14">${sourceList[source]}</td>
 							</tr>
 							<tr>
 								<td class="division">Rating:</td>
-								<td class="fs-14">${ratingList[anime.rating]}</td>
+								<td class="fs-14">${ratingList[rating]}</td>
 							</tr>
 							<tr>
 								<td class="division">Status:</td>
-								<td class="fs-14">${statusList[anime.status]}</td>
+								<td class="fs-14">${statusList[status]}</td>
 							</tr>
 						</table>
 					</div>
@@ -175,7 +188,6 @@ function renderInfo(anime) {
 			});
 		});
 	});
-
 }
 
 function showToast(message, duration = 3000) {
@@ -198,7 +210,6 @@ function showToast(message, duration = 3000) {
 	}, duration);
 }
 
-
 // === Search Handlers ===
 searchInput?.addEventListener('keydown', e => e.key === 'Enter' && goSearch());
 searchIcon ?.addEventListener('click', goSearch);
@@ -211,21 +222,94 @@ function goSearch() {
 
 // === Pagination ===
 function setupPagination(total) {
-	const PER_PAGE  = 25;
-	const maxPage   = Math.ceil(total / PER_PAGE);
-	pageInput.value = page + 1;
-	maxDisplay.textContent = `/ ${maxPage}`;
-
+	const PER_PAGE = 25;
+	const maxPage = Math.ceil(total / PER_PAGE);
 	const clamp = v => Math.min(Math.max(parseInt(v) || 1, 1), maxPage);
 
-	const update = p => {
+	const currentPage = clamp(page + 1);
+	pageInput.value = currentPage;
+	maxDisplay.textContent = `/ ${maxPage}`;
+
+	const updateButtonState = pageNum => {
+		leftBtn?.classList.toggle('turn-off', pageNum <= 1);
+		rightBtn?.classList.toggle('turn-off', pageNum >= maxPage);
+	};
+
+	const goToPage = pageNum => {
 		const q = new URLSearchParams(location.search);
-		q.set('page', p - 1);
+		q.set('page', pageNum - 1);
 		if (searchTerm) q.set('search', searchTerm);
 		location.href = `?${q}`;
 	};
 
-	leftBtn ?.addEventListener('click', () => { const v = clamp(pageInput.value); if (v > 1) update(v - 1); });
-	rightBtn?.addEventListener('click', () => { const v = clamp(pageInput.value); if (v < maxPage) update(v + 1); });
-	pageInput?.addEventListener('keydown', e => { if (e.key === 'Enter') update(clamp(pageInput.value)); });
+	leftBtn?.addEventListener('click', () => {
+		const v = clamp(pageInput.value);
+		if (v > 1) goToPage(v - 1);
+	});
+
+	rightBtn?.addEventListener('click', () => {
+		const v = clamp(pageInput.value);
+		if (v < maxPage) goToPage(v + 1);
+	});
+
+	pageInput?.addEventListener('keydown', e => {
+		if (e.key === 'Enter') goToPage(clamp(pageInput.value));
+	});
+
+	updateButtonState(currentPage);
+}
+
+
+// === Video Bg ===
+function videoBg(videos) {
+	if(!videos) return;
+
+	const selectedVideo = random(videos);
+	const source = document.querySelector('video source');
+	const video = document.querySelector('video');
+
+	clearInterval(countdownInterval);
+
+	source.src = `https://v.animethemes.moe/${selectedVideo}.webm`;
+	video.load();
+
+	video.onerror = () => {
+		console.warn("Lỗi tải video, thử lại video khác...");
+		videoBg(videos);
+	};
+
+	video.onloadedmetadata = () => {
+		video.play();
+
+		getVideoDuration(video, (duration) => {
+			let remaining = Math.floor(duration);
+			// console.log(`Video ${selectedVideo} có thời lượng: ${remaining}s`);
+
+			countdownInterval = setInterval(() => {
+				remaining--;
+				// console.log(`Còn lại: ${remaining}s`);
+
+				if (remaining <= 0) {
+					clearInterval(countdownInterval);
+					videoBg(videos);
+				}
+			}, 1000);
+		});
+	};
+}
+
+function getVideoDuration(videoElement, callback) {
+	if (videoElement.readyState >= 1) {
+		callback(videoElement.duration);
+	} else {
+		videoElement.onloadedmetadata = () => {
+			callback(videoElement.duration);
+		};
+	}
+}
+
+function random(list) {
+	if(!list) return;
+	const randomIndex = Math.floor(Math.random() * list.length);
+	return list[randomIndex];
 }

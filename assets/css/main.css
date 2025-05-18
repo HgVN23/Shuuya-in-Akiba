@@ -466,8 +466,8 @@ header {
 		0%, 100% { transform: translateX(0px); }
 		50% { transform: translateX(5px); }
 	}
-	.turnOff,
-	.turnOff:hover {
+	.turn-off,
+	.turn-off:hover {
 		filter: grayscale(100%);
 		animation: none;
 	}
