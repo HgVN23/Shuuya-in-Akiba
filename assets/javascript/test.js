@@ -45,7 +45,15 @@ function renderAnime(list) {
 	const start    = page * PER_PAGE;
 	const items    = list.slice(start, start + PER_PAGE);
 
-	videoBg(random(items).video);
+	if (items.length === 0) {
+		content.insertAdjacentHTML('beforeend', `
+			<div class="fs-16 text-center">Không có kết quả</div>
+		`);
+		return;
+	}
+
+	const allVideos = items.flatMap(item => item.video);
+	videoBg(allVideos);
 
 	items.forEach(({ img, title, status }) => {
 		animeListSel.insertAdjacentHTML('beforeend', `
@@ -56,7 +64,6 @@ function renderAnime(list) {
 			</a>
 		`);
 	});
-
 }
 
 // === Render Anime Info ===
