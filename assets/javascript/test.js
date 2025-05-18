@@ -42,13 +42,12 @@ function renderAnime(list) {
 	const start    = page * PER_PAGE;
 	const items    = list.slice(start, start + PER_PAGE);
 
-	items.forEach(({ img, title }) => {
+	items.forEach(({ img, title, status }) => {
 		animeListSel.insertAdjacentHTML('beforeend', `
 			<a class="anime position-relative" href="?anime=${img}">
 				<img class="img-inherit" src="https://cdn.myanimelist.net/images/anime/${img}l.jpg" alt="${title[0]}">
-				<div class="title position-absolute bottom-0 left-0 right-0 fs-14 overflow-y-hidden">
-					${title[0]}
-				</div>
+				<div class="title position-absolute bottom-0 left-0 right-0 fs-14 overflow-y-hidden">${title[0]}</div>
+				<div class="status position-absolute top-0 right-0 s${statusList[status]}"></div>
 			</a>
 		`);
 	});
@@ -181,7 +180,7 @@ function renderInfo(anime) {
 
 function showToast(message, duration = 3000) {
 	let container = document.querySelector('.toast-container');
-	
+
 	if (!container) {
 		container = document.createElement('div');
 		container.className = 'toast-container';
