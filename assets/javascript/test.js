@@ -104,7 +104,7 @@ function renderInfo(anime) {
 	const tagHTML = tag
 		.map(tag => {
 			const group = tagList.find(item => item.id === tagGroup1(tag));
-			if (!group) return ''; // Không tìm thấy -> bỏ qua
+			if (!group) return '';
 
 			return `
 				<div class="tag position-relative fs-12 ${group.id}">
