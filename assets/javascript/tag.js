@@ -77,7 +77,7 @@ const tagList = [
 	new Tag('Visual Arts'),
 	new Tag('Workplace'),
 	new Tag('Yuri'),
-]
+].sort((a, b) => a.name.localeCompare(b.name));
 
 function tagCut(str) {
 	return String(str).match(/^([a-zA-Z]+)_(.*)$/);

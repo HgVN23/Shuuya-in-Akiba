@@ -703,4 +703,4 @@ const studioList = [
 		, '',
 		''
 	),*/
-]
+].sort((a, b) => a.name.localeCompare(b.name));

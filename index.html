@@ -51,19 +51,76 @@
 									<div class="name fs-16">Filter</div>
 								</div>
 							</div>
-							<div class="filter box glass hide">
-								<div>aaaaaa</div>
-								<div>aaaaaa</div>
-								<div>aaaaaa</div>
-								<div>aaaaaa</div>
-								<div>aaaaaa</div>
+							<div class="filter box glass">
+								<div class="filter-grid gap-1r">
+									<div class="filter-cate">
+										<div class="division">Sort by:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand single-select d-flex flex-column hide">
+											<div class="filter-item fs-12">Latest</div>
+											<div class="filter-item fs-12">Oldest</div>
+										</div>
+									</div>
+									<div class="filter-cate status">
+										<div class="division">Status:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate type">
+										<div class="division">Type:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate season">
+										<div class="division">Season:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate year">
+										<div class="division">Year:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate source">
+										<div class="division">Source:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate rating">
+										<div class="division">Rating:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate tag">
+										<div class="division">Tag:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+									<div class="filter-cate studio">
+										<div class="division">Studio:</div>
+										<div class="filter-holder fs-14">None</div>
+										<div class="filter-expand multi-select d-flex flex-column hide">
+										</div>
+									</div>
+								</div>
+								<div class="d-flex justify-content-end gap-1r">
+									<div class="btn reset-btn">Reset</div>
+									<div class="btn search-btn">Search</div>
+								</div>
 							</div>
 						</div>
 						<div class="anime-list justify-content-center"></div>
 					</div>
 					<div class="slider w-100 d-flex align-items-center justify-content-center position-fixed bottom-0">
 						<div class="left"></div>
-						<input class="number-input" placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
+						<input placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
 						<div class="number-max"></div>
 						<div class="right"></div>
 					</div>
