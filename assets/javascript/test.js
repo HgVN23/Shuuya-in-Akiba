@@ -266,7 +266,6 @@ function setupPagination(total) {
 	updateButtonState(currentPage);
 }
 
-
 // === Video Bg ===
 function videoBg(videos) {
 	if(!videos) return;
@@ -320,3 +319,8 @@ function random(list) {
 	const randomIndex = Math.floor(Math.random() * list.length);
 	return list[randomIndex];
 }
+
+// === Filter ===
+const filterBtn = document.querySelector('.filter-btn');
+const filter = document.querySelector('.filter');
+filterBtn?.addEventListener('click', () => { filter.classList.toggle('hide'); });

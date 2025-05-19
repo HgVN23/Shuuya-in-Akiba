@@ -15,6 +15,7 @@
 	--kv-height: 16rem;
 	--scale: 1.5;
 	--gap: 1rem;
+	--radius: 6px;
 }
 * {
 	-webkit-user-drag: none;
@@ -38,6 +39,7 @@
 ::-webkit-scrollbar-thumb:hover {
 	background-color: var(--hover-color);
 }
+::selection { color: aqua; }
 body {
 	background-color: var(--bg-main);
 }
@@ -78,14 +80,6 @@ header {
 	padding: .3rem .6rem;
 	display: flex;
 	align-items: center;
-	cursor: pointer;
-}
-.filterIcon {
-	content: url(../media/icon/filter.png);
-	width: 16px;
-	height: 16px;
-	filter: brightness(100);
-	margin: 5px;
 	cursor: pointer;
 }
 .filterButton:hover,
@@ -264,46 +258,70 @@ header {
 	}
 }
 
-.search {
+.tool-container {
 	max-width: calc(var(--kv-width) * 5 + var(--gap) * 4);
-	border-radius: 6px;
 	margin: 1rem auto;
-	padding: .3rem;
-	transition: .3s;
 
-	.search-icon,
-	.search-reset {
-		content: url(../media/icon/search.png);
-		width: 1rem;
-		height: 1rem;
+	.icon {
+		--size: 1rem;
+		width: var(--size);
+		height: var(--size);
 		filter: brightness(100) drop-shadow(0 2px 2px black);
-		margin: 5px;
 		cursor: pointer;
 	}
-	.search-icon {
-		content: url(../media/icon/search.png);
-	}
-	.search-reset {
-		content: url(../media/icon/close.png);
-	}
-	.search-icon:hover,
-	.search-reset:hover {
+	.icon:hover {
 		filter: brightness(1) drop-shadow(0 2px 2px black);
 	}
-	.search-input {
-		all: unset;
-		width: 100%;
-		font-size: 14px;
-		text-shadow: 0 2px .1rem black;
+
+	.box {
+		border-radius: var(--radius);
+		padding: .3rem .5rem;
 	}
-	.search-input::placeholder {
-		color: lightgrey;
+
+	.search {
+		transition: .3s;
+
+		.search-icon { content: url(../media/icon/search.png); }
+		.search-reset { content: url(../media/icon/close.png); }
+		
+		.search-input {
+			all: unset;
+			width: 100%;
+			font-size: 14px;
+			text-shadow: 0 2px .1rem black;
+		}
+		.search-input::placeholder {
+			color: lightgrey;
+		}
 	}
-}
-.search:has(.search-input:focus) {
-	border-color: var(--hover-color);
-	box-shadow: 0 .2rem 1rem black;
-	transform: translateY(-3px);
+	.search:has(.search-input:focus) {
+		border-color: var(--hover-color);
+		box-shadow: 0 .2rem 1rem black;
+		transform: translateY(-3px);
+	}
+
+	.filter-btn {
+		cursor: pointer;
+
+		.filter-icon {
+			content: url(../media/icon/filter.png);
+		}
+	}
+	.filter-btn:active {
+		transform: translateY(1px);
+		box-shadow: none;
+	}
+
+	.filter {
+		margin-top: 1rem;
+		transition: .3s;
+	}
+	.hide {
+		height: 0;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+	}
 }
 
 .anime-list {
@@ -316,7 +334,7 @@ header {
 .anime {
 	width: var(--kv-width);
 	height: var(--kv-height);
-	border-radius: 6px;
+	border-radius: var(--radius);
 	cursor: pointer;
 	box-shadow: 0 .5rem .5rem black;
 	transition: .3s;
@@ -356,7 +374,7 @@ header {
 .key-visual {
 	width: calc(var(--kv-width) * var(--scale));
 	height: calc(var(--kv-height) * var(--scale));
-	border-radius: 6px;
+	border-radius: var(--radius);
 	position: sticky;
 	top: 1rem;
 	box-shadow: 0 .5rem .5rem black;
@@ -365,7 +383,7 @@ header {
 	padding: 0 1rem;
 
 	.box {
-		border-radius: 6px;
+		border-radius: var(--radius);
 		padding: .2rem .5rem;
 	}
 	.col {
@@ -388,7 +406,7 @@ header {
 		--size: 7rem;
 		width: var(--size);
 		height: var(--size);
-		border-radius: 6px;
+		border-radius: var(--radius);
 		display: inline-block;
 		text-decoration: none;
 	}
@@ -406,7 +424,7 @@ header {
 
 	.tag {
 		background-color: #36363a;
-		border-radius: 6px;
+		border-radius: var(--radius);
 		padding: .2rem .5rem;
 		cursor: help;
 		transition: .3s;
@@ -493,7 +511,7 @@ header {
 		background: var(--bg);
 		color: #fff;
 		padding: .75rem 1rem;
-		border-radius: 6px;
+		border-radius: var(--radius);
 		font-size: 14px;
 		box-shadow: 0 2px 6px rgba(0, 0, 0, .3);
 		opacity: 1;
@@ -523,6 +541,12 @@ header {
 
 	.logo {
 		--size: 2rem;
+	}
+
+	.filter-btn {
+		.name {
+			display: none;
+		}
 	}
 
 	.anime:hover {
