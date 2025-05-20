@@ -7,11 +7,14 @@ const searchInput   = document.querySelector('.search-input');
 const searchIcon    = document.querySelector('.search-icon');
 const searchReset   = document.querySelector('.search-reset');
 const slider        = document.querySelector('.slider');
-const leftBtn       = slider.querySelector('.left');
-const rightBtn      = slider.querySelector('.right');
-const pageInput     = slider.querySelector('input');
-const maxDisplay    = slider.querySelector('.number-max');
+const leftBtn       = slider?.querySelector('.left');
+const rightBtn      = slider?.querySelector('.right');
+const pageInput     = slider?.querySelector('input');
+const maxDisplay    = slider?.querySelector('.number-max');
 const content       = document.querySelector('.content');
+const filterBtn     = document.querySelector('.filter-btn');
+const resetBtn      = document.querySelector('.reset-btn');
+const filterSection = document.querySelector('.filter');
 let countdownInterval;
 
 // === URL Params ===
@@ -37,6 +40,18 @@ if (animeId) {
 
 	renderAnime(filtered);
 	setupPagination(filtered.length);
+}
+
+// === Event Listeners ===
+searchInput?.addEventListener('keydown', e => e.key === 'Enter' && goSearch());
+searchIcon ?.addEventListener('click', goSearch);
+searchReset?.addEventListener('click', () => { searchInput.value = ''; goSearch(); });
+filterBtn  ?.addEventListener('click', () => { filterSection?.classList.toggle('hide'); });
+resetBtn   ?.addEventListener('click', () => { location.href = location.pathname; });
+
+function goSearch() {
+	const q = searchInput.value.trim();
+	location.href = q ? `?search=${encodeURIComponent(q)}` : location.pathname;
 }
 
 // === Render Anime List ===
@@ -217,16 +232,6 @@ function showToast(message, duration = 3000) {
 	}, duration);
 }
 
-// === Search Handlers ===
-searchInput?.addEventListener('keydown', e => e.key === 'Enter' && goSearch());
-searchIcon ?.addEventListener('click', goSearch);
-searchReset?.addEventListener('click', () => { searchInput.value = ''; goSearch(); });
-
-function goSearch() {
-	const q = searchInput.value.trim();
-	location.href = q ? `?search=${encodeURIComponent(q)}` : location.pathname;
-}
-
 // === Pagination ===
 function setupPagination(total) {
 	const PER_PAGE = 25;
@@ -320,11 +325,7 @@ function random(list) {
 	return list[randomIndex];
 }
 
-// === Filter ===
-const filterBtn = document.querySelector('.filter-btn');
-const filter = document.querySelector('.filter');
-filterBtn?.addEventListener('click', () => { filter.classList.toggle('hide'); });
-
+// === Filter Init ===
 const filterDataMap = {
 	sort: sortList,
 	status: statusList,
