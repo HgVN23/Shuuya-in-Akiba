@@ -203,6 +203,7 @@ const animeList = [
 		],
 		[
 			'SummerPockets-OP1',
+			'SummerPockets-OP1v2',
 			'SummerPockets-ED1',
 		]
 	),

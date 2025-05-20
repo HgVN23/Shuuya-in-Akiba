@@ -29,7 +29,6 @@ const sortId     = params.get('sort');
 
 // === Filter Init ===
 const filterDataMap = {
-	sort: sortList,
 	status: statusList,
 	type: typeList,
 	season: seasonList,
@@ -38,6 +37,7 @@ const filterDataMap = {
 	rating: ratingList,
 	tag: tagList,
 	studio: studioList,
+	sort: sortList,
 };
 
 Object.entries(filterDataMap).forEach(([key]) => {
@@ -133,21 +133,19 @@ if (animeId) {
 		switch (sortOption) {
 			case 0:
 				sorted.sort((a, b) => {
-					const seasonA = getSeasonIndex(a.season);
-					const seasonB = getSeasonIndex(b.season);
+					const yearDiff = b.year - a.year;
+					if (yearDiff !== 0) return yearDiff;
 
-					if (seasonB !== seasonA) return seasonB - seasonA;
-					return b.year - a.year;
+					return b.season - a.season;
 				});
 				break;
 
 			case 1:
 				sorted.sort((a, b) => {
-					const seasonA = getSeasonIndex(a.season);
-					const seasonB = getSeasonIndex(b.season);
+					const yearDiff = a.year - b.year;
+					if (yearDiff !== 0) return yearDiff;
 
-					if (seasonA !== seasonB) return seasonA - seasonB;
-					return a.year - b.year;
+					return a.season - b.season;
 				});
 				break;
 
@@ -161,7 +159,7 @@ if (animeId) {
 		}
 
 		const filterExpand = document.querySelector('.filter-cate.sort .filter-expand');
-		const filterHolder = document.querySelector('.filter-cate.sort .filter-holder.fs-14');
+		const filterHolder = document.querySelector('.filter-cate.sort .filter-holder');
 
 		if (filterExpand && filterHolder) {
 			const allSortItems = filterExpand.querySelectorAll('[data-id]');
