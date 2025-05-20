@@ -12,8 +12,10 @@ const rightBtn      = slider?.querySelector('.right');
 const pageInput     = slider?.querySelector('input');
 const maxDisplay    = slider?.querySelector('.number-max');
 const content       = document.querySelector('.content');
+const filterGrid    = document.querySelector('.filter-grid');
 const filterBtn     = document.querySelector('.filter-btn');
 const resetBtn      = document.querySelector('.reset-btn');
+const searchBtn     = document.querySelector('.search-btn');
 const filterSection = document.querySelector('.filter');
 let countdownInterval;
 
@@ -22,6 +24,90 @@ const params     = new URLSearchParams(location.search);
 const searchTerm = params.get('search')?.toLowerCase() || '';
 const page       = parseInt(params.get('page')) || 0;
 const animeId    = params.get('anime');
+const sortId     = params.get('sort');
+
+
+// === Filter Init ===
+const filterDataMap = {
+	sort: sortList,
+	status: statusList,
+	type: typeList,
+	season: seasonList,
+	year: yearList,
+	source: sourceList,
+	rating: ratingList,
+	tag: tagList,
+	studio: studioList,
+};
+
+Object.entries(filterDataMap).forEach(([key]) => {
+	const isSingleSelect = key === 'sort';
+	const selectClass = isSingleSelect ? 'single-select' : 'multi-select';
+	const label = key.charAt(0).toUpperCase() + key.slice(1);
+
+	filterGrid.insertAdjacentHTML('beforeend', `
+		<div class="filter-cate ${key}">
+			<div class="division">${label}:</div>
+			<div class="filter-holder fs-14">None</div>
+			<div class="filter-expand ${selectClass} d-flex flex-column hide"></div>
+		</div>
+	`);
+});
+
+document.querySelectorAll('.filter-cate').forEach(cate => {
+	const key = [...cate.classList].find(cls => filterDataMap.hasOwnProperty(cls));
+	if (!key) return;
+
+	const dataList = filterDataMap[key];
+	const expand = cate.querySelector('.filter-expand');
+	const holder = cate.querySelector('.filter-holder');
+	const isSingle = expand.classList.contains('single-select');
+
+	const createItemHTML = (text, id) => `<div class="filter-item fs-12" data-id="${id}">${text}</div>`;
+	const itemsHTML = dataList.map((item, idx) => {
+		if (key === 'tag' || key === 'studio') return createItemHTML(item.name, item.id);
+		if (key === 'year') return createItemHTML(item, item);
+		return createItemHTML(item, idx);
+	}).join('');
+
+	expand.innerHTML = itemsHTML;
+
+	const items = expand.querySelectorAll('.filter-item');
+
+	holder.addEventListener('click', e => {
+		e.stopPropagation();
+		const isHidden = expand.classList.contains('hide');
+		document.querySelectorAll('.filter-expand').forEach(el => el.classList.add('hide'));
+		if (isHidden) expand.classList.remove('hide');
+	});
+
+	items.forEach(item => {
+		item.addEventListener('click', e => {
+			e.stopPropagation();
+			const selected = item.classList.contains('selected');
+
+			if (isSingle) {
+				items.forEach(i => i.classList.remove('selected'));
+				holder.textContent = 'None';
+				if (!selected) {
+					item.classList.add('selected');
+					holder.textContent = item.textContent;
+				}
+			} else {
+				item.classList.toggle('selected');
+				const selectedItems = [...items]
+					.filter(i => i.classList.contains('selected'))
+					.map(i => i.textContent);
+				holder.textContent = selectedItems.length ? selectedItems.join(', ') : 'None';
+			}
+		});
+	});
+});
+
+document.addEventListener('click', () => {
+	document.querySelectorAll('.filter-expand').forEach(el => el.classList.add('hide'));
+});
+
 
 // === Main logic ===
 if (animeId) {
@@ -38,20 +124,81 @@ if (animeId) {
 		? animeList.filter(a => a.title.some(t => t.toLowerCase().includes(searchTerm)))
 		: animeList;
 
-	renderAnime(filtered);
-	setupPagination(filtered.length);
+	let sorted = [...filtered]; // sao chép danh sách để sort
+
+	if (sortId !== null && sortList[sortId]) {
+		const sortOption = parseInt(sortId);
+		const getSeasonIndex = (season) => seasonList.indexOf(season);
+
+		switch (sortOption) {
+			case 0:
+				sorted.sort((a, b) => {
+					const seasonA = getSeasonIndex(a.season);
+					const seasonB = getSeasonIndex(b.season);
+
+					if (seasonB !== seasonA) return seasonB - seasonA;
+					return b.year - a.year;
+				});
+				break;
+
+			case 1:
+				sorted.sort((a, b) => {
+					const seasonA = getSeasonIndex(a.season);
+					const seasonB = getSeasonIndex(b.season);
+
+					if (seasonA !== seasonB) return seasonA - seasonB;
+					return a.year - b.year;
+				});
+				break;
+
+			case 2:
+				sorted.sort((a, b) => a.title[0].localeCompare(b.title[0]));
+				break;
+
+			case 3:
+				sorted.sort((a, b) => b.title[0].localeCompare(a.title[0]));
+				break;
+		}
+
+		const filterExpand = document.querySelector('.filter-cate.sort .filter-expand');
+		const filterHolder = document.querySelector('.filter-cate.sort .filter-holder.fs-14');
+
+		if (filterExpand && filterHolder) {
+			const allSortItems = filterExpand.querySelectorAll('[data-id]');
+
+			const activeItem = filterExpand.querySelector(`[data-id="${sortOption}"]`);
+			if (activeItem) {
+				activeItem.classList.add('selected');
+				filterHolder.textContent = activeItem.textContent;
+			}
+		}
+	}
+
+	renderAnime(sorted);
+	setupPagination(sorted.length);
 }
 
+
 // === Event Listeners ===
-searchInput?.addEventListener('keydown', e => e.key === 'Enter' && goSearch());
-searchIcon ?.addEventListener('click', goSearch);
-searchReset?.addEventListener('click', () => { searchInput.value = ''; goSearch(); });
+searchInput?.addEventListener('keydown', e => e.key === 'Enter' && applyFilters());
+searchIcon ?.addEventListener('click', applyFilters);
+searchBtn  ?.addEventListener('click', applyFilters);
+
+searchReset?.addEventListener('click', () => { searchInput.value = ''; });
 filterBtn  ?.addEventListener('click', () => { filterSection?.classList.toggle('hide'); });
 resetBtn   ?.addEventListener('click', () => { location.href = location.pathname; });
 
-function goSearch() {
+function applyFilters() {
 	const q = searchInput.value.trim();
-	location.href = q ? `?search=${encodeURIComponent(q)}` : location.pathname;
+	const sortItem = document.querySelector('.filter-cate.sort .filter-item.selected');
+	const sortId = sortItem?.dataset.id;
+
+	const params = new URLSearchParams();
+	if (q) params.set('search', q);
+	if (sortId) params.set('sort', sortId);
+	// params.set('page', 0);
+
+	location.href = `?${params.toString()}`;
 }
 
 // === Render Anime List ===
@@ -324,81 +471,3 @@ function random(list) {
 	const randomIndex = Math.floor(Math.random() * list.length);
 	return list[randomIndex];
 }
-
-// === Filter Init ===
-const filterDataMap = {
-	sort: sortList,
-	status: statusList,
-	type: typeList,
-	season: seasonList,
-	year: yearList,
-	source: sourceList,
-	rating: ratingList,
-	tag: tagList,
-	studio: studioList,
-};
-
-document.querySelectorAll('.filter-cate').forEach(cate => {
-	const expand = cate.querySelector('.filter-expand');
-	const holder = cate.querySelector('.filter-holder');
-
-	Object.keys(filterDataMap).forEach(key => {
-		if (cate.classList.contains(key)) {
-			const dataList = filterDataMap[key];
-			expand.innerHTML = '';
-
-      if (key === 'tag' || key === 'studio') {
-				dataList.forEach(item => {
-					expand.insertAdjacentHTML('beforeend', `<div class="filter-item fs-12" data-id="${item.id}">${item.name}</div>`);
-				});
-			} else if (key === 'year') {
-				dataList.forEach(year => {
-					expand.insertAdjacentHTML('beforeend', `<div class="filter-item fs-12" data-id="${year}">${year}</div>`);
-				});
-			} else {
-				dataList.forEach((item, idx) => {
-					expand.insertAdjacentHTML('beforeend', `<div class="filter-item fs-12" data-id="${idx}">${item}</div>`);
-				});
-			}
-		}
-	});
-
-	const items = expand.querySelectorAll('.filter-item');
-	const isSingle = expand.classList.contains('single-select');
-
-	holder.addEventListener('click', e => {
-		e.stopPropagation();
-		const isHidden = expand.classList.contains('hide');
-		document.querySelectorAll('.filter-expand').forEach(el => el.classList.add('hide'));
-		if (isHidden) expand.classList.remove('hide');
-	});
-
-	items.forEach(item => {
-		item.addEventListener('click', e => {
-			e.stopPropagation();
-			const selected = item.classList.contains('selected');
-
-			if (isSingle) {
-				items.forEach(i => i.classList.remove('selected'));
-				holder.textContent = 'None';
-
-				if (!selected) {
-					item.classList.add('selected');
-					holder.textContent = item.textContent;
-				}
-			} else {
-				item.classList.toggle('selected');
-
-				const selectedItems = [...items]
-					.filter(i => i.classList.contains('selected'))
-					.map(i => i.textContent);
-
-				holder.textContent = selectedItems.length ? selectedItems.join(', ') : 'None';
-			}
-		});
-	});
-});
-
-document.addEventListener('click', () => {
-	document.querySelectorAll('.filter-expand').forEach(el => el.classList.add('hide'));
-});

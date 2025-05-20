@@ -42,11 +42,13 @@ const statusList = [
 
 const currentYear = new Date().getFullYear();
 const yearList = Array.from(
-  { length: currentYear - 2006 + 1 },
-  (_, i) => (currentYear - i).toString()
+	{ length: currentYear - 2006 + 1 },
+	(_, i) => (currentYear - i).toString()
 );
 
 const sortList = [
 	'Latest',	// 0
 	'Oldest',	// 1
+	'A - Z',	// 2
+	'Z - A',	// 3
 ]
