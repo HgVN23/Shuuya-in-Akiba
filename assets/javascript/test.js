@@ -326,12 +326,13 @@ const filter = document.querySelector('.filter');
 filterBtn?.addEventListener('click', () => { filter.classList.toggle('hide'); });
 
 const filterDataMap = {
+	sort: sortList,
 	status: statusList,
 	type: typeList,
 	season: seasonList,
+	year: yearList,
 	source: sourceList,
 	rating: ratingList,
-	year: yearList,
 	tag: tagList,
 	studio: studioList,
 };

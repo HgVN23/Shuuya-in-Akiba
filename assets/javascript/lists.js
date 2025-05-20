@@ -45,3 +45,8 @@ const yearList = Array.from(
   { length: currentYear - 2006 + 1 },
   (_, i) => (currentYear - i).toString()
 );
+
+const sortList = [
+	'Latest',	// 0
+	'Oldest',	// 1
+]
