@@ -66,14 +66,11 @@ document.querySelectorAll('.filter-cate').forEach(cate => {
 	const createItemHTML = (text, id, type) =>
 		`<div class="filter-item fs-12" data-id="${id}" data-type="${type}">${text}</div>`;
 
-	const itemsHTML = dataList.map((item, idx) => {
+	expand.innerHTML = dataList.map((item, idx) => {
 		if (key === 'tag' || key === 'studio') return createItemHTML(item.name, item.id, key);
 		if (key === 'year') return createItemHTML(item, item, key);
 		return createItemHTML(item, idx, key);
 	}).join('');
-
-
-	expand.innerHTML = itemsHTML;
 
 	const items = expand.querySelectorAll('.filter-item');
 
@@ -114,122 +111,86 @@ document.addEventListener('click', () => {
 // === Main logic ===
 if (animeId) {
 	const anime = animeList.find(a => a.img === animeId);
-	if (anime) renderInfo(anime);
-	else location.href = location.pathname;
+	if (anime) {
+		renderInfo(anime);
+	} else {
+		location.href = location.pathname;
+	}
 } else {
 	if (searchTerm) {
 		document.title = `Tìm kiếm: ${searchTerm} | ${webTitle}`;
 		searchInput.value = searchTerm;
 	}
 
-	const filtered = searchTerm
+	const filteredList = searchTerm
 		? animeList.filter(a => a.title.some(t => t.toLowerCase().includes(searchTerm)))
 		: animeList;
 
-	let sorted = [...filtered];
+	let resultList = [...filteredList];
+	const params = new URLSearchParams(location.search);
 
-	const urlParams = new URLSearchParams(location.search);
+	const applyFilter = (paramName, getValue, filterFn) => {
+		const values = params.getAll(paramName).map(getValue).filter(v => v !== undefined);
+		if (values.length > 0) {
+			resultList = resultList.filter(item => filterFn(item, values));
+		}
+	};
 
-	const selectedStatus = urlParams.getAll('status').map(Number);
-	if (selectedStatus.length > 0) {
-		sorted = sorted.filter(a => selectedStatus.includes(a.status));
-	}
+	applyFilter('status', Number, (a, v) => v.includes(a.status));
+	applyFilter('type', Number, (a, v) => v.includes(a.type));
+	applyFilter('source', Number, (a, v) => v.includes(a.source));
+	applyFilter('rating', Number, (a, v) => v.includes(a.rating));
+	applyFilter('season', Number, (a, v) => v.includes(a.season));
+	applyFilter('year', y => {
+		const n = Number(y);
+		return isNaN(n) ? undefined : n;
+	}, (a, v) => v.includes(a.year));
+	applyFilter('tag', v => v, (a, v) => a.tag.some(t => v.includes(t)));
+	applyFilter('studio', Number, (a, v) => a.studio.some(s => v.includes(s)));
 
-	const selectedTypes = urlParams.getAll('type').map(Number);
-	if (selectedTypes.length > 0) {
-		sorted = sorted.filter(a => selectedTypes.includes(a.type));
-	}
+	const applySelectionFromURL = () => {
+		Object.keys(filterDataMap).forEach(type => {
+			const selectedIds = params.getAll(type);
+			if (selectedIds.length === 0) return;
 
-	const selectedSources = urlParams.getAll('source').map(Number);
-	if (selectedSources.length > 0) {
-		sorted = sorted.filter(a => selectedSources.includes(a.source));
-	}
+			const filterCate = document.querySelector(`.filter-cate.${type}`);
+			if (!filterCate) return;
 
-	const selectedRatings = urlParams.getAll('rating').map(Number);
-	if (selectedRatings.length > 0) {
-		sorted = sorted.filter(a => selectedRatings.includes(a.rating));
-	}
+			const holder = filterCate.querySelector('.filter-holder');
+			const expand = filterCate.querySelector('.filter-expand');
+			const selectedLabels = [];
 
-	const selectedSeasons = urlParams.getAll('season').map(Number);
-	if (selectedSeasons.length > 0) {
-		sorted = sorted.filter(a => selectedSeasons.includes(a.season));
-	}
+			selectedIds.forEach(id => {
+				const item = expand.querySelector(`.filter-item[data-id="${id}"][data-type="${type}"]`);
+				if (item) {
+					item.classList.add('selected');
+					selectedLabels.push(item.textContent.trim());
+				}
+			});
 
-	const selectedYears = urlParams.getAll('year').map(Number).filter(y => !isNaN(y));
-	if (selectedYears.length > 0) {
-		sorted = sorted.filter(a => selectedYears.includes(a.year));
-	}
-
-	const selectedTags = urlParams.getAll('tag');
-	if (selectedTags.length > 0) {
-		sorted = sorted.filter(a => {
-			return a.tag.some(t => selectedTags.includes(t));
-		});
-	}
-
-	const selectedStudios = urlParams.getAll('studio').map(Number);
-	if (selectedStudios.length > 0) {
-		sorted = sorted.filter(a => 
-			a.studio.some(studioId => selectedStudios.includes(studioId))
-		);
-	}
-
-
-	// === Gắn lại selected từ URL cho tất cả filters ===
-	Object.keys(filterDataMap).forEach(type => {
-		const selectedIds = urlParams.getAll(type);
-		if (selectedIds.length === 0) return;
-
-		const filterCate = document.querySelector(`.filter-cate.${type}`);
-		if (!filterCate) return;
-
-		const holder = filterCate.querySelector('.filter-holder');
-		const expand = filterCate.querySelector('.filter-expand');
-		const selectedItems = [];
-
-		selectedIds.forEach(id => {
-			const item = expand.querySelector(`.filter-item[data-id="${id}"][data-type="${type}"]`);
-			if (item) {
-				item.classList.add('selected');
-				selectedItems.push(item.textContent.trim());
+			if (selectedLabels.length > 0) {
+				holder.textContent = selectedLabels.join(', ');
 			}
 		});
+	};
 
-		if (selectedItems.length > 0) {
-			holder.textContent = selectedItems.join(', ');
-		}
-	});
+	applySelectionFromURL();
 
 	if (sortId !== null) {
-		const sortOption = parseInt(sortId, 10);
-		if (!isNaN(sortOption) && sortList[sortOption]) {
-			switch (sortOption) {
-				case 0:
-					sorted.sort((a, b) => {
-						const yearDiff = b.year - a.year;
-						if (yearDiff !== 0) return yearDiff;
-						return b.season - a.season;
-					});
-					break;
-				case 1:
-					sorted.sort((a, b) => {
-						const yearDiff = a.year - b.year;
-						if (yearDiff !== 0) return yearDiff;
-						return a.season - b.season;
-					});
-					break;
-				case 2:
-					sorted.sort((a, b) => a.title[0].localeCompare(b.title[0]));
-					break;
-				case 3:
-					sorted.sort((a, b) => b.title[0].localeCompare(a.title[0]));
-					break;
-			}
+		const sortIndex = parseInt(sortId, 10);
+		if (!isNaN(sortIndex) && sortList[sortIndex]) {
+			const sortFuncs = [
+				(a, b) => b.year - a.year || b.season - a.season,
+				(a, b) => a.year - b.year || a.season - b.season,
+				(a, b) => a.title[0].localeCompare(b.title[0]),
+				(a, b) => b.title[0].localeCompare(a.title[0])
+			];
+			resultList.sort(sortFuncs[sortIndex]);
 		}
 	}
 
-	renderAnime(sorted);
-	setupPagination(sorted.length);
+	renderAnime(resultList);
+	setupPagination(resultList.length);
 }
 
 // === Event Listeners ===
@@ -242,32 +203,34 @@ filterBtn  ?.addEventListener('click', () => { filterSection?.classList.toggle('
 resetBtn   ?.addEventListener('click', () => { location.href = location.pathname; });
 
 function applyFilters() {
-	const q = searchInput.value.trim();
-	const sortItem = document.querySelector('.filter-cate.sort .filter-item.selected');
-	const sortId = sortItem?.dataset.id;
+	const query = searchInput.value.trim();
+	const selectedSort = document.querySelector('.filter-cate.sort .filter-item.selected');
+	const sortId = selectedSort?.dataset.id;
 
 	const params = new URLSearchParams();
-	if (q) params.set('search', q);
+
+	if (query) params.set('search', query);
 	if (sortId) params.set('sort', sortId);
 
-	const filters = getSelectedFilters();
-	for (const [type, values] of Object.entries(filters)) {
-		if (type === 'sort') continue;
-		values.forEach(v => params.append(type, v));
+	const selectedFilters = getSelectedFilters();
+
+	for (const [type, values] of Object.entries(selectedFilters)) {
+		values.forEach(value => params.append(type, value));
 	}
 
 	location.href = `?${params.toString()}`;
 }
 
 function getSelectedFilters() {
-	const selectedItems = document.querySelectorAll('.filter-item.selected');
 	const filters = {};
 
-	selectedItems.forEach(item => {
+	document.querySelectorAll('.filter-item.selected').forEach(item => {
 		const type = item.dataset.type;
 		const id = item.dataset.id;
 
-		if (!filters[type]) filters[type] = [];
+		if (!filters[type]) {
+			filters[type] = [];
+		}
 		filters[type].push(id);
 	});
 
