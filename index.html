@@ -7,98 +7,71 @@
 
 	<!-- Primary Meta Tags -->
 	<title>Shuuya in Akiba</title>
-	<meta name="description" content="Bộ sưu tầm Anime mà Shuuya đã xem">
+	<meta name="description" content="Thư viện Anime mà Shuuya đã xem">
 
 	<!-- CSS/Script -->
 	<link rel="stylesheet" href="assets/css/main.css">
 	<link rel="stylesheet" href="assets/css/tag.css">
-	<script src="assets/javascript/studio.js"></script>
-	<script src="assets/javascript/tag.js"></script>
-	<script src="assets/javascript/anime.js"></script>
-	<script defer src="assets/javascript/moreInfo.js"></script>
-	<script defer src="assets/javascript/copy.js"></script>
-	<script defer src="assets/javascript/search.js"></script>
-	<script defer src="assets/javascript/gallery.js"></script>
-	<script defer src="assets/javascript/filter.js"></script>
-	<script defer src="assets/javascript/dropdown.js"></script>
+	
+	<script src="assets/js/studio.js"></script>
+	<script src="assets/js/tag.js"></script>
+	<script src="assets/js/lists.js"></script>
+	<script src="assets/js/anime.js"></script>
+
+	<script src="assets/js/render.js"></script>
+	<script src="assets/js/pagination.js"></script>
+	<script src="assets/js/video.js"></script>
+
+	<script defer src="assets/js/constants.js"></script>
+	<script defer src="assets/js/filters.js"></script>
+	<script defer src="assets/js/main.js"></script>
 </head>
 <body>
-	<header>
-		<div class="icon logo"></div>
-		<div class="title">Shuuya in Akiba</div>
-		<div class="icon slime"></div>
-	</header>
-	<div class="toolBox">
-		<div class="search">
-			<div class="searchIcon"></div>
-			<input class="searchInput" placeholder="Lọc theo..." type="text">
-		</div>
-		<div class="filter">
-			<div class="filterButton">
-				<div class="filterIcon"></div>
-				<div>Filter</div>
-			</div>
-			<div class="moreInfo hideInfo">
-				<div class="filterPanel">
-					<div class="flexSpace">
-						<div class="button buttonGreen" onclick="apply()">Apply</div>
-						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
-						<a class="button buttonRed" href="">Reset Page</a>
+	<video class="video-bg w-100 h-100 position-fixed top-0 left-0" autoplay muted loop>
+		<source src="" type="video/webm">
+	</video>
+
+	<div class="vh-100 d-flex flex-column position-relative">
+		<header class="glass d-flex justify-content-center align-items-center gap-1r">
+			<div class="logo" style="--i: 0; animation-delay: .2s;"></div>
+			<div class="fs-30 text-nowrap text-center text-shadow-1">Shuuya in Akiba</div>
+			<div class="logo" style="--i: 1;"></div>
+		</header>
+		<main class="d-flex flex-column flex-grow-1">
+			<div class="flex-grow-1 position-relative">
+				<div class="w-100 h-100 position-absolute top-0 left-0 overflow-y-auto">
+					<div class="content px-1r">
+						<div class="tool-container">
+							<div class="d-flex gap-1r">
+								<div class="search box glass w-100 d-flex align-items-center gap-05r">
+									<div class="icon search-icon"></div>
+									<input class="search-input" placeholder="Tìm kiếm..." type="text">
+									<div class="icon search-reset"></div>
+								</div>
+								<div class="filter-btn box glass d-flex align-items-center gap-05r">
+									<div class="icon filter-icon"></div>
+									<div class="name fs-16">Filter</div>
+								</div>
+							</div>
+							<div class="filter box glass hide">
+								<div class="filter-grid gap-1r"></div>
+								<div class="d-flex justify-content-end gap-1r">
+									<div class="btn reset-btn">Reset</div>
+									<div class="btn search-btn">Search</div>
+								</div>
+							</div>
+						</div>
+						<div class="anime-list justify-content-center"></div>
 					</div>
-					<div class="fSort"><div class="tag" id="sortSeason">Sort Latest</div></div>
-					<div>
-						<div class="dropdown dropdownActive">Status</div>
-						<div class="fStatus dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown">Type</div>
-						<div class="fType dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown dropdownActive">Season</div>
-						<div class="fSeason dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown dropdownActive">Year</div>
-						<div class="fYear dropdownThis"></div>
-					</div>
-					<div>
-						<div class="dropdown">Source</div>
-						<div class="fSource dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Rating</div>
-						<div class="fRating dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Tags</div>
-						<div class="fTag dropdownThis dropdownHide"></div>
-					</div>
-					<div>
-						<div class="dropdown">Studios</div>
-						<div class="fStudio dropdownThis dropdownHide"></div>
-					</div>
-					<div class="flexSpace">
-						<div class="button buttonGreen" onclick="apply()">Apply</div>
-						<div class="button buttonRed" onclick="filter()">Reset Filter</div>
-						<a class="button buttonRed" href="">Reset Page</a>
+					<div class="slider w-100 d-flex align-items-center justify-content-center position-fixed bottom-0">
+						<div class="left"></div>
+						<input placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
+						<div class="number-max"></div>
+						<div class="right"></div>
 					</div>
 				</div>
-				<div class="clickHide"></div>
 			</div>
-		</div>
+		</main>
 	</div>
-	<div class="slider">
-		<div class="left"></div>
-		<input class="numberInput" placeholder="???" type="text" value="1" maxlength="3" onkeypress="return numberOnly(event)">
-		<div class="numberMax"></div>
-		<div class="right"></div>
-	</div>
-	<div class="toast">
-		<div>Bạn vừa sao chép</div><br>
-		<div id="toastCopy"></div>
-		<div id="toastClose">x</div>
-	</div>
-	<div class="gallery"></div>
 </body>
 </html>
