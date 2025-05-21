@@ -130,41 +130,50 @@ if (animeId) {
 
 	const urlParams = new URLSearchParams(location.search);
 
-	// Filter status
 	const selectedStatus = urlParams.getAll('status').map(Number);
 	if (selectedStatus.length > 0) {
 		sorted = sorted.filter(a => selectedStatus.includes(a.status));
 	}
 
-	// Filter type
 	const selectedTypes = urlParams.getAll('type').map(Number);
 	if (selectedTypes.length > 0) {
 		sorted = sorted.filter(a => selectedTypes.includes(a.type));
 	}
 
-	// Filter source
 	const selectedSources = urlParams.getAll('source').map(Number);
 	if (selectedSources.length > 0) {
 		sorted = sorted.filter(a => selectedSources.includes(a.source));
 	}
 
-	// Filter rating
 	const selectedRatings = urlParams.getAll('rating').map(Number);
 	if (selectedRatings.length > 0) {
 		sorted = sorted.filter(a => selectedRatings.includes(a.rating));
 	}
 
-	// Filter season (index)
 	const selectedSeasons = urlParams.getAll('season').map(Number);
 	if (selectedSeasons.length > 0) {
 		sorted = sorted.filter(a => selectedSeasons.includes(a.season));
 	}
 
-	// Filter year (year is string or number? Assuming number)
-	const selectedYears = urlParams.getAll('year').map(y => isNaN(y) ? y : Number(y));
+	const selectedYears = urlParams.getAll('year').map(Number).filter(y => !isNaN(y));
 	if (selectedYears.length > 0) {
 		sorted = sorted.filter(a => selectedYears.includes(a.year));
 	}
+
+	const selectedTags = urlParams.getAll('tag');
+	if (selectedTags.length > 0) {
+		sorted = sorted.filter(a => {
+			return a.tag.some(t => selectedTags.includes(t));
+		});
+	}
+
+	const selectedStudios = urlParams.getAll('studio').map(Number);
+	if (selectedStudios.length > 0) {
+		sorted = sorted.filter(a => 
+			a.studio.some(studioId => selectedStudios.includes(studioId))
+		);
+	}
+
 
 	// === Gắn lại selected từ URL cho tất cả filters ===
 	Object.keys(filterDataMap).forEach(type => {
@@ -190,7 +199,7 @@ if (animeId) {
 			holder.textContent = selectedItems.join(', ');
 		}
 	});
-	
+
 	if (sortId !== null) {
 		const sortOption = parseInt(sortId, 10);
 		if (!isNaN(sortOption) && sortList[sortOption]) {
