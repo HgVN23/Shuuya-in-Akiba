@@ -63,12 +63,15 @@ document.querySelectorAll('.filter-cate').forEach(cate => {
 	const holder = cate.querySelector('.filter-holder');
 	const isSingle = expand.classList.contains('single-select');
 
-	const createItemHTML = (text, id) => `<div class="filter-item fs-12" data-id="${id}">${text}</div>`;
+	const createItemHTML = (text, id, type) =>
+		`<div class="filter-item fs-12" data-id="${id}" data-type="${type}">${text}</div>`;
+
 	const itemsHTML = dataList.map((item, idx) => {
-		if (key === 'tag' || key === 'studio') return createItemHTML(item.name, item.id);
-		if (key === 'year') return createItemHTML(item, item);
-		return createItemHTML(item, idx);
+		if (key === 'tag' || key === 'studio') return createItemHTML(item.name, item.id, key);
+		if (key === 'year') return createItemHTML(item, item, key);
+		return createItemHTML(item, idx, key);
 	}).join('');
+
 
 	expand.innerHTML = itemsHTML;
 
@@ -108,7 +111,6 @@ document.addEventListener('click', () => {
 	document.querySelectorAll('.filter-expand').forEach(el => el.classList.add('hide'));
 });
 
-
 // === Main logic ===
 if (animeId) {
 	const anime = animeList.find(a => a.img === animeId);
@@ -124,50 +126,95 @@ if (animeId) {
 		? animeList.filter(a => a.title.some(t => t.toLowerCase().includes(searchTerm)))
 		: animeList;
 
-	let sorted = [...filtered]; // sao chép danh sách để sort
+	let sorted = [...filtered];
 
-	if (sortId !== null && sortList[sortId]) {
-		const sortOption = parseInt(sortId);
-		const getSeasonIndex = (season) => seasonList.indexOf(season);
+	const urlParams = new URLSearchParams(location.search);
 
-		switch (sortOption) {
-			case 0:
-				sorted.sort((a, b) => {
-					const yearDiff = b.year - a.year;
-					if (yearDiff !== 0) return yearDiff;
+	// Filter status
+	const selectedStatus = urlParams.getAll('status').map(Number);
+	if (selectedStatus.length > 0) {
+		sorted = sorted.filter(a => selectedStatus.includes(a.status));
+	}
 
-					return b.season - a.season;
-				});
-				break;
+	// Filter type
+	const selectedTypes = urlParams.getAll('type').map(Number);
+	if (selectedTypes.length > 0) {
+		sorted = sorted.filter(a => selectedTypes.includes(a.type));
+	}
 
-			case 1:
-				sorted.sort((a, b) => {
-					const yearDiff = a.year - b.year;
-					if (yearDiff !== 0) return yearDiff;
+	// Filter source
+	const selectedSources = urlParams.getAll('source').map(Number);
+	if (selectedSources.length > 0) {
+		sorted = sorted.filter(a => selectedSources.includes(a.source));
+	}
 
-					return a.season - b.season;
-				});
-				break;
+	// Filter rating
+	const selectedRatings = urlParams.getAll('rating').map(Number);
+	if (selectedRatings.length > 0) {
+		sorted = sorted.filter(a => selectedRatings.includes(a.rating));
+	}
 
-			case 2:
-				sorted.sort((a, b) => a.title[0].localeCompare(b.title[0]));
-				break;
+	// Filter season (index)
+	const selectedSeasons = urlParams.getAll('season').map(Number);
+	if (selectedSeasons.length > 0) {
+		sorted = sorted.filter(a => selectedSeasons.includes(a.season));
+	}
 
-			case 3:
-				sorted.sort((a, b) => b.title[0].localeCompare(a.title[0]));
-				break;
+	// Filter year (year is string or number? Assuming number)
+	const selectedYears = urlParams.getAll('year').map(y => isNaN(y) ? y : Number(y));
+	if (selectedYears.length > 0) {
+		sorted = sorted.filter(a => selectedYears.includes(a.year));
+	}
+
+	// === Gắn lại selected từ URL cho tất cả filters ===
+	Object.keys(filterDataMap).forEach(type => {
+		const selectedIds = urlParams.getAll(type);
+		if (selectedIds.length === 0) return;
+
+		const filterCate = document.querySelector(`.filter-cate.${type}`);
+		if (!filterCate) return;
+
+		const holder = filterCate.querySelector('.filter-holder');
+		const expand = filterCate.querySelector('.filter-expand');
+		const selectedItems = [];
+
+		selectedIds.forEach(id => {
+			const item = expand.querySelector(`.filter-item[data-id="${id}"][data-type="${type}"]`);
+			if (item) {
+				item.classList.add('selected');
+				selectedItems.push(item.textContent.trim());
+			}
+		});
+
+		if (selectedItems.length > 0) {
+			holder.textContent = selectedItems.join(', ');
 		}
-
-		const filterExpand = document.querySelector('.filter-cate.sort .filter-expand');
-		const filterHolder = document.querySelector('.filter-cate.sort .filter-holder');
-
-		if (filterExpand && filterHolder) {
-			const allSortItems = filterExpand.querySelectorAll('[data-id]');
-
-			const activeItem = filterExpand.querySelector(`[data-id="${sortOption}"]`);
-			if (activeItem) {
-				activeItem.classList.add('selected');
-				filterHolder.textContent = activeItem.textContent;
+	});
+	
+	if (sortId !== null) {
+		const sortOption = parseInt(sortId, 10);
+		if (!isNaN(sortOption) && sortList[sortOption]) {
+			switch (sortOption) {
+				case 0:
+					sorted.sort((a, b) => {
+						const yearDiff = b.year - a.year;
+						if (yearDiff !== 0) return yearDiff;
+						return b.season - a.season;
+					});
+					break;
+				case 1:
+					sorted.sort((a, b) => {
+						const yearDiff = a.year - b.year;
+						if (yearDiff !== 0) return yearDiff;
+						return a.season - b.season;
+					});
+					break;
+				case 2:
+					sorted.sort((a, b) => a.title[0].localeCompare(b.title[0]));
+					break;
+				case 3:
+					sorted.sort((a, b) => b.title[0].localeCompare(a.title[0]));
+					break;
 			}
 		}
 	}
@@ -175,7 +222,6 @@ if (animeId) {
 	renderAnime(sorted);
 	setupPagination(sorted.length);
 }
-
 
 // === Event Listeners ===
 searchInput?.addEventListener('keydown', e => e.key === 'Enter' && applyFilters());
@@ -194,9 +240,29 @@ function applyFilters() {
 	const params = new URLSearchParams();
 	if (q) params.set('search', q);
 	if (sortId) params.set('sort', sortId);
-	// params.set('page', 0);
+
+	const filters = getSelectedFilters();
+	for (const [type, values] of Object.entries(filters)) {
+		if (type === 'sort') continue;
+		values.forEach(v => params.append(type, v));
+	}
 
 	location.href = `?${params.toString()}`;
+}
+
+function getSelectedFilters() {
+	const selectedItems = document.querySelectorAll('.filter-item.selected');
+	const filters = {};
+
+	selectedItems.forEach(item => {
+		const type = item.dataset.type;
+		const id = item.dataset.id;
+
+		if (!filters[type]) filters[type] = [];
+		filters[type].push(id);
+	});
+
+	return filters;
 }
 
 // === Render Anime List ===
