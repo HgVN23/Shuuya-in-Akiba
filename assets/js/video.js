@@ -1,4 +1,6 @@
 function videoBg(videos) {
+	// console.log(videos);
+	videos = videos.filter(video => video != null && video.trim?.() !== '');
 	if(!videos) return;
 
 	const selectedVideo = random(videos);
