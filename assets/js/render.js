@@ -59,6 +59,7 @@ function renderInfo(anime) {
 		})
 		.join('');
 	const tagHTML = tag
+		.sort((a, b) => a.localeCompare(b))
 		.map(tag => {
 			const group = tagList.find(item => item.id === tagGroup1(tag));
 			if (!group) return '';
@@ -70,6 +71,16 @@ function renderInfo(anime) {
 			`.trim();
 		})
 		.join('');
+	const videoHTML = video
+		.map(v => {
+			if (!v) return 'Không có';
+
+			const label = v.split('-').pop();
+			
+			return `<a href="https://v.animethemes.moe/${v}.webm" target="_blank">${label}</a>`;
+		})
+		.join('');
+
 
 	const searchTitle = mainTitle.slice(0, 100);
 	const song = title.length > 1 ? title[1] : mainTitle;
@@ -124,7 +135,7 @@ function renderInfo(anime) {
 					<div class="division">Tags:</div>
 					<div class="d-flex flex-wrap gap-05r">${tagHTML}</div>
 				</div>
-				<div class="box glass mb-1r">
+				<div class="box glass">
 					<div class="division">Related:</div>
 					<div class="d-flex flex-wrap gap-05r">
 						<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchTitle.replaceAll(" ", "+")}/' target="_blank" alt="Anime Vietsub"></a>
@@ -138,6 +149,10 @@ function renderInfo(anime) {
 						<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${searchTitle}' target="_blank" alt="MangaFire"></a>
 						<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${searchTitle}' target="_blank" alt="MangaReader"></a>
 					</div>
+				</div>
+				<div class="box glass">
+					<div class="division">OPs/EDs:</div>
+					<div class="d-flex flex-wrap gap-05r">${videoHTML}</div>
 				</div>
 			</div>
 		</div>

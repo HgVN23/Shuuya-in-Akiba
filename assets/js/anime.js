@@ -200,6 +200,7 @@ const animeList = [
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
+			'tFavoriteOPVisual',
 		],
 		[
 			'SummerPockets-OP1',
@@ -464,9 +465,11 @@ const animeList = [
 			'tMedical',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 		],
 		[
 			'YamiHealer-OP1',
+			'YamiHealer-OP1v2',
 			'YamiHealer-ED1',
 		]
 	),
@@ -1236,7 +1239,9 @@ const animeList = [
 		[
 			'Beheneko-OP1',
 			'Beheneko-OP1v2',
+			'Beheneko-OP1v3',
 			'Beheneko-ED1',
+			'Beheneko-ED1v2',
 		]
 	),
 	new Anime(
@@ -3323,6 +3328,7 @@ const animeList = [
 			'tAdultCast',
 			'tAnthropomorphic',
 			'tOrganizedCrime',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -3340,6 +3346,12 @@ const animeList = [
 			'tAdultCast',
 			'tAnthropomorphic',
 			'tOrganizedCrime',
+			'tFavoriteAnime',
+		],
+		[
+			'OddTaxi-OP1',
+			'OddTaxi-ED1',
+			'OddTaxi-ED2',
 		]
 	),
 	new Anime(
@@ -4019,6 +4031,10 @@ const animeList = [
 			'tGagHumor',
 			'tOrganizedCrime',
 			'tFavoriteAnime',
+		],
+		[
+			'Gokushufudou-OP1',
+			'Gokushufudou-ED1',
 		]
 	),
 	new Anime(
@@ -4034,6 +4050,13 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDVisual',
+		],
+		[
+			'MajoNoTabitabi-OP1',
+			'MajoNoTabitabi-ED1',
 		]
 	),
 	new Anime(
@@ -6053,13 +6076,17 @@ const animeList = [
 		[ 118, 136 ],
 		0, 2, 2021, 2, 1, 1,
 		[
-			'tSupernatural',
+			'tAction',
 			'tSuspense',
 			'tHighStakesGame',
 			'tStrategyGame',
 			'tSuperPower',
 			'tSurvival',
 			'tFavoriteAnime',
+		],
+		[
+			'Deatte5ByouDeBattle-OP1',
+			'Deatte5ByouDeBattle-ED1',
 		]
 	),
 	new Anime(
@@ -6204,9 +6231,17 @@ const animeList = [
 			'tIsekai',
 			'tPsychological',
 			'tTimeTravel',
+			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteAnime',
+			'tFavoriteEDSong_1',
+		],
+		[
+			'ReZeroS2Part2-OP1',
+			'ReZeroS2-ED1',
+			'ReZeroS2Part2-ED1',
+			'ReZeroS2Part2-ED2',
+			'ReZeroS2Part2-ED3',
 		]
 	),
 	new Anime(
@@ -6226,6 +6261,11 @@ const animeList = [
 			'tPsychological',
 			'tTimeTravel',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		],
+		[
+			'ReZeroS2-OP1',
+			'ReZeroS2-ED1',
 		]
 	),
 	new Anime(
@@ -6243,6 +6283,9 @@ const animeList = [
 			'tSuspense',
 			'tPsychological',
 			'tFavoriteAnime',
+		],
+		[
+			'ReZeroHyouketsuNoKizuna-ED1',
 		]
 	),
 	new Anime(
@@ -6322,9 +6365,13 @@ const animeList = [
 		4, 2, 2019, 4, 0, 1,
 		[
 			'tDrama',
-			'tFantasy',
+			'tSupernatural',
 			'tRomance',
 			'tFavoriteAnime',
+		],
+		[
+			'TenkiNoKo-ED1',
+			'TenkiNoKo-ED2',
 		]
 	),
 	new Anime(
@@ -7125,6 +7172,12 @@ const animeList = [
 			'tIsekai',
 			'tParody',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiQuartetS2-OP1',
+			'IsekaiQuartetS2-OP1v2',
+			'IsekaiQuartetS2-ED1',
+			'IsekaiQuartetS2-ED2',
 		]
 	),
 	new Anime(
@@ -7141,6 +7194,11 @@ const animeList = [
 			'tIsekai',
 			'tParody',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiQuartet-OP1',
+			'IsekaiQuartet-ED1',
+			'IsekaiQuartet-ED2',
 		]
 	),
 	new Anime(
@@ -7676,10 +7734,16 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
-			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tSchool',
+			'tUrbanFantasy',
 			'tVampire',
+		],
+		[
+			'StrikeTheBloodS4-OP1',
+			'StrikeTheBloodS4-OP1v2',
+			'StrikeTheBloodS4-ED1',
 		]
 	),
 	new Anime(
@@ -7693,10 +7757,15 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
-			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tSchool',
+			'tUrbanFantasy',
 			'tVampire',
+		],
+		[
+			'StrikeTheBloodOVA2-OP1',
+			'StrikeTheBloodOVA2-ED1',
 		]
 	),
 	new Anime(
@@ -7710,9 +7779,10 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
-			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tSchool',
+			'tUrbanFantasy',
 			'tVampire',
 		]
 	),
@@ -7728,9 +7798,10 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
-			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tSchool',
+			'tUrbanFantasy',
 			'tVampire',
 		]
 	),
@@ -7746,9 +7817,10 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
-			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tSchool',
+			'tUrbanFantasy',
 			'tVampire',
 		]
 	),
@@ -7979,6 +8051,10 @@ const animeList = [
 			'tEcchi',
 			'tSchool',
 			'tShounen',
+		],
+		[
+			'MidaraNaAoChanWaBenkyouGaDekinai-OP1',
+			'MidaraNaAoChanWaBenkyouGaDekinai-ED1',
 		]
 	),
 	new Anime(
@@ -8477,6 +8553,7 @@ const animeList = [
 		2, 3, 2021, 2, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tEcchi',
 			'tAdultCast',
 			'tLoveStatusQuo',
@@ -8493,10 +8570,14 @@ const animeList = [
 		3, 2, 2021, 2, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tEcchi',
 			'tAdultCast',
 			'tLoveStatusQuo',
 			'tWorkplace',
+		],
+		[
+			'GanbareDoukiChan-ED1',
 		]
 	),
 	new Anime(
@@ -8731,6 +8812,10 @@ const animeList = [
 		[
 			'tAction',
 			'tSchool',
+		],
+		[
+			'GrisaiaPhantomTrigger-OP1',
+			'GrisaiaPhantomTrigger-ED1',
 		]
 	),
 	new Anime(
@@ -9005,12 +9090,16 @@ const animeList = [
 		0, 3, 2019, 0, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tLovePolygon',
-			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
 			'tFavoriteAnime',
+		],
+		[
+			'HighScoreGirlS2-OP1',
+			'HighScoreGirlS2-ED1',
 		]
 	),
 	new Anime(
@@ -9024,8 +9113,8 @@ const animeList = [
 		1, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tLovePolygon',
-			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
@@ -9043,8 +9132,8 @@ const animeList = [
 		0, 2, 2018, 0, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tLovePolygon',
-			'tLoveStatusQuo',
 			'tSchool',
 			'tVideoGame',
 			'tSeinen',
@@ -9265,6 +9354,10 @@ const animeList = [
 			'tHistorical',
 			'tSeinen',
 			'tVisualArts',
+		],
+		[
+			'Arte-OP1',
+			'Arte-ED1',
 		]
 	),
 	new Anime(
@@ -9272,6 +9365,7 @@ const animeList = [
 		[
 			'Yesterday wo Utatte: Haishin-ban Episode',
 			'イエスタデイをうたって 配信版エピソード',
+			'Sing "Yesterday" for Me Extras',
 		],
 		[ 95 ],
 		3, 1, 2020, 0, 0, 1,
@@ -9296,6 +9390,11 @@ const animeList = [
 			'tSeinen',
 			'tAdultCast',
 			'tLovePolygon',
+		],
+		[
+			'YesterdayWoUtatte-ED1',
+			'YesterdayWoUtatte-ED2',
+			'YesterdayWoUtatte-ED3',
 		]
 	),
 	new Anime(
@@ -9328,6 +9427,10 @@ const animeList = [
 			'tRomance',
 			'tAdultCast',
 			'tVisualArts',
+		],
+		[
+			'JoseeToToraToSakanatachi-OP1',
+			'JoseeToToraToSakanatachi-ED1',
 		]
 	),
 	new Anime(
@@ -9378,6 +9481,10 @@ const animeList = [
 			'tRomance',
 			'tSupernatural',
 			'tShoujo',
+		],
+		[
+			'FruitsBasketS3-OP1',
+			'FruitsBasketS3-ED1',
 		]
 	),
 	new Anime(
@@ -9394,6 +9501,14 @@ const animeList = [
 			'tSupernatural',
 			'tSchool',
 			'tShoujo',
+		],
+		[
+			'FruitsBasketS2-OP1',
+			'FruitsBasketS2-OP1v2',
+			'FruitsBasketS2-OP2',
+			'FruitsBasketS2-ED1',
+			'FruitsBasketS2-ED2',
+			'FruitsBasketS2-ED3',
 		]
 	),
 	new Anime(
@@ -9410,7 +9525,15 @@ const animeList = [
 			'tSupernatural',
 			'tSchool',
 			'tShoujo',
-			'tLovePolygon',
+		],
+		[
+			'FruitsBasket-OP1',
+			'FruitsBasket-OP2',
+			'FruitsBasket-ED1',
+			'FruitsBasket-ED1v2',
+			'FruitsBasket-ED1v3',
+			'FruitsBasket-ED1v4',
+			'FruitsBasket-ED2',
 		]
 	),
 	new Anime(
@@ -9524,6 +9647,10 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tSchool',
+		],
+		[
+			'Koikimo-OP1',
+			'Koikimo-ED1',
 		]
 	),
 	new Anime(
@@ -9627,6 +9754,11 @@ const animeList = [
 			'tIsekai',
 			'tMedical',
 			'tFavoriteAnime',
+		],
+		[
+			'SeijoNoMaryoku-OP1',
+			'SeijoNoMaryoku-ED1',
+			'SeijoNoMaryoku-ED2',
 		]
 	),
 	new Anime(
@@ -9640,10 +9772,15 @@ const animeList = [
 		0, 3, 2021, 2, 0, 1,
 		[
 			'tComedy',
+			'tRomance',
 			'tLoveStatusQuo',
 			'tWorkplace',
 			'tAdultCast',
 			'tFavoriteAnime',
+		],
+		[
+			'SenpaiGaUzaiKouhaiNoHanashi-OP1',
+			'SenpaiGaUzaiKouhaiNoHanashi-ED1',
 		]
 	),
 	new Anime(
@@ -9701,6 +9838,11 @@ const animeList = [
 			'tLoveStatusQuo',
 			'tAdultCast',
 			'tRomance',
+		],
+		[
+			'UzakiChanWaAsobitai-OP1',
+			'UzakiChanWaAsobitai-ED1',
+			'UzakiChanWaAsobitai-ED1v2',
 		]
 	),
 	new Anime(
@@ -9962,6 +10104,17 @@ const animeList = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'Takagi3S2-OP1',
+			'Takagi3S2-ED1',
+			'Takagi3S2-ED2',
+			'Takagi3S2-ED3',
+			'Takagi3S2-ED4',
+			'Takagi3S2-ED5',
+			'Takagi3S2-ED6',
+			'Takagi3S2-ED7',
+			'Takagi3S2-ED8',
 		]
 	),
 	new Anime(
@@ -10258,6 +10411,11 @@ const animeList = [
 			'tLoveStatusQuo',
 			'tSchool',
 			'tRomance',
+		],
+		[
+			'IjiranaideNagatoroSan-OP1',
+			'IjiranaideNagatoroSan-ED1',
+			'IjiranaideNagatoroSan-ED2',
 		]
 	),
 	new Anime(
@@ -10269,10 +10427,17 @@ const animeList = [
 		[ 1440 ],
 		0, 0, 2020, 6, 0, 1,
 		[
-			'tComedy',
 			'tSliceofLife',
 			'tAnthropomorphic',
 			'tFavoriteAnime',
+		],
+		[
+			'Nekopara-OP1',
+			'Nekopara-OP1v2',
+			'Nekopara-ED1',
+			'Nekopara-ED1v2',
+			'Nekopara-ED2',
+			'Nekopara-ED3',
 		]
 	),
 	new Anime(
@@ -10362,12 +10527,15 @@ const animeList = [
 		[ 397 ],
 		0, 3, 2020, 0, 1, 1,
 		[
-			'tSupernatural',
 			'tPsychological',
 			'tSuperPower',
 			'tShounen',
 			'tSuspense',
 			'tFavoriteAnime',
+		],
+		[
+			'MunouNaNana-OP1',
+			'MunouNaNana-ED1',
 		]
 	),
 	new Anime(
@@ -10566,6 +10734,7 @@ const animeList = [
 			'tSupernatural',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		],
 		[
 			'AobutaMovie2-ED1',
@@ -10586,6 +10755,10 @@ const animeList = [
 			'tSupernatural',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		],
+		[
+			'AobutaMovie-ED1',
 		]
 	),
 	new Anime(
@@ -10643,6 +10816,10 @@ const animeList = [
 			'tHarem',
 			'tSchool',
 			'tShounen',
+		],
+		[
+			'KanojoMoKanojo-OP1',
+			'KanojoMoKanojo-ED1',
 		]
 	),
 	new Anime(
@@ -10688,11 +10865,17 @@ const animeList = [
 		[ 1087 ],
 		0, 2, 2019, 0, 0, 1,
 		[
-			'tComedy',
 			'tDrama',
 			'tRomance',
 			'tSchool',
 			'tShounen',
+		],
+		[
+			'Araoto-OP1',
+			'Araoto-OP1v2',
+			'Araoto-OP1v3',
+			'Araoto-ED1',
+			'Araoto-ED1v2',
 		]
 	),
 	new Anime(
@@ -12095,6 +12278,10 @@ const animeList = [
 			'tShounen',
 			'tAdultCast',
 			'tFavoriteAnime',
+		],
+		[
+			'KyokouSuiri-OP1',
+			'KyokouSuiri-ED1',
 		]
 	),
 	new Anime(
@@ -12216,6 +12403,10 @@ const animeList = [
 			'tSchool',
 			'tOtakuCulture',
 			'tFavoriteAnime',
+		],
+		[
+			'SaekanoMovie-OP1',
+			'SaekanoMovie-ED1',
 		]
 	),
 	new Anime(
@@ -12526,9 +12717,9 @@ const animeList = [
 		[
 			'tAction',
 			'tComedy',
-			'tFantasy',
 			'tSciFi',
 			'tEcchi',
+			'tHarem',
 			'tSchool',
 			'tShounen',
 		]
@@ -12545,12 +12736,16 @@ const animeList = [
 		[
 			'tAction',
 			'tComedy',
-			'tFantasy',
+			'tRomance',
 			'tSciFi',
 			'tEcchi',
+			'tHarem',
 			'tSchool',
-			'tSuperPower',
 			'tShounen',
+		],
+		[
+			'DokyuuHentaiHxEros-OP1',
+			'DokyuuHentaiHxEros-ED1',
 		]
 	),
 	new Anime(
@@ -12704,12 +12899,22 @@ const animeList = [
 		0, 3, 2019, 0, 1, 1,
 		[
 			'tComedy',
-			'tFantasy',
 			'tRomance',
+			'tSupernatural',
 			'tEcchi',
 			'tHarem',
+			'tMythology',
 			'tSchool',
 			'tShounen',
+		],
+		[
+			'ValXLove-OP1',
+			'ValXLove-OP1v2',
+			'ValXLove-OP1v3',
+			'ValXLove-ED1',
+			'ValXLove-ED1v2',
+			'ValXLove-ED2',
+			'ValXLove-ED3',
 		]
 	),
 	new Anime(
@@ -12770,6 +12975,16 @@ const animeList = [
 			'tSchool',
 			'tLovePolygon',
 			'tFavoriteAnime',
+		],
+		[
+			'OreGairuS3-OP1',
+			'OreGairuS3-OP1v2',
+			'OreGairuS3-OP1v3',
+			'OreGairuS3-OP1v4',
+			'OreGairuS3-ED1',
+			'OreGairuS3-ED2',
+			'OreGairuS3-ED3',
+			'OreGairuS3-ED4',
 		]
 	),
 	new Anime(
@@ -12852,9 +13067,13 @@ const animeList = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tMythology',
+			'tParody',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'MaouJouDeOyasumi-OP1',
+			'MaouJouDeOyasumi-ED1',
 		]
 	),
 	new Anime(
@@ -12870,6 +13089,10 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tSupernatural',
+		],
+		[
+			'HatenaIllusion-OP1',
+			'HatenaIllusion-ED1',
 		]
 	),
 	new Anime(
@@ -12888,6 +13111,11 @@ const animeList = [
 			'tHistorical',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'TaishouOtomeOtogibanashi-OP1',
+			'TaishouOtomeOtogibanashi-ED1',
+			'TaishouOtomeOtogibanashi-ED2',
 		]
 	),
 	new Anime(
@@ -12903,6 +13131,11 @@ const animeList = [
 			'tComedy',
 			'tMystery',
 			'tRomance',
+			'tDetective',
+		],
+		[
+			'TanteiWaMouShindeiru-OP1',
+			'TanteiWaMouShindeiru-ED1',
 		]
 	),
 	new Anime(
@@ -12920,9 +13153,9 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReincarnation',
-			'tHarem',
+			'tReverse Harem',
 			'tSchool',
+			'tVillainess',
 			'tShoujo',
 			'tFavoriteAnime',
 		]
@@ -12938,15 +13171,20 @@ const animeList = [
 		0, 2, 2021, 1, 0, 1,
 		[
 			'tComedy',
+			'tDrama',
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReincarnation',
-			'tHarem',
+			'tReverse Harem',
 			'tSchool',
+			'tVillainess',
 			'tShoujo',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
+		],
+		[
+			'HamefuraS2-OP1',
+			'HamefuraS2-ED1',
+			'HamefuraS2-ED2',
 		]
 	),
 	new Anime(
@@ -12960,14 +13198,19 @@ const animeList = [
 		0, 1, 2020, 1, 0, 1,
 		[
 			'tComedy',
+			'tDrama',
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReincarnation',
-			'tHarem',
+			'tReverse Harem',
 			'tSchool',
+			'tVillainess',
 			'tShoujo',
 			'tFavoriteAnime',
+		],
+		[
+			'Hamefura-OP1',
+			'Hamefura-ED1',
 		]
 	),
 	new Anime(
@@ -13046,7 +13289,7 @@ const animeList = [
 		[
 			'Kaguya-sama wa Kokurasetai: Ultra Romantic',
 			'かぐや様は告らせたい-ウルトラロマンティック-',
-			'Kaguya-sama: Love is War - Ultra Romantic',
+			'Kaguya-sama: Love is War -Ultra Romantic-',
 		],
 		[ 56 ],
 		0, 1, 2022, 0, 0, 1,
@@ -13078,7 +13321,7 @@ const animeList = [
 		[
 			'tComedy',
 			'tEcchi',
-			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteAnime',
@@ -13089,19 +13332,25 @@ const animeList = [
 		[
 			'Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen',
 			'かぐや様は告らせたい？～天才たちの恋愛頭脳戦～',
-			'Kaguya-sama: Love is War Season 2',
+			'Kaguya-sama: Love is War? Season 2',
 		],
 		[ 56 ],
 		0, 1, 2020, 0, 0, 1,
 		[
 			'tComedy',
-			'tPsychological',
-			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'KaguyaSamaWaKokurasetaiS2-OP1',
+			'KaguyaSamaWaKokurasetaiS2-ED1',
+			'KaguyaSamaWaKokurasetaiS2-ED1v2',
+			'KaguyaSamaWaKokurasetaiS2-ED1v3',
+			'KaguyaSamaWaKokurasetaiS2-ED1v4',
 		]
 	),
 	new Anime(
@@ -13115,8 +13364,7 @@ const animeList = [
 		0, 0, 2019, 0, 0, 1,
 		[
 			'tComedy',
-			'tPsychological',
-			'tLoveStatusQuo',
+			'tRomance',
 			'tSchool',
 			'tSeinen',
 			'tFavoriteOPSong',
@@ -13138,6 +13386,10 @@ const animeList = [
 			'tSupernatural',
 			'tIyashikei',
 			'tFavoriteAnime',
+		],
+		[
+			'SewayakiKitsuneNoSenkoSan-OP1',
+			'SewayakiKitsuneNoSenkoSan-ED1',
 		]
 	),
 	new Anime(
@@ -13168,6 +13420,12 @@ const animeList = [
 			'tFantasy',
 			'tSliceofLife',
 			'tFavoriteAnime',
+		],
+		[
+			'KobayashiSanChiNoMaidDragonS2-OP1',
+			'KobayashiSanChiNoMaidDragonS2-ED1',
+			'KobayashiSanChiNoMaidDragonS2-ED2',
+			'KobayashiSanChiNoMaidDragonS2-ED3',
 		]
 	),
 	new Anime(
@@ -13283,6 +13541,9 @@ const animeList = [
 			'tFantasy',
 			'tGore',
 			'tFavoriteAnime',
+		],
+		[
+			'GoblinSlayerMovie-ED1',
 		]
 	),
 	new Anime(
@@ -13400,6 +13661,11 @@ const animeList = [
 			'tFantasy',
 			'tSliceofLife',
 			'tChildcare',
+		],
+		[
+			'Uchinoko-OP1',
+			'Uchinoko-ED1',
+			'Uchinoko-ED2',
 		]
 	),
 	new Anime(
@@ -13417,6 +13683,11 @@ const animeList = [
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'AssassinsPride-OP1',
+			'AssassinsPride-ED1',
+			'AssassinsPride-ED1v2',
 		]
 	),
 	new Anime(
@@ -13433,6 +13704,14 @@ const animeList = [
 			'tFantasy',
 			'tSciFi',
 			'tSuperPower',
+			'tUrbanFantasy',
+		],
+		[
+			'ToaruKagakuNoAccelerator-OP1',
+			'ToaruKagakuNoAccelerator-OP1v2',
+			'ToaruKagakuNoAccelerator-OP1v3',
+			'ToaruKagakuNoAccelerator-OP1v4',
+			'ToaruKagakuNoAccelerator-ED1',
 		]
 	),
 	new Anime(
@@ -13446,6 +13725,14 @@ const animeList = [
 		[
 			'tAction',
 			'tFantasy',
+		],
+		[
+			'AssaultLily-OP1',
+			'AssaultLily-ED1',
+			'AssaultLily-ED1v2',
+			'AssaultLily-ED2',
+			'AssaultLily-ED3',
+			'AssaultLily-ED4',
 		]
 	),
 	new Anime(
@@ -13461,6 +13748,12 @@ const animeList = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
+		],
+		[
+			'KingsRaid-OP1',
+			'KingsRaid-OP2',
+			'KingsRaid-ED1',
+			'KingsRaid-ED2',
 		]
 	),
 	new Anime(
@@ -13520,6 +13813,11 @@ const animeList = [
 			'tFantasy',
 			'tReincarnation',
 			'tSchool',
+		],
+		[
+			'MaouGakuinNoFutekigousha-OP1',
+			'MaouGakuinNoFutekigousha-OP2',
+			'MaouGakuinNoFutekigousha-ED1',
 		]
 	),
 	new Anime(
@@ -13558,6 +13856,10 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tMilitary',
+		],
+		[
+			'KimiSen-OP1',
+			'KimiSen-ED1',
 		]
 	),
 	new Anime(
@@ -13573,6 +13875,15 @@ const animeList = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
+		],
+		[
+			'Shachibato-OP1',
+			'Shachibato-OP1v2',
+			'Shachibato-OP1v3',
+			'Shachibato-OP1v4',
+			'Shachibato-ED1',
+			'Shachibato-ED1v2',
+			'Shachibato-ED1v3',
 		]
 	),
 	new Anime(
@@ -13617,6 +13928,9 @@ const animeList = [
 			'tUrbanFantasy',
 			'tSciFi',
 			'tFavoriteAnime',
+		],
+		[
+			'MahoukaKoukouNoRettouseiTsuiokuHen-ED1',
 		]
 	),
 	new Anime(
@@ -13635,6 +13949,10 @@ const animeList = [
 			'tSchool',
 			'tFavoriteEDSong',
 			'tFavoriteAnime',
+		],
+		[
+			'MahoukaKoukouNoYuutousei-OP1',
+			'MahoukaKoukouNoYuutousei-ED1',
 		]
 	),
 	new Anime(
@@ -13654,6 +13972,10 @@ const animeList = [
 			'tSciFi',
 			'tSchool',
 			'tFavoriteAnime',
+		],
+		[
+			'MahoukaKoukouNoRettouseiS2-OP1',
+			'MahoukaKoukouNoRettouseiS2-ED1',
 		]
 	),
 	new Anime(
@@ -13732,6 +14054,11 @@ const animeList = [
 		[
 			'tAdventure',
 			'tFantasy',
+			'tComedy',
+		],
+		[
+			'LasDan-OP1',
+			'LasDan-ED1',
 		]
 	),
 	new Anime(
@@ -13747,6 +14074,10 @@ const animeList = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
+		],
+		[
+			'SevenKnightsRevolution-OP1',
+			'SevenKnightsRevolution-ED1',
 		]
 	),
 	new Anime(
@@ -13762,8 +14093,11 @@ const animeList = [
 			'tAction',
 			'tComedy',
 			'tFantasy',
-			'tSciFi',
 			'tIsekai',
+		],
+		[
+			'SentouinHakenshimasu-OP1',
+			'SentouinHakenshimasu-ED1',
 		]
 	),
 	new Anime(
@@ -13797,6 +14131,10 @@ const animeList = [
 		[
 			'tFantasy',
 			'tRomance',
+		],
+		[
+			'ShinNoNakamaS2-OP1',
+			'ShinNoNakamaS2-ED1',
 		]
 	),
 	new Anime(
@@ -14138,6 +14476,10 @@ const animeList = [
 			'tIsekai',
 			'tParody',
 			'tFavoriteAnime',
+		],
+		[
+			'KonosubaKurenaiDensetsu-ED1',
+			'KonosubaKurenaiDensetsu-ED2',
 		]
 	),
 	new Anime(
@@ -14287,8 +14629,12 @@ const animeList = [
 			'tRomance',
 			'tIsekai',
 			'tReincarnation',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
+		],
+		[
+			'KenjaNoMago-OP1',
+			'KenjaNoMago-ED1',
+			'KenjaNoMago-ED1v2',
 		]
 	),
 	new Anime(
@@ -14328,6 +14674,22 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tShounen',
+			'tAnthropomorphic',
+		],
+		[
+			'HataageKemonoMichi-OP1',
+			'HataageKemonoMichi-OP1v2',
+			'HataageKemonoMichi-OP1v3',
+			'HataageKemonoMichi-OP1v4',
+			'HataageKemonoMichi-OP1v5',
+			'HataageKemonoMichi-OP1v6',
+			'HataageKemonoMichi-OP1v7',
+			'HataageKemonoMichi-OP1v8',
+			'HataageKemonoMichi-OP1v9',
+			'HataageKemonoMichi-OP1v10',
+			'HataageKemonoMichi-OP1v11',
+			'HataageKemonoMichi-OP1v12',
+			'HataageKemonoMichi-ED1',
 		]
 	),
 	new Anime(
@@ -14383,6 +14745,10 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiCheatMagician-OP1',
+			'IsekaiCheatMagician-ED1',
 		]
 	),
 	new Anime(
@@ -14399,7 +14765,10 @@ const animeList = [
 			'tIsekai',
 			'tAction',
 			'tAdventure',
-			'tFavoriteAnime',
+		],
+		[
+			'Choyoyu-OP1',
+			'Choyoyu-ED1',
 		]
 	),
 	new Anime(
@@ -14412,10 +14781,15 @@ const animeList = [
 		[ 439 ],
 		0, 3, 2019, 1, 0, 1,
 		[
+			'tAdventure',
 			'tComedy',
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+		],
+		[
+			'Noukin-OP1',
+			'Noukin-ED1',
 		]
 	),
 	new Anime(
@@ -14452,6 +14826,10 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
+		],
+		[
+			'MaouSamaRetry-OP1',
+			'MaouSamaRetry-ED1',
 		]
 	),
 	new Anime(
@@ -14470,6 +14848,14 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tParody',
+		],
+		[
+			'ShinchouYuusha-OP1',
+			'ShinchouYuusha-OP1v2',
+			'ShinchouYuusha-OP1v3',
+			'ShinchouYuusha-OP1v4',
+			'ShinchouYuusha-ED1',
+			'ShinchouYuusha-ED2',
 		]
 	),
 	new Anime(
@@ -14586,6 +14972,10 @@ const animeList = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+		],
+		[
+			'HonzukiNoGekokujouS2-OP1',
+			'HonzukiNoGekokujouS2-ED1',
 		]
 	),
 	new Anime(
@@ -14617,8 +15007,11 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
-			'tFavoriteEDSong',
 			'tFavoriteAnime',
+		],
+		[
+			'HonzukiNoGekokujou-OP1',
+			'HonzukiNoGekokujou-ED1',
 		]
 	),
 	new Anime(
@@ -14757,8 +15150,13 @@ const animeList = [
 			'tFantasy',
 			'tHarem',
 			'tIsekai',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'Arifureta-OP1',
+			'Arifureta-OP1v2',
+			'Arifureta-ED1',
 		]
 	),
 	new Anime(
@@ -14776,7 +15174,6 @@ const animeList = [
 			'tDrama',
 			'tFantasy',
 			'tMystery',
-			'tFavoriteAnime',
 		],
 		[
 			'KamiNoTouS2KoubouSen-OP1',
@@ -14798,7 +15195,6 @@ const animeList = [
 			'tDrama',
 			'tFantasy',
 			'tMystery',
-			'tFavoriteAnime',
 		],
 		[
 			'KamiNoTouS2-OP1',
@@ -14821,9 +15217,10 @@ const animeList = [
 			'tDrama',
 			'tFantasy',
 			'tMystery',
-			'tFavoriteOPSong',
-			'tFavoriteEDSong',
-			'tFavoriteAnime',
+		],
+		[
+			'KamiNoTou-OP1',
+			'KamiNoTou-ED1',
 		]
 	),
 	new Anime(
@@ -14860,6 +15257,10 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+		],
+		[
+			'Hachinan-OP1',
+			'Hachinan-ED1',
 		]
 	),
 	new Anime(
@@ -14896,6 +15297,10 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
+		],
+		[
+			'KumaKumaKumaBear-OP1',
+			'KumaKumaKumaBear-ED1',
 		]
 	),
 	new Anime(
@@ -14910,7 +15315,13 @@ const animeList = [
 			'tAction',
 			'tFantasy',
 			'tVideoGame',
+			'tAdventure',
 			'tFavoriteAnime',
+		],
+		[
+			'InfiniteDendrogram-OP1',
+			'InfiniteDendrogram-OP1v2',
+			'InfiniteDendrogram-ED1',
 		]
 	),
 	new Anime(
@@ -14952,6 +15363,10 @@ const animeList = [
 			'tIyashikei',
 			'tReincarnation',
 			'tFavoriteAnime',
+		],
+		[
+			'Kamihiro-OP1',
+			'Kamihiro-ED1',
 		]
 	),
 	new Anime(
@@ -14996,6 +15411,10 @@ const animeList = [
 			'tFantasy',
 			'tVideoGame',
 			'tFavoriteAnime',
+		],
+		[
+			'Bofuri-OP1',
+			'Bofuri-ED1',
 		]
 	),
 	new Anime(
@@ -15131,6 +15550,11 @@ const animeList = [
 			'tReincarnation',
 			'tShounen',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'TensuraS2Part2-OP1',
+			'TensuraS2Part2-ED1',
 		]
 	),
 	new Anime(
@@ -15149,6 +15573,11 @@ const animeList = [
 			'tReincarnation',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'TensuraNikki-OP1',
+			'TensuraNikki-ED1',
+			'TensuraNikki-ED2',
 		]
 	),
 	new Anime(
@@ -15169,6 +15598,10 @@ const animeList = [
 			'tShounen',
 			'tFavoriteEDSong',
 			'tFavoriteAnime',
+		],
+		[
+			'TensuraS2-OP1',
+			'TensuraS2-ED1',
 		]
 	),
 	new Anime(
@@ -15187,6 +15620,12 @@ const animeList = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+		],
+		[
+			'Tensura-OP1',
+			'Tensura-OP2',
+			'Tensura-ED1',
+			'Tensura-ED2',
 		]
 	),
 	new Anime(
@@ -15283,6 +15722,13 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'Tsukimichi-OP1',
+			'Tsukimichi-ED1',
+			'Tsukimichi-ED2',
+			'Tsukimichi-ED3',
 		]
 	),
 	new Anime(
@@ -15307,6 +15753,11 @@ const animeList = [
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'AnsatsuKizoku-OP1',
+			'AnsatsuKizoku-ED1',
+			'AnsatsuKizoku-ED2',
 		]
 	),
 	new Anime(
@@ -15345,6 +15796,10 @@ const animeList = [
 			'tRomance',
 			'tHarem',
 			'tIsekai',
+		],
+		[
+			'ShinkaNoMi-OP1',
+			'ShinkaNoMi-ED1',
 		]
 	),
 	new Anime(
@@ -15389,8 +15844,11 @@ const animeList = [
 			'tHarem',
 			'tIsekai',
 			'tReincarnation',
-			'tFavoriteEDSong',
 			'tFavoriteAnime',
+		],
+		[
+			'SeireiGensouki-OP1',
+			'SeireiGensouki-ED1',
 		]
 	),
 	new Anime(
@@ -15407,10 +15865,15 @@ const animeList = [
 			'tAdventure',
 			'tComedy',
 			'tFantasy',
-			'tMystery',
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+		],
+		[
+			'KumoDesuGaNaniKa-OP1',
+			'KumoDesuGaNaniKa-OP2',
+			'KumoDesuGaNaniKa-ED1',
+			'KumoDesuGaNaniKa-ED2',
 		]
 	),
 	new Anime(
@@ -15427,11 +15890,12 @@ const animeList = [
 			'tGourmet',
 			'tSliceofLife',
 			'tIsekai',
-			'tIyashikei',
 			'tWorkplace',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiShokudouS2-OP1',
+			'IsekaiShokudouS2-ED1',
 		]
 	),
 	new Anime(
@@ -15448,9 +15912,12 @@ const animeList = [
 			'tGourmet',
 			'tSliceofLife',
 			'tIsekai',
-			'tIyashikei',
 			'tWorkplace',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiShokudou-OP1',
+			'IsekaiShokudou-ED1',
 		]
 	),
 	new Anime(
@@ -15589,6 +16056,14 @@ const animeList = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+		],
+		[
+			'MushokuTenseiPart2-OP1',
+			'MushokuTenseiPart2-OP2',
+			'MushokuTenseiPart2-OP3',
+			'MushokuTenseiPart2-OP4',
+			'MushokuTenseiPart2-OP5',
+			'MushokuTenseiPart2-ED1',
 		]
 	),
 	new Anime(
@@ -15608,6 +16083,13 @@ const animeList = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
+		],
+		[
+			'MushokuTensei-OP1',
+			'MushokuTensei-OP2',
+			'MushokuTensei-ED1',
 		]
 	),
 	new Anime(
@@ -15626,6 +16108,12 @@ const animeList = [
 			'tVideoGame',
 			'tAdultCast',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'LogHorizonS3-OP1',
+			'LogHorizonS3-ED1',
 		]
 	),
 	new Anime(
@@ -15703,6 +16191,10 @@ const animeList = [
 			'tHarem',
 			'tIsekai',
 			'tMilitary',
+		],
+		[
+			'Genkoku-OP1',
+			'Genkoku-ED1',
 		]
 	),
 	new Anime(
@@ -15719,6 +16211,10 @@ const animeList = [
 			'tComedy',
 			'tFantasy',
 			'tVideoGame',
+		],
+		[
+			'FullDive-OP1',
+			'FullDive-ED1',
 		]
 	),
 	new Anime(
@@ -15733,9 +16229,13 @@ const animeList = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tHarem',
+			'tMedical',
 			'tIsekai',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiDrugstore-OP1',
+			'IsekaiDrugstore-ED1',
 		]
 	),
 	new Anime(
@@ -15908,6 +16408,11 @@ const animeList = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'PrincessConnectReDive-OP1',
+			'PrincessConnectReDive-ED1',
+			'PrincessConnectReDive-ED2',
 		]
 	),
 	new Anime(
@@ -16007,6 +16512,9 @@ const animeList = [
 			'tFantasy',
 			'tEcchi',
 			'tFavoriteAnime',
+		],
+		[
+			'DanmachiS3OVA-ED1',
 		]
 	),
 	new Anime(
@@ -16023,6 +16531,10 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'DanMachiS3-OP1',
+			'DanMachiS3-ED1',
 		]
 	),
 	new Anime(
@@ -16040,6 +16552,9 @@ const animeList = [
 			'tFantasy',
 			'tEcchi',
 			'tFavoriteAnime',
+		],
+		[
+			'DanMachiS2OVA-ED1',
 		]
 	),
 	new Anime(
@@ -16056,6 +16571,11 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'DanMachiS2-OP1',
+			'DanMachiS2-ED1',
+			'DanMachiS2-ED1v2',
 		]
 	),
 	new Anime(
@@ -16134,10 +16654,16 @@ const animeList = [
 		0, 1, 2021, 1, 0, 1,
 		[
 			'tAction',
+			'tComedy',
 			'tFantasy',
+			'tRomance',
 			'tEcchi',
 			'tHarem',
 			'tIsekai',
+		],
+		[
+			'IsekaiMaouS2-OP1',
+			'IsekaiMaouS2-ED1',
 		]
 	),
 	new Anime(
@@ -16151,7 +16677,9 @@ const animeList = [
 		0, 2, 2018, 1, 0, 1,
 		[
 			'tAction',
+			'tComedy',
 			'tFantasy',
+			'tRomance',
 			'tEcchi',
 			'tHarem',
 			'tIsekai',
@@ -16172,6 +16700,10 @@ const animeList = [
 			'tEcchi',
 			'tHarem',
 			'tShounen',
+		],
+		[
+			'MegamiRyouNoRyouboKun-OP1',
+			'MegamiRyouNoRyouboKun-ED1',
 		]
 	),
 	new Anime(
@@ -16185,12 +16717,17 @@ const animeList = [
 		0, 2, 2021, 0, 0, 1,
 		[
 			'tAction',
+			'tAdventure',
 			'tDrama',
 			'tFantasy',
 			'tIsekai',
-			'tSurvival',
 			'tShounen',
-			'tFavoriteEDSong',
+			'tFavoriteAnime',
+		],
+		[
+			'100ManS2-OP1',
+			'100ManS2-ED1',
+			'100ManS2-ED2',
 		]
 	),
 	new Anime(
@@ -16198,18 +16735,26 @@ const animeList = [
 		[
 			'100-man no Inochi no Ue ni Ore wa Tatteiru',
 			'100万の命の上に俺は立っている',
-			"I'm Standing on a Million Lives",
+			'I’m Standing on a Million Lives',
 		],
 		[ 1978 ],
 		0, 3, 2020, 0, 0, 1,
 		[
 			'tAction',
+			'tAdventure',
 			'tDrama',
 			'tFantasy',
 			'tIsekai',
-			'tSurvival',
 			'tShounen',
-			'tFavoriteEDSong',
+			'tFavoriteAnime',
+		],
+		[
+			'100Man-OP1',
+			'100Man-OP2',
+			'100Man-ED1',
+			'100Man-ED1v2',
+			'100Man-ED1v3',
+			'100Man-ED1v4',
 		]
 	),
 	new Anime(
@@ -16474,6 +17019,10 @@ const animeList = [
 			'tFantasy',
 			'tEcchi',
 			'tHarem',
+		],
+		[
+			'OreDakeHaireruKakushiDungeon-OP1',
+			'OreDakeHaireruKakushiDungeon-ED1',
 		]
 	),
 	new Anime(
@@ -16512,9 +17061,11 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tAdultCast',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'RikeKoi-OP1',
+			'RikeKoi-ED1',
 		]
 	),
 	new Anime(
@@ -16573,6 +17124,17 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tShounen',
+			'tAdultCast',
+			'tHarem',
+		],
+		[
+			'Kanokari-OP1',
+			'Kanokari-ED1',
+			'Kanokari-ED1v2',
+			'Kanokari-ED1v3',
+			'Kanokari-ED1v4',
+			'Kanokari-ED2',
+			'Kanokari-ED3',
 		]
 	),
 	new Anime(
@@ -16586,8 +17148,15 @@ const animeList = [
 		0, 3, 2020, 4, 0, 1,
 		[
 			'tDrama',
-			'tFantasy',
+			'tSuperPower',
 			'tFavoriteAnime',
+		],
+		[
+			'KamiSamaNiNattaHi-OP1',
+			'KamiSamaNiNattaHi-OP1v2',
+			'KamiSamaNiNattaHi-ED1',
+			'KamiSamaNiNattaHi-ED2',
+			'KamiSamaNiNattaHi-ED2v2',
 		]
 	),
 	new Anime(
@@ -16605,6 +17174,10 @@ const animeList = [
 			'tTimeTravel',
 			'tAdultCast',
 			'tFavoriteAnime',
+		],
+		[
+			'BokutachiNoRemake-OP1',
+			'BokutachiNoRemake-ED1',
 		]
 	),
 	new Anime(
@@ -16641,6 +17214,13 @@ const animeList = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'Horimiya-OP1',
+			'Horimiya-OP1v2',
+			'Horimiya-ED1',
 		]
 	),
 	new Anime(
@@ -16655,6 +17235,10 @@ const animeList = [
 		[
 			'tDrama',
 			'tRomance',
+		],
+		[
+			'Higehiro-OP1',
+			'Higehiro-ED1',
 		]
 	),
 	new Anime(
@@ -16714,8 +17298,14 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
+		],
+		[
+			'JakuCharaTomozakiKun-OP1',
+			'JakuCharaTomozakiKun-ED1',
+			'JakuCharaTomozakiKun-ED2',
+			'JakuCharaTomozakiKun-ED3',
+			'JakuCharaTomozakiKun-ED4',
+			'JakuCharaTomozakiKun-ED5',
 		]
 	),
 	new Anime(
@@ -16733,6 +17323,11 @@ const animeList = [
 			'tEcchi',
 			'tHarem',
 			'tSchool',
+		],
+		[
+			'Hensuki-OP1',
+			'Hensuki-ED1',
+			'Hensuki-ED2',
 		]
 	),
 	new Anime(
@@ -16764,6 +17359,11 @@ const animeList = [
 			'tRomance',
 			'tHarem',
 			'tSchool',
+		],
+		[
+			'Oresuki-OP1',
+			'Oresuki-OP1v2',
+			'Oresuki-ED1',
 		]
 	),
 	new Anime(
@@ -16818,6 +17418,11 @@ const animeList = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'Osamake-OP1',
+			'Osamake-ED1',
+			'Osamake-ED2',
 		]
 	),
 	new Anime(
@@ -17127,6 +17732,10 @@ const animeList = [
 			'tRomance',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'Tonikawa-OP1v2',
+			'Tonikawa-ED1',
 		]
 	),
 	new Anime(
@@ -17145,6 +17754,11 @@ const animeList = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'Tonikawa-OP1',
+			'Tonikawa-OP1v2',
+			'Tonikawa-ED1',
 		]
 	),
 	new Anime(
@@ -17158,11 +17772,15 @@ const animeList = [
 		0, 1, 2019, 3, 0, 1,
 		[
 			'tComedy',
-			'tSliceofLife',
+			'tRomance',
+			'tLoveStatusQuo',
 			'tSchool',
 			'tShounen',
-			'tFavoriteOPSong',
 			'tFavoriteAnime',
+		],
+		[
+			'SenryuuShoujo-OP1',
+			'SenryuuShoujo-ED1',
 		]
 	),
 	new Anime(
@@ -17249,6 +17867,11 @@ const animeList = [
 			'tShounen',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'GotoubunNoHanayomeS2-OP1',
+			'GotoubunNoHanayomeS2-ED1',
+			'GotoubunNoHanayomeS2-ED2',
 		]
 	),
 	new Anime(
@@ -17318,6 +17941,11 @@ const animeList = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'BokuBenS2-OP1',
+			'BokuBenS2-ED1',
+			'BokuBenS2-ED2',
 		]
 	),
 	new Anime(
@@ -17336,6 +17964,10 @@ const animeList = [
 			'tSchool',
 			'tShounen',
 			'tFavoriteAnime',
+		],
+		[
+			'BokuBen-OP1',
+			'BokuBen-ED1',
 		]
 	),
 	new Anime(
@@ -17374,6 +18006,11 @@ const animeList = [
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
+		],
+		[
+			'KomiSanWaKomyushouDesu-OP1',
+			'KomiSanWaKomyushouDesu-ED1',
+			'KomiSanWaKomyushouDesu-ED2',
 		]
 	),
 	new Anime(
@@ -17742,7 +18379,12 @@ const animeList = [
 			'tAction',
 			'tSciFi',
 			'tIsekai',
+			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'DateABullet-OP1',
+			'DateABullet-ED2',
 		]
 	),
 	new Anime(
@@ -17757,7 +18399,12 @@ const animeList = [
 			'tAction',
 			'tSciFi',
 			'tIsekai',
+			'tFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'DateABullet-OP1',
+			'DateABullet-ED1',
 		]
 	),
 	new Anime(
@@ -18025,6 +18672,7 @@ const animeList = [
 			'tSuperPower',
 			'tSeinen',
 			'tAdultCast',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -18043,6 +18691,11 @@ const animeList = [
 			'tSuperPower',
 			'tSeinen',
 			'tAdultCast',
+			'tFavoriteAnime',
+		],
+		[
+			'OnePunchManS2-OP1',
+			'OnePunchManS2-ED1',
 		]
 	),
 	new Anime(
@@ -18060,6 +18713,7 @@ const animeList = [
 			'tSuperPower',
 			'tSeinen',
 			'tAdultCast',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -18093,6 +18747,7 @@ const animeList = [
 			'tSuperPower',
 			'tSeinen',
 			'tAdultCast',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -18341,6 +18996,11 @@ const animeList = [
 			'tRomance',
 			'tLoveStatusQuo',
 			'tFavoriteAnime',
+		],
+		[
+			'Bocchan-OP1',
+			'Bocchan-ED1',
+			'Bocchan-ED2',
 		]
 	),
 	new Anime(
