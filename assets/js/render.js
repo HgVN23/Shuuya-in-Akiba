@@ -75,12 +75,12 @@ function renderInfo(anime) {
 		.map(v => {
 			if (!v) return 'Không có';
 
-			const label = v.split('-').pop();
-			
+			const match = v.match(/-(OP\d.*|ED\d.*)/);
+			const label = match ? match[1] : v;
+
 			return `<a href="https://v.animethemes.moe/${v}.webm" target="_blank">${label}</a>`;
 		})
 		.join('');
-
 
 	const searchTitle = mainTitle.slice(0, 100);
 	const song = title.length > 1 ? title[1] : mainTitle;
