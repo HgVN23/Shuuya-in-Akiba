@@ -484,6 +484,10 @@ header {
 	.flex-column-respon { flex-direction: column; }
 	.fs-30 { font-size: 20px; }
 
+	.video-bg {
+		display: none;
+	}
+
 	.logo {
 		--size: 2rem;
 	}
