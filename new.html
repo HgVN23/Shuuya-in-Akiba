@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="icon" href="assets/media/icon/logo.png">
+
+	<!-- Primary Meta Tags -->
+	<title>New | Shuuya in Akiba</title>
+	<meta name="description" content="Tạo Data">
+
+	<!-- CSS/Script -->
+	<link rel="stylesheet" href="assets/css/main.css">
+	
+	<script src="assets/js/studio.js"></script>
+	<script src="assets/js/tag.js"></script>
+	<script src="assets/js/lists.js"></script>
+
+	<script defer src="assets/js/new.js"></script>
+</head>
+<body>
+	<div class="vh-100 d-flex flex-column position-relative">
+		<header class="glass d-flex justify-content-center align-items-center gap-1r">
+			<div class="logo" style="--i: 0; animation-delay: .2s;"></div>
+			<div class="fs-30 text-nowrap text-center text-shadow-1">Shuuya in Akiba</div>
+			<div class="logo" style="--i: 1;"></div>
+		</header>
+		<main class="d-flex flex-column flex-grow-1">
+			<div class="flex-grow-1 position-relative">
+				<div class="w-100 h-100 position-absolute top-0 left-0 overflow-y-auto">
+					<div class="content px-1r">
+						<div class="anime-info d-flex">
+							<div class="key-visual">
+								<img class="img-inherit" alt="ID not found">
+								<input type="text" class="input-kv" placeholder="Key Visual">
+							</div>
+							<div class="info d-flex flex-column gap-1r">
+								<div class="box glass">
+									<div class="division">Titles:</div>
+									<input type="text" class="input-title" placeholder="Romaji Title">
+									<input type="text" class="input-title" placeholder="Kanji Title">
+									<input type="text" class="input-title" placeholder="Eng Title">
+								</div>
+								<div class="flex-column-respon d-flex gap-1r">
+									<div class="box glass col">
+										<div class="division">Studios:</div>
+										<div class="input-studio"></div>
+									</div>
+									<div class="box glass col overflow-x-hidden">
+										<table>
+											<tr>
+												<td class="division">Type:</td>
+												<td class="fs-14"><select class="sel-new sel-type"></select></td>
+											</tr>
+											<tr>
+												<td class="division">Season:</td>
+												<td class="fs-14">
+													<div class="d-flex gap-05r">
+														<select class="sel-new sel-season"></select>
+														<select class="sel-new sel-year"></select>
+													</div>
+												</td>
+											</tr>
+											<tr>
+												<td class="division">Source:</td>
+												<td class="fs-14"><select class="sel-new sel-source"></select></td>
+											</tr>
+											<tr>
+												<td class="division">Rating:</td>
+												<td class="fs-14"><select class="sel-new sel-rating"></select></td>
+											</tr>
+											<tr>
+												<td class="division">Status:</td>
+												<td class="fs-14"><select class="sel-new sel-status"></select></td>
+											</tr>
+										</table>
+									</div>
+									<div class="box glass col">
+										<div class="division">Tags:</div>
+										<div class="input-tag"></div>
+									</div>
+								</div>
+								<textarea class="data-area box glass fs-14" readonly></textarea>
+								<div class="d-flex gap-1r">
+									<button class="data-btn box glass col">Gen Data</button>
+									<button class="copy-btn box glass col">Copy Data</button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</main>
+	</div>
+</body>
+</html>

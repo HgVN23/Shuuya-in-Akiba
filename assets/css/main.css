@@ -27,7 +27,7 @@
 	font-family: scp;
 	font-size: 16px;
 	color: white;
-/*	outline: 1px solid blue;*/
+	/*outline: 1px solid blue;*/
 }
 ::-webkit-scrollbar {
 	background-color: transparent;
@@ -82,6 +82,7 @@ header {
 .overflow-hidden { overflow: hidden; }
 .overflow-x-auto { overflow-x: auto; }
 .overflow-y-auto { overflow-y: auto; }
+.overflow-x-hidden { overflow-x: hidden; }
 .overflow-y-hidden { overflow-y: hidden; }
 
 .fs-10 { font-size: 10px; }
@@ -509,4 +510,48 @@ header {
 	.key-visual {
 		position: static;
 	}
+
+	.new-btn {
+		display: none;
+	}
+}
+
+
+
+/*new*/
+.new-btn {
+	text-decoration: none;
+}
+.input-kv,
+.input-title {
+	all: unset;
+	width: 100%;
+	border-bottom: 2px solid grey;
+	margin-top: .1rem;
+	padding-bottom: .2rem;
+	font-size: 14px;
+	text-shadow: 0 2px .1rem black;
+}
+.input-kv::placeholder {
+	color: lightgrey;
+}
+.input-studio,
+.input-tag {
+	height: 110px;
+	overflow-y: scroll;
+}
+.sel-new {
+	all: unset;
+	border-bottom: 2px solid grey;
+	font-size: 14px;
+	cursor: pointer;
+
+	option {
+		color: black;
+		font-size: 14px;
+	}
+}
+.data-area {
+	height: 130px;
+	resize: none;
 }
