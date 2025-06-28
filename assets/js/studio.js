@@ -633,7 +633,7 @@ const studioList = [
 	),
 	new Studio(
 		2370, 'Hayabusa Film',
-		''
+		'1b652342-01f3-48b4-b19e-c96858c95a51'
 	),
 	new Studio(
 		2387, 'Ga-Crew',
@@ -698,6 +698,10 @@ const studioList = [
 	new Studio(
 		2917, 'Soigne',
 		'd472767b-4403-4e6d-b107-58da2ad461cb'
+	),
+	new Studio(
+		1991, 'Enishiya',
+		'0f34c9e5-b3e1-460d-9ee1-552b5bd08c60'
 	),
 	/*new Studio(
 		, '',

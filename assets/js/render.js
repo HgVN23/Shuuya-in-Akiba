@@ -114,7 +114,7 @@ function renderInfo(anime) {
 							</tr>
 							<tr>
 								<td class="division">Season:</td>
-								<td class="fs-14"><a class="link fs-14" href="https://myanimelist.net/anime/season/${year}/${seasonList[season]}" target="_blank">${seasonList[season]} ${year}</a></td>
+								<td class="fs-14"><a class="link fs-14" href="https://myanimelist.net/anime/season/${year}/${seasonList[season].toLowerCase()}" target="_blank">${seasonList[season]} ${year}</a></td>
 							</tr>
 							<tr>
 								<td class="division">Source:</td>

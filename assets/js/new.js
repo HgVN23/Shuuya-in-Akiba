@@ -61,7 +61,10 @@ dataBtn.addEventListener('click', () => {
 	const imageId = imageIdMatch[1];
 	const titles = Array.from(inputTitle)
 		.filter(e => e.value !== '')
-		.map(e => `'${e.value}'`)
+		.map(({ value }) =>
+			value.includes("'") && value.includes('"') ? `\`${value}\`` :
+			value.includes("'") ? `"${value}"` : `'${value}'`
+		)
 		.join(',\n\t\t\t');
 
 	const studios = Array.from(selectedStudios)
@@ -91,4 +94,9 @@ copyBtn.addEventListener('click', () => {
 	navigator.clipboard.writeText(dataArea.innerHTML).then(() => {
 		alert("Copied!");
 	});
+});
+
+window.addEventListener("beforeunload", function (e) {
+	e.preventDefault();
+	e.returnValue = "";
 });
