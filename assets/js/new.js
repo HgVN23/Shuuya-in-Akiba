@@ -79,12 +79,12 @@ dataBtn.addEventListener('click', () => {
 	new Anime(
 		'${imageId}',
 		[
-			${titles}
+			${titles},
 		],
 		[ ${studios} ],
 		${selType.value}, ${selSeason.value}, ${selYear.value}, ${selSource.value}, ${selRating.value}, ${selStatus.value},
 		[
-			${tags}
+			${tags},
 		]
 	),`;
 });
