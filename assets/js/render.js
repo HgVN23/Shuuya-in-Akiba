@@ -83,6 +83,9 @@ function renderInfo(anime) {
 		.join('');
 
 	const searchTitle = mainTitle.slice(0, 100);
+	const searchType1 = encodeURIComponent(searchTitle);
+	const searchType2 = searchTitle.replace(/ /g, '+');
+	const searchType3 = searchTitle.replace(/ /g, '-');
 	const song = title.length > 1 ? title[1] : mainTitle;
 	/*const fSeason = year > 2017 ?
 		`&seasons=${seasonList[season]}%20${year}` :
@@ -138,16 +141,17 @@ function renderInfo(anime) {
 				<div class="box glass">
 					<div class="division">Related:</div>
 					<div class="d-flex flex-wrap gap-05r">
-						<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchTitle.replaceAll(" ", "+")}/' target="_blank" alt="Anime Vietsub"></a>
-						<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${searchTitle.replaceAll(" ", "+")}' target="_blank" alt="MangaDex"></a>
-						<a class="rImg rMAL" href='https://myanimelist.net/anime.php?q=${searchTitle}&cat=anime' target="_blank" alt="MyAnimeList"></a>
-						<a class="rImg rAniPlayList" href='https://aniplaylist.com/${searchTitle}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
-						<a class="rImg rAnimeThemes" href='https://animethemes.moe/search/anime?q=${searchTitle}' target="_blank" alt="AnimeThemes"></a>
+						<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchType2}/' target="_blank" alt="Anime Vietsub"></a>
+						<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${searchType2}&tab=titles' target="_blank" alt="MangaDex"></a>
+						<a class="rImg rMAL" href='https://myanimelist.net/anime.php?q=${searchType1}&sy=${year}' target="_blank" alt="MyAnimeList"></a>
+						<a class="rImg rAniPlayList" href='https://aniplaylist.com/${searchType3}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
+						<a class="rImg rAnimeThemes" href='https://animethemes.moe/search/anime?q=${searchType2}' target="_blank" alt="AnimeThemes"></a>
+						<a class="rImg rAniList" href='https://anilist.co/search/anime?year=${year}&season=${seasonList[season].toUpperCase()}&search=${searchType1}' target="_blank" alt="AniList"></a>
 						<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
 						<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
-						<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${searchTitle}' target="_blank" alt="Anime Nana"></a>
-						<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${searchTitle}' target="_blank" alt="MangaFire"></a>
-						<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${searchTitle}' target="_blank" alt="MangaReader"></a>
+						<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${searchType2}' target="_blank" alt="Anime Nana"></a>
+						<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${searchType2}' target="_blank" alt="MangaFire"></a>
+						<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${searchType2}' target="_blank" alt="MangaReader"></a>
 					</div>
 				</div>
 				<div class="box glass">

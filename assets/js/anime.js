@@ -23,11 +23,758 @@ const animeList = [
 			'',
 		],
 		[  ],
-		0, 1, 2025, 1, 0, 0,
+		0, 2, 2025, 1, 0, 0,
 		[
 			't',
 		]
 	),*/
+	new Anime(
+		'1801/150665',
+		[
+			'Karaoke Iko!',
+			'カラオケ行こ!',
+			"Let's Go Karaoke!",
+		],
+		[ 95 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tMusic',
+			'tOrganizedCrime',
+		],
+		[
+			'KaraokeIko-OP1',
+		]
+	),
+	new Anime(
+		'1587/149982',
+		[
+			'Nukitashi the Animation',
+			'ぬきたし THE ANIMATION',
+		],
+		[ 911 ],
+		0, 2, 2025, 6, 2, 0,
+		[
+			'tErotica',
+			'tSchool',
+		],
+		[
+			'NukitashiTheAnimation-OP1',
+			'NukitashiTheAnimation-ED1',
+		]
+	),
+	new Anime(
+		'1977/150952',
+		[
+			'Turkey!',
+			'Turkey! Time to Strike',
+		],
+		[ 1984 ],
+		0, 2, 2025, 4, 0, 0,
+		[
+			'tHistorical',
+			'tSports',
+			'tTimeTravel',
+		],
+		[
+			'Turkey-OP1',
+			'Turkey-ED1',
+		]
+	),
+	new Anime(
+		'1474/150666',
+		[
+			'Tougen Anki',
+			'桃源暗鬼',
+		],
+		[ 101 ],
+		0, 2, 2025, 0, 1, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tMythology',
+			'tShounen',
+		],
+		[
+			'TougenAnki-OP1',
+			'TougenAnki-ED1',
+		]
+	),
+	new Anime(
+		'1904/150649',
+		[
+			'Futari Solo Camp',
+			'ふたりソロキャンプ',
+			'Solo Camping for Two',
+		],
+		[ 118 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAdultCast',
+			'tSeinen',
+			'tSliceofLife',
+		]
+	),
+	new Anime(
+		'1949/150965',
+		[
+			'Mikadono Sanshimai wa Angai, Choroi.',
+			'帝乃三姉妹は案外、チョロい。',
+			'Dealing with Mikadono Sisters Is a Breeze',
+		],
+		[ 132 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteEDVisual_1'
+		],
+		[
+			'Mikadono-OP1',
+			'Mikadono-ED1',
+		]
+	),
+	new Anime(
+		'1887/150496',
+		[
+			'Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?)',
+			'わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?)',
+			"There's No Freaking Way I'll be Your Lover! Unless...",
+		],
+		[ 2246 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tComedy',
+			'tSchool',
+			'tYuri',
+			'tFavoriteAnime',
+		],
+		[
+			'Watanare-OP1',
+			'Watanare-ED1',
+		]
+	),
+	new Anime(
+		'1662/150797',
+		[
+			'City The Animation',
+		],
+		[ 2 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tGagHumor',
+			'tSeinen',
+			'tFavoriteAnime',
+			'tFavoriteOPVisual',
+		],
+		[
+			'CityTheAnimation-OP1',
+			'CityTheAnimation-ED1',
+		]
+	),
+	new Anime(
+		'1039/150572',
+		[
+			'Food Court de, Mata Ashita.',
+			'フードコートで、また明日。',
+			'See You Tomorrow at the Food Court',
+		],
+		[ 2298 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tSliceofLife',
+			'tFavoriteAnime',
+		],
+		[
+			'FoodCourt-OP1',
+			'FoodCourt-ED1',
+		]
+	),
+	new Anime(
+		'1411/150445',
+		[
+			'Nyaight of the Living Cat',
+			'ニャイト・オブ・ザ・リビングキャット',
+		],
+		[ 28 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAction',
+			'tHorror',
+			'tShounen',
+			'tSurvival',
+			'tSuspense',
+			'tFavoriteAnime',
+		],
+		[
+			'Nyailivi-OP1',
+			'Nyailivi-ED1',
+		]
+	),
+	new Anime(
+		'1154/149311',
+		[
+			'Dekin no Mogura',
+			'出禁のモグラ',
+			'Dekin no Mogura: The Earthbound Mole',
+		],
+		[ 112 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tMystery',
+			'tShounen',
+			'tSupernatural',
+		],
+		[
+			'DekinNoMogura-OP1',
+			'DekinNoMogura-ED1',
+		]
+	),
+	new Anime(
+		'1682/150432',
+		[
+			'Gachiakuta',
+			'ガチアクタ',
+		],
+		[ 3045 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		],
+		[
+			'Gachiakuta-OP1',
+			'Gachiakuta-ED1',
+		]
+	),
+	new Anime(
+		'1900/150443',
+		[
+			'Hotel Inhumans',
+			'ホテル・インヒューマンズ',
+		],
+		[ 397 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tAction',
+			'tDrama',
+			'tFavoriteAnime',
+		],
+		[
+			'HotelInhumans-OP1',
+			'HotelInhumans-ED1',
+		]
+	),
+	new Anime(
+		'1431/148742',
+		[
+			'Ruri no Houseki',
+			'瑠璃の宝石',
+			'Ruri Rocks',
+		],
+		[ 1993 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tCGDCT',
+			'tSeinen',
+			'tSliceofLife',
+			'tFavoriteAnime',
+		],
+		[
+			'RuriNoHouseki-OP1',
+			'RuriNoHouseki-ED1',
+		]
+	),
+	new Anime(
+		'1454/150515',
+		[
+			'Busamen Gachi Fighter',
+			'ブサメンガチファイター',
+			'Uglymug, Epicfighter',
+		],
+		[ 314 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tSeinen',
+			'tFavoriteAnime',
+		],
+		[
+			'BusamenGachiFighter-OP1',
+			'BusamenGachiFighter-ED1',
+		]
+	),
+	new Anime(
+		'1943/149719',
+		[
+			'Game Center Shoujo to Ibunka Kouryuu',
+			'ゲーセン少女と異文化交流',
+			'Cultural Exchange With a Game Centre Girl',
+		],
+		[ 70 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tComedy',
+			'tLoveStatusQuo',
+			'tRomance',
+			'tFavoriteAnime',
+		],
+		[
+			'GameCenterShoujo-OP1',
+			'GameCenterShoujo-ED1',
+		]
+	),
+	new Anime(
+		'1782/150383',
+		[
+			'Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku',
+			'異世界黙示録マイノグーラ ～破滅の文明で始める世界征服～',
+			'Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin',
+		],
+		[ 1978 ],
+		0, 2, 2025, 1, 1, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+		],
+		[
+			'IsekaiMokushirokuMynoghra-OP1',
+			'IsekaiMokushirokuMynoghra-ED1',
+		]
+	),
+	new Anime(
+		'1154/145364',
+		[
+			"9-nine- Ruler's Crown",
+			"9: Ruler's Crown",
+		],
+		[ 753 ],
+		0, 2, 2025, 6, 0, 0,
+		[
+			'tSuperPower',
+		],
+		[
+			'9NineRulersCrown-OP1',
+			'9NineRulersCrown-ED1',
+		]
+	),
+	new Anime(
+		'1502/150545',
+		[
+			'Watari-kun no xx ga Houkai Sunzen',
+			'渡くんの××が崩壊寸前',
+			"Watari-kun's ****** Is about to Collapse",
+		],
+		[ 2405 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSeinen',
+		],
+		[
+			'WatariKunNoxxGaHoukaiSunzen-OP1',
+			'WatariKunNoxxGaHoukaiSunzen-ED1',
+		]
+	),
+	new Anime(
+		'1104/148614',
+		[
+			'Hikaru ga Shinda Natsu',
+			'光が死んだ夏',
+			'The Summer Hikaru Died',
+		],
+		[ 1893 ],
+		0, 2, 2025, 2, 1, 0,
+		[
+			'tHorror',
+			'tMystery',
+			'tSupernatural',
+		],
+		[
+			'Hikanatsu-OP1',
+			'Hikanatsu-ED1',
+		]
+	),
+	new Anime(
+		'1329/150512',
+		[
+			'Ame to Kimi to',
+			'雨と君と',
+			'With You and the Rain',
+		],
+		[ 1829 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAdultCast',
+			'tPets',
+			'tSeinen',
+			'tSliceofLife',
+			'tFavoriteAnime',
+		],
+		[
+			'AmeToKimiTo-OP1',
+			'AmeToKimiTo-ED1',
+		]
+	),
+	new Anime(
+		'1744/150433',
+		[
+			'Kaoru Hana wa Rin to Saku',
+			'薫る花は凛と咲く',
+			'The Fragrant Flower Blooms with Dignity',
+		],
+		[ 1835 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDVisual',
+		],
+		[
+			'KaoruHana-OP1',
+			'KaoruHana-ED1',
+		]
+	),
+	new Anime(
+		'1672/148848',
+		[
+			'Bad Girl',
+			'ばっどがーる',
+		],
+		[ 397 ],
+		0, 2, 2025, 3, 0, 0,
+		[
+			'tCGDCT',
+			'tComedy',
+			'tSchool',
+			'tYuri',
+			'tFavoriteAnime',
+		],
+		[
+			'BadGirl-OP1',
+			'BadGirl-ED1',
+		]
+	),
+	new Anime(
+		'1104/150590',
+		[
+			'Fermat no Ryouri',
+			'フェルマーの料理',
+			"Fermat's Cuisine",
+		],
+		[ 1380 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tFavoriteAnime',
+			'tGourmet',
+			'tShounen',
+		],
+		[
+			'FermatNoRyouri-OP1',
+			'FermatNoRyouri-ED1',
+		]
+	),
+	new Anime(
+		'1072/149889',
+		[
+			'Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru',
+			'勇者パーティーを追放された白魔導師、Sランク冒険者に拾われる ～この白魔導師が規格外すぎる～',
+			'Scooped Up by an S-Ranked Adventurer',
+		],
+		[ 1440 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'TsuihouShiroMadoushi-OP1',
+			'TsuihouShiroMadoushi-ED1',
+		]
+	),
+	new Anime(
+		'1777/150455',
+		[
+			'Kizetsu Yuusha to Ansatsu Hime',
+			'気絶勇者と暗殺姫',
+			'The Shy Hero and the Assassin Princesses',
+		],
+		[ 957 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tFantasy',
+			'tShounen',
+			'tFavoriteAnime',
+		],
+		[
+			'KizetsuYuushaToAnsatsuHime-OP1',
+			'KizetsuYuushaToAnsatsuHime-ED1',
+		]
+	),
+	new Anime(
+		'1518/149900',
+		[
+			'Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru',
+			'ずたぼろ令嬢は姉の元婚約者に溺愛される',
+			"Betrothed to My Sister's Ex",
+		],
+		[ 563 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tComedy',
+			'tJosei',
+			'tRomance',
+		],
+		[
+			'Zutaboro-OP1',
+			'Zutaboro-ED1',
+		]
+	),
+	new Anime(
+		'1672/148193',
+		[
+			'Busu ni Hanataba wo.',
+			'ブスに花束を。',
+			'April Showers Bring May Flowers',
+		],
+		[ 300 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tSeinen',
+			'tFavoriteAnime',
+		],
+		[
+			'BusuNiHanatabaWo-OP1',
+			'BusuNiHanatabaWo-ED1',
+		]
+	),
+	new Anime(
+		'1669/149732',
+		[
+			'Silent Witch: Chinmoku no Majo no Kakushigoto',
+			'サイレント・ウィッチ 沈黙の魔女の隠しごと',
+			'Secrets of the Silent Witch',
+		],
+		[ 418 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tFantasy',
+			'tSchool',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'SilentWitch-OP1',
+			'SilentWitch-ED1',
+		]
+	),
+	new Anime(
+		'1383/151072',
+		[
+			'Mizu Zokusei no Mahoutsukai',
+			'水属性の魔法使い',
+			'The Water Magician',
+		],
+		[ 1340, 3060 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'Mizuzoku-OP1',
+			'Mizuzoku-ED1',
+		]
+	),
+	new Anime(
+		'1933/150503',
+		[
+			'Onmyou Kaiten Re:Birth',
+			'陰陽廻天 Re:バース',
+			'Onmyo Kaiten Re:Birth Verse',
+		],
+		[ 287 ],
+		0, 2, 2025, 4, 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tIsekai',
+		],
+		[
+			'OnmyoKaitenReVerse-OP1',
+			'OnmyoKaitenReVerse-ED1',
+		]
+	),
+	new Anime(
+		'1313/149355',
+		[
+			'Tsuihousha Shokudou e Youkoso!',
+			'追放者食堂へようこそ!',
+			"Welcome to the Outcast's Restaurant!",
+		],
+		[ 28 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tFantasy',
+			'tGourmet',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDVisual',
+		],
+		[
+			'Tsuishoku-OP1',
+			'Tsuishoku-ED1',
+		]
+	),
+	new Anime(
+		'1170/147753',
+		[
+			'Tsuyokute New Saga',
+			'強くてニューサーガ',
+			'New Saga',
+		],
+		[ 64, 3070 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tTimeTravel',
+			'tFavoriteOPSong',
+		],
+		[
+			'TsuyokuteNewSaga-OP1',
+			'TsuyokuteNewSaga-ED1',
+		]
+	),
+	new Anime(
+		'1255/150593',
+		[
+			'Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha',
+			'クレバテス-魔獣の王と赤子と屍の勇者-',
+			'Clevatess',
+		],
+		[ 1087 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'Clevatess-OP1',
+			'Clevatess-ED1',
+		]
+	),
+	new Anime(
+		'1845/150343',
+		[
+			'Necronomico no Cosmic Horror Show',
+			'ネクロノミ子のコズミックホラーショウ',
+			'Necronomico and the Cosmic Horror Show',
+		],
+		[ 418 ],
+		0, 2, 2025, 4, 0, 0,
+		[
+			'tVideoGame',
+		],
+		[
+			'Necronomico-OP1',
+			'Necronomico-ED1',
+		]
+	),
+	new Anime(
+		'1323/149460',
+		[
+			'Mattaku Saikin no Tantei to Kitara',
+			'まったく最近の探偵ときたら',
+			'Detectives These Days Are Crazy!',
+		],
+		[ 839 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tDetective',
+			'tFavoriteAnime',
+			'tMystery',
+			'tSeinen',
+		],
+		[
+			'Mattan-OP1',
+			'Mattan-ED1',
+		]
+	),
+	new Anime(
+		'1445/150685',
+		[
+			'Koujo Denka no Kateikyoushi',
+			'公女殿下の家庭教師',
+			"Private Tutor to the Duke's Daughter",
+		],
+		[ 478 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'KoujoDenkaNoKateiKyoushi-OP1',
+			'KoujoDenkaNoKateiKyoushi-ED1',
+		]
+	),
+	new Anime(
+		'1182/149879',
+		[
+			'Takopii no Genzai',
+			'タコピーの原罪',
+			"Takopi's Original Sin",
+		],
+		[ 1991 ],
+		3, 1, 2025, 0, 1, 1,
+		[
+			'tDrama',
+			'tPsychological',
+			'tSciFi',
+			'tShounen',
+			'tFavoriteAnime',
+		],
+		[
+			'TakopiiNoGenzai-OP1',
+			'TakopiiNoGenzai-ED1',
+		]
+	),
 	new Anime(
 		'1221/148863',
 		[
@@ -36,7 +783,7 @@ const animeList = [
 			'Food for the Soul',
 		],
 		[ 132 ],
-		0, 1, 2025, 4, 0, 0,
+		0, 1, 2025, 4, 0, 1,
 		[
 			'tGourmet',
 			'tCGDCT',
@@ -48,6 +795,7 @@ const animeList = [
 			'Hibimeshi-OP1',
 			'Hibimeshi-ED1',
 			'Hibimeshi-ED1v2',
+			'Hibimeshi-ED1v3',
 		]
 	),
 	new Anime(
@@ -56,7 +804,7 @@ const animeList = [
 			'Teogonia',
 		],
 		[ 406 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -66,6 +814,7 @@ const animeList = [
 		[
 			'Teogonia-OP1',
 			'Teogonia-ED1',
+			'Teogonia-ED1v2',
 		]
 	),
 	new Anime(
@@ -76,12 +825,11 @@ const animeList = [
 			'Yandere Dark Elf: She Chased Me All the Way From Another World!',
 		],
 		[ 2928 ],
-		0, 1, 2025, 2, 2, 0,
+		0, 1, 2025, 2, 2, 1,
 		[
 			'tComedy',
-			'tFantasy',
-			'tErotica',
-			'tUrbanFantasy',
+			'tSupernatural',
+			'tEcchi',
 		],
 		[
 			'Aimodarkelf-OP1',
@@ -97,7 +845,7 @@ const animeList = [
 			'アポカリプスホテル',
 		],
 		[ 1893 ],
-		0, 1, 2025, 4, 0, 0,
+		0, 1, 2025, 4, 0, 1,
 		[
 			'tSciFi',
 			'tFavoriteAnime',
@@ -114,11 +862,12 @@ const animeList = [
 			'Mono',
 		],
 		[ 2917 ],
-		0, 1, 2025, 3, 0, 0,
+		0, 1, 2025, 3, 0, 1,
 		[
 			'tComedy',
 			'tCGDCT',
 			'tFavoriteAnime',
+			'tFavoriteOPVisual',
 		],
 		[
 			'Mono-OP1',
@@ -126,6 +875,12 @@ const animeList = [
 			'Mono-ED1v2',
 			'Mono-ED1v3',
 			'Mono-ED1v4',
+			'Mono-ED1v5',
+			'Mono-ED1v6',
+			'Mono-ED1v7',
+			'Mono-ED1v8',
+			'Mono-ED1v9',
+			'Mono-ED1v10',
 		]
 	),
 	new Anime(
@@ -140,10 +895,13 @@ const animeList = [
 			'tComedy',
 			'tSciFi',
 			'tSeinen',
+			'tFavoriteOPSong_2',
 		],
 		[
 			'UchuujinMuuMuu-OP1',
+			'UchuujinMuuMuu-OP2',
 			'UchuujinMuuMuu-ED1',
+			'UchuujinMuuMuu-ED2',
 		]
 	),
 	new Anime(
@@ -154,21 +912,26 @@ const animeList = [
 			'A Ninja and an Assassin Under One Roof',
 		],
 		[ 44 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tSliceofLife',
 			'tShounen',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
 			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 		],
 		[
 			'NinKoro-OP1',
+			'NinKoro-OP1v2',
 			'NinKoro-ED1',
 			'NinKoro-ED1v2',
 			'NinKoro-ED1v3',
 			'NinKoro-ED1v4',
 			'NinKoro-ED1v5',
+			'NinKoro-ED1v6',
+			'NinKoro-ED1v7',
+			'NinKoro-ED1v8',
+			'NinKoro-ED1v9',
 		]
 	),
 	new Anime(
@@ -179,7 +942,7 @@ const animeList = [
 			'The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom',
 		],
 		[ 1103 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -189,6 +952,8 @@ const animeList = [
 			'Kanpekiseijo-OP1',
 			'Kanpekiseijo-ED1',
 			'Kanpekiseijo-ED1v2',
+			'Kanpekiseijo-ED1v3',
+			'Kanpekiseijo-ED1v4',
 		]
 	),
 	new Anime(
@@ -201,12 +966,17 @@ const animeList = [
 		[
 			'tRomance',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 		],
 		[
 			'SummerPockets-OP1',
 			'SummerPockets-OP1v2',
+			'SummerPockets-OP1v3',
+			'SummerPockets-OP1v4',
 			'SummerPockets-ED1',
+			'SummerPockets-ED1v2',
+			'SummerPockets-ED1v3',
 		]
 	),
 	new Anime(
@@ -217,7 +987,7 @@ const animeList = [
 			'The Mononoke Lecture Logs of Chuzenji-sensei: He Just Solves All the Mysteries',
 		],
 		[ 2696 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tMystery',
 			'tSupernatural',
@@ -238,7 +1008,7 @@ const animeList = [
 			'The Shiunji Family Children',
 		],
 		[ 95 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -258,7 +1028,7 @@ const animeList = [
 			"ざつ旅 -That's Journey-",
 		],
 		[ 2622 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tAdventure',
 			'tSliceofLife',
@@ -268,6 +1038,7 @@ const animeList = [
 		],
 		[
 			'ZatsuTabi-OP1',
+			'ZatsuTabi-ED1',
 		]
 	),
 	new Anime(
@@ -278,7 +1049,7 @@ const animeList = [
 			"Makina-san's a Love Bot?!",
 		],
 		[ 2144 ],
-		0, 1, 2025, 0, 2, 0,
+		0, 1, 2025, 0, 2, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -299,7 +1070,7 @@ const animeList = [
 			"The Gorilla God's Go-To Girl",
 		],
 		[ 3048 ],
-		0, 1, 2025, 2, 0, 0,
+		0, 1, 2025, 2, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -312,7 +1083,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1988/148017',
+		'1526/150689',
 		[
 			'Witch Watch',
 			'ウィッチウォッチ',
@@ -324,13 +1095,19 @@ const animeList = [
 			'tSupernatural',
 			'tShounen',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_1',
+			'tFavoriteOPVisual_2',
 		],
 		[
 			'WitchWatch-OP1',
 			'WitchWatch-OP1v2',
+			'WitchWatch-OP2',
+			'WitchWatch-OP3',
 			'WitchWatch-ED1',
+			'WitchWatch-ED2',
+			'WitchWatch-ED3',
 		]
 	),
 	new Anime(
@@ -341,12 +1118,13 @@ const animeList = [
 			'From Old Country Bumpkin to Master Swordsman',
 		],
 		[ 911, 2370 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteOPVisual',
 		],
 		[
 			'OssanKensei-OP1',
@@ -354,23 +1132,29 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1097/148302',
+		'1719/150050',
 		[
 			'Kowloon Generic Romance',
 			'九龍ジェネリックロマンス',
 		],
 		[ 1874 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tRomance',
 			'tSciFi',
 			'tAdultCast',
 			'tWorkplace',
 			'tSeinen',
+			'tMystery',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 		],
 		[
 			'KowloonGenericRomance-OP1',
 			'KowloonGenericRomance-ED1',
+			'KowloonGenericRomance-ED2',
+			'KowloonGenericRomance-ED3',
 		]
 	),
 	new Anime(
@@ -381,7 +1165,7 @@ const animeList = [
 			'Can a Boy-Girl Friendship Survive?',
 		],
 		[ 7 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -391,6 +1175,8 @@ const animeList = [
 		],
 		[
 			'Danjoru-OP1',
+			'Danjoru-OP1v2',
+			'Danjoru-OP1v3',
 			'Danjoru-ED1',
 		]
 	),
@@ -402,7 +1188,7 @@ const animeList = [
 			'Please Put Them On, Takamine-san',
 		],
 		[ 839 ],
-		0, 1, 2025, 0, 2, 0,
+		0, 1, 2025, 0, 2, 2,
 		[
 			'tComedy',
 			'tRomance',
@@ -423,12 +1209,14 @@ const animeList = [
 			"Rock Is a Lady's Modesty",
 		],
 		[ 1258 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tMusic',
 			'tSchool',
 			'tSeinen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'RockLady-OP1',
@@ -442,11 +1230,12 @@ const animeList = [
 			'ユア・フォルマ',
 		],
 		[ 1393 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 1, 1,
 		[
 			'tMystery',
 			'tSciFi',
 			'tDetective',
+			'tFavoriteAnime',
 		],
 		[
 			'YourForma-OP1',
@@ -461,13 +1250,15 @@ const animeList = [
 			"The Brilliant Healer's New Life in the Shadows",
 		],
 		[ 2622 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tFantasy',
 			'tMedical',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
 		],
 		[
 			'YamiHealer-OP1',
@@ -478,6 +1269,10 @@ const animeList = [
 			'YamiHealer-ED1v4',
 			'YamiHealer-ED1v5',
 			'YamiHealer-ED1v6',
+			'YamiHealer-ED1v7',
+			'YamiHealer-ED1v8',
+			'YamiHealer-ED1v9',
+			'YamiHealer-ED1v10',
 		]
 	),
 	new Anime(
@@ -488,7 +1283,7 @@ const animeList = [
 			'The Beginning After the End',
 		],
 		[ 1209 ],
-		0, 1, 2025, 11, 0, 0,
+		0, 1, 2025, 11, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -497,6 +1292,8 @@ const animeList = [
 		[
 			'TheBeginningAfterTheEnd-OP1',
 			'TheBeginningAfterTheEnd-ED1',
+			'TheBeginningAfterTheEnd-ED1v2',
+			'TheBeginningAfterTheEnd-ED1v3',
 		]
 	),
 	new Anime(
@@ -507,9 +1304,9 @@ const animeList = [
 			'Catch Me at the Ballpark!',
 		],
 		[ 1264 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
-			'tComedy',
+			'tSliceofLife',
 			'tSports',
 			'tAdultCast',
 			'tSeinen',
@@ -517,6 +1314,8 @@ const animeList = [
 		[
 			'Ballpark-OP1',
 			'Ballpark-ED1',
+			'Ballpark-ED2',
+			'Ballpark-ED3',
 		]
 	),
 	new Anime(
@@ -527,7 +1326,7 @@ const animeList = [
 			"Once Upon a Witch's Death",
 		],
 		[ 1264 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tDrama',
@@ -536,6 +1335,7 @@ const animeList = [
 		],
 		[
 			'AruMajo-OP1',
+			'AruMajo-OP1v2',
 			'AruMajo-ED1',
 		]
 	),
@@ -553,10 +1353,13 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tHistorical',
+			'tFavoriteAnime',
 		],
 		[
 			'KijinGentoushou-OP1',
 			'KijinGentoushou-ED1',
+			'KijinGentoushou-OP2',
+			'KijinGentoushou-ED2',
 		]
 	),
 	new Anime(
@@ -567,7 +1370,7 @@ const animeList = [
 			'The Unaware Atelier Meister',
 		],
 		[ 1264 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -591,7 +1394,7 @@ const animeList = [
 			"I'm the Evil Lord of an Intergalactic Empire!",
 		],
 		[ 2314 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -640,7 +1443,7 @@ const animeList = [
 			'I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!',
 		],
 		[ 1258 ],
-		0, 0, 2025, 1, 0, 0,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -664,6 +1467,29 @@ const animeList = [
 			'Aparida-ED1',
 			'Aparida-ED2',
 			'Aparida-ED3',
+		]
+	),
+	new Anime(
+		'1758/148719',
+		[
+			'Sakamoto Days Part 2',
+			'SAKAMOTO DAYS 第２クール',
+		],
+		[ 73 ],
+		0, 2, 2025, 0, 1, 0,
+		[
+			'tAction',
+			'tAdultCast',
+			'tComedy',
+			'tOrganizedCrime',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'SakamotoDaysPart2-OP1',
+			'SakamotoDaysPart2-ED1',
 		]
 	),
 	new Anime(
@@ -1096,6 +1922,7 @@ const animeList = [
 		[
 			'SorarioUtilityTV-OP1',
 			'SorarioUtilityTV-ED1',
+			'SorarioUtilityTV-ED2',
 		]
 	),
 	new Anime(
@@ -1506,7 +2333,6 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
 			'tFavoriteEDSong',
 		],
 		[
@@ -1674,10 +2500,36 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1721/149001',
+		[
+			'Dandadan 2nd Season',
+			'ダンダダン 第2期',
+			'Dan Da Dan Season 2',
+		],
+		[ 1591 ],
+		0, 2, 2025, 0, 1, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tShounen',
+			'tSupernatural',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
+		],
+		[
+			'DandadanS2-OP1',
+			'DandadanS2-ED1',
+		]
+	),
+	new Anime(
 		'1584/143719',
 		[
 			'Dandadan',
 			'ダンダダン',
+			'Dan Da Dan',
 		],
 		[ 1591 ],
 		0, 3, 2024, 0, 1, 1,
@@ -1689,8 +2541,6 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
 		],
 		[
 			'Dandadan-OP1',
@@ -1903,25 +2753,6 @@ const animeList = [
 			'Makeine-ED3',
 			'Makeine-ED3v2',
 			'Makeine-ED4',
-		]
-	),
-	new Anime(
-		'1538/147930',
-		[
-			'Bye Bye, Earth 2nd Season',
-			'ばいばい、アース 第2シーズン',
-		],
-		[ 839 ],
-		0, 1, 2025, 1, 0, 2,
-		[
-			'tAction',
-			'tAdventure',
-			'tFantasy',
-			'tAnthropomorphic',
-		],
-		[
-			'ByeByeEarthS2-OP1',
-			'ByeByeEarthS2-ED1',
 		]
 	),
 	new Anime(
@@ -2173,7 +3004,7 @@ const animeList = [
 			'Shoshimin: How to Become Ordinary Season 2',
 		],
 		[ 1828 ],
-		0, 1, 2025, 7, 0, 0,
+		0, 1, 2025, 7, 0, 1,
 		[
 			'tMystery',
 			'tSchool',
@@ -2185,6 +3016,7 @@ const animeList = [
 		],
 		[
 			'ShoushiminSeriesS2-OP1',
+			'ShoushiminSeriesS2-OP1v2',
 			'ShoushiminSeriesS2-ED1',
 		]
 	),
@@ -2716,6 +3548,42 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1177/150344',
+		[
+			'Kaijuu 8-gou 2nd Season',
+			'怪獣8号 第2期',
+			'Kaiju No. 8 Season 2',
+		],
+		[ 10 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAction',
+			'tAdultCast',
+			'tFantasy',
+			'tMilitary',
+			'tSciFi',
+			'tShounen',
+			'tUrbanFantasy',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1262/146724',
+		[
+			'Kaijuu 8-gou: Hoshina no Kyuujitsu',
+			'怪獣8号 保科の休日',
+			"Hoshina's Day Off",
+		],
+		[ 10 ],
+		2, 0, 2025, 0, 0, 1,
+		[
+			'tAdultCast',
+			'tShounen',
+			'tSliceofLife',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1370/140362',
 		[
 			'Kaijuu 8-gou',
@@ -2726,11 +3594,11 @@ const animeList = [
 		0, 1, 2024, 0, 0, 1,
 		[
 			'tAction',
-			'tSciFi',
-			'tMilitary',
-			'tShounen',
 			'tAdultCast',
 			'tFantasy',
+			'tMilitary',
+			'tSciFi',
+			'tShounen',
 			'tUrbanFantasy',
 			'tFavoriteAnime',
 			'tFavoriteEDSong',
@@ -2808,7 +3676,7 @@ const animeList = [
 			'Go! Go! Loser Ranger! Season 2',
 		],
 		[ 2009 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tShounen',
@@ -2819,6 +3687,7 @@ const animeList = [
 		[
 			'SentaiDaishikkakuS2-OP1',
 			'SentaiDaishikkakuS2-ED1',
+			'SentaiDaishikkakuS2-ED2',
 		]
 	),
 	new Anime(
@@ -3197,6 +4066,26 @@ const animeList = [
 		[
 			'ShuumatsuTrain-OP1',
 			'ShuumatsuTrain-ED1',
+		]
+	),
+	new Anime(
+		'1154/149614',
+		[
+			'Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season',
+			'転生したら第七王子だったので、気ままに魔術を極めます 第2期',
+			'I Was Reincarnated as the 7th Prince so I Can Take My Time Perfecting My Magical Ability Season 2',
+		],
+		[ 2212 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tReincarnation',
+			'tFavoriteAnime',
+		],
+		[
+			'DainanaojiS2-OP1',
+			'DainanaojiS2-ED1',
 		]
 	),
 	new Anime(
@@ -4105,7 +4994,7 @@ const animeList = [
 			'The Apothecary Diaries Season 2',
 		],
 		[ 28, 2705 ],
-		0, 0, 2025, 1, 0, 0,
+		0, 0, 2025, 1, 0, 1,
 		[
 			'tDrama',
 			'tMystery',
@@ -5140,6 +6029,26 @@ const animeList = [
 			'UndeadGirl-ED1',
 			'UndeadGirl-ED1v2',
 			'UndeadGirl-ED1v3',
+		]
+	),
+	new Anime(
+		'1297/150516',
+		[
+			'Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season',
+			'自動販売機に生まれ変わった俺は迷宮を彷徨う2nd season',
+			'Reborn as a Vending Machine, I Now Wander the Dungeon Season 2',
+		],
+		[ 1299, 418 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+		],
+		[
+			'JihankiS2-OP1',
+			'JihankiS2-ED1',
 		]
 	),
 	new Anime(
@@ -7454,6 +8363,27 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1088/149903',
+		[
+			'Grand Blue Season 2',
+			'ぐらんぶる Season 2',
+			'Grand Blue Dreaming Season 2',
+		],
+		[ 2527, 1379 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAdultCast',
+			'tComedy',
+			'tGagHumor',
+			'tSeinen',
+			'tFavoriteAnime',
+		],
+		[
+			'GrandBlueS2-OP1',
+			'GrandBlueS2-ED1',
+		]
+	),
+	new Anime(
 		'1302/94882',
 		[
 			'Grand Blue',
@@ -7463,10 +8393,10 @@ const animeList = [
 		[ 1379 ],
 		0, 2, 2018, 0, 0, 1,
 		[
-			'tComedy',
 			'tAdultCast',
-			'tSeinen',
+			'tComedy',
 			'tGagHumor',
+			'tSeinen',
 			'tFavoriteAnime',
 		],
 		[
@@ -9300,6 +10230,7 @@ const animeList = [
 			'GrisaiaPhantomTriggerTV-ED1',
 			'GrisaiaPhantomTriggerTV-ED1v2',
 			'GrisaiaPhantomTriggerTV-ED1v3',
+			'GrisaiaPhantomTriggerTV-ED2',
 		]
 	),
 	new Anime(
@@ -10467,6 +11398,27 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1024/150787',
+		[
+			'Sono Bisque Doll wa Koi wo Suru Season 2',
+			'その着せ替え人形は恋をする Season 2',
+			'My Dress-Up Darling Season 2',
+		],
+		[ 1835 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tOtakuCulture',
+			'tRomance',
+			'tSchool',
+			'tSeinen',
+			'tFavoriteAnime',
+		],
+		[
+			'BisqueDollS2-OP1',
+			'BisqueDollS2-ED1',
+		]
+	),
+	new Anime(
 		'1179/119897',
 		[
 			'Sono Bisque Doll wa Koi wo Suru',
@@ -11529,6 +12481,28 @@ const animeList = [
 		[
 			'Isuca-OP1',
 			'Isuca-ED1',
+		]
+	),
+	new Anime(
+		'1823/149858',
+		[
+			'Seishun Buta Yarou wa Santa Claus no Yume wo Minai',
+			'青春ブタ野郎はサンタクロースの夢を見ない',
+			'Rascal Does Not Dream of Santa Claus',
+		],
+		[ 1835 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSupernatural',
+			'tFavoriteAnime',
+			'tFavoriteEDSong',
+		],
+		[
+			'AobutaSantaClaus-OP1',
+			'AobutaSantaClaus-ED1',
 		]
 	),
 	new Anime(
@@ -14977,6 +15951,30 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1638/150592',
+		[
+			'Tate no Yuusha no Nariagari Season 4',
+			'盾の勇者の成り上がり Season 4',
+			'The Rising of the Shield Hero Season 4',
+		],
+		[ 290 ],
+		0, 2, 2025, 1, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tIsekai',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'ShieldHeroS4-OP1',
+			'ShieldHeroS4-ED1',
+		]
+	),
+	new Anime(
 		'1317/139802',
 		[
 			'Tate no Yuusha no Nariagari Season 3',
@@ -15233,7 +16231,7 @@ const animeList = [
 			'Our Last Crusade or the Rise of a New World Season 2',
 		],
 		[ 300, 2201 ],
-		0, 2, 2024, 1, 0, 0,
+		0, 2, 2024, 1, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -18493,6 +19491,9 @@ const animeList = [
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
+		],
+		[
+			'LycorisRecoilFriendsAreThievesOfTime-ED1',
 		]
 	),
 	new Anime(
@@ -18595,6 +19596,29 @@ const animeList = [
 		[
 			'RikeKoi-OP1',
 			'RikeKoi-ED1',
+		]
+	),
+	new Anime(
+		'1071/150808',
+		[
+			'Kanojo, Okarishimasu 4th Season',
+			'彼女、お借りします 第4期',
+			'Rent-a-Girlfriend Season 4'
+		],
+		[ 73 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tAdultCast',
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tShounen',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'KanokariS4-OP1',
+			'KanokariS4-ED1',
 		]
 	),
 	new Anime(
@@ -19003,6 +20027,26 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1551/150517',
+		[
+			'Kakkou no Iinazuke Season 2',
+			'カッコウの許嫁 Season2',
+			'A Couple of Cuckoos Season 2',
+		],
+		[ 2037 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tShounen',
+		],
+		[
+			'CuckoosS2-OP1',
+			'CuckoosS2-ED1',
+		]
+	),
+	new Anime(
 		'1285/120529',
 		[
 			'Kakkou no Iinazuke',
@@ -19024,6 +20068,29 @@ const animeList = [
 			'Cuckoos-OP2',
 			'Cuckoos-ED1',
 			'Cuckoos-ED2',
+		]
+	),
+	new Anime(
+		'1509/148453',
+		[
+			'Yofukashi no Uta Season 2',
+			'よふかしのうた Season2',
+			'Call of the Night Season 2',
+		],
+		[ 839 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tRomance',
+			'tShounen',
+			'tSupernatural',
+			'tVampire',
+		],
+		[
+			'YofukashiNoUtaS2-OP1',
+			'YofukashiNoUtaS2-ED1',
 		]
 	),
 	new Anime(
@@ -19590,7 +20657,7 @@ const animeList = [
 			'Aharen Is Indecipherable 2nd Season',
 		],
 		[ 1440 ],
-		0, 1, 2025, 0, 0, 0,
+		0, 1, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -20683,7 +21750,7 @@ const animeList = [
 			"I've Been Killing Slimes for 300 Years and Maxed Out My Level Season 2",
 		],
 		[ 2909 ],
-		0, 1, 2025, 1, 0, 0,
+		0, 1, 2025, 1, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -20694,6 +21761,7 @@ const animeList = [
 		[
 			'Slime300S2-OP1',
 			'Slime300S2-ED1',
+			'Slime300S2-ED2',
 		]
 	),
 	new Anime(

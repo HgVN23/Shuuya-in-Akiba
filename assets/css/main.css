@@ -384,6 +384,7 @@ header {
 	}
 	.rOP { content: url(../media/icon/OP.png); }
 	.rED { content: url(../media/icon/ED.png); }
+	.rAniList { content: url(../media/icon/aniList.png); }
 	.rAnimeNana { content: url(../media/icon/animeNana.png); }
 	.rAnimeThemes { content: url(../media/icon/animeThemes.png); }
 	.rAnimeVietsub { content: url(../media/icon/animeVietsub.png); }

@@ -703,6 +703,34 @@ const studioList = [
 		1991, 'Enishiya',
 		'0f34c9e5-b3e1-460d-9ee1-552b5bd08c60'
 	),
+	new Studio(
+		64, 'Sotsu',
+		'3d58ee82-52da-4281-9ea2-cbfe5eaa2a18'
+	),
+	new Studio(
+		3070, 'Studio Clutch',
+		'23cfca9d-2e78-4acf-b94e-0133f14944e8'
+	),
+	new Studio(
+		3060, 'WonderLand',
+		''
+	),
+	new Studio(
+		563, 'LandQ studios',
+		'2559d4da-e94b-4712-b5f2-8243baccab8d'
+	),
+	new Studio(
+		3045, 'Bones Film',
+		'2a76e6c4-fb18-4d0d-91c2-75e42adec27b'
+	),
+	new Studio(
+		101, 'Studio Hibari',
+		'3d832a92-b77d-47c9-aeb6-6df25664caa5'
+	),
+	new Studio(
+		1984, 'Bakken Record',
+		'428cae56-b153-4257-a989-0ce14e9a8f07'
+	),
 	/*new Studio(
 		, '',
 		''
