@@ -13,7 +13,7 @@ const studioList = [
 	),
 	new Studio(
 		441, '8bit',
-		'e2df642a-7d83-4dc7-8867-b5b0ff119cb6'
+		'dc72518a-32a4-4b00-b1df-a8e57d193530'
 	),
 	new Studio(
 		132, 'P.A. Works',
@@ -730,6 +730,10 @@ const studioList = [
 	new Studio(
 		1984, 'Bakken Record',
 		'428cae56-b153-4257-a989-0ce14e9a8f07'
+	),
+	new Studio(
+		2983, 'Imageworks Studio',
+		''
 	),
 	/*new Studio(
 		, '',

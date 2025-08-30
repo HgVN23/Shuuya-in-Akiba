@@ -40,7 +40,7 @@ if (animeId) {
 		const n = Number(y);
 		return isNaN(n) ? undefined : n;
 	}, (a, v) => v.includes(a.year));
-	applyFilter('tag', v => v, (a, v) => a.tag.some(t => v.includes(t)));
+	applyFilter('tag', v => v, (a, v) => a.tag.some(t => v.some(f => t === f || t.startsWith(f + '_'))));
 	applyFilter('studio', Number, (a, v) => a.studio.some(s => v.includes(s)));
 
 	applySelectionFromURL();

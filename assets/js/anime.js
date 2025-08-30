@@ -29,6 +29,56 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'1469/146852',
+		[
+			'Senpai wa Otokonoko Movie: Ame Nochi Hare',
+			'映画 先輩はおとこのこ あめのち晴れ',
+			'Senpai is an Otokonoko Movie: Sunshine After the Rain',
+		],
+		[ 439 ],
+		4, 0, 2025, 5, 0, 0,
+		[
+			'tCrossdressing',
+			'tDrama',
+			'tLovePolygon',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1546/145782',
+		[
+			'Kizu darake Seijo yori Houfuku wo Komete',
+			'傷だらけ聖女より報復をこめて',
+			'With Vengeance, Sincerely, Your Broken Saintess',
+		],
+		[ 2983, 2844 ],
+		0, 2, 2025, 2, 0, 0,
+		[
+			'tFantasy',
+			'tRomance',
+		],
+		[
+			'KizuDarakeSeijo-OP1',
+			'KizuDarakeSeijo-ED1',
+		]
+	),
+	new Anime(
+		'1359/150668',
+		[
+			'Muchuu sa, Kimi ni.',
+			'夢中さ、きみに。',
+			'Captivated, By You',
+		],
+		[ 95 ],
+		0, 2, 2025, 0, 0, 0,
+		[
+			'tSchool',
+			'tSliceofLife',
+		]
+	),
+	new Anime(
 		'1801/150665',
 		[
 			'Karaoke Iko!',
@@ -183,7 +233,7 @@ const animeList = [
 			'See You Tomorrow at the Food Court',
 		],
 		[ 2298 ],
-		0, 2, 2025, 2, 0, 0,
+		0, 2, 2025, 2, 0, 1,
 		[
 			'tSliceofLife',
 			'tFavoriteAnime',
@@ -530,8 +580,8 @@ const animeList = [
 			'tFavoriteAnime',
 		],
 		[
-			'KizetsuYuushaToAnsatsuHime-OP1',
-			'KizetsuYuushaToAnsatsuHime-ED1',
+			'KizetsuYuusha-OP1',
+			'KizetsuYuusha-ED1',
 		]
 	),
 	new Anime(
@@ -762,7 +812,7 @@ const animeList = [
 			"Takopi's Original Sin",
 		],
 		[ 1991 ],
-		3, 1, 2025, 0, 1, 1,
+		3, 2, 2025, 0, 1, 1,
 		[
 			'tDrama',
 			'tPsychological',
@@ -966,17 +1016,19 @@ const animeList = [
 		[
 			'tRomance',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
-			'tFavoriteOPVisual',
+			'tFavoriteOPSong_1',
+			'tFavoriteOPVisual_1',
 		],
 		[
 			'SummerPockets-OP1',
 			'SummerPockets-OP1v2',
 			'SummerPockets-OP1v3',
 			'SummerPockets-OP1v4',
+			'SummerPockets-OP2',
 			'SummerPockets-ED1',
 			'SummerPockets-ED1v2',
 			'SummerPockets-ED1v3',
+			'SummerPockets-ED2',
 		]
 	),
 	new Anime(
@@ -1357,8 +1409,8 @@ const animeList = [
 		],
 		[
 			'KijinGentoushou-OP1',
-			'KijinGentoushou-ED1',
 			'KijinGentoushou-OP2',
+			'KijinGentoushou-ED1',
 			'KijinGentoushou-ED2',
 		]
 	),
@@ -3565,6 +3617,10 @@ const animeList = [
 			'tShounen',
 			'tUrbanFantasy',
 			'tFavoriteAnime',
+		],
+		[
+			'Kaijuu8GouS2-OP1',
+			'Kaijuu8GouS2-ED1',
 		]
 	),
 	new Anime(
@@ -13329,7 +13385,6 @@ const animeList = [
 			'tRomance',
 			'tSchool',
 			'tGagHumor',
-			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 			'tFavoriteAnime',
 		]
