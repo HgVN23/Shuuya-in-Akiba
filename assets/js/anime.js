@@ -128,7 +128,12 @@ const animeList = [
 		],
 		[
 			'Turkey-OP1',
+			'Turkey-OP2',
 			'Turkey-ED1',
+			'Turkey-ED2',
+			'Turkey-ED3',
+			'Turkey-ED4',
+			'Turkey-ED5',
 		]
 	),
 	new Anime(
@@ -1029,6 +1034,7 @@ const animeList = [
 			'SummerPockets-ED1v2',
 			'SummerPockets-ED1v3',
 			'SummerPockets-ED2',
+			'SummerPockets-ED3',
 		]
 	),
 	new Anime(
@@ -12559,6 +12565,8 @@ const animeList = [
 		[
 			'AobutaSantaClaus-OP1',
 			'AobutaSantaClaus-ED1',
+			'AobutaSantaClaus-ED2',
+			'AobutaSantaClaus-ED3',
 		]
 	),
 	new Anime(
@@ -15541,7 +15549,7 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReverse Harem',
+			'tHarem',
 			'tSchool',
 			'tVillainess',
 			'tShoujo',
@@ -15563,7 +15571,7 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReverse Harem',
+			'tHarem',
 			'tSchool',
 			'tVillainess',
 			'tShoujo',
@@ -15590,7 +15598,7 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tIsekai',
-			'tReverse Harem',
+			'tHarem',
 			'tSchool',
 			'tVillainess',
 			'tShoujo',

@@ -1,5 +1,5 @@
 const params = new URLSearchParams(location.search);
-const searchTerm = params.get('search')?.toLowerCase() || '';
+const searchTerm = params.get('search') || '';
 const page = parseInt(params.get('page')) || 0;
 const animeId = params.get('anime');
 const sortId = params.get('sort');
@@ -18,7 +18,7 @@ if (animeId) {
 	}
 
 	const filteredList = searchTerm
-		? animeList.filter(a => a.title.some(t => t.toLowerCase().includes(searchTerm)))
+		? animeList.filter(a => a.title.some(t => t.toLowerCase().includes(searchTerm.toLowerCase())))
 		: animeList;
 
 	let resultList = [...filteredList];
