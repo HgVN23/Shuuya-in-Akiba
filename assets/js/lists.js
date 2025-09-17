@@ -31,7 +31,8 @@ const sourceList = [
 const ratingList = [
 	'PG-13 (Teens 13+)',						// 0
 	'R-17+ (Violence & Profanity)',	// 1
-	'R+ (Mild Nudity)'							// 2
+	'R+ (Mild Nudity)',							// 2
+	'G (All Ages)',									// 3
 ]
 
 const statusList = [

@@ -29,6 +29,132 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'9/68045',
+		[
+			'Gokukoku no Brynhildr: Kara Sawagi',
+			'極黒のブリュンヒルデ 第11.5話 から騒ぎ',
+			'Brynhildr in the Darkness Special',
+		],
+		[ 38 ],
+		2, 2, 2014, 0, 2, 1,
+		[
+			'tComedy',
+			'tEcchi',
+			'tHarem',
+			'tSciFi',
+			'tSeinen',
+		]
+	),
+	new Anime(
+		'5/61433',
+		[
+			'Gokukoku no Brynhildr',
+			'極黒のブリュンヒルデ',
+			'Brynhildr in the Darkness',
+		],
+		[ 38 ],
+		0, 1, 2014, 0, 2, 1,
+		[
+			'tDrama',
+			'tGore',
+			'tHarem',
+			'tMystery',
+			'tSciFi',
+			'tSeinen',
+			'tSuperPower',
+		],
+		[
+			'GokukokuNoBrynhildr-OP1',
+			'GokukokuNoBrynhildr-OP2',
+			'GokukokuNoBrynhildr-ED1',
+			'GokukokuNoBrynhildr-ED1v2',
+			'GokukokuNoBrynhildr-ED1v3',
+		]
+	),
+	new Anime(
+		'1685/104697',
+		[
+			'Nanbaka: Shusseki Bangou no Tsuita Baka-tachi!',
+			'ナンバカ 出席番号のついたバカたち!',
+			'Nanbaka: Idiots with Student Numbers!',
+		],
+		[ 41 ],
+		2, 1, 2017, 2, 0, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1294/127370',
+		[
+			'Nanbaka 2',
+			'ナンバカ 2期',
+			'Nanbaka Season 2',
+		],
+		[ 41 ],
+		3, 0, 2017, 2, 0, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tDrama',
+		],
+		[
+			'NanbakaS2-OP1',
+			'Nanbaka-ED1',
+		]
+	),
+	new Anime(
+		'2/81399',
+		[
+			'Nanbaka',
+			'ナンバカ',
+		],
+		[ 41 ],
+		0, 3, 2016, 2, 0, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tDrama',
+		],
+		[
+			'Nanbaka-OP1',
+			'Nanbaka-ED1',
+		]
+	),
+	new Anime(
+		'1580/93526',
+		[
+			'Hinamatsuri',
+			'ヒナまつり',
+		],
+		[ 91 ],
+		0, 1, 2018, 0, 0, 1,
+		[
+			'tChildcare',
+			'tComedy',
+			'tOrganizedCrime',
+			'tSeinen',
+			'tSuperPower',
+		],
+		[
+			'Hinamatsuri-OP1',
+			'Hinamatsuri-OP1v2',
+			'Hinamatsuri-OP1v3',
+			'Hinamatsuri-OP1v4',
+			'Hinamatsuri-OP1v5',
+			'Hinamatsuri-OP1v6',
+			'Hinamatsuri-ED1',
+			'Hinamatsuri-ED1v2',
+			'Hinamatsuri-ED1v3',
+			'Hinamatsuri-ED1v4',
+			'Hinamatsuri-ED1v5',
+			'Hinamatsuri-ED2',
+			'Hinamatsuri-ED3',
+		]
+	),
+	new Anime(
 		'1469/146852',
 		[
 			'Senpai wa Otokonoko Movie: Ame Nochi Hare',
@@ -36,7 +162,7 @@ const animeList = [
 			'Senpai is an Otokonoko Movie: Sunshine After the Rain',
 		],
 		[ 439 ],
-		4, 0, 2025, 5, 0, 0,
+		4, 0, 2025, 5, 0, 1,
 		[
 			'tCrossdressing',
 			'tDrama',
@@ -107,6 +233,7 @@ const animeList = [
 		[
 			'tErotica',
 			'tSchool',
+			'tComedy',
 		],
 		[
 			'NukitashiTheAnimation-OP1',
@@ -168,6 +295,10 @@ const animeList = [
 			'tAdultCast',
 			'tSeinen',
 			'tSliceofLife',
+		],
+		[
+			'FutariSoloCamp-OP1',
+			'FutariSoloCamp-ED1',
 		]
 	),
 	new Anime(
@@ -183,8 +314,9 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tShounen',
+			'tSchool',
+			'tHarem',
 			'tFavoriteAnime',
-			'tFavoriteEDVisual_1'
 		],
 		[
 			'Mikadono-OP1',
@@ -204,6 +336,7 @@ const animeList = [
 			'tComedy',
 			'tSchool',
 			'tYuri',
+			'tHarem',
 			'tFavoriteAnime',
 		],
 		[
@@ -281,7 +414,7 @@ const animeList = [
 		[
 			'tComedy',
 			'tMystery',
-			'tShounen',
+			'tSeinen',
 			'tSupernatural',
 		],
 		[
@@ -320,6 +453,7 @@ const animeList = [
 		[
 			'tAction',
 			'tDrama',
+			'tOrganizedCrime',
 			'tFavoriteAnime',
 		],
 		[
@@ -345,6 +479,7 @@ const animeList = [
 		[
 			'RuriNoHouseki-OP1',
 			'RuriNoHouseki-ED1',
+			'RuriNoHouseki-ED2',
 		]
 	),
 	new Anime(
@@ -420,6 +555,9 @@ const animeList = [
 		0, 2, 2025, 6, 0, 0,
 		[
 			'tSuperPower',
+			'tMystery',
+			'tRomance',
+			'tSchool',
 		],
 		[
 			'9NineRulersCrown-OP1',
@@ -528,6 +666,7 @@ const animeList = [
 		[
 			'BadGirl-OP1',
 			'BadGirl-ED1',
+			'BadGirl-ED2',
 		]
 	),
 	new Anime(
@@ -540,9 +679,10 @@ const animeList = [
 		[ 1380 ],
 		0, 2, 2025, 0, 0, 0,
 		[
-			'tFavoriteAnime',
 			'tGourmet',
 			'tShounen',
+			'tDrama',
+			'tWorkplace',
 		],
 		[
 			'FermatNoRyouri-OP1',
@@ -561,7 +701,6 @@ const animeList = [
 		[
 			'tAdventure',
 			'tFantasy',
-			'tFavoriteAnime',
 		],
 		[
 			'TsuihouShiroMadoushi-OP1',
@@ -599,7 +738,7 @@ const animeList = [
 		[ 563 ],
 		0, 2, 2025, 1, 0, 0,
 		[
-			'tComedy',
+			'tDrama',
 			'tJosei',
 			'tRomance',
 		],
@@ -644,6 +783,7 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
 		],
 		[
 			'SilentWitch-OP1',
@@ -660,7 +800,8 @@ const animeList = [
 		[ 1340, 3060 ],
 		0, 2, 2025, 1, 0, 0,
 		[
-			'tAction',
+			'tAdventure',
+			'tAdultCast',
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
@@ -686,10 +827,11 @@ const animeList = [
 			'tAction',
 			'tFantasy',
 			'tIsekai',
+			'tSciFi',
 		],
 		[
 			'OnmyoKaitenReVerse-OP1',
-			'OnmyoKaitenReVerse-ED1',
+			'OnmyouKaitenReBirth-ED1',
 		]
 	),
 	new Anime(
@@ -727,7 +869,6 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tTimeTravel',
-			'tFavoriteOPSong',
 		],
 		[
 			'TsuyokuteNewSaga-OP1',
@@ -742,7 +883,7 @@ const animeList = [
 			'Clevatess',
 		],
 		[ 1087 ],
-		0, 2, 2025, 2, 0, 0,
+		0, 2, 2025, 2, 1, 0,
 		[
 			'tAction',
 			'tFantasy',
@@ -778,7 +919,7 @@ const animeList = [
 			'Detectives These Days Are Crazy!',
 		],
 		[ 839 ],
-		0, 2, 2025, 0, 0, 0,
+		0, 2, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tDetective',
@@ -823,6 +964,7 @@ const animeList = [
 			'tPsychological',
 			'tSciFi',
 			'tShounen',
+			'tTimeTravel',
 			'tFavoriteAnime',
 		],
 		[
@@ -864,7 +1006,6 @@ const animeList = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
-			'tFavoriteAnime',
 		],
 		[
 			'Teogonia-OP1',
@@ -903,6 +1044,7 @@ const animeList = [
 		0, 1, 2025, 4, 0, 1,
 		[
 			'tSciFi',
+			'tComedy',
 			'tFavoriteAnime',
 		],
 		[
@@ -1030,6 +1172,9 @@ const animeList = [
 			'SummerPockets-OP1v3',
 			'SummerPockets-OP1v4',
 			'SummerPockets-OP2',
+			'SummerPockets-OP2v2',
+			'SummerPockets-OP2v3',
+			'SummerPockets-OP2v4',
 			'SummerPockets-ED1',
 			'SummerPockets-ED1v2',
 			'SummerPockets-ED1v3',
@@ -1150,13 +1295,12 @@ const animeList = [
 		0, 1, 2025, 0, 0, 0,
 		[
 			'tComedy',
-			'tSupernatural',
+			'tFantasy',
+			'tUrbanFantasy',
 			'tShounen',
 			'tFavoriteAnime',
 			'tFavoriteOPSong_1',
-			'tFavoriteOPSong_2',
 			'tFavoriteOPVisual_1',
-			'tFavoriteOPVisual_2',
 		],
 		[
 			'WitchWatch-OP1',
@@ -1290,6 +1434,7 @@ const animeList = [
 		[ 1393 ],
 		0, 1, 2025, 1, 1, 1,
 		[
+			'tAdultCast',
 			'tMystery',
 			'tSciFi',
 			'tDetective',
@@ -1411,7 +1556,6 @@ const animeList = [
 			'tAdventure',
 			'tFantasy',
 			'tHistorical',
-			'tFavoriteAnime',
 		],
 		[
 			'KijinGentoushou-OP1',
@@ -1534,7 +1678,7 @@ const animeList = [
 			'SAKAMOTO DAYS 第２クール',
 		],
 		[ 73 ],
-		0, 2, 2025, 0, 1, 0,
+		0, 2, 2025, 0, 1, 1,
 		[
 			'tAction',
 			'tAdultCast',
@@ -3622,7 +3766,6 @@ const animeList = [
 			'tSciFi',
 			'tShounen',
 			'tUrbanFantasy',
-			'tFavoriteAnime',
 		],
 		[
 			'Kaijuu8GouS2-OP1',
@@ -3642,7 +3785,9 @@ const animeList = [
 			'tAdultCast',
 			'tShounen',
 			'tSliceofLife',
-			'tFavoriteAnime',
+		],
+		[
+			'Kaijuu8GouHoshinaNoKyuujitsu-ED1',
 		]
 	),
 	new Anime(
@@ -3662,7 +3807,6 @@ const animeList = [
 			'tSciFi',
 			'tShounen',
 			'tUrbanFantasy',
-			'tFavoriteAnime',
 			'tFavoriteEDSong',
 			'tFavoriteEDVisual',
 		],
@@ -5879,7 +6023,7 @@ const animeList = [
 			'TenPuru: No One Can Live on Loneliness Specials',
 		],
 		[ 2554 ],
-		0, 3, 2023, 2, 0, 1,
+		2, 3, 2023, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -6374,6 +6518,83 @@ const animeList = [
 			'GenjitsuNoYohane-OP1',
 			'GenjitsuNoYohane-ED1',
 			'GenjitsuNoYohane-ED1v2',
+		]
+	),
+	new Anime(
+		'6/75700',
+		[
+			'Love Live! The School Idol Movie',
+			'ラブライブ！The School Idol Movie',
+		],
+		[ 14 ],
+		4, 0, 2015, 4, 0, 1,
+		[
+			'tIdol',
+			'tMusic',
+			'tSchool',
+			'tSliceofLife',
+		],
+		[
+			'LoveLiveMovie-ED1',
+		]
+	),
+	new Anime(
+		'10/59101',
+		[
+			'Love Live! School Idol Project 2nd Season',
+			'ラブライブ! School idol project 2期',
+			'Love Live! School Idol Project 2',
+		],
+		[ 14 ],
+		0, 1, 2014, 11, 0, 1,
+		[
+			'tIdol',
+			'tMusic',
+			'tSchool',
+			'tSliceofLife',
+		],
+		[
+			'LoveLiveS2-OP1',
+			'LoveLiveS2-ED1',
+			'LoveLiveS2-ED2',
+			'LoveLiveS2-ED2v2',
+			'LoveLiveS2-ED3',
+			'LoveLiveS2-ED4',
+			'LoveLiveS2-ED5',
+			'LoveLiveS2-ED6',
+			'LoveLiveS2-ED7',
+			'LoveLiveS2-ED8',
+			'LoveLiveS2-ED9',
+			'LoveLiveS2-ED10',
+			'LoveLiveS2-ED11',
+		]
+	),
+	new Anime(
+		'11/56849',
+		[
+			'Love Live! School Idol Project',
+			'ラブライブ! School idol project',
+		],
+		[ 14 ],
+		0, 0, 2013, 11, 0, 1,
+		[
+			'tIdol',
+			'tMusic',
+			'tSchool',
+			'tSliceofLife',
+		],
+		[
+			'LoveLive-OP1',
+			'LoveLive-ED1',
+			'LoveLive-ED2',
+			'LoveLive-ED3',
+			'LoveLive-ED3v2',
+			'LoveLive-ED4',
+			'LoveLive-ED5',
+			'LoveLive-ED6',
+			'LoveLive-ED7',
+			'LoveLive-ED8',
+			'LoveLive-ED9',
 		]
 	),
 	new Anime(
@@ -12567,6 +12788,7 @@ const animeList = [
 			'AobutaSantaClaus-ED1',
 			'AobutaSantaClaus-ED2',
 			'AobutaSantaClaus-ED3',
+			'AobutaSantaClaus-ED4',
 		]
 	),
 	new Anime(
@@ -21847,5 +22069,186 @@ const animeList = [
 			'Slime300-OP1',
 			'Slime300-ED1',
 		]
-	)
+	),
+	new Anime(
+		'1965/117638',
+		[
+			'Inazuma Eleven: Orion no Kokuin',
+			'イナズマイレブン オリオンの刻印',
+		],
+		[ 28 ],
+		0, 3, 2018, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		],
+		[
+			'InazumaElevenOrionNoKokuin-OP1',
+			'InazumaElevenOrionNoKokuin-OP2',
+			'InazumaElevenOrionNoKokuin-ED1',
+			'InazumaElevenOrionNoKokuin-ED2',
+			'InazumaElevenOrionNoKokuin-ED3',
+		]
+	),
+	new Anime(
+		'1460/96891',
+		[
+			'Inazuma Eleven: Ares no Tenbin',
+			'イナズマイレブン アレスの天秤',
+			'Inazuma Eleven: Ares',
+		],
+		[ 28 ],
+		0, 1, 2018, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		],
+		[
+			'InazumaElevenAresNoTenbin-OP1',
+			'InazumaElevenAresNoTenbin-ED1',
+		]
+	),
+	new Anime(
+		'1044/96960',
+		[
+			'Inazuma Eleven: Reloaded - Soccer no Henkaku',
+			'イナズマイレブン リローデッド ～サッカーの変革へんかく～',
+			'Inazuma Eleven: Reloaded - Reformation of Soccer',
+		],
+		[ 28 ],
+		2, 0, 2018, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'1956/104383',
+		[
+			'Inazuma Eleven: Outer Code',
+			'イナズマイレブン アウターコード',
+		],
+		[ 28 ],
+		3, 3, 2016, 8, 3, 1,
+		[
+			'tSports',
+		]
+	),
+	new Anime(
+		'3/62875',
+		[
+			'Inazuma Eleven: Chou Jigen Dream Match',
+			'イナズマイレブンＧＯ ギャラクシー',
+		],
+		[ 28 ],
+		4, 1, 2014, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'2/49743',
+		[
+			'Inazuma Eleven Go: Galaxy',
+			'イナズマイレブンＧＯ ギャラクシー',
+		],
+		[ 28 ],
+		0, 1, 2013, 8, 3, 1,
+		[
+			'tSpace',
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'1102/146473',
+		[
+			'Inazuma Eleven Go vs. Danball Senki W Movie',
+			'劇場版 イナズマイレブンGO vs ダンボール戦機W',
+		],
+		[ 28 ],
+		4, 3, 2012, 8, 3, 1,
+		[
+			'tMecha',
+			'tSciFi',
+			'tSports',
+		]
+	),
+	new Anime(
+		'1619/94705',
+		[
+			'Inazuma Eleven Go: Chrono Stone',
+			'イナズマイレブンGO クロノ・ストーン',
+		],
+		[ 28 ],
+		0, 1, 2012, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+			'tTimeTravel',
+		]
+	),
+	new Anime(
+		'1944/146478',
+		[
+			'Inazuma Eleven Go: Kyuukyoku no Kizuna Gryphon',
+			'劇場版イナズマイレブンGO 究極の絆 グリフォン',
+			'Inazuma Eleven GO: The Ultimate Bond Griffon',
+		],
+		[ 28 ],
+		4, 3, 2011, 8, 3, 1,
+		[
+			'tSciFi',
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'2/48959',
+		[
+			'Inazuma Eleven Go',
+			'イナズマイレブン Go',
+		],
+		[ 28 ],
+		0, 1, 2011, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'12/31189',
+		[
+			'Inazuma Eleven: Saikyou Gundan Ogre Shuurai',
+			'劇場版イナズマイレブン 最強軍団オーガ襲来',
+		],
+		[ 28 ],
+		4, 3, 2010, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		]
+	),
+	new Anime(
+		'1854/94704',
+		[
+			'Inazuma Eleven',
+			'イナズマイレブン',
+		],
+		[ 28 ],
+		0, 3, 2008, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
+		],
+		[
+			'InazumaEleven-OP1',
+			'InazumaEleven-OP2',
+			'InazumaEleven-OP3',
+			'InazumaEleven-ED1',
+			'InazumaEleven-ED2',
+			'InazumaEleven-ED3',
+		]
+	),
 ]

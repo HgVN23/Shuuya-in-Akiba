@@ -162,11 +162,13 @@ function renderInfo(anime) {
 		</div>
 	`);
 
-	document.querySelectorAll('.title').forEach(t => {
-		t.addEventListener('click', () => {
-			const text = t.textContent.trim();
-			navigator.clipboard.writeText(text).then(() => {
-				showToast(`Đã copy: "${text}"`);
+	['.title', '.tag'].forEach(selector => {
+		document.querySelectorAll(selector).forEach(e => {
+			e.addEventListener('click', () => {
+				const text = e.textContent.trim();
+				navigator.clipboard.writeText(text).then(() => {
+					showToast(`Đã copy: "${text}"`);
+				});
 			});
 		});
 	});

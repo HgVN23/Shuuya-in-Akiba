@@ -24,6 +24,7 @@
 
 	<script defer src="assets/js/constants.js"></script>
 	<script defer src="assets/js/filters.js"></script>
+	<script defer src="assets/js/suggest.js"></script>
 	<script defer src="assets/js/main.js"></script>
 </head>
 <body>
@@ -42,11 +43,12 @@
 				<div class="w-100 h-100 position-absolute top-0 left-0 overflow-y-auto">
 					<div class="content px-1r">
 						<div class="tool-container">
-							<div class="d-flex gap-1r">
-								<div class="search box glass w-100 d-flex align-items-center gap-05r">
+							<div class="d-flex gap-1r position-relative z-index-1">
+								<div class="search box glass w-100 d-flex align-items-center gap-05r position-relative">
 									<div class="icon search-icon"></div>
 									<input class="search-input" placeholder="Tìm kiếm..." type="text">
 									<div class="icon search-reset"></div>
+									<div class="search-suggest glass mt-1r position-absolute left-0 right-0 d-flex flex-column gap-03r hide"></div>
 								</div>
 								<div class="filter-btn box glass d-flex align-items-center gap-05r">
 									<div class="icon filter-icon"></div>
@@ -54,9 +56,9 @@
 								</div>
 								<a class="new-btn box glass" href="./new.html">+</a>
 							</div>
-							<div class="filter box glass hide">
+							<div class="filter box glass mt-1r hide">
 								<div class="filter-grid gap-1r"></div>
-								<div class="d-flex justify-content-end gap-1r">
+								<div class="mt-1r d-flex justify-content-end gap-1r">
 									<div class="btn reset-btn">Reset</div>
 									<div class="btn search-btn">Search</div>
 								</div>
