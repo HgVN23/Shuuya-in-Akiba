@@ -735,6 +735,22 @@ const studioList = [
 		2983, 'Imageworks Studio',
 		''
 	),
+	new Studio(
+		2240, 'Studio Daisy',
+		'8691ed05-6a5d-4820-9bb1-d483bd29271b'
+	),
+	new Studio(
+		318, 'WAO World',
+		'ba92d76b-5305-4b31-b6c8-21676f493720'
+	),
+	new Studio(
+		103, 'Tatsunoko Production',
+		'9ab38042-78ae-46c4-a22d-2a00274d0a48'
+	),
+	new Studio(
+		1099, 'Cyclone Graphics',
+		'35b2d3d9-b0ed-4655-9ed1-7feea2029316'
+	),
 	/*new Studio(
 		, '',
 		''

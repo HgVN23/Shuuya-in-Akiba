@@ -56,7 +56,7 @@ function handleSearch() {
 				</div>
 				<div>
 					<div class="title-suggest fs-16">${highlighted} (${typeList[type]})</div>
-					<div class="fs-12">Studio: ${studios}</div>
+					<div class="fs-12">Studios: ${studios}</div>
 					<div class="fs-12">${seasonList[season]} ${year} | ${statusList[status]}</div>
 				</div>
 			</a>
@@ -88,5 +88,5 @@ searchInput?.addEventListener('focus', () => {
 
 // Ẩn gợi ý khi mất focus
 searchInput?.addEventListener('blur', () => {
-	setTimeout(() => suggestBox.classList.add('hide'), 200); // delay để click link
+	setTimeout(() => suggestBox.classList.add('hide'), 200);
 });
