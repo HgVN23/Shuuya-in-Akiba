@@ -43,6 +43,10 @@ const animeList = [
 			'tRomance',
 			'tSchool',
 			'tUrbanFantasy',
+		],
+		[
+			'KimiToKoeteKoiNiNaru-OP1',
+			'KimiToKoeteKoiNiNaru-ED1',
 		]
 	),
 	new Anime(
@@ -61,6 +65,10 @@ const animeList = [
 			'tSupernatural',
 			'tVampire',
 			'tFavoriteAnime',
+		],
+		[
+			'ChantoSuenaiKyuuketsukiChan-OP1',
+			'ChantoSuenaiKyuuketsukiChan-ED1',
 		]
 	),
 	new Anime(
@@ -108,6 +116,10 @@ const animeList = [
 			'tShoujo',
 			'tVillainess',
 			'tFavoriteAnime',
+		],
+		[
+			'TenseiAkujoNoKuroRekishi-OP1',
+			'TenseiAkujoNoKuroRekishi-ED1',
 		]
 	),
 	new Anime(
@@ -123,6 +135,10 @@ const animeList = [
 			'tSchool',
 			'tSeinen',
 			'tSports',
+		],
+		[
+			'WanDance-OP1',
+			'WanDance-ED1',
 		]
 	),
 	new Anime(
@@ -141,6 +157,10 @@ const animeList = [
 			'tOtakuCulture',
 			'tWorkplace',
 			'tFavoriteAnime',
+		],
+		[
+			'EgaoNoTaenaiShokubaDesu-OP1',
+			'EgaoNoTaenaiShokubaDesu-ED1',
 		]
 	),
 	new Anime(
@@ -158,6 +178,14 @@ const animeList = [
 			'tRomance',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
+		],
+		[
+			'Chiramune-OP1',
+			'Chiramune-ED1',
 		]
 	),
 	new Anime(
@@ -298,6 +326,7 @@ const animeList = [
 			'tFavoriteEDSong',
 		],
 		[
+			'ShuumatsuTouring-OP1',
 			'ShuumatsuTouring-ED1',
 		]
 	),
@@ -538,6 +567,7 @@ const animeList = [
 		[
 			'Watatabe-OP1',
 			'Watatabe-ED1',
+			'Watatabe-ED2',
 		]
 	),
 	new Anime(
@@ -1642,7 +1672,6 @@ const animeList = [
 		[
 			'tFantasy',
 			'tFavoriteAnime',
-			'tFavoriteEDSong',
 		],
 		[
 			'KoujoDenkaNoKateiKyoushi-OP1',
@@ -2391,8 +2420,6 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteEDSong',
-			'tFavoriteEDVisual',
 		],
 		[
 			'SakamotoDaysPart2-OP1',
@@ -7417,6 +7444,10 @@ const animeList = [
 			'tDrama',
 			'tMusic',
 			'tSchool',
+		],
+		[
+			'AoNoOrchestraS2-OP1',
+			'AoNoOrchestraS2-ED1',
 		]
 	),
 	new Anime(
@@ -8499,6 +8530,10 @@ const animeList = [
 			'tGourmet',
 			'tIsekai',
 			'tFavoriteAnime',
+		],
+		[
+			'TonsukiS2-OP1',
+			'TonsukiS2-ED1',
 		]
 	),
 	new Anime(
