@@ -751,6 +751,14 @@ const studioList = [
 		1099, 'Cyclone Graphics',
 		'35b2d3d9-b0ed-4655-9ed1-7feea2029316'
 	),
+	new Studio(
+		2205, 'Studio Kafka',
+		'ed59d2ed-4554-44d0-97b1-e0d2a569f478'
+	),
+	new Studio(
+		3192, 'Studio Graph77',
+		'28ef4279-d42d-49c3-9385-4f2fbba48ea8'
+	),
 	/*new Studio(
 		, '',
 		''

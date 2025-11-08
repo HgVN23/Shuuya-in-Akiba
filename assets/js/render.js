@@ -71,14 +71,14 @@ function renderInfo(anime) {
 			`.trim();
 		})
 		.join('');
-	const videoHTML = video
+	const vidOpEd = video
 		.map(v => {
 			if (!v) return 'Không có';
 
 			const match = v.match(/-(OP\d.*|ED\d.*)/);
 			const label = match ? match[1] : v;
 
-			return `<a href="https://v.animethemes.moe/${v}.webm" target="_blank">${label}</a>`;
+			return `<div id="${v}" class="vid-btn fs-12">${label}</div>`;
 		})
 		.join('');
 
@@ -156,7 +156,8 @@ function renderInfo(anime) {
 				</div>
 				<div class="box glass">
 					<div class="division">OPs/EDs:</div>
-					<div class="d-flex flex-wrap gap-05r">${videoHTML}</div>
+					<div class="mb-1r d-flex flex-wrap gap-05r">${vidOpEd}</div>
+					<video class="oped w-100" controls></video>
 				</div>
 			</div>
 		</div>
@@ -170,6 +171,19 @@ function renderInfo(anime) {
 					showToast(`Đã copy: "${text}"`);
 				});
 			});
+		});
+	});
+
+	const oped = document.querySelector('.oped');
+	document.querySelectorAll('.vid-btn').forEach(e => {
+		e.addEventListener('click', () => {
+			const pressed = document.querySelector('.vid-btn-pressed');
+			if(pressed) pressed.classList.remove('vid-btn-pressed');
+			e.classList.add('vid-btn-pressed');
+
+			stopVideoBg();
+			oped.src = `https://v.animethemes.moe/${e.id}.webm`;
+			oped.volume = 0.05;
 		});
 	});
 }

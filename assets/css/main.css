@@ -9,6 +9,7 @@
 	--green: #198754;
 	--red: #dc3545;
 	--blue: #1364ff;
+	--gray: #36363a;
 
 	--glass: #ffffff1a;
 	--kv-width: 11rem;
@@ -197,7 +198,7 @@ header {
 		.suggest {
 			--scale: .3;
 			max-height: calc(var(--kv-height) * var(--scale));
-			background: #36363a;
+			background: var(--gray);
 			border-radius: var(--radius);
 			padding: .3rem .5rem;
 			gap: .3rem;
@@ -251,7 +252,7 @@ header {
 			font-weight: bold;
 		}
 		.filter-holder {
-			background: #36363a;
+			background: var(--gray);
 			border-radius: var(--radius);
 			padding: .3rem .5rem;
 			overflow-x: auto;
@@ -260,7 +261,7 @@ header {
 		}
 		.filter-expand {
 			max-height: calc(23px * 4 + 16px * .3 + 16px * .2 * 2);
-			background: #36363a;
+			background: var(--gray);
 			border-radius: var(--radius);
 			margin-top: .2rem;
 			padding: .3rem .5rem;
@@ -403,7 +404,7 @@ header {
 	}
 
 	.tag {
-		background-color: #36363a;
+		background-color: var(--gray);
 		border-radius: var(--radius);
 		padding: .2rem .5rem;
 		cursor: help;
@@ -427,6 +428,23 @@ header {
 	.rMangaDex { content: url(../media/icon/mangaDex.png); }
 	.rMangaFire { content: url(../media/icon/mangaFire.png); }
 	.rMangaReader { content: url(../media/icon/mangaReader.png); }
+
+	.vid-btn {
+		background-color: var(--blue);
+		border-radius: var(--radius);
+		padding: .2rem .5rem;
+		cursor: pointer;
+		box-shadow: 0 .2rem .5rem black;
+		transition: .2s;
+	}
+	.vid-btn:active,
+	.vid-btn-pressed {
+		transform: translateY(1px);
+		box-shadow: none;
+	}
+	.vid-btn-pressed {
+		background-color: var(--red);
+	}
 }
 
 .slider {

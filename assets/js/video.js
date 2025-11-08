@@ -4,12 +4,11 @@ function videoBg(videos) {
 	if(!videos) return;
 
 	const selectedVideo = random(videos);
-	const source = document.querySelector('video source');
-	const video = document.querySelector('video');
+	const video = document.querySelector('.video-bg');
 
-	clearInterval(countdownInterval);
+	clearTimer();
 
-	source.src = `https://v.animethemes.moe/${selectedVideo}.webm`;
+	video.src = `https://v.animethemes.moe/${selectedVideo}.webm`;
 	video.load();
 
 	video.onerror = () => {
@@ -29,7 +28,7 @@ function videoBg(videos) {
 				// console.log(`Còn lại: ${remaining}s`);
 
 				if (remaining <= 0) {
-					clearInterval(countdownInterval);
+					clearTimer();
 					videoBg(videos);
 				}
 			}, 1000);
@@ -51,4 +50,20 @@ function random(list) {
 	if(!list) return;
 	const randomIndex = Math.floor(Math.random() * list.length);
 	return list[randomIndex];
+}
+
+function clearTimer() {
+	if (typeof countdownInterval !== 'undefined') {
+		clearInterval(countdownInterval);
+		countdownInterval = null;
+	}
+}
+
+function stopVideoBg() {
+	const video = document.querySelector('.video-bg');
+	if (video) {
+		video.pause();
+		video.currentTime = 0;
+	}
+	clearTimer();
 }

@@ -29,6 +29,44 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'1864/151837',
+		[
+			'Fujimoto Tatsuki 17-26',
+			'藤本タツキ17-26',
+			'Tatsuki Fujimoto 17-26',
+		],
+		[ 2696, 1828, 132, 3192, 2205, 218 ],
+		3, 3, 2025, 0, 2, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tShounen',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1883/144526',
+		[
+			'Project Sekai Movie: Kowareta Sekai to Utaenai Miku',
+			'劇場版プロジェクトセカイ 壊れたセカイと歌えないミク',
+			"Colorful Stage! The Movie: A Miku Who Can't Sing",
+		],
+		[ 132 ],
+		4, 0, 2025, 8, 0, 1,
+		[
+			'tMusic',
+			'tFavoriteAnime',
+		],
+		[
+			'ProjectSekaiKowaretaSekaiToUtaenaiMiku-OP1',
+			'ProjectSekaiKowaretaSekaiToUtaenaiMiku-ED1',
+		]
+	),
+	new Anime(
 		'1334/151773',
 		[
 			'Kimi to Koete Koi ni Naru',
@@ -98,6 +136,9 @@ const animeList = [
 		[
 			'tFantasy',
 			'tRomance',
+		],
+		[
+			'HeikaWatashiWoWasureteKudasai-ED1',
 		]
 	),
 	new Anime(
@@ -285,6 +326,7 @@ const animeList = [
 		[
 			'KikaijikakeNoMarie-OP1',
 			'KikaijikakeNoMarie-ED1',
+			'KikaijikakeNoMarie-ED2',
 		]
 	),
 	new Anime(
@@ -305,6 +347,7 @@ const animeList = [
 			'tFavoriteAnime',
 		],
 		[
+			'TojimaRider-OP1',
 			'TojimaRider-ED1',
 		]
 	),
@@ -509,6 +552,10 @@ const animeList = [
 			'tSchool',
 			'tShoujo',
 			'tFavoriteAnime',
+		],
+		[
+			'Tamahoshi-OP1',
+			'Tamahoshi-ED1',
 		]
 	),
 	new Anime(
@@ -668,6 +715,21 @@ const animeList = [
 			'TowaNoYuugure-OP1',
 			'TowaNoYuugure-ED1',
 			'TowaNoYuugure-ED2',
+		]
+	),
+	new Anime(
+		'1711/151735',
+		[
+			'Towa no Yuugure: Asa wo Kokoro ni, Ichi, Ni to Kazoe yo',
+			'永久のユウグレ「朝をこころに、一、二と数えよ」',
+			'Dusk Beyond the End of the World: Think Morning, Count Two',
+		],
+		[ 132 ],
+		2, 3, 2025, 4, 0, 1,
+		[
+			'tRomance',
+			'tSciFi',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -2927,6 +2989,7 @@ const animeList = [
 			'tAdultCast',
 			'tMedical',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'AmekuTakaoNoSuiriKarte-OP1',
@@ -3061,7 +3124,6 @@ const animeList = [
 			'tUrbanFantasy',
 			'tSciFi',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
 		],
 		[
 			'Maou2099-OP1',
@@ -4249,7 +4311,6 @@ const animeList = [
 			'tIsekai',
 			'tParody',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
 		],
 		[
 			'IsekaiShikkaku-OP1',
@@ -11330,6 +11391,7 @@ const animeList = [
 		[
 			'tAction',
 			'tSchool',
+			'tFavoriteOPSong',
 		],
 		[
 			'GrisaiaPhantomTriggerTV-OP1',
@@ -16335,6 +16397,27 @@ const animeList = [
 			'ValXLove-ED1v2',
 			'ValXLove-ED2',
 			'ValXLove-ED3',
+		]
+	),
+	new Anime(
+		'1256/142261',
+		[
+			'Bocchi the Rock! Movie',
+			'ぼっち・ざ・ろっく！劇場総集編',
+		],
+		[ 1835 ],
+		0, 1, 2024, 3, 0, 1,
+		[
+			'tCGDCT',
+			'tComedy',
+			'tFavoriteAnime',
+			'tMusic',
+		],
+		[
+			'BocchiTheRockRe-OP1',
+			'BocchiTheRockReRe-OP1',
+			'BocchiTheRockRe-ED1',
+			'BocchiTheRockReRe-ED1',
 		]
 	),
 	new Anime(
@@ -22021,6 +22104,7 @@ const animeList = [
 			'tSuperPower',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteEDSong',
 		],
 		[
 			'SpyXFamilyS3-OP1',
