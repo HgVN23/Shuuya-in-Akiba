@@ -157,6 +157,7 @@ function renderInfo(anime) {
 				<div class="box glass">
 					<div class="division">OPs/EDs:</div>
 					<div class="mb-1r d-flex flex-wrap gap-05r">${vidOpEd}</div>
+					<div class="mb-1r"><a id="vidOpEd" target="_blank"></a></div>
 					<video class="oped w-100" controls></video>
 				</div>
 			</div>
@@ -174,18 +175,22 @@ function renderInfo(anime) {
 		});
 	});
 
-	const oped = document.querySelector('.oped');
-	document.querySelectorAll('.vid-btn').forEach(e => {
-		e.addEventListener('click', () => {
-			const pressed = document.querySelector('.vid-btn-pressed');
-			if(pressed) pressed.classList.remove('vid-btn-pressed');
-			e.classList.add('vid-btn-pressed');
+	document.querySelectorAll('.vid-btn').forEach(btn =>
+		btn.addEventListener('click', () => {
+			const oped = document.querySelector('.oped');
+			const link = document.querySelector('#vidOpEd');
+			const src = id => `https://v.animethemes.moe/${id}.webm`;
+			
+			link.href = src(btn.id);
+			link.textContent = btn.id;
 
-			stopVideoBg();
-			oped.src = `https://v.animethemes.moe/${e.id}.webm`;
-			oped.volume = 0.05;
-		});
-	});
+			document.querySelector('.vid-btn-pressed')?.classList.remove('vid-btn-pressed');
+			btn.classList.add('vid-btn-pressed');
+
+			removeVideoBg();
+			Object.assign(oped, { src: src(btn.id), volume: 0.05 });
+		})
+	);
 }
 
 function showToast(message, duration = 3000) {

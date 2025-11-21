@@ -67,3 +67,11 @@ function stopVideoBg() {
 	}
 	clearTimer();
 }
+
+function removeVideoBg() {
+	const video = document.querySelector('.video-bg');
+	if (video) {
+		video.remove();
+	}
+	clearTimer();
+}

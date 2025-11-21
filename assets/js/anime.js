@@ -81,6 +81,8 @@ const animeList = [
 			'tRomance',
 			'tSchool',
 			'tUrbanFantasy',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'KimiToKoeteKoiNiNaru-OP1',
@@ -198,6 +200,7 @@ const animeList = [
 			'tOtakuCulture',
 			'tWorkplace',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'EgaoNoTaenaiShokubaDesu-OP1',
@@ -264,10 +267,14 @@ const animeList = [
 			'tHarem',
 			'tSchool',
 			'tSports',
+		],
+		[
+			'SawaranaideKotesashiKun-OP1',
+			'SawaranaideKotesashiKun-ED1',
 		]
 	),
 	new Anime(
-		'1982/151278',
+		'1631/153644',
 		[
 			'Alma-chan wa Kazoku ni Naritai',
 			'アルマちゃんは家族になりたい',
@@ -514,6 +521,7 @@ const animeList = [
 		],
 		[
 			'MugenGacha-OP1',
+			'MugenGacha-ED1',
 		]
 	),
 	new Anime(
@@ -539,7 +547,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1971/149410',
+		'1475/152176',
 		[
 			'Taiyou yori mo Mabushii Hoshi',
 			'太陽よりも眩しい星',
@@ -713,7 +721,6 @@ const animeList = [
 		],
 		[
 			'TowaNoYuugure-OP1',
-			'TowaNoYuugure-ED1',
 			'TowaNoYuugure-ED2',
 		]
 	),
@@ -730,6 +737,9 @@ const animeList = [
 			'tRomance',
 			'tSciFi',
 			'tFavoriteAnime',
+		],
+		[
+			'TowaNoYuugure-ED1',
 		]
 	),
 	new Anime(
@@ -1431,7 +1441,8 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
-			'tFavoriteEDVisual',
+			'tFavoriteEDVisual_1',
+			'tFavoriteEDVisual_2',
 		],
 		[
 			'KaoruHana-OP1',
@@ -2916,9 +2927,9 @@ const animeList = [
 			'tFavoriteOPVisual',
 		],
 		[
-			'SorarioUtilityTV-OP1',
-			'SorarioUtilityTV-ED1',
-			'SorarioUtilityTV-ED2',
+			'SorairoUtilityTV-OP1',
+			'SorairoUtilityTV-ED1',
+			'SorairoUtilityTV-ED2',
 		]
 	),
 	new Anime(
@@ -3665,8 +3676,8 @@ const animeList = [
 			'tFavoriteAnime',
 		],
 		[
-			'NagekiNoBoureiS2-OP1',
-			'NagekiNoBoureiS2-ED1',
+			'NagekiNoBoureiPart2-OP1',
+			'NagekiNoBoureiPart2-ED1',
 		]
 	),
 	new Anime(
@@ -4913,7 +4924,6 @@ const animeList = [
 			'tFantasy',
 			'tRomance',
 			'tFavoriteAnime',
-			'tFavoriteEDSong',
 		],
 		[
 			'Madome-OP1',
@@ -6496,6 +6506,7 @@ const animeList = [
 			'tSuperPower',
 			'tShounen',
 			'tFavoriteAnime',
+			'tFavoriteEDSong_7',
 		],
 		[
 			'ShyS2-OP1',
@@ -7130,7 +7141,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1508/137052',
+		'1435/150176',
 		[
 			'Watashi no Shiawase na Kekkon: Watashi no Shiawase na Katachi',
 			'わたしの幸せな結婚 わたしの 幸せのかたち',
@@ -9339,6 +9350,10 @@ const animeList = [
 			'tIsekai',
 			'tParody',
 			'tFavoriteAnime',
+		],
+		[
+			'IsekaiQuartetS3-OP1',
+			'IsekaiQuartetS3-ED1',
 		]
 	),
 	new Anime(
@@ -23039,6 +23054,20 @@ const animeList = [
 		[
 			'Slime300-OP1',
 			'Slime300-ED1',
+		]
+	),
+	new Anime(
+		'1453/145195',
+		[
+			'Inazuma Eleven: Aratanaru Eiyuu-tachi no Joshou',
+			'劇場版 イナズマイレブン 新たなる英雄たちの序章',
+			'Inazuma Eleven the Movie: Prologue to the New Heroes',
+		],
+		[ 569 ],
+		4, 3, 2024, 8, 3, 1,
+		[
+			'tSports',
+			'tSuperPower',
 		]
 	),
 	new Anime(
