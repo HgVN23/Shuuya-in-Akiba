@@ -67,14 +67,14 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1334/151773',
+		'1810/153334',
 		[
 			'Kimi to Koete Koi ni Naru',
 			'キミと越えて恋になる',
 			'With You, Our Love Will Make It Through',
 		],
 		[ 1237 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tAnthropomorphic',
 			'tFantasy',
@@ -97,13 +97,14 @@ const animeList = [
 			"Li'l Miss Vampire Can't Suck Right",
 		],
 		[ 91 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tSchool',
 			'tShounen',
-			'tSupernatural',
 			'tVampire',
+			'tFantasy',
+			'tUrbanFantasy',
 			'tFavoriteAnime',
 		],
 		[
@@ -124,6 +125,7 @@ const animeList = [
 			'tSurvival',
 			'tSuspense',
 			'tTimeTravel',
+			'tSpace',
 		]
 	),
 	new Anime(
@@ -134,7 +136,7 @@ const animeList = [
 			'Forget That Night, Your Majesty',
 		],
 		[ 2983, 2844 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 2,
 		[
 			'tFantasy',
 			'tRomance',
@@ -151,14 +153,13 @@ const animeList = [
 			'The Dark History of the Reincarnated Villainess',
 		],
 		[ 37 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tIsekai',
 			'tRomance',
 			'tShoujo',
 			'tVillainess',
-			'tFavoriteAnime',
 		],
 		[
 			'TenseiAkujoNoKuroRekishi-OP1',
@@ -172,7 +173,7 @@ const animeList = [
 			'ワンダンス',
 		],
 		[ 1099, 11 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tPerformingArts',
 			'tSchool',
@@ -182,6 +183,7 @@ const animeList = [
 		[
 			'WanDance-OP1',
 			'WanDance-ED1',
+			'WanDance-ED1v2',
 		]
 	),
 	new Anime(
@@ -192,10 +194,9 @@ const animeList = [
 			"A Mangaka's Weirdly Wonderful Workplace",
 		],
 		[ 2698 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tAdultCast',
-			'tCGDCT',
 			'tComedy',
 			'tOtakuCulture',
 			'tWorkplace',
@@ -240,17 +241,19 @@ const animeList = [
 			"My Status as an Assassin Obviously Exceeds the Hero's",
 		],
 		[ 14 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
 			'tFantasy',
 			'tIsekai',
-			'tFavoriteAnime',
 		],
 		[
 			'Sutetsuyo-OP1',
+			'Sutetsuyo-OP1v2',
 			'Sutetsuyo-ED1',
+			'Sutetsuyo-ED1v2',
+			'Sutetsuyo-ED2',
 		]
 	),
 	new Anime(
@@ -261,7 +264,7 @@ const animeList = [
 			'Hands Off: Sawaranaide Kotesashi-kun',
 		],
 		[ 2314 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 2,
 		[
 			'tEcchi',
 			'tHarem',
@@ -281,7 +284,7 @@ const animeList = [
 			'Alma-chan Wants to Be a Family!',
 		],
 		[ 1693 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tChildcare',
 			'tComedy',
@@ -303,7 +306,7 @@ const animeList = [
 			"Dad is a Hero, Mom is a Spirit, I'm a Reincarnator",
 		],
 		[ 7 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -323,7 +326,7 @@ const animeList = [
 			'Mechanical Marie',
 		],
 		[ 2527, 1379 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -344,14 +347,13 @@ const animeList = [
 			'Tojima Wants to Be a Kamen Rider',
 		],
 		[ 839 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 1, 2,
 		[
 			'tAction',
 			'tAdultCast',
 			'tComedy',
 			'tSeinen',
 			'tSuperPower',
-			'tFavoriteAnime',
 		],
 		[
 			'TojimaRider-OP1',
@@ -366,7 +368,7 @@ const animeList = [
 			'Touring After the Apocalypse',
 		],
 		[ 852 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tAdventure',
 			'tSciFi',
@@ -388,7 +390,7 @@ const animeList = [
 			"My Friend's Little Sister Has It In for Me!",
 		],
 		[ 1547 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tComedy',
 			'tFavoriteAnime',
@@ -408,7 +410,7 @@ const animeList = [
 			'The Banished Court Magician Aims to Become the Strongest',
 		],
 		[ 2554 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -429,7 +431,7 @@ const animeList = [
 			'Inexpressive Kashiwada and Expressive Oota',
 		],
 		[ 2828 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
@@ -447,7 +449,7 @@ const animeList = [
 			'Sanda',
 		],
 		[ 1591 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tMystery',
@@ -469,8 +471,9 @@ const animeList = [
 			'しゃばけ',
 		],
 		[ 1258 ],
-		0, 3, 2025, 7, 0, 0,
+		0, 3, 2025, 7, 0, 2,
 		[
+			'tDrama',
 			'tHistorical',
 			'tMystery',
 			'tMythology',
@@ -490,7 +493,7 @@ const animeList = [
 			'May I Ask for One Final Thing?',
 		],
 		[ 839 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tComedy',
@@ -498,6 +501,7 @@ const animeList = [
 			'tRomance',
 			'tVillainess',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		],
 		[
 			'Saihito-OP1',
@@ -512,7 +516,7 @@ const animeList = [
 			"My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I'm Out for Revenge!",
 		],
 		[ 7 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -532,7 +536,7 @@ const animeList = [
 			'My Awkward Senpai',
 		],
 		[ 1521 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tAdultCast',
 			'tComedy',
@@ -554,12 +558,11 @@ const animeList = [
 			'A Star Brighter Than the Sun',
 		],
 		[ 1997 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tRomance',
 			'tSchool',
 			'tShoujo',
-			'tFavoriteAnime',
 		],
 		[
 			'Tamahoshi-OP1',
@@ -573,7 +576,7 @@ const animeList = [
 			'ポーション、わが身を助ける',
 		],
 		[ 2983, 2844 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tFantasy',
 			'tIsekai',
@@ -591,7 +594,7 @@ const animeList = [
 			'Pass the Monster Meat, Milady!',
 		],
 		[ 406 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tFantasy',
 			'tGourmet',
@@ -611,17 +614,18 @@ const animeList = [
 			'This Monster Wants to Eat Me',
 		],
 		[ 1813 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tDrama',
 			'tSeinen',
 			'tSupernatural',
 			'tYuri',
-			'tFavoriteAnime',
+			'tMythology',
 		],
 		[
 			'Watatabe-OP1',
 			'Watatabe-ED1',
+			'Watatabe-ED1v2',
 			'Watatabe-ED2',
 		]
 	),
@@ -633,10 +637,10 @@ const animeList = [
 			"Let's Play",
 		],
 		[ 28 ],
-		0, 3, 2025, 11, 0, 0,
+		0, 3, 2025, 11, 0, 1,
 		[
 			'tAdultCast',
-			'tComedy',
+			'tDrama',
 			'tRomance',
 		],
 		[
@@ -652,12 +656,11 @@ const animeList = [
 			"Yano-kun's Ordinary Days",
 		],
 		[ 30 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 1,
 		[
 			'tComedy',
 			'tRomance',
 			'tSchool',
-			'tFavoriteAnime',
 		],
 		[
 			'YanoKun-OP1',
@@ -672,7 +675,7 @@ const animeList = [
 			"A Gatherer's Adventure in Isekai",
 		],
 		[ 118, 103 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -691,7 +694,7 @@ const animeList = [
 			'A Wild Last Boss Appeared!',
 		],
 		[ 318 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -712,12 +715,12 @@ const animeList = [
 			'Dusk Beyond the End of the World',
 		],
 		[ 132 ],
-		0, 3, 2025, 4, 0, 0,
+		0, 3, 2025, 4, 1, 1,
 		[
 			'tRomance',
 			'tSciFi',
-			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteEDSong',
 		],
 		[
 			'TowaNoYuugure-OP1',
@@ -736,7 +739,6 @@ const animeList = [
 		[
 			'tRomance',
 			'tSciFi',
-			'tFavoriteAnime',
 		],
 		[
 			'TowaNoYuugure-ED1',
@@ -750,7 +752,7 @@ const animeList = [
 			'Hero Without a Class: Who Even Needs Skills?!',
 		],
 		[ 1209 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -1048,7 +1050,7 @@ const animeList = [
 			'桃源暗鬼',
 		],
 		[ 101 ],
-		0, 2, 2025, 0, 1, 0,
+		0, 2, 2025, 0, 1, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -1070,11 +1072,12 @@ const animeList = [
 			'Solo Camping for Two',
 		],
 		[ 118 ],
-		0, 2, 2025, 0, 0, 0,
+		0, 2, 2025, 0, 0, 1,
 		[
 			'tAdultCast',
 			'tSeinen',
 			'tSliceofLife',
+			'tGourmet',
 			'tFavoriteEDSong',
 		],
 		[
@@ -1184,7 +1187,6 @@ const animeList = [
 			'tShounen',
 			'tSurvival',
 			'tSuspense',
-			'tFavoriteAnime',
 		],
 		[
 			'Nyailivi-OP1',
@@ -1218,7 +1220,7 @@ const animeList = [
 			'ガチアクタ',
 		],
 		[ 3045 ],
-		0, 2, 2025, 0, 0, 0,
+		0, 2, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tFantasy',
@@ -1327,7 +1329,7 @@ const animeList = [
 			'Apocalypse Bringer Mynoghra: World Conquest Starts with the Civilization of Ruin',
 		],
 		[ 1978 ],
-		0, 2, 2025, 1, 1, 1,
+		0, 2, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tFantasy',
@@ -1354,6 +1356,7 @@ const animeList = [
 			'tMystery',
 			'tRomance',
 			'tSchool',
+			'tTimeTravel',
 		],
 		[
 			'9NineRulersCrown-OP1',
@@ -1368,13 +1371,14 @@ const animeList = [
 			"Watari-kun's ****** Is about to Collapse",
 		],
 		[ 2405 ],
-		0, 2, 2025, 0, 0, 0,
+		0, 2, 2025, 0, 0, 1,
 		[
 			'tComedy',
 			'tDrama',
 			'tRomance',
 			'tSchool',
 			'tSeinen',
+			'tLovePolygon',
 		],
 		[
 			'WatariKunNoxxGaHoukaiSunzen-OP1',
@@ -1441,8 +1445,8 @@ const animeList = [
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong_2',
 			'tFavoriteEDVisual_1',
-			'tFavoriteEDVisual_2',
 		],
 		[
 			'KaoruHana-OP1',
@@ -1602,7 +1606,6 @@ const animeList = [
 		0, 2, 2025, 1, 0, 1,
 		[
 			'tAdventure',
-			'tAdultCast',
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
@@ -1706,6 +1709,9 @@ const animeList = [
 		0, 2, 2025, 4, 0, 1,
 		[
 			'tVideoGame',
+			'tSupernatural',
+			'tSuspense',
+			'tHighStakesGame',
 		],
 		[
 			'Necronomico-OP1',
@@ -1727,6 +1733,7 @@ const animeList = [
 			'tFavoriteAnime',
 			'tMystery',
 			'tSeinen',
+			'tGagHumor',
 		],
 		[
 			'Mattan-OP1',
@@ -3668,7 +3675,7 @@ const animeList = [
 			'Let This Grieving Soul Retire Cour 2',
 		],
 		[ 1379 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAction',
 			'tAdventure',
@@ -5678,7 +5685,7 @@ const animeList = [
 			'Tales of Wedding Rings Season 2',
 		],
 		[ 2405 ],
-		0, 3, 2025, 0, 2, 0,
+		0, 3, 2025, 0, 2, 2,
 		[
 			'tAction',
 			'tEcchi',
@@ -7511,11 +7518,12 @@ const animeList = [
 			'The Blue Orchestra Season 2',
 		],
 		[ 22 ],
-		0, 3, 2025, 2, 0, 0,
+		0, 3, 2025, 2, 0, 2,
 		[
 			'tDrama',
 			'tMusic',
 			'tSchool',
+			'tPerformingArts',
 		],
 		[
 			'AoNoOrchestraS2-OP1',
@@ -7535,6 +7543,7 @@ const animeList = [
 			'tDrama',
 			'tMusic',
 			'tSchool',
+			'tPerformingArts',
 			'tFavoriteOPSong',
 			'tFavoriteOPVisual',
 		],
@@ -8594,7 +8603,7 @@ const animeList = [
 			'Campfire Cooking in Another World with My Absurd Skill Season 2',
 		],
 		[ 569 ],
-		0, 3, 2025, 1, 0, 0,
+		0, 3, 2025, 1, 0, 1,
 		[
 			'tAdventure',
 			'tComedy',
@@ -9343,7 +9352,7 @@ const animeList = [
 			'異世界かるてっと3',
 		],
 		[ 443 ],
-		0, 3, 2025, 4, 0, 0,
+		0, 3, 2025, 4, 0, 1,
 		[
 			'tComedy',
 			'tFantasy',
@@ -22110,7 +22119,7 @@ const animeList = [
 			'Spy x Family Season 3',
 		],
 		[ 1835, 858 ],
-		0, 3, 2025, 0, 0, 0,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tAction',
 			'tChildcare',
@@ -22596,7 +22605,7 @@ const animeList = [
 			'One-Punch Man Season 3',
 		],
 		[ 7 ],
-		0, 3, 2025, 2, 1, 0,
+		0, 3, 2025, 2, 1, 1,
 		[
 			'tAction',
 			'tAdultCast',
