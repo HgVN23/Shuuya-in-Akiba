@@ -500,8 +500,8 @@ const studioList = [
 		''
 	),
 	new Studio(
-		1997, 'Studio Kai',
-		'0dd31a16-97e4-44af-9bd8-76c3ab8fc307'
+		1997, 'Studio KAI',
+		'9fc568e4-15a4-4c9f-9f87-85411641d3cb'
 	),
 	new Studio(
 		2097, 'HORNETS',
@@ -669,7 +669,7 @@ const studioList = [
 	),
 	new Studio(
 		2725, 'CompTown',
-		''
+		'09a6e4bf-b774-4f88-ab16-ef77e97749f4'
 	),
 	new Studio(
 		753, 'PRA',
@@ -758,6 +758,26 @@ const studioList = [
 	new Studio(
 		3192, 'Studio Graph77',
 		'28ef4279-d42d-49c3-9385-4f2fbba48ea8'
+	),
+	new Studio(
+		3094, 'animation studio42',
+		'a065636f-428c-440c-9da0-0bec5040fd32'
+	),
+	new Studio(
+		2663, "Rock'n Roll Mountain",
+		'220d403b-8308-4344-b817-399c9f83e217'
+	),
+	new Studio(
+		3044, 'Bellnox Films',
+		'0e7589df-6d29-4722-b631-e18cb50dab3b'
+	),
+	new Studio(
+		2288, 'Qzil.la',
+		'dc1b5945-4945-4b07-84b1-43778901de89'
+	),
+	new Studio(
+		3273, 'Atelier Peuplier',
+		'0a2fc12c-d58d-4cc9-8aba-693818a4158b'
 	),
 	/*new Studio(
 		, '',

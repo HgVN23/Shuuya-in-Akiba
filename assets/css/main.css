@@ -428,6 +428,7 @@ header {
 	.rMangaDex { content: url(../media/icon/mangaDex.png); }
 	.rMangaFire { content: url(../media/icon/mangaFire.png); }
 	.rMangaReader { content: url(../media/icon/mangaReader.png); }
+	.rNinoyo { content: url(../media/icon/ninoyo.png); }
 
 	.vid-btn {
 		background-color: var(--blue);

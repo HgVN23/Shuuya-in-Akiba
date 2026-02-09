@@ -141,17 +141,18 @@ function renderInfo(anime) {
 				<div class="box glass">
 					<div class="division">Related:</div>
 					<div class="d-flex flex-wrap gap-05r">
-						<a class="rImg rAnimeVietsub" href='https://animevietsub.run/tim-kiem/${searchType2}/' target="_blank" alt="Anime Vietsub"></a>
-						<a class="rImg rMangaDex" href='https://mangadex.org/search?q=${searchType2}&tab=titles' target="_blank" alt="MangaDex"></a>
-						<a class="rImg rMAL" href='https://myanimelist.net/anime.php?q=${searchType1}&sy=${year}' target="_blank" alt="MyAnimeList"></a>
-						<a class="rImg rAniPlayList" href='https://aniplaylist.com/${searchType3}?types=Opening~Ending${fSeason}&platforms=Spotify' target="_blank" alt="AniPlayList"></a>
-						<a class="rImg rAnimeThemes" href='https://animethemes.moe/search/anime?q=${searchType2}' target="_blank" alt="AnimeThemes"></a>
-						<a class="rImg rAniList" href='https://anilist.co/search/anime?year=${year}&season=${seasonList[season].toUpperCase()}&search=${searchType1}' target="_blank" alt="AniList"></a>
-						<a class="rImg rOP" href='https://www.youtube.com/results?search_query=${song}+OP' target="_blank" alt="Visual Opening"></a>
-						<a class="rImg rED" href='https://www.youtube.com/results?search_query=${song}+ED' target="_blank" alt="Visual Ending"></a>
-						<a class="rImg rAnimeNana" href='https://animenana.com/search/?key=${searchType2}' target="_blank" alt="Anime Nana"></a>
-						<a class="rImg rMangaFire" href='https://mangafire.to/filter?keyword=${searchType2}' target="_blank" alt="MangaFire"></a>
-						<a class="rImg rMangaReader" href='https://mangareader.to/search?keyword=${searchType2}' target="_blank" alt="MangaReader"></a>
+						${related('rAnimeVietsub', `animevietsub.run/tim-kiem/${searchType2}/`, 'Anime Vietsub')}
+						${related('rMangaDex', `mangadex.org/search?q=${searchType2}&tab=titles`, 'MangaDex')}
+						${related('rMAL', `myanimelist.net/anime.php?q=${searchType1}&sy=${year}`, 'MyAnimeList')}
+						${related('rAniPlayList', `aniplaylist.com/${searchType3}?types=Opening~Ending${fSeason}&platforms=Spotify`, 'AniPlayList')}
+						${related('rAnimeThemes', `animethemes.moe/search/anime?q=${searchType2}`, 'AnimeThemes')}
+						${related('rAniList', `anilist.co/search/anime?year=${year}&season=${seasonList[season].toUpperCase()}&search=${searchType1}`, 'AniList')}
+						${related('rOP', `youtube.com/results?search_query=${song}+OP`, 'Visual Opening')}
+						${related('rED', `youtube.com/results?search_query=${song}+ED`, 'Visual Ending')}
+						${related('rAnimeNana', `animenana.com/search/?key=${searchType2}`, 'Anime Nana')}
+						${related('rMangaFire', `mangafire.to/filter?keyword=${searchType2}`, 'MangaFire')}
+						${related('rMangaReader', `mangareader.to/search?keyword=${searchType2}`, 'MangaReader')}
+						${related('rNinoyo', `ninoyo.com/search?s=${searchType1}`, 'Ninoyo')}
 					</div>
 				</div>
 				<div class="box glass">
@@ -211,4 +212,10 @@ function showToast(message, duration = 3000) {
 		toast.classList.add('hide');
 		setTimeout(() => toast.remove(), 500);
 	}, duration);
+}
+
+function related(rClass, web, alt) {
+	return `
+		<a class="rImg ${rClass}" href='https://${web}' target="_blank" alt="${alt}"></a>
+	`;
 }

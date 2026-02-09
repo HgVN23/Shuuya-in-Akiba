@@ -23,11 +23,683 @@ const animeList = [
 			'',
 		],
 		[  ],
-		0, 3, 2025, 1, 0, 0,
+		0, 0, 2026, 1, 0, 0,
 		[
 			't',
 		]
 	),*/
+	new Anime(
+		'1383/151284',
+		[
+			'Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru',
+			'悪役令嬢は隣国の王太子に溺愛される',
+			'The Villainess Is Adored by the Prince of the Neighbor Kingdom',
+		],
+		[ 37 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tFantasy',
+			'tRomance',
+			'tShoujo',
+			'tVillainess',
+		],
+		[
+			'Akudeki-OP1',
+			'Akudeki-ED1',
+		]
+	),
+	new Anime(
+		'1999/154569',
+		[
+			'Uruwashi no Yoi no Tsuki',
+			'うるわしの宵の月',
+			'In the Clear Moonlit Dusk',
+		],
+		[ 2455, 3273 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tRomance',
+			'tSchool',
+			'tShoujo',
+		],
+		[
+			'UruwashiNoYoiNoTsuki-OP1',
+			'UruwashiNoYoiNoTsuki-ED1',
+		]
+	),
+	new Anime(
+		'1194/153705',
+		[
+			'Kaya-chan wa Kowakunai',
+			'カヤちゃんはコワくない',
+			"Kaya-chan Isn't Scary",
+		],
+		[ 2455 ],
+		0, 0, 2026, 2, 0, 0,
+		[
+			'tSchool',
+			'tSupernatural',
+		],
+		[
+			'KayaChanWaKowakunai-OP1',
+			'KayaChanWaKowakunai-ED1',
+		]
+	),
+	new Anime(
+		'1140/154457',
+		[
+			'Seihantai na Kimi to Boku',
+			'正反対な君と僕',
+			'You and I Are Polar Opposites',
+		],
+		[ 1828 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPVisual',
+		],
+		[
+			'SeihantaiNaKimiToBoku-OP1',
+			'SeihantaiNaKimiToBoku-ED1',
+		]
+	),
+	new Anime(
+		'1387/154934',
+		[
+			'Jingai Kyoushitsu no Ningengirai Kyoushi',
+			'人外教室の人間嫌い教師',
+			'A Misanthrope Teaches a Class for Demi-Humans',
+		],
+		[ 163 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tDrama',
+			'tSchool',
+			'tSupernatural',
+			'tWorkplace',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'JingaiKyoushitsu-OP1',
+			'JingaiKyoushitsu-ED1',
+		]
+	),
+	new Anime(
+		'1821/154043',
+		[
+			'Yuusha no Kuzu',
+			'勇者のクズ',
+			'Scum of the Brave',
+		],
+		[ 28 ],
+		0, 0, 2026, 2, 0, 0,
+		[
+			'tAction',
+			'tOrganizedCrime',
+			'tSciFi',
+			'tSuperPower',
+			'tFavoriteAnime',
+		],
+		[
+			'YuushaNoKuzu-OP1',
+			'YuushaNoKuzu-ED1',
+		]
+	),
+	new Anime(
+		'1622/154192',
+		[
+			'Dead Account',
+			'デッドアカウント',
+		],
+		[ 118 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tAction',
+			'tShounen',
+			'tSupernatural',
+			'tFavoriteAnime',
+		],
+		[
+			'DeadAccount-OP1',
+			'DeadAccount-ED1',
+		]
+	),
+	new Anime(
+		'1031/154235',
+		[
+			'Tensei shitara Dragon no Tamago datta',
+			'転生したらドラゴンの卵だった',
+			'Reincarnated as a Dragon Hatchling',
+		],
+		[ 1440, 2387 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'DoraTama-OP1',
+			'DoraTama-ED1',
+		]
+	),
+	new Anime(
+		'1151/152479',
+		[
+			'Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru',
+			'ヘルモード ～やり込み好きのゲーマーは廃設定の異世界で無双する～',
+			'Hell Mode: The Hardcore Gamer Dominates in Another World with Garbage Balancing',
+		],
+		[ 1687 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+		],
+		[
+			'HellMode-OP1',
+			'HellMode-ED1',
+		]
+	),
+	new Anime(
+		'1499/152613',
+		[
+			'Champignon no Majo',
+			'シャンピニオンの魔女',
+			'Champignon Witch',
+		],
+		[ 2288, 1340 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tFavoriteAnime',
+		],
+		[
+			'ChampignonNoMajo-OP1',
+			'ChampignonNoMajo-ED1',
+		]
+	),
+	new Anime(
+		'1360/153435',
+		[
+			'"Omae Gotoki ga Maou ni Kateru to Omouna" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai',
+			'「お前ごときが魔王に勝てると思うな」と勇者パーティを追放されたので、王都で気ままに暮らしたい',
+			'Roll Over and Die',
+		],
+		[ 179 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tYuri',
+			'tFavoriteAnime',
+		],
+		[
+			'OmaGoto-OP1',
+			'OmaGoto-ED1',
+			'OmaGoto-ED1v2',
+			'OmaGoto-ED1v3',
+		]
+	),
+	new Anime(
+		'1033/152494',
+		[
+			'Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari',
+			'透明男と人間女～そのうち夫婦になるふたり～',
+			'The Invisible Man and His Soon-to-Be Wife',
+		],
+		[ 439 ],
+		0, 0, 2026, 2, 0, 0,
+		[
+			'tAdultCast',
+			'tFantasy',
+			'tRomance',
+			'tUrbanFantasy',
+			'tWorkplace',
+			'tFavoriteAnime',
+		],
+		[
+			'ToumeiOtokoToNingenOnna-OP1',
+			'ToumeiOtokoToNingenOnna-ED1',
+		]
+	),
+	new Anime(
+		'1404/154931',
+		[
+			'Eris no Seihai',
+			'エリスの聖杯',
+			'The Holy Grail of Eris',
+		],
+		[ 242 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tMystery',
+			'tSupernatural',
+			'tVillainess',
+			'tFavoriteAnime',
+		],
+		[
+			'ErisNoSeihai-OP1',
+			'ErisNoSeihai-ED1',
+		]
+	),
+	new Anime(
+		'1968/152396',
+		[
+			'Odayaka Kizoku no Kyuuka no Susume.',
+			'穏やか貴族の休暇のすすめ。',
+			"A Gentle Noble's Vacation Recommendation",
+		],
+		[ 118 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tSliceofLife',
+		],
+		[
+			'OdayakaKizoku-OP1',
+			'OdayakaKizoku-ED1',
+		]
+	),
+	new Anime(
+		'1215/153630',
+		[
+			'Shibou Yuugi de Meshi wo Kuu.',
+			'死亡遊戯で飯を食う。',
+			'Shiboyugi: Playing Death Games to Put Food on the Table',
+		],
+		[ 37 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAction',
+			'tHighStakesGame',
+			'tSuspense',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+		],
+		[
+			'ShibouYuugi-OP1',
+			'ShibouYuugi-ED1',
+			'ShibouYuugi-ED2',
+		]
+	),
+	new Anime(
+		'1341/152829',
+		[
+			'Darwin Jihen',
+			'ダーウィン事変',
+			'The Darwin Incident',
+		],
+		[ 3044 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tSciFi',
+			'tSeinen',
+		],
+		[
+			'DarwinJihen-OP1',
+			'DarwinJihen-ED1',
+		]
+	),
+	new Anime(
+		'1765/154087',
+		[
+			'29-sai Dokushin Chuuken Boukensha no Nichijou',
+			'29歳独身中堅冒険者の日常',
+			"An Adventurer's Daily Grind at Age 29",
+		],
+		[ 2097 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tAdventure',
+			'tFantasy',
+			'tShounen',
+		],
+		[
+			'29SaiDokushinChuukenBoukenshaNoNichijou-OP1',
+			'29SaiDokushinChuukenBoukenshaNoNichijou-ED1',
+		]
+	),
+	new Anime(
+		'1264/153908',
+		[
+			'Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni',
+			'お気楽領主の楽しい領地防衛～生産系魔術で名もなき村を最強の城塞都市に～',
+			'Easygoing Territory Defense by the Optimistic Lord: Production Magic Turns a Nameless Village into the Strongest Fortified City',
+		],
+		[ 951 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tFavoriteAnime',
+		],
+		[
+			'OkirakuRyoushu-OP1',
+			'OkirakuRyoushu-ED1',
+			'OkirakuRyoushu-ED1v2',
+		]
+	),
+	new Anime(
+		'1112/152731',
+		[
+			'Arne no Jikenbo',
+			'アルネの事件簿',
+			'The Case Book of Arne',
+		],
+		[ 300 ],
+		0, 0, 2026, 8, 0, 0,
+		[
+			'tFantasy',
+			'tMystery',
+			'tVampire',
+		],
+		[
+			'ArneNoJikenbo-OP1',
+			'ArneNoJikenbo-OP1v2',
+			'ArneNoJikenbo-ED1',
+		]
+	),
+	new Anime(
+		'1160/154083',
+		[
+			'Maou no Musume wa Yasashisugiru!!',
+			'魔王の娘は優しすぎる!!',
+			"The Demon King's Daughter Is Too Kind!!",
+		],
+		[ 1264 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tChildcare',
+			'tComedy',
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'MaouNoMusumeWaYasashiSugiru-OP1',
+			'MaouNoMusumeWaYasashiSugiru-ED1',
+		]
+	),
+	new Anime(
+		'1769/152823',
+		[
+			'Mayonaka Heart Tune',
+			'真夜中ハートチューン',
+			'Tune In to the Midnight Heart',
+		],
+		[ 2554 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tSchool',
+			'tShowbiz',
+			'tFavoriteAnime',
+		],
+		[
+			'MayonakaHeartTune-OP1',
+			'MayonakaHeartTune-ED1',
+		]
+	),
+	new Anime(
+		'1573/152828',
+		[
+			'Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.',
+			'勇者パーティーにかわいい子がいたので、告白してみた。',
+			"There was a Cute Girl in the Hero's Party, so I Tried Confessing to Her",
+		],
+		[ 2554 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tAdventure',
+			'tComedy',
+			'tFantasy',
+			'tIsekai',
+			'tReincarnation',
+			'tRomance',
+			'tFavoriteAnime',
+		],
+		[
+			'YuuKawa-OP1',
+			'YuuKawa-ED1',
+		]
+	),
+	new Anime(
+		'1729/153502',
+		[
+			'Osananajimi to wa Love Comedy ni Naranai',
+			'幼馴染とはラブコメにならない',
+			"You Can't Be In a Rom-Com with Your Childhood Friends!",
+		],
+		[ 200 ],
+		0, 0, 2026, 2, 0, 0,
+		[
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+		],
+		[
+			'Osalove-OP1',
+			'Osalove-ED1',
+		]
+	),
+	new Anime(
+		'1940/154234',
+		[
+			'Kirei ni Shitemoraemasu ka.',
+			'綺麗にしてもらえますか。',
+			'Wash It All Away',
+		],
+		[ 2037 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tSeinen',
+			'tSliceofLife',
+			'tFavoriteAnime',
+		],
+		[
+			'KireiNiShitemoraemasuKa-OP1',
+			'KireiNiShitemoraemasuKa-ED1',
+		]
+	),
+	new Anime(
+		'1791/154233',
+		[
+			'Ikoku Nikki',
+			'違国日記',
+			'Journal with Witch',
+		],
+		[ 1119 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tDrama',
+			'tJosei',
+			'tFavoriteAnime',
+		],
+		[
+			'IkokuNikki-OP1',
+			'IkokuNikki-ED1',
+		]
+	),
+	new Anime(
+		'1490/152041',
+		[
+			'Hanazakari no Kimitachi e',
+			'花ざかりの君たちへ',
+			'Hana-Kimi',
+		],
+		[ 1278 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tCrossdressing',
+			'tLovePolygon',
+			'tRomance',
+			'tSchool',
+			'tShoujo',
+			'tFavoriteOPSong',
+			'tFavoriteEDSong',
+		],
+		[
+			'Hanakimi-OP1',
+			'Hanakimi-ED1',
+		]
+	),
+	new Anime(
+		'1629/153722',
+		[
+			'Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru',
+			'貴族転生 ～恵まれた生まれから最強の力を得る～',
+			"Noble Reincarnation: Born Blessed, So I'll Obtain Ultimate Power",
+		],
+		[ 2725 ],
+		0, 0, 2026, 1, 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+		],
+		[
+			'KizokuTensei-OP1',
+			'KizokuTensei-ED1',
+		]
+	),
+	new Anime(
+		'1704/154459',
+		[
+			'Majutsushi Kunon wa Mieteiru',
+			'魔術師クノンは見えている',
+			'Kunon the Sorcerer Can See',
+		],
+		[ 1471 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'MajutsushiKunonWaMieteiru-OP1',
+			'MajutsushiKunonWaMieteiru-ED1',
+		]
+	),
+	new Anime(
+		'1721/153380',
+		[
+			'Goumon Baito-kun no Nichijou',
+			'拷問バイトくんの日常',
+			'The Daily Life of a Part-time Torturer',
+		],
+		[ 51 ],
+		0, 0, 2026, 2, 0, 0,
+		[
+			'tAdultCast',
+			'tComedy',
+			'tWorkplace',
+		],
+		[
+			'GoumonBaitoKun-OP1',
+			'GoumonBaitoKun-ED1',
+		]
+	),
+	new Anime(
+		'1062/151911',
+		[
+			'Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku',
+			'勇者刑に処す 懲罰勇者9004隊刑務記録',
+			'Sentenced to Be a Hero',
+		],
+		[ 1997 ],
+		0, 0, 2026, 1, 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'YuushakeiNiShosu-OP1',
+		]
+	),
+	new Anime(
+		'1259/151080',
+		[
+			'Hyakuemu.',
+			'ひゃくえむ。',
+			'100 Meters',
+		],
+		[ 2663 ],
+		4, 2, 2025, 2, 0, 1,
+		[
+			'tDrama',
+			'tSports',
+			'tFavoriteAnime',
+		],
+		[
+			'Hyakuemu-OP1',
+			'Hyakuemu-ED1',
+		]
+	),
+	new Anime(
+		'1474/153320',
+		[
+			'Tamon-kun Ima Docchi!?',
+			'多聞くん今どっち!?',
+			"Tamon's B-Side",
+		],
+		[ 7 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tIdol',
+			'tRomance',
+			'tShoujo',
+			'tFavoriteAnime',
+		],
+		[
+			'TamonKunImaDocchi-OP1',
+			'TamonKunImaDocchi-ED1',
+		]
+	),
+	new Anime(
+		'1486/153135',
+		[
+			'Yuusha Party wo Oidasareta Kiyoubinbou',
+			'勇者パーティを追い出された器用貧乏',
+			'Jack-of-All-Trades, Party of None',
+		],
+		[ 3094 ],
+		0, 0, 2026, 1, 0, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tFavoriteAnime',
+		],
+		[
+			'YuushaPartyWoOidasaretaKiyouBinbou-OP1',
+			'YuushaPartyWoOidasaretaKiyouBinbou-ED1',
+		]
+	),
 	new Anime(
 		'1864/151837',
 		[
@@ -126,6 +798,7 @@ const animeList = [
 			'tSuspense',
 			'tTimeTravel',
 			'tSpace',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -136,7 +809,7 @@ const animeList = [
 			'Forget That Night, Your Majesty',
 		],
 		[ 2983, 2844 ],
-		0, 3, 2025, 0, 0, 2,
+		0, 3, 2025, 0, 0, 1,
 		[
 			'tFantasy',
 			'tRomance',
@@ -627,6 +1300,7 @@ const animeList = [
 			'Watatabe-ED1',
 			'Watatabe-ED1v2',
 			'Watatabe-ED2',
+			'Watatabe-ED3',
 		]
 	),
 	new Anime(
@@ -1108,6 +1782,23 @@ const animeList = [
 		[
 			'Mikadono-OP1',
 			'Mikadono-ED1',
+		]
+	),
+	new Anime(
+		'1129/152182',
+		[
+			'Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (※Muri ja Nakatta!?) (TV Special)',
+			'わたしが恋人になれるわけないじゃん、ムリムリ! (※ムリじゃなかった!?) ～ネクストシャイン！～',
+			"There's No Freaking Way I'll be Your Lover! Unless... ~Next Shine~",
+		],
+		[ 2246 ],
+		2, 0, 2026, 1, 0, 1,
+		[
+			'tComedy',
+			'tHarem',
+			'tSchool',
+			'tYuri',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -5498,6 +6189,27 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1272/153326',
+		[
+			'Himesama "Goumon" no Jikan desu 2nd Season',
+			'姫様“拷問”の時間です 第2期',
+			`'Tis Time for "Torture," Princess Season 2`,
+		],
+		[ 1295 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tGourmet',
+			'tShounen',
+			'tFavoriteAnime',
+		],
+		[
+			'HimesamaGoumonS2-OP1',
+			'HimesamaGoumonS2-ED1',
+		]
+	),
+	new Anime(
 		'1056/139398',
 		[
 			'Himesama "Goumon" no Jikan desu',
@@ -5836,6 +6548,27 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1668/148737',
+		[
+			'Mato Seihei no Slave 2',
+			'魔都精兵のスレイブ2',
+			'Chained Soldier Season 2',
+		],
+		[ 2370, 911 ],
+		0, 0, 2026, 0, 2, 0,
+		[
+			'tAction',
+			'tEcchi',
+			'tFantasy',
+			'tHarem',
+			'tShounen',
+		],
+		[
+			'MabotaiS2-OP1',
+			'MabotaiS2-ED1',
+		]
+	),
+	new Anime(
 		'1114/140805',
 		[
 			'Mato Seihei no Slave',
@@ -6090,6 +6823,23 @@ const animeList = [
 			'KusuriyaNoHitorigoto-OP2',
 			'KusuriyaNoHitorigoto-ED1',
 			'KusuriyaNoHitorigoto-ED2',
+		]
+	),
+	new Anime(
+		'1388/153772',
+		[
+			'Undead Unluck: Winter-hen',
+			'アンデッドアンラック ウィンター編',
+			'Undead Unluck: Winter Arc',
+		],
+		[ 2642 ],
+		2, 3, 2025, 0, 1, 1,
+		[
+			'tAction',
+			'tComedy',
+			'tSuperPower',
+			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
@@ -6681,6 +7431,31 @@ const animeList = [
 			'RagnaCrimson-OP2',
 			'RagnaCrimson-ED1',
 			'RagnaCrimson-ED2',
+		]
+	),
+	new Anime(
+		'1921/154528',
+		[
+			'Sousou no Frieren 2nd Season',
+			'葬送のフリーレン 第2期',
+			"Frieren: Beyond Journey's End Season 2",
+		],
+		[ 11 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tAdventure',
+			'tDrama',
+			'tFantasy',
+			'tShounen',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
+			'tFavoriteEDVisual',
+			'tFavoriteAnime',
+		],
+		[
+			'SousouNoFrierenS2-OP1',
+			'SousouNoFrierenS2-ED1',
 		]
 	),
 	new Anime(
@@ -7553,6 +8328,29 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1979/153329',
+		[
+			'[Oshi no Ko] 3rd Season',
+			'【推しの子】第3期',
+		],
+		[ 95 ],
+		0, 0, 2026, 0, 0, 0,
+		[
+			'tDrama',
+			'tReincarnation',
+			'tShowbiz',
+			'tSeinen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong_2',
+			'tFavoriteOPVisual_2',
+		],
+		[
+			'OshiNoKoS3-OP1',
+			'OshiNoKoS3-OP2',
+			'OshiNoKoS3-ED1',
+		]
+	),
+	new Anime(
 		'1006/143302',
 		[
 			'[Oshi no Ko] 2nd Season',
@@ -8068,7 +8866,6 @@ const animeList = [
 			'tMystery',
 			'tSciFi',
 			'tSeinen',
-			'tFavoriteEDSong',
 		],
 		[
 			'TengokuDaimakyou-OP1',
@@ -16810,6 +17607,30 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1112/150697',
+		[
+			'Kaguya-sama wa Kokurasetai: Otona e no Kaidan',
+			'かぐや様は告らせたい 大人への階段',
+			'Kaguya-sama: Love Is War -Stairway to Adulthood-',
+		],
+		[ 56 ],
+		2, 3, 2025, 0, 0, 1,
+		[
+			'tComedy',
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSeinen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'KaguyaSamaWaKokurasetaiOtonaENoKaidan-OP1',
+			'KaguyaSamaWaKokurasetaiOtonaENoKaidan-ED1',
+		]
+	),
+	new Anime(
 		'1670/130060',
 		[
 			'Kaguya-sama wa Kokurasetai: First Kiss wa Owaranai',
@@ -16947,6 +17768,21 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1134/148744',
+		[
+			'Kobayashi-san Chi no Maid Dragon: Samishigariya no Ryuu',
+			'小林さんちのメイドラゴン さみしがりやの竜',
+			"Miss Kobayashi's Dragon Maid: A Lonely Dragon Wants to be Loved",
+		],
+		[ 2 ],
+		4, 1, 2025, 0, 0, 1,
+		[
+			'tSliceofLife',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1557/137227',
 		[
 			'Kobayashi-san Chi no Maid Dragon S: Nippon no Omotenashi - Attend wa Dragon desu',
@@ -16971,7 +17807,7 @@ const animeList = [
 		[ 2 ],
 		0, 2, 2021, 0, 0, 1,
 		[
-			'tFantasy',
+			'tSupernatural',
 			'tSliceofLife',
 			'tFavoriteAnime',
 		],
