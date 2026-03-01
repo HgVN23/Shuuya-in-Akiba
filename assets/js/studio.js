@@ -779,6 +779,14 @@ const studioList = [
 		3273, 'Atelier Peuplier',
 		'0a2fc12c-d58d-4cc9-8aba-693818a4158b'
 	),
+	new Studio(
+		1033, 'Studio Colorido',
+		'09812f1b-2c12-4a7d-b7fa-a5d9c23b6a9e'
+	),
+	new Studio(
+		3226, 'Studio Chromato',
+		'862ca789-9715-48d1-9d90-5adb8e1c46bf'
+	),
 	/*new Studio(
 		, '',
 		''

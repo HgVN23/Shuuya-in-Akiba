@@ -29,6 +29,24 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'1758/153953',
+		[
+			'Chou Kaguya-hime!',
+			'超かぐや姫！',
+			'Cosmic Princess Kaguya!',
+		],
+		[ 3226, 1033 ],
+		3, 0, 2026, 4, 0, 1,
+		[
+			'tAction',
+			'tMusic',
+			'tMythology',
+			'tSciFi',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1383/151284',
 		[
 			'Akuyaku Reijou wa Ringoku no Outaishi ni Dekiai sareru',
@@ -319,7 +337,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1215/153630',
+		'1834/151169',
 		[
 			'Shibou Yuugi de Meshi wo Kuu.',
 			'死亡遊戯で飯を食う。',
@@ -399,7 +417,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1112/152731',
+		'1440/154894',
 		[
 			'Arne no Jikenbo',
 			'アルネの事件簿',
@@ -799,6 +817,10 @@ const animeList = [
 			'tTimeTravel',
 			'tSpace',
 			'tFavoriteAnime',
+		],
+		[
+			'Gnosia-OP1',
+			'Gnosia-ED1',
 		]
 	),
 	new Anime(
