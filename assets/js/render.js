@@ -151,8 +151,8 @@ function renderInfo(anime) {
 						${related('rED', `youtube.com/results?search_query=${song}+ED`, 'Visual Ending')}
 						${related('rAnimeNana', `animenana.com/search/?key=${searchType2}`, 'Anime Nana')}
 						${related('rMangaFire', `mangafire.to/filter?keyword=${searchType2}`, 'MangaFire')}
-						${related('rMangaReader', `mangareader.to/search?keyword=${searchType2}`, 'MangaReader')}
 						${related('rNinoyo', `ninoyo.com/search?s=${searchType1}`, 'Ninoyo')}
+						${related('r9Anime', `9animetv.to/search?keyword=${searchType2}`, '9Anime')}
 					</div>
 				</div>
 				<div class="box glass">

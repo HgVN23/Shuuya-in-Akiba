@@ -26,6 +26,7 @@ inputKV.addEventListener('change', () => {
 // === Populate Select Options ===
 selType.innerHTML = typeList.map((e, i) => `<option value="${i}">${e}</option>`).join('');
 selSeason.innerHTML = seasonList.map((e, i) => `<option value="${i}">${e}</option>`).join('');
+selSeason.value = [0,0,0,1,1,1,2,2,2,3,3,3][new Date().getMonth()];
 selYear.innerHTML = yearList.map(e => `<option value="${e}">${e}</option>`).join('');
 selSource.innerHTML = sourceList.map((e, i) => `<option value="${i}">${e}</option>`).join('');
 selRating.innerHTML = ratingList.map((e, i) => `<option value="${i}">${e}</option>`).join('');

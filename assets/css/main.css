@@ -125,7 +125,7 @@ header {
 	--size: 3rem;
 	width: var(--size);
 	height: var(--size);
-	content: url(../media/icon/logo.png);
+	content: url(../media/icon/logo.webp);
 	animation: jump 1.2s ease-in-out infinite;
 }
 @keyframes jump {
@@ -172,8 +172,8 @@ header {
 	.search {
 		transition: .3s;
 
-		.search-icon { content: url(../media/icon/search.png); }
-		.search-reset { content: url(../media/icon/close.png); }
+		.search-icon { content: url(../media/icon/search.webp); }
+		.search-reset { content: url(../media/icon/close.webp); }
 		
 		.search-input {
 			all: unset;
@@ -229,7 +229,7 @@ header {
 		cursor: pointer;
 
 		.filter-icon {
-			content: url(../media/icon/filter.png);
+			content: url(../media/icon/filter.webp);
 		}
 	}
 	.filter-btn:active {
@@ -335,9 +335,9 @@ header {
 		width: var(--size);
 		height: var(--size);
 	}
-	.sOngoing { content: url(../media/icon/status_ongoing.png); }
-	.sCompleted { content: url(../media/icon/status_completed.png); }
-	.sDropped { content: url(../media/icon/status_dropped.png); }
+	.sOngoing { content: url(../media/icon/status_ongoing.webp); }
+	.sCompleted { content: url(../media/icon/status_completed.webp); }
+	.sDropped { content: url(../media/icon/status_dropped.webp); }
 }
 .anime:hover {
 	transform: translateY(-8px);
@@ -417,18 +417,19 @@ header {
 		height: var(--size);
 		border-radius: 30%;
 	}
-	.rOP { content: url(../media/icon/OP.png); }
-	.rED { content: url(../media/icon/ED.png); }
-	.rAniList { content: url(../media/icon/aniList.png); }
-	.rAnimeNana { content: url(../media/icon/animeNana.png); }
-	.rAnimeThemes { content: url(../media/icon/animeThemes.png); }
-	.rAnimeVietsub { content: url(../media/icon/animeVietsub.png); }
-	.rAniPlayList { content: url(../media/icon/aniPlayList.png); }
-	.rMAL { content: url(../media/icon/mal.png); }
-	.rMangaDex { content: url(../media/icon/mangaDex.png); }
-	.rMangaFire { content: url(../media/icon/mangaFire.png); }
-	.rMangaReader { content: url(../media/icon/mangaReader.png); }
-	.rNinoyo { content: url(../media/icon/ninoyo.png); }
+	.rOP { content: url(../media/icon/OP.webp); }
+	.rED { content: url(../media/icon/ED.webp); }
+	.rAniList { content: url(../media/icon/aniList.webp); }
+	.rAnimeNana { content: url(../media/icon/animeNana.webp); }
+	.rAnimeThemes { content: url(../media/icon/animeThemes.webp); }
+	.rAnimeVietsub { content: url(../media/icon/animeVietsub.webp); }
+	.rAniPlayList { content: url(../media/icon/aniPlayList.webp); }
+	.rMAL { content: url(../media/icon/mal.webp); }
+	.rMangaDex { content: url(../media/icon/mangaDex.webp); }
+	.rMangaFire { content: url(../media/icon/mangaFire.webp); }
+	.rMangaReader { content: url(../media/icon/mangaReader.webp); }
+	.rNinoyo { content: url(../media/icon/ninoyo.webp); }
+	.r9Anime { content: url(../media/icon/9anime.webp); }
 
 	.vid-btn {
 		background-color: var(--blue);
@@ -465,7 +466,7 @@ header {
 		filter: brightness(1);
 	}
 	.left {
-		content: url(../media/icon/left.png);
+		content: url(../media/icon/left.webp);
 	}
 	.left:hover {
 		animation: left 1s infinite;
@@ -475,7 +476,7 @@ header {
 		50% { transform: translateX(-5px); }
 	}
 	.right {
-		content: url(../media/icon/right.png);
+		content: url(../media/icon/right.webp);
 	}
 	.right:hover {
 		animation: right 1s infinite;

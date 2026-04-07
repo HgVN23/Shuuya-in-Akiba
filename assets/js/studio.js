@@ -733,7 +733,7 @@ const studioList = [
 	),
 	new Studio(
 		2983, 'Imageworks Studio',
-		''
+		'74ff5f61-e437-498a-b808-f652c1c718a2'
 	),
 	new Studio(
 		2240, 'Studio Daisy',
@@ -786,6 +786,22 @@ const studioList = [
 	new Studio(
 		3226, 'Studio Chromato',
 		'862ca789-9715-48d1-9d90-5adb8e1c46bf'
+	),
+	new Studio(
+		537, 'SANZIGEN',
+		'6921c34e-b14f-458e-beb8-9d2d2726002e'
+	),
+	new Studio(
+		3173, 'BENTEN Film',
+		'0824aca7-6580-41ad-b6ad-465b798e604e'
+	),
+	new Studio(
+		3230, 'Juvenage',
+		'4cd45f53-b3c0-4ba9-a01e-03f52431bc04'
+	),
+	new Studio(
+		3078, 'Studio LEO',
+		''
 	),
 	/*new Studio(
 		, '',
