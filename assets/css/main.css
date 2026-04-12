@@ -69,6 +69,7 @@ header {
 .justify-content-center { justify-content: center; }
 .justify-content-between { justify-content: space-between; }
 .justify-content-end { justify-content: end; }
+.justify-self-center { justify-self: center; }
 .align-items-center { align-items: center; }
 .gap-03r { gap: .3rem; }
 .gap-05r { gap: .5rem; }
@@ -100,6 +101,7 @@ header {
 .text-center { text-align: center; }
 .text-shadow-1 { text-shadow: 0 .2rem .1rem black }
 .z-index-1 { z-index: 1; }
+
 
 
 .video-bg {
@@ -307,7 +309,7 @@ header {
 
 .anime-list {
 	max-width: var(--max-w);
-	margin: 1rem auto 4rem auto;
+	margin: 1rem auto;
 	display: grid;
 	grid-gap: var(--gap);
 	grid-template-columns: repeat(auto-fit, var(--kv-width));
@@ -411,26 +413,6 @@ header {
 		transition: .3s;
 	}
 
-	.rImg {
-		--size: 3rem;
-		width: var(--size);
-		height: var(--size);
-		border-radius: 30%;
-	}
-	.rOP { content: url(../media/icon/OP.webp); }
-	.rED { content: url(../media/icon/ED.webp); }
-	.rAniList { content: url(../media/icon/aniList.webp); }
-	.rAnimeNana { content: url(../media/icon/animeNana.webp); }
-	.rAnimeThemes { content: url(../media/icon/animeThemes.webp); }
-	.rAnimeVietsub { content: url(../media/icon/animeVietsub.webp); }
-	.rAniPlayList { content: url(../media/icon/aniPlayList.webp); }
-	.rMAL { content: url(../media/icon/mal.webp); }
-	.rMangaDex { content: url(../media/icon/mangaDex.webp); }
-	.rMangaFire { content: url(../media/icon/mangaFire.webp); }
-	.rMangaReader { content: url(../media/icon/mangaReader.webp); }
-	.rNinoyo { content: url(../media/icon/ninoyo.webp); }
-	.r9Anime { content: url(../media/icon/9anime.webp); }
-
 	.vid-btn {
 		background-color: var(--blue);
 		border-radius: var(--radius);
@@ -447,6 +429,33 @@ header {
 	.vid-btn-pressed {
 		background-color: var(--red);
 	}
+}
+
+.rImg {
+	--size: 3rem;
+	width: var(--size);
+	height: var(--size);
+	border-radius: 30%;
+}
+.rOP { content: url(../media/icon/OP.webp); }
+.rED { content: url(../media/icon/ED.webp); }
+.r9Anime { content: url(../media/icon/9anime.webp); }
+.rAniList { content: url(../media/icon/aniList.webp); }
+.rAnimeNana { content: url(../media/icon/animeNana.webp); }
+.rAnimeThemes { content: url(../media/icon/animeThemes.webp); }
+.rAnimeVietsub { content: url(../media/icon/animeVietsub.webp); }
+.rAniPlayList { content: url(../media/icon/aniPlayList.webp); }
+.rMAL { content: url(../media/icon/mal.webp); }
+.rMangaDex { content: url(../media/icon/mangaDex.webp); }
+.rMangaFire { content: url(../media/icon/mangaFire.webp); }
+.rMangaReader { content: url(../media/icon/mangaReader.webp); }
+.rNinoyo { content: url(../media/icon/ninoyo.webp); }
+
+.related {
+	width: fit-content;
+	border-radius: var(--radius);
+	padding: .5rem;
+	margin-bottom: 4rem;
 }
 
 .slider {

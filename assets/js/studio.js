@@ -803,6 +803,14 @@ const studioList = [
 		3078, 'Studio LEO',
 		''
 	),
+	new Studio(
+		3139, 'S.o.K',
+		'e24d8ccb-bce9-4165-bbec-4add43aa7788'
+	),
+	new Studio(
+		3187, 'Cue',
+		'f64c689a-f6b7-4cc1-9587-46bc6a4679f9'
+	),
 	/*new Studio(
 		, '',
 		''

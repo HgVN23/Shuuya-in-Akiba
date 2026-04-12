@@ -29,6 +29,210 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'1716/153989',
+		[
+			'Kuroneko to Majo no Kyoushitsu',
+			'黒猫と魔女の教室',
+			'The Classroom of a Black Cat and a Witch',
+		],
+		[ 839 ],
+		0, 1, 2026, 2, 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tSchool',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1178/155933',
+		[
+			'Ichijouma Mankitsugurashi!',
+			'一畳間まんきつ暮らし！',
+		],
+		[ 753 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tEcchi',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1364/155774',
+		[
+			'Yowayowa Sensei',
+			'よわよわ先生',
+			'Yowayowa Teacher',
+		],
+		[ 112 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tLoveStatusQuo',
+			'tRomance',
+			'tSchool',
+			'tShounen',
+			'tEcchi',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1899/156600',
+		[
+			'Kill Ao',
+			'キルアオ',
+			'Kill Blue',
+		],
+		[ 3187 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tSchool',
+			'tShounen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1747/156361',
+		[
+			'Awajima Hyakkei',
+			'淡島百景',
+			'A Hundred Scenes of Awajima',
+		],
+		[ 11 ],
+		0, 1, 2026, 2, 0, 0,
+		[
+			'tDrama',
+			'tFavoriteAnime',
+			'tPerformingArts',
+			'tSchool',
+		]
+	),
+	new Anime(
+		'1026/155965',
+		[
+			'Kamiina Botan, Yoeru Sugata wa Yuri no Hana',
+			'上伊那ぼたん、酔へる姿は百合の花',
+			'Botan Kamiina Fully Blossoms When Drunk',
+		],
+		[ 2917 ],
+		0, 1, 2026, 2, 0, 0,
+		[
+			'tAdultCast',
+			'tGourmet',
+			'tSliceofLife',
+			'tYuri',
+			'tFavoriteAnime',
+			'tFavoriteOPVisual',
+		],
+		[
+			'KamiinaBotan-OP1',
+			'KamiinaBotan-ED1',
+		]
+	),
+	new Anime(
+		'1199/156106',
+		[
+			'Tadaima, Ojamasaremasu!',
+			'ただいま、おじゃまされます！',
+			"Pardon the Intrusion, I'm Home!",
+		],
+		[ 103 ],
+		0, 1, 2026, 2, 0, 0,
+		[
+			'tAdultCast',
+			'tComedy',
+			'tOtakuCulture',
+			'tRomance',
+			'tShoujo',
+		]
+	),
+	new Anime(
+		'1352/155195',
+		[
+			'Kujima Utaeba Ie Hororo',
+			'クジマ歌えば家ほろろ',
+			'Kujima: Why Sing, When You Can Warble?',
+		],
+		[ 101 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tShounen',
+			'tSupernatural',
+		]
+	),
+	new Anime(
+		'1229/155022',
+		[
+			'Himekishi wa Barbaroi no Yome',
+			'姫騎士は蛮族の嫁',
+			'The Warrior Princess and the Barbaric King',
+		],
+		[ 755 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tRomance',
+			'tShounen',
+		]
+	),
+	new Anime(
+		'1148/155671',
+		[
+			'Replica datte, Koi wo Suru.',
+			'レプリカだって、恋をする。',
+			'Even a Replica Can Fall in Love',
+		],
+		[ 2698 ],
+		0, 1, 2026, 1, 0, 0,
+		[
+			'tDrama',
+			'tRomance',
+			'tSchool',
+			'tSupernatural',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1956/155456',
+		[
+			'Otaku ni Yasashii Gal wa Inai!?',
+			'オタクに優しいギャルはいない!?',
+			"Gals Can't Be Kind to Otaku!?",
+		],
+		[ 73 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tComedy',
+			'tOtakuCulture',
+			'tRomance',
+			'tSchool',
+			'tSeinen',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
+		'1871/156005',
+		[
+			'Megami "Isekai Tensei Nani ni Naritai desu ka" Ore "Yuusha no Rokkotsu de"',
+			'女神「異世界転生何になりたいですか」俺「勇者の肋骨で」',
+			'My Ribdiculous Reincarnation',
+		],
+		[ 2288, 3139 ],
+		0, 1, 2026, 1, 0, 0,
+		[
+			'tComedy',
+			'tFantasy',
+			'tFavoriteAnime',
+			'tIsekai',
+			'tReincarnation',
+		]
+	),
+	new Anime(
 		'1423/155713',
 		[
 			'Class de 2-banme ni Kawaii Onnanoko to Tomodachi ni Natta',
@@ -105,6 +309,10 @@ const animeList = [
 			'tSeinen',
 			'tFavoriteAnime',
 			'tFavoriteOPVisual',
+		],
+		[
+			'TongariBoushiNoAtelier-OP1',
+			'TongariBoushiNoAtelier-ED1',
 		]
 	),
 	new Anime(
@@ -163,6 +371,9 @@ const animeList = [
 			'tShounen',
 			'tFavoriteAnime',
 			'tFavoriteOPVisual',
+		],
+		[
+			'AkaneBanashi-OP1',
 		]
 	),
 	new Anime(
@@ -323,6 +534,7 @@ const animeList = [
 		[
 			'tComedy',
 			'tSchool',
+			'tFavoriteOPVisual',
 		]
 	),
 	new Anime(
@@ -395,6 +607,10 @@ const animeList = [
 			'tComedy',
 			'tFantasy',
 			'tIsekai',
+		],
+		[
+			'KanteishiKari-OP1',
+			'KanteishiKari-ED1',
 		]
 	),
 	new Anime(
@@ -410,6 +626,10 @@ const animeList = [
 			'tGourmet',
 			'tSliceofLife',
 			'tFavoriteAnime',
+		],
+		[
+			'MaidSanWaTaberuDake-OP1',
+			'MaidSanWaTaberuDake-ED1',
 		]
 	),
 	new Anime(
@@ -589,6 +809,7 @@ const animeList = [
 			'tSciFi',
 			'tSuperPower',
 			'tFavoriteAnime',
+			'tFavoriteOPSong_2',
 		],
 		[
 			'YuushaNoKuzu-OP1',
@@ -5152,6 +5373,25 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1190/155788',
+		[
+			'Tsue to Tsurugi no Wistoria Season 2',
+			'杖と剣のウィストリア Season 2',
+			'Wistoria: Wand and Sword Season 2',
+		],
+		[ 60, 1258 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tAction',
+			'tFantasy',
+			'tSchool',
+			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
 		'1281/144104',
 		[
 			'Tsue to Tsurugi no Wistoria',
@@ -8298,6 +8538,23 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1916/155657',
+		[
+			'Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu. Season 2',
+			'悲劇の元凶となる最強外道ラスボス女王は民の為に尽くします。Season2',
+			'The Most Heretical Last Boss Queen: From Villainess to Savior Season 2',
+		],
+		[ 28 ],
+		0, 1, 2026, 1, 0, 0,
+		[
+			'tFantasy',
+			'tIsekai',
+			'tJosei',
+			'tVillainess',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1722/135542',
 		[
 			'Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.',
@@ -8360,6 +8617,10 @@ const animeList = [
 			'tFantasy',
 			'tIsekai',
 			'tReincarnation',
+		],
+		[
+			'JihankiS3-OP1',
+			'JihankiS3-ED1',
 		]
 	),
 	new Anime(
@@ -9630,6 +9891,27 @@ const animeList = [
 		]
 	),
 	new Anime(
+		'1540/155824',
+		[
+			'Re:Zero kara Hajimeru Isekai Seikatsu 4th Season',
+			'Re:ゼロから始める異世界生活 4th season',
+			'Re:ZERO -Starting Life in Another World- Season 4',
+		],
+		[ 314 ],
+		0, 1, 2026, 1, 1, 0,
+		[
+			'tDrama',
+			'tFantasy',
+			'tIsekai',
+			'tPsychological',
+			'tSuspense',
+			'tTimeTravel',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		]
+	),
+	new Anime(
 		'1818/146584',
 		[
 			'Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season',
@@ -10360,6 +10642,10 @@ const animeList = [
 			'tSliceofLife',
 			'tFavoriteAnime',
 			'tFavoriteEDVisual',
+		],
+		[
+			'IsekaiNonbiriNoukaS2-OP1',
+			'IsekaiNonbiriNoukaS2-ED1',
 		]
 	),
 	new Anime(
@@ -22249,6 +22535,23 @@ const animeList = [
 		[
 			'RikeKoi-OP1',
 			'RikeKoi-ED1',
+		]
+	),
+	new Anime(
+		'1393/156075',
+		[
+			'Kanojo, Okarishimasu 5th Season',
+			'彼女、お借りします 第5期',
+			'Rent-a-Girlfriend Season 5',
+		],
+		[ 73 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tAdultCast',
+			'tComedy',
+			'tHarem',
+			'tRomance',
+			'tShounen',
 		]
 	),
 	new Anime(
