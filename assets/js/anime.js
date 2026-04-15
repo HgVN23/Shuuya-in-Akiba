@@ -29,6 +29,22 @@ const animeList = [
 		]
 	),*/
 	new Anime(
+		'1879/155958',
+		[
+			'Aishiteru Game wo Owarasetai',
+			'愛してるゲームを終わらせたい',
+			'I Want to End this Love Game',
+		],
+		[ 1440 ],
+		0, 1, 2026, 2, 0, 0,
+		[
+			'tComedy',
+			'tRomance',
+			'tSchool',
+			'tFavoriteAnime',
+		]
+	),
+	new Anime(
 		'1716/153989',
 		[
 			'Kuroneko to Majo no Kyoushitsu',
@@ -245,6 +261,10 @@ const animeList = [
 			'tFavoriteAnime',
 			'tRomance',
 			'tSchool',
+		],
+		[
+			'KuraNiKa-OP1',
+			'KuraNiKa-ED1',
 		]
 	),
 	new Anime(
@@ -589,8 +609,12 @@ const animeList = [
 		[
 			'tComedy',
 			'tFantasy',
-			'tFavoriteAnime',
 			'tRomance',
+			'tFavoriteAnime',
+		],
+		[
+			'NigeTsuri-OP1',
+			'NigeTsuri-ED1',
 		]
 	),
 	new Anime(
@@ -6217,6 +6241,22 @@ const animeList = [
 		[
 			'JiisanBaasanWakagaeru-OP1',
 			'JiisanBaasanWakagaeru-ED1',
+		]
+	),
+	new Anime(
+		'1230/155783',
+		[
+			'Yozakura-san Chi no Daisakusen 2nd Season',
+			'夜桜さんちの大作戦 第2期',
+			'Mission: Yozakura Family Season 2',
+		],
+		[ 300 ],
+		0, 1, 2026, 0, 0, 0,
+		[
+			'tAction',
+			'tComedy',
+			'tShounen',
+			'tFavoriteAnime',
 		]
 	),
 	new Anime(
