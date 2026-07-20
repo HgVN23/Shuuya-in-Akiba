@@ -811,6 +811,34 @@ const studioList = [
 		3187, 'Cue',
 		'f64c689a-f6b7-4cc1-9587-46bc6a4679f9'
 	),
+	new Studio(
+		1758, 'Picante Circus',
+		'f881e707-4ff3-48ab-81d2-2e21a26eb6ab'
+	),
+	new Studio(
+		3276, 'Aura Studio',
+		'3a9a3c9b-7445-419d-8b41-1997c3b11de5'
+	),
+	new Studio(
+		3294, 'Grass',
+		''
+	),
+	new Studio(
+		3157, 'Psyde Kick Studio',
+		'c3458e01-d3d3-46bc-b0e0-e5837ea28b4c'
+	),
+	new Studio(
+		1831, 'Colored Pencil Animation Japan',
+		'8058c4bc-6153-45e5-b9b3-bb360a02367f'
+	),
+	new Studio(
+		3159, 'Newon',
+		''
+	),
+	new Studio(
+		3278, 'Studio Eek',
+		'e1735a21-2a18-4f62-a8ae-5c6dfaf17354'
+	),
 	/*new Studio(
 		, '',
 		''

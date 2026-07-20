@@ -141,7 +141,7 @@ function renderInfo(anime) {
 				<div class="box glass">
 					<div class="division">Related:</div>
 					<div class="d-flex flex-wrap gap-05r">
-						${related('rAnimeVietsub', `animevietsub.run/tim-kiem/${searchType2}/`, 'Anime Vietsub')}
+						${related('rAnimeVietsub', `animevietsub.wiki/tim-kiem/${searchType2}/`, 'Anime Vietsub')}
 						${related('rMangaDex', `mangadex.org/search?q=${searchType2}&tab=titles`, 'MangaDex')}
 						${related('rMAL', `myanimelist.net/anime.php?q=${searchType1}&sy=${year}`, 'MyAnimeList')}
 						${related('rAniPlayList', `aniplaylist.com/${searchType3}?types=Opening~Ending${fSeason}&platforms=Spotify`, 'AniPlayList')}
@@ -150,15 +150,13 @@ function renderInfo(anime) {
 						${related('rOP', `youtube.com/results?search_query=${song}+OP`, 'Visual Opening')}
 						${related('rED', `youtube.com/results?search_query=${song}+ED`, 'Visual Ending')}
 						${related('rAnimeNana', `animenana.com/search/?key=${searchType2}`, 'Anime Nana')}
-						${related('rMangaFire', `mangafire.to/filter?keyword=${searchType2}`, 'MangaFire')}
-						${related('rNinoyo', `ninoyo.com/search?s=${searchType1}`, 'Ninoyo')}
-						${related('r9Anime', `9animetv.to/search?keyword=${searchType2}`, '9Anime')}
+						${related('rMangaFire', `mangafire.to/browse?keyword=${searchType1}&sort=relevance:desc`, 'MangaFire')}
 					</div>
 				</div>
 				<div class="box glass">
 					<div class="division">OPs/EDs:</div>
 					<div class="mb-1r d-flex flex-wrap gap-05r">${vidOpEd}</div>
-					<div class="mb-1r"><a id="vidOpEd" target="_blank"></a></div>
+					<div class="mb-1r"><a id="vidOpEd" target="_blank"></a> <a id="vidDownload" target="_blank"></a></div>
 					<video class="oped w-100" controls></video>
 				</div>
 			</div>
@@ -180,10 +178,14 @@ function renderInfo(anime) {
 		btn.addEventListener('click', () => {
 			const oped = document.querySelector('.oped');
 			const link = document.querySelector('#vidOpEd');
+			const download = document.querySelector('#vidDownload');
 			const src = id => `https://v.animethemes.moe/${id}.webm`;
 			
 			link.href = src(btn.id);
 			link.textContent = btn.id;
+
+			download.href = `${src(btn.id)}?download`;
+			download.textContent = "?download";
 
 			document.querySelector('.vid-btn-pressed')?.classList.remove('vid-btn-pressed');
 			btn.classList.add('vid-btn-pressed');

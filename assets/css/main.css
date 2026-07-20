@@ -439,7 +439,6 @@ header {
 }
 .rOP { content: url(../media/icon/OP.webp); }
 .rED { content: url(../media/icon/ED.webp); }
-.r9Anime { content: url(../media/icon/9anime.webp); }
 .rAniList { content: url(../media/icon/aniList.webp); }
 .rAnimeNana { content: url(../media/icon/animeNana.webp); }
 .rAnimeThemes { content: url(../media/icon/animeThemes.webp); }
@@ -448,8 +447,6 @@ header {
 .rMAL { content: url(../media/icon/mal.webp); }
 .rMangaDex { content: url(../media/icon/mangaDex.webp); }
 .rMangaFire { content: url(../media/icon/mangaFire.webp); }
-.rMangaReader { content: url(../media/icon/mangaReader.webp); }
-.rNinoyo { content: url(../media/icon/ninoyo.webp); }
 
 .related {
 	width: fit-content;
