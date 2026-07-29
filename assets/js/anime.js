@@ -43,6 +43,7 @@ const animeList = [
 			'tVillainess',
 			'tFavoriteAnime',
 			'tFavoriteOPSong',
+			'tFavoriteEDSong',
 		],
 		[
 			'Futsutsuka-OP1',
@@ -496,6 +497,7 @@ const animeList = [
 		0, 2, 2026, 1, 0, 0,
 		[
 			'tFantasy',
+			'tFavoriteAnime',
 		],
 		[
 			'Ryoumin0-OP1',
@@ -531,7 +533,7 @@ const animeList = [
 			'Chainsmoker Cat',
 		],
 		[ 1722 ],
-		0, 2, 2026, 0, 0, 0,
+		0, 2, 2026, 0, 1, 0,
 		[
 			'tAdultCast',
 			'tAnthropomorphic',
@@ -557,9 +559,10 @@ const animeList = [
 			'tAction',
 			'tAdventure',
 			'tFantasy',
-			'tFavoriteAnime',
 			'tIsekai',
 			'tReincarnation',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'Juukishi-OP1',
@@ -634,6 +637,8 @@ const animeList = [
 		[
 			'tFantasy',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
 		],
 		[
 			'NekoToRyuu-OP1',
@@ -658,6 +663,7 @@ const animeList = [
 		[
 			'RakudaiKenjaNoGakuinMusou-OP1',
 			'RakudaiKenjaNoGakuinMusou-ED1',
+			'RakudaiKenjaNoGakuinMusou-ED1v2',
 		]
 	),
 	new Anime(
@@ -889,6 +895,7 @@ const animeList = [
 			'tCGDCT',
 			'tFavoriteAnime',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
 		],
 		[
 			'KamiinaBotan-OP1',
@@ -940,7 +947,7 @@ const animeList = [
 			'tIyashikei',
 			'tSupernatural',
 			'tShounen',
-			'tSupernatural',
+			'tSliceofLife',
 		],
 		[
 			'KujimaUtaebaIeHororo-OP1',
@@ -1080,6 +1087,7 @@ const animeList = [
 			'tShounen',
 			'tComedy',
 			'tFavoriteAnime',
+			'tFavoriteEDSong',
 		],
 		[
 			'MarriageToxin-OP1',
@@ -1183,7 +1191,7 @@ const animeList = [
 			"Marika's Love Meter Malfunction",
 		],
 		[ 3078 ],
-		0, 1, 2026, 2, 2, 0,
+		0, 1, 2026, 2, 2, 1,
 		[
 			'tComedy',
 			'tEcchi',
@@ -1201,9 +1209,11 @@ const animeList = [
 		[ 2009 ],
 		0, 1, 2026, 6, 0, 1,
 		[
+			'tAdultCast',
 			'tOtakuCulture',
 			'tPsychological',
 			'tFavoriteOPVisual',
+			'tFavoriteEDSong',
 		],
 		[
 			'NeedyGirlOverdose-OP1',
@@ -1353,7 +1363,7 @@ const animeList = [
 			'tComedy',
 			'tRomance',
 			'tVillainess',
-			'tSupernatural',
+			'tFantasy',
 			'tIsekai',
 			'tFavoriteAnime',
 		],
@@ -1474,6 +1484,7 @@ const animeList = [
 			'tReincarnation',
 			'tShounen',
 			'tSupernatural',
+			'tFavoriteOPSong',
 		],
 		[
 			'ReincarnationNoKaben-OP1',
@@ -9675,7 +9686,6 @@ const animeList = [
 		[ 28 ],
 		0, 1, 2026, 1, 0, 1,
 		[
-			'tDrama',
 			'tFantasy',
 			'tIsekai',
 			'tJosei',
@@ -9697,7 +9707,6 @@ const animeList = [
 		[ 28 ],
 		0, 2, 2023, 1, 0, 1,
 		[
-			'tDrama',
 			'tFantasy',
 			'tIsekai',
 			'tJosei',
@@ -22579,7 +22588,7 @@ const animeList = [
 			'tIsekai',
 			'tReincarnation',
 			'tFavoriteAnime',
-			'tFavoriteOPSong',
+			'tFavoriteOPSong_1',
 		],
 		[
 			'MushokuTenseiS3-OP1',
