@@ -505,7 +505,7 @@ const studioList = [
 	),
 	new Studio(
 		2097, 'HORNETS',
-		'0b1fd16f-3e33-420f-a252-5ecf62125d33'
+		'46c82695-f785-468e-9f1b-7352fd1c77a4'
 	),
 	new Studio(
 		1893, 'CygamesPictures',
@@ -556,7 +556,7 @@ const studioList = [
 		'9116fb75-b878-41d9-9b2a-e64c00ff25ba'
 	),
 	new Studio(
-		755, 'Jumondo',
+		755, 'Jumondou',
 		'06fe7c43-a114-4378-acac-99c66213da12'
 	),
 	new Studio(
@@ -838,6 +838,30 @@ const studioList = [
 	new Studio(
 		3278, 'Studio Eek',
 		'e1735a21-2a18-4f62-a8ae-5c6dfaf17354'
+	),
+	new Studio(
+		3384, 'GeyeG Pictures',
+		'44bc8dbc-6169-4096-9c4e-d877e9c9668d'
+	),
+	new Studio(
+		3305, 'Electric Circus',
+		'd0ba1da3-795b-4763-b3fc-0902d6332759'
+	),
+	new Studio(
+		3297, 'Aisle',
+		'7f524a2e-7283-449d-97be-63c8ea9d11cc'
+	),
+	new Studio(
+		3290, 'Atra',
+		'23a943ca-490a-45d6-87a8-4dee2b95fa3d'
+	),
+	new Studio(
+		3300, 'Bakkka',
+		'4bcea21a-1219-4c93-bc94-f004b1f30d57'
+	),
+	new Studio(
+		2894, 'Konami animation',
+		'22a12bcf-2f6d-4d3e-80c1-1f6fedb25dba'
 	),
 	/*new Studio(
 		, '',
