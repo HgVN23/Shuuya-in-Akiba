@@ -16,6 +16,30 @@ class Anime {
 
 const animeList = [
 	new Anime(
+		'1551/158889',
+		[
+			"Demons' Crest",
+			'デモンズ・クレスト',
+			"Devils' Crest",
+		],
+		[ 10 ],
+		3, 3, 2026, 1, 1, 0,
+		[
+			'tAction',
+			'tAdventure',
+			'tFantasy',
+			'tSurvival',
+			'tUrbanFantasy',
+			'tFavoriteAnime',
+			'tFavoriteOPSong',
+			'tFavoriteOPVisual',
+		],
+		[
+			'DemonsCrest-OP1',
+			'DemonsCrest-ED1',
+		]
+	),
+	new Anime(
 		'1016/159863',
 		[
 			'Shinja Zero no Megami-sama to Hajimeru Isekai Kouryaku',
@@ -114,7 +138,10 @@ const animeList = [
 		],
 		[
 			'NiaListon-OP1',
+			'NiaListon-OP2',
 			'NiaListon-ED1',
+			'NiaListon-ED1v2',
+			'NiaListon-ED1v3',
 		]
 	),
 	new Anime(
@@ -237,6 +264,7 @@ const animeList = [
 		[
 			'MagicalExplorer-OP1',
 			'MagicalExplorer-ED1',
+			'MagicalExplorer-ED1v2',
 		]
 	),
 	new Anime(
@@ -271,13 +299,15 @@ const animeList = [
 		[
 			'tComedy',
 			'tEcchi',
-			'tFavoriteAnime',
 			'tSchool',
 			'tShounen',
+			'tFavoriteAnime',
+			'tFavoriteEDVisual_1v2'
 		],
 		[
 			'NamaAnaru-OP1',
 			'NamaAnaru-ED1',
+			'NamaAnaru-ED1v2',
 		]
 	),
 	new Anime(
@@ -356,7 +386,9 @@ const animeList = [
 		],
 		[
 			'ZombieSagashitemasu-OP1',
+			'ZombieSagashitemasu-OP1v2',
 			'ZombieSagashitemasu-ED1',
+			'ZombieSagashitemasu-ED1v2',
 		]
 	),
 	new Anime(
@@ -3020,6 +3052,7 @@ const animeList = [
 			'tRomance',
 			'tSchool',
 			'tFavoriteAnime',
+			'tFavoriteOPSong',
 		],
 		[
 			'ChiramunePart2-OP1',
@@ -8993,6 +9026,7 @@ const animeList = [
 		[
 			'MabotaiS2-OP1',
 			'MabotaiS2-ED1',
+			'MabotaiS2-ED2',
 		]
 	),
 	new Anime(
@@ -10438,6 +10472,27 @@ const animeList = [
 		[
 			'Jihanki-OP1',
 			'Jihanki-ED1',
+		]
+	),
+	new Anime(
+		'1460/153740',
+		[
+			'Watashi no Shiawase na Kekkon Special',
+			'わたしの幸せな結婚 特別篇',
+			'My Happy Marriage Special',
+		],
+		[ 290 ],
+		2, 3, 2026, 7, 0, 1,
+		[
+			'tDrama',
+			'tFantasy',
+			'tRomance',
+			'tAdultCast',
+			'tHistorical',
+		],
+		[
+			'WatashiNoShiawaseTokubetsuHen-OP1',
+			'WatashiNoShiawaseTokubetsuHen-ED1',
 		]
 	),
 	new Anime(
@@ -23247,7 +23302,7 @@ const animeList = [
 		]
 	),
 	new Anime(
-		'1539/159559',
+		'1725/160874',
 		[
 			'Tensei shitara Ken deshita II',
 			'転生したら剣でした II',
@@ -23268,6 +23323,7 @@ const animeList = [
 		],
 		[
 			'TenkenS2-OP1',
+			'TenkenS2-OP1v2',
 			'TenkenS2-ED1',
 		]
 	),
@@ -26529,8 +26585,9 @@ const animeList = [
 			'tFavoriteAnime',
 		],
 		[
-			'JojoNoKimyouNaBoukenS7-OP1',
+			'JojoNoKimyouNaBoukenS7Stage2&3-OP1',
 			'JojoNoKimyouNaBoukenS7-ED1',
+			'JojoNoKimyouNaBoukenS7Stage2&3-ED1',
 		]
 	),
 	new Anime(
